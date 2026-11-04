@@ -161,3 +161,5 @@
 | Add-1 task | 加 1 任务 |  |  | ch02 | 10 | 初定 |
 | wheel of fortune | 幸运轮盘 | 第 11 章的锚定实验 |  | ch11 | 5 | 初定 |
 | Stumbling to Happiness（原文如此） | 《撞上幸福》 | 丹尼尔·吉尔伯特的书，实际书名是 Stumbling on Happiness；原文的笔误保留，译文用中译本书名，可加译者注说明 |  | ch07 | 1 | 初定 |
+| cash equivalent | 现金等值 | 和一个赌局同样有吸引力的确定金额 |  | ch30 | 5 | 初定 |
+| salience / salient | 显著性 / 显著 | 某个念头或事件在脑中有多突出 |  | ch12 | 18 | 初定 |
