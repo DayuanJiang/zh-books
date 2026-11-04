@@ -1,0 +1,3258 @@
+candidate	frequency	chapters	signals	in glossary
+one	560	43	pos_ngram	
+people	548	42	noun_chunk,pos_ngram	
+system	533	40	noun_chunk,pos_ngram	yes
+two	467	42	pos_ngram	
+decision	357	34	noun_chunk,pos_ngram	yes
+probability	337	24	noun_chunk,pos_ngram	yes
+question	328	42	noun_chunk,pos_ngram	
+effect	318	40	noun_chunk,pos_ngram	yes
+time	303	43	noun_chunk,pos_ngram	
+problem	296	33	noun_chunk,pos_ngram	yes
+loss	290	22	noun_chunk,pos_ngram,technical_surface	yes
+outcome	273	34	noun_chunk,pos_ngram	yes
+risk	271	22	noun_chunk,pos_ngram	yes
+year	265	40	noun_chunk,pos_ngram	
+choice	262	33	noun_chunk,pos_ngram	yes
+judgment	254	35	noun_chunk,pos_ngram	yes
+good	247	39	noun_chunk,pos_ngram,technical_surface	
+event	242	34	noun_chunk,pos_ngram	yes
+value	241	34	noun_chunk,pos_ngram	yes
+well	238	40	pos_ngram	yes
+experience	234	38	noun_chunk,pos_ngram	yes
+example	227	41	noun_chunk,pos_ngram	
+life	223	38	noun_chunk,pos_ngram	yes
+mind	222	41	noun_chunk,pos_ngram	
+theory	214	26	noun_chunk,pos_ngram	yes
+answer	213	34	noun_chunk,pos_ngram	
+know	209	40	noun_chunk,pos_ngram	
+case	206	37	noun_chunk,pos_ngram	
+less	204	42	pos_ngram	yes
+student	196	37	noun_chunk,pos_ngram	
+experiment	194	37	noun_chunk,pos_ngram	yes
+individual	188	37	noun_chunk,pos_ngram	
+idea	185	40	noun_chunk,pos_ngram	
+word	185	29	noun_chunk,pos_ngram	
+story	179	35	noun_chunk,pos_ngram	
+chance	174	27	noun_chunk,pos_ngram	
+prediction	171	23	noun_chunk,pos_ngram	yes
+information	169	30	noun_chunk,pos_ngram	
+study	169	39	noun_chunk,pos_ngram	
+day	160	31	noun_chunk,pos_ngram,technical_surface	
+outcomes	159	27	noun_chunk,pos_ngram	
+result	158	35	noun_chunk,pos_ngram	
+number	157	34	noun_chunk,pos_ngram	yes
+gamble	151	13	noun_chunk,pos_ngram	
+task	150	30	noun_chunk,pos_ngram	yes
+intuition	149	29	noun_chunk,pos_ngram	yes
+memory	149	29	noun_chunk,pos_ngram	yes
+participant	149	34	noun_chunk,pos_ngram	
+fact	145	37	noun_chunk,pos_ngram	yes
+point	145	36	noun_chunk,pos_ngram	yes
+evidence	143	35	noun_chunk,pos_ngram	
+self	143	28	noun_chunk,pos_ngram	yes
+way	143	39	noun_chunk,pos_ngram	
+rate	139	27	noun_chunk,pos_ngram	yes
+set	138	36	noun_chunk,pos_ngram	yes
+average	137	30	noun_chunk,pos_ngram	
+work	137	38	noun_chunk,pos_ngram	yes
+second	136	36	noun_chunk,pos_ngram	
+gain	135	17	noun_chunk,pos_ngram	yes
+high	135	36	noun_chunk,pos_ngram	
+new	135	36	pos_ngram	
+intuitive	133	24	pos_ngram	yes
+bias	132	25	noun_chunk,pos_ngram	yes
+evaluation	130	25	noun_chunk,pos_ngram	yes
+long	130	36	pos_ngram	
+course	129	41	noun_chunk,pos_ngram	
+expected	129	35	pos_ngram	yes
+small	128	31	pos_ngram	yes
+subject	128	23	noun_chunk,pos_ngram	yes
+group	127	25	noun_chunk,pos_ngram	yes
+state	123	30	noun_chunk,pos_ngram	
+utility	122	9	noun_chunk,pos_ngram	yes
+price	120	17	noun_chunk,pos_ngram	
+preference	119	24	noun_chunk,pos_ngram	yes
+situation	119	37	noun_chunk,pos_ngram	
+attention	117	29	noun_chunk,pos_ngram	yes
+heuristic	115	17	noun_chunk,pos_ngram	yes
+thing	115	38	noun_chunk,pos_ngram	yes
+believe	114	31	pos_ngram	
+decisions	113	25	noun_chunk,pos_ngram	
+effort	111	24	noun_chunk,pos_ngram	yes
+cognitive	110	28	pos_ngram	yes
+prospect	110	21	noun_chunk,pos_ngram	yes
+thought	110	38	noun_chunk,pos_ngram	
+difference	109	31	noun_chunk,pos_ngram	yes
+illusion	107	18	noun_chunk,pos_ngram	yes
+term	104	32	noun_chunk,pos_ngram	yes
+option	103	21	noun_chunk,pos_ngram	yes
+amos	102	28	noun_chunk,pos_ngram	yes
+mental	102	22	pos_ngram	yes
+expert	100	18	noun_chunk,pos_ngram	yes
+rule	100	33	noun_chunk,pos_ngram	yes
+view	100	31	noun_chunk,pos_ngram	yes
+bad	99	28	noun_chunk,pos_ngram,technical_surface	
+cause	99	32	noun_chunk,pos_ngram	
+effects	98	28	pos_ngram	yes
+predictions	95	16	pos_ngram	
+weight	95	17	noun_chunk,pos_ngram	yes
+cost	94	24	noun_chunk,pos_ngram	yes
+economic	94	20	noun_chunk,pos_ngram	yes
+human	94	28	noun_chunk,pos_ngram	yes
+next	94	37	pos_ngram	
+aversion	93	14	noun_chunk,pos_ngram	yes
+part	93	33	noun_chunk,pos_ngram	
+estimate	92	20	noun_chunk,pos_ngram	
+base	91	12	noun_chunk,pos_ngram	yes
+experienced	91	28	pos_ngram	yes
+sample	91	19	noun_chunk,pos_ngram	
+thinking	91	33	noun_chunk,pos_ngram	yes
+while	91	35	pos_ngram	
+hand	90	30	noun_chunk,pos_ngram	yes
+book	89	26	noun_chunk,pos_ngram	
+error	89	28	noun_chunk,pos_ngram	yes
+world	89	33	noun_chunk,pos_ngram	
+change	88	34	noun_chunk,pos_ngram	yes
+future	88	25	noun_chunk,pos_ngram	
+psychologist	88	33	noun_chunk,pos_ngram	
+belief	86	24	noun_chunk,pos_ngram	yes
+following	86	35	noun_chunk,pos_ngram	
+money	86	20	noun_chunk,pos_ngram	
+rational	86	19	noun_chunk,pos_ngram	yes
+reference	85	13	noun_chunk,pos_ngram	yes
+impression	84	23	noun_chunk,pos_ngram	yes
+come	83	31	pos_ngram	yes
+making	83	31	noun_chunk,pos_ngram	yes
+research	83	28	noun_chunk,pos_ngram	
+child	82	22	noun_chunk,pos_ngram	
+feel	82	35	noun_chunk,pos_ngram	
+patient	82	20	noun_chunk,pos_ngram	
+control	81	22	noun_chunk,pos_ngram	yes
+description	81	17	noun_chunk,pos_ngram	
+particular	81	30	noun_chunk,pos_ngram	
+probabilities	81	14	pos_ngram	
+simple	81	31	noun_chunk,pos_ngram	
+win	81	16	noun_chunk,pos_ngram	
+amount	80	28	noun_chunk,pos_ngram	
+ease	80	17	noun_chunk,pos_ngram	yes
+firm	79	15	noun_chunk,pos_ngram	yes
+sense	79	35	noun_chunk,pos_ngram	
+stock	79	10	noun_chunk,pos_ngram	
+behavior	78	21	noun_chunk,pos_ngram	yes
+end	78	25	noun_chunk,pos_ngram	yes
+instance	78	20	noun_chunk,pos_ngram	yes
+need	78	27	noun_chunk,pos_ngram	
+use	78	29	noun_chunk,pos_ngram	
+emotional	77	19	pos_ngram	
+response	77	34	noun_chunk,pos_ngram	
+wealth	77	11	noun_chunk,pos_ngram	
+anchoring	76	5	noun_chunk,pos_ngram	yes
+pain	76	14	noun_chunk,pos_ngram	
+person	76	31	noun_chunk,pos_ngram	
+read	76	27	pos_ngram	
+figure	75	19	noun_chunk,pos_ngram	
+low	73	28	noun_chunk,pos_ngram	yes
+procedure	73	19	noun_chunk,pos_ngram	
+skill	73	15	noun_chunk,pos_ngram	yes
+feeling	72	24	noun_chunk,pos_ngram	
+general	72	31	noun_chunk,pos_ngram	
+statistical	72	20	pos_ngram	yes
+face	71	26	noun_chunk,pos_ngram	
+imagine	71	32	noun_chunk,pos_ngram	
+score	71	18	noun_chunk,pos_ngram	
+size	71	21	noun_chunk,pos_ngram	
+team	71	24	noun_chunk,pos_ngram	
+base rate	70	8	noun_chunk,pos_ngram	yes
+failure	69	26	noun_chunk,pos_ngram	
+pattern	69	25	noun_chunk,pos_ngram	yes
+show	69	33	pos_ngram	
+social	69	26	noun_chunk,pos_ngram	
+availability	68	9	noun_chunk,pos_ngram	yes
+pay	68	23	noun_chunk,pos_ngram	
+statistic	68	24	noun_chunk,pos_ngram	yes
+test	68	22	noun_chunk,pos_ngram	yes
+wrong	68	30	noun_chunk,pos_ngram	
+account	66	16	noun_chunk,pos_ngram	yes
+biases	66	16	noun_chunk,pos_ngram	
+conclusion	66	24	noun_chunk,pos_ngram	yes
+finding	66	31	noun_chunk,pos_ngram	
+framing	66	9	noun_chunk,pos_ngram	yes
+get	66	32	pos_ngram	
+preferences	66	18	noun_chunk,pos_ngram	
+action	65	19	noun_chunk,pos_ngram	yes
+performance	65	20	noun_chunk,pos_ngram	
+psychology	65	27	noun_chunk,pos_ngram	
+reason	65	31	noun_chunk,pos_ngram	
+regression	65	5	noun_chunk,pos_ngram	yes
+statistics	65	24	noun_chunk,pos_ngram	
+version	65	18	noun_chunk,pos_ngram	yes
+success	64	18	noun_chunk,pos_ngram	
+ability	63	21	noun_chunk,pos_ngram	yes
+confidence	63	10	noun_chunk,pos_ngram	yes
+context	63	20	noun_chunk,pos_ngram	
+increase	63	28	noun_chunk,pos_ngram	
+school	63	21	noun_chunk,pos_ngram	
+woman	63	19	noun_chunk,pos_ngram	
+cannot	62	31	pos_ngram	
+easy	62	29	noun_chunk,pos_ngram	
+causal	61	12	noun_chunk,pos_ngram	yes
+economist	61	19	noun_chunk,pos_ngram	
+go	61	33	pos_ngram	yes
+anchor	60	9	noun_chunk,pos_ngram	yes
+measure	60	25	noun_chunk,pos_ngram	
+moment	60	21	noun_chunk,pos_ngram	
+right	60	27	noun_chunk,pos_ngram	
+role	60	31	noun_chunk,pos_ngram	
+help	59	23	noun_chunk,pos_ngram	yes
+science	58	21	noun_chunk,pos_ngram	
+statement	58	22	noun_chunk,pos_ngram	
+bet	57	13	noun_chunk,pos_ngram	
+choose	57	21	noun_chunk,pos_ngram	
+consequence	57	25	noun_chunk,pos_ngram	
+list	57	22	noun_chunk,pos_ngram	
+lose	57	17	noun_chunk,pos_ngram,technical_surface	
+respondent	57	18	noun_chunk,pos_ngram	
+situations	57	29	pos_ngram	
+states	57	22	pos_ngram	
+company	56	20	noun_chunk,pos_ngram	
+correlation	56	12	noun_chunk,pos_ngram	yes
+emotion	56	20	noun_chunk,pos_ngram	
+factor	56	22	noun_chunk,pos_ngram	
+project	56	16	noun_chunk,pos_ngram	
+psychological	56	23	pos_ngram	
+ticket	56	8	noun_chunk,pos_ngram	
+car	55	18	noun_chunk,pos_ngram	yes
+extreme	55	21	noun_chunk,pos_ngram	
+frame	55	7	noun_chunk,pos_ngram	yes
+loss aversion	55	7	noun_chunk,pos_ngram	yes
+professional	55	18	noun_chunk,pos_ngram	
+quality	55	23	noun_chunk,pos_ngram	
+reference point	55	6	noun_chunk,pos_ngram	yes
+alternative	54	22	noun_chunk,pos_ngram	
+feature	54	31	noun_chunk,pos_ngram	
+forecast	54	12	noun_chunk,pos_ngram	yes
+gambles	54	12	noun_chunk,pos_ngram	
+market	54	14	noun_chunk,pos_ngram	
+poor	54	25	pos_ngram	
+prospect theory	54	13	noun_chunk,pos_ngram	yes
+sentence	54	18	noun_chunk,pos_ngram	
+mistake	53	22	noun_chunk,pos_ngram	
+policy	53	15	noun_chunk,pos_ngram	yes
+process	53	25	noun_chunk,pos_ngram	
+reaction	53	24	noun_chunk,pos_ngram	
+sequence	53	16	noun_chunk,pos_ngram	
+activity	52	20	noun_chunk,pos_ngram	
+call	52	25	pos_ngram	
+condition	52	20	noun_chunk,pos_ngram	
+explanation	52	26	noun_chunk,pos_ngram	
+half	52	24	noun_chunk,pos_ngram	
+intensity	52	15	noun_chunk,pos_ngram	yes
+look	52	28	noun_chunk,pos_ngram	
+public	52	16	noun_chunk,pos_ngram	
+regret	52	6	noun_chunk,pos_ngram	
+brain	51	15	noun_chunk,pos_ngram	
+business	51	19	noun_chunk,pos_ngram	
+far	51	25	pos_ngram	
+frequency	51	15	noun_chunk,pos_ngram	
+minute	51	19	noun_chunk,pos_ngram	
+model	51	20	noun_chunk,pos_ngram	yes
+analysis	50	18	noun_chunk,pos_ngram	
+assessment	50	19	noun_chunk,pos_ngram	yes
+form	50	26	noun_chunk,pos_ngram	yes
+function	50	18	noun_chunk,pos_ngram	yes
+observation	50	28	noun_chunk,pos_ngram	
+random	50	18	pos_ngram	
+linda	49	2	noun_chunk,pos_ngram	yes
+article	48	18	noun_chunk,pos_ngram	
+fallacy	48	10	noun_chunk,pos_ngram	yes
+focus	48	23	noun_chunk,pos_ngram	yes
+left	48	20	noun_chunk,pos_ngram	
+position	48	23	noun_chunk,pos_ngram	yes
+approach	47	28	noun_chunk,pos_ngram	
+causes	47	20	noun_chunk,pos_ngram	
+episode	47	13	noun_chunk,pos_ngram	
+happiness	47	10	noun_chunk,pos_ngram	yes
+image	47	21	noun_chunk,pos_ngram	
+man	47	17	noun_chunk,pos_ngram	yes
+neglect	47	13	noun_chunk,pos_ngram	yes
+possibility	47	16	noun_chunk,pos_ngram	yes
+principle	47	19	noun_chunk,pos_ngram	yes
+surprise	47	19	noun_chunk,pos_ngram	
+agent	46	19	noun_chunk,pos_ngram	yes
+contrast	46	23	noun_chunk,pos_ngram	
+costs	46	17	pos_ngram	
+expectation	46	17	noun_chunk,pos_ngram	yes
+heuristics	46	12	noun_chunk,pos_ngram	
+level	46	19	noun_chunk,pos_ngram	yes
+matter	46	28	noun_chunk,pos_ngram	
+relative	46	26	noun_chunk,pos_ngram	
+representativeness	46	6	noun_chunk,pos_ngram	yes
+university	46	24	noun_chunk,pos_ngram	
+bank	45	5	noun_chunk,pos_ngram	
+benefit	45	21	noun_chunk,pos_ngram	
+bernoulli	45	5	noun_chunk,pos_ngram	yes
+guess	45	17	noun_chunk,pos_ngram	
+influence	45	25	noun_chunk,pos_ngram	
+mean	45	14	noun_chunk,pos_ngram	yes
+operation	45	21	noun_chunk,pos_ngram	
+report	45	25	noun_chunk,pos_ngram	
+scenario	45	18	noun_chunk,pos_ngram	
+standard	45	22	noun_chunk,pos_ngram	
+class	44	12	noun_chunk,pos_ngram	yes
+great	44	26	pos_ngram	
+opportunity	44	25	noun_chunk,pos_ngram	
+scale	44	16	noun_chunk,pos_ngram	
+times	44	24	pos_ngram	
+tom	44	7	noun_chunk,pos_ngram	yes
+coherence	43	18	noun_chunk,pos_ngram	yes
+colleague	43	21	noun_chunk,pos_ngram	
+decision weight	43	3	noun_chunk,pos_ngram	yes
+logic	43	15	noun_chunk,pos_ngram	
+marble	43	5	noun_chunk,pos_ngram	
+pleasure	43	14	noun_chunk,pos_ngram	
+tend	43	24	pos_ngram	
+cognitive ease	42	9	noun_chunk,pos_ngram	yes
+economics	42	14	noun_chunk,pos_ngram	yes
+field	42	14	noun_chunk,pos_ngram	
+line	42	13	noun_chunk,pos_ngram	yes
+message	42	15	noun_chunk,pos_ngram	
+red	42	12	noun_chunk,pos_ngram	yes
+death	41	11	noun_chunk,pos_ngram	
+duration	41	6	noun_chunk,pos_ngram	yes
+judge	41	16	noun_chunk,pos_ngram	
+knowledge	41	21	noun_chunk,pos_ngram	
+month	41	22	noun_chunk,pos_ngram	
+seeking	41	12	pos_ngram	yes
+teller	41	4	noun_chunk,pos_ngram	
+third	41	19	pos_ngram	
+validity	41	9	noun_chunk,pos_ngram	yes
+candidate	40	11	noun_chunk,pos_ngram	
+consequences	40	19	noun_chunk,pos_ngram	
+graduate	40	18	noun_chunk,pos_ngram	
+past	40	17	noun_chunk,pos_ngram	
+rationality	40	14	noun_chunk,pos_ngram	
+argument	39	17	noun_chunk,pos_ngram	
+attitude	39	20	noun_chunk,pos_ngram	
+certainty	39	13	noun_chunk,pos_ngram	yes
+concept	39	22	noun_chunk,pos_ngram	
+contribution	39	17	noun_chunk,pos_ngram	
+decision making	39	17	noun_chunk,pos_ngram	yes
+environment	39	17	noun_chunk,pos_ngram	
+friend	39	22	noun_chunk,pos_ngram	
+interpretation	39	18	noun_chunk,pos_ngram	
+law	39	14	noun_chunk,pos_ngram	yes
+luck	39	9	noun_chunk,pos_ngram	
+name	39	20	noun_chunk,pos_ngram	
+object	39	17	noun_chunk,pos_ngram	
+picture	39	16	noun_chunk,pos_ngram	
+plan	39	15	noun_chunk,pos_ngram	yes
+start	39	20	noun_chunk,pos_ngram	
+store	39	10	noun_chunk,pos_ngram	
+thaler	39	10	noun_chunk,pos_ngram	
+turn	39	21	noun_chunk,pos_ngram	
+wish	39	21	noun_chunk,pos_ngram,technical_surface	
+buy	38	15	pos_ngram	
+ceo	38	6	noun_chunk,pos_ngram,technical_surface	
+comparison	38	19	noun_chunk,pos_ngram	
+hour	38	18	noun_chunk,pos_ngram	
+issue	38	18	noun_chunk,pos_ngram	
+mood	38	8	noun_chunk,pos_ngram	
+move	38	19	noun_chunk,pos_ngram	
+remembering	38	8	noun_chunk,pos_ngram	yes
+total	38	16	noun_chunk,pos_ngram	
+averse	37	8	pos_ngram	
+deal	37	27	noun_chunk,pos_ngram	
+interview	37	8	noun_chunk,pos_ngram	
+source	37	22	noun_chunk,pos_ngram	
+tom w	37	4	noun_chunk,pos_ngram	yes
+try	37	18	noun_chunk,pos_ngram	
+working	37	19	noun_chunk,pos_ngram	yes
+bank teller	36	2	noun_chunk,pos_ngram	
+category	36	13	noun_chunk,pos_ngram	
+goal	36	15	noun_chunk,pos_ngram	
+humans	36	16	noun_chunk,pos_ngram	yes
+language	36	15	noun_chunk,pos_ngram	
+practice	36	14	noun_chunk,pos_ngram	
+quantity	36	9	noun_chunk,pos_ngram	
+side	36	18	noun_chunk,pos_ngram	yes
+accuracy	35	15	noun_chunk,pos_ngram	
+city	35	14	noun_chunk,pos_ngram	
+domain	35	17	noun_chunk,pos_ngram	
+natural	35	17	noun_chunk,pos_ngram	
+wysiati	35	16	noun_chunk,pos_ngram,technical_surface	yes
+attempt	34	20	noun_chunk,pos_ngram	
+differences	34	15	pos_ngram	
+digit	34	5	noun_chunk,pos_ngram	
+disease	34	10	noun_chunk,pos_ngram	yes
+history	34	19	noun_chunk,pos_ngram	
+hope	34	22	noun_chunk,pos_ngram	
+income	34	12	noun_chunk,pos_ngram	
+insurance	34	8	noun_chunk,pos_ngram	
+interest	34	18	noun_chunk,pos_ngram	
+joint	34	5	pos_ngram	yes
+norm	34	13	noun_chunk,pos_ngram	yes
+organization	34	14	noun_chunk,pos_ngram	
+program	34	15	noun_chunk,pos_ngram	
+pupil	34	6	noun_chunk,pos_ngram	
+remember self	34	6	noun_chunk	
+researcher	34	18	noun_chunk,pos_ngram	
+risky	34	13	pos_ngram,technical_surface	
+share	34	19	noun_chunk,pos_ngram	
+substitution	34	16	noun_chunk,pos_ngram	yes
+support	34	21	noun_chunk,pos_ngram	
+sure thing	34	8	noun_chunk,pos_ngram	yes
+systems	34	16	noun_chunk,pos_ngram	
+united	34	19	pos_ngram	
+age	33	15	noun_chunk,pos_ngram	yes
+ball	33	11	noun_chunk,pos_ngram	yes
+chapter	33	22	noun_chunk,pos_ngram	
+data	33	17	noun_chunk,pos_ngram	
+datum	33	17	noun_chunk,pos_ngram	
+demonstration	33	18	noun_chunk,pos_ngram	
+dollar	33	14	noun_chunk,pos_ngram	
+final	33	14	noun_chunk,pos_ngram	
+formula	33	3	noun_chunk,pos_ngram	yes
+investor	33	9	noun_chunk,pos_ngram	
+maker	33	13	pos_ngram	
+member	33	15	noun_chunk,pos_ngram	yes
+sell	33	9	noun_chunk,pos_ngram	
+survey	33	18	noun_chunk,pos_ngram	
+women	33	9	pos_ngram	
+affect	32	16	noun_chunk,pos_ngram	yes
+claim	32	14	noun_chunk,pos_ngram	
+fear	32	13	noun_chunk,pos_ngram	
+grade	32	8	noun_chunk,pos_ngram	
+hypothesis	32	13	noun_chunk,pos_ngram	
+match	32	12	noun_chunk,pos_ngram	yes
+rare	32	10	pos_ngram	yes
+reading	32	16	noun_chunk,pos_ngram	
+reality	32	14	noun_chunk,pos_ngram	
+return	32	17	noun_chunk,pos_ngram	
+satisfaction	32	5	noun_chunk,pos_ngram	yes
+slovic	32	6	noun_chunk,pos_ngram	
+solution	32	19	noun_chunk,pos_ngram	
+trial	32	10	noun_chunk,pos_ngram	
+uncertainty	32	13	noun_chunk,pos_ngram	
+united states	32	18	noun_chunk,pos_ngram	
+investment	31	11	noun_chunk,pos_ngram	
+majority	31	14	noun_chunk,pos_ngram	
+most people	31	21	pos_ngram	
+news	31	16	noun_chunk,pos_ngram	
+parent	31	15	noun_chunk,pos_ngram	
+personality	31	17	noun_chunk,pos_ngram	
+player	31	12	noun_chunk,pos_ngram	
+population	31	12	noun_chunk,pos_ngram	
+sound	31	15	noun_chunk,pos_ngram	
+stereotype	31	7	noun_chunk,pos_ngram	yes
+taking	31	16	pos_ngram	
+top	31	13	pos_ngram	
+understanding	31	17	noun_chunk,pos_ngram	yes
+utility theory	31	7	noun_chunk,pos_ngram	yes
+vacation	31	7	noun_chunk,pos_ngram	
+aspect	30	18	noun_chunk,pos_ngram	
+doubt	30	15	noun_chunk,pos_ngram	
+econ	30	7	noun_chunk,pos_ngram	yes
+experiencing	30	7	noun_chunk,pos_ngram	yes
+letter	30	11	noun_chunk,pos_ngram	
+occasion	30	19	noun_chunk,pos_ngram	
+order	30	17	noun_chunk,pos_ngram	
+outside	30	7	pos_ngram	yes
+physician	30	14	noun_chunk,pos_ngram	
+purchase	30	12	noun_chunk,pos_ngram	
+representation	30	15	noun_chunk,pos_ngram	
+threat	30	15	noun_chunk,pos_ngram	
+urn	30	5	noun_chunk,pos_ngram	
+anchor effect	29	4	noun_chunk	
+anchoring effect	29	4	noun_chunk,pos_ngram	yes
+cash	29	8	noun_chunk,pos_ngram	yes
+chances	29	13	noun_chunk,pos_ngram	
+decision maker	29	13	noun_chunk,pos_ngram	
+graduate student	29	14	noun_chunk,pos_ngram	
+identify	29	16	pos_ngram	
+intelligence	29	12	noun_chunk,pos_ngram	
+meehl	29	2	noun_chunk,pos_ngram	
+new york	29	13	noun_chunk,pos_ngram	
+objective	29	14	noun_chunk,pos_ngram	
+odd	29	7	noun_chunk,pos_ngram	
+opinion	29	16	noun_chunk,pos_ngram	
+planning	29	11	noun_chunk,pos_ngram	yes
+power	29	22	noun_chunk,pos_ngram	
+york	29	13	pos_ngram	
+accident	28	14	noun_chunk,pos_ngram	
+adjustment	28	6	noun_chunk,pos_ngram	
+association	28	13	noun_chunk,pos_ngram	
+cancer	28	7	noun_chunk,pos_ngram	
+circumstance	28	17	noun_chunk,pos_ngram	
+combination	28	15	noun_chunk,pos_ngram	
+demand	28	19	noun_chunk,pos_ngram	
+direction	28	18	noun_chunk,pos_ngram	
+endowment	28	4	noun_chunk,pos_ngram	yes
+game	28	11	noun_chunk,pos_ngram	
+health	28	14	noun_chunk,pos_ngram	
+joint evaluation	28	2	noun_chunk,pos_ngram	yes
+measures	28	17	noun_chunk,pos_ngram	
+method	28	14	noun_chunk,pos_ngram	
+place	28	20	noun_chunk,pos_ngram	
+president	28	13	noun_chunk,pos_ngram	
+product	28	14	noun_chunk,pos_ngram	
+puzzle	28	13	noun_chunk,pos_ngram	
+rating	28	10	noun_chunk,pos_ngram	
+risk seeking	28	5	noun_chunk,pos_ngram	yes
+search	28	15	noun_chunk,pos_ngram	
+topic	28	18	noun_chunk,pos_ngram	
+advantage	27	15	noun_chunk,pos_ngram	
+b.	27	11	noun_chunk,pos_ngram	
+care	27	10	noun_chunk,pos_ngram	
+chess	27	6	noun_chunk,pos_ngram	
+conflict	27	12	noun_chunk,pos_ngram	
+draw	27	16	noun_chunk,pos_ngram	
+expect value	27	6	noun_chunk	
+eye	27	11	noun_chunk,pos_ngram	
+favor	27	17	noun_chunk,pos_ngram	
+formulation	27	5	noun_chunk,pos_ngram	yes
+improvement	27	16	noun_chunk,pos_ngram	
+keep	27	14	pos_ngram,technical_surface	
+lead	27	18	noun_chunk,pos_ngram	
+learning	27	10	noun_chunk,pos_ngram	
+moral	27	15	noun_chunk,pos_ngram	
+observer	27	16	noun_chunk,pos_ngram	
+pair	27	10	noun_chunk,pos_ngram	
+points	27	13	pos_ngram	
+reader	27	14	noun_chunk,pos_ngram	
+reasoning	27	15	noun_chunk,pos_ngram	
+room	27	17	noun_chunk,pos_ngram	
+run	27	16	noun_chunk,pos_ngram	
+algorithm	26	3	noun_chunk,pos_ngram	
+assumption	26	11	noun_chunk,pos_ngram	
+conversation	26	16	noun_chunk,pos_ngram	
+gpa	26	3	noun_chunk,pos_ngram,technical_surface	
+halo	26	6	noun_chunk,pos_ngram	yes
+illusions	26	8	noun_chunk,pos_ngram	
+improve	26	15	pos_ngram	
+lesson	26	15	noun_chunk,pos_ngram	
+light	26	18	noun_chunk,pos_ngram	
+medical	26	15	pos_ngram	
+members	26	12	pos_ngram	
+numbers	26	12	pos_ngram	yes
+optimism	26	5	noun_chunk,pos_ngram	
+priming	26	6	noun_chunk,pos_ngram	yes
+punishment	26	7	noun_chunk,pos_ngram	
+range	26	15	noun_chunk,pos_ngram	
+reward	26	11	noun_chunk,pos_ngram	
+self - control	26	6	noun_chunk	
+tendency	26	17	noun_chunk,pos_ngram	
+author	25	16	noun_chunk,pos_ngram	
+computation	25	11	noun_chunk,pos_ngram	
+concern	25	15	noun_chunk,pos_ngram	
+determine	25	19	noun_chunk,pos_ngram	
+driver	25	9	noun_chunk,pos_ngram	
+endowment effect	25	4	noun_chunk,pos_ngram	yes
+equivalent	25	12	noun_chunk,pos_ngram	
+exchange	25	11	noun_chunk,pos_ngram	yes
+executive	25	11	noun_chunk,pos_ngram	yes
+experience self	25	6	noun_chunk	
+experimenter	25	17	noun_chunk,pos_ngram	
+index	25	10	noun_chunk,pos_ngram	yes
+klein	25	4	noun_chunk,pos_ngram	
+leader	25	9	noun_chunk,pos_ngram	
+likelihood	25	12	noun_chunk,pos_ngram	
+love	25	9	noun_chunk,pos_ngram	
+nature	25	14	noun_chunk,pos_ngram	
+present	25	18	noun_chunk,pos_ngram	yes
+scientist	25	18	noun_chunk,pos_ngram	
+stranger	25	10	noun_chunk,pos_ngram	
+training	25	13	noun_chunk,pos_ngram	
+trust	25	13	noun_chunk,pos_ngram	
+accounts	24	6	pos_ngram	
+act	24	16	noun_chunk,pos_ngram	yes
+area	24	11	noun_chunk,pos_ngram	
+asking	24	15	pos_ngram	
+cab	24	2	noun_chunk,pos_ngram	
+character	24	14	noun_chunk,pos_ngram	yes
+count	24	15	noun_chunk,pos_ngram	yes
+essay	24	8	noun_chunk,pos_ngram	
+hindsight	24	6	noun_chunk,pos_ngram	yes
+impact	24	15	noun_chunk,pos_ngram	
+lawyer	24	8	noun_chunk,pos_ngram	
+losing	24	10	noun_chunk,pos_ngram	
+memories	24	10	noun_chunk,pos_ngram	
+officer	24	8	noun_chunk,pos_ngram	
+paper	24	16	noun_chunk,pos_ngram	
+peak	24	8	noun_chunk,pos_ngram	yes
+play	24	11	noun_chunk,pos_ngram	
+type	24	15	noun_chunk,pos_ngram	yes
+achievement	23	13	noun_chunk,pos_ngram	
+buying	23	8	noun_chunk,pos_ngram	
+challenge	23	16	noun_chunk,pos_ngram	
+check	23	10	pos_ngram	
+cue	23	8	noun_chunk,pos_ngram	
+default	23	6	noun_chunk,pos_ngram	yes
+degree	23	8	noun_chunk,pos_ngram	
+detail	23	16	noun_chunk,pos_ngram	
+discussion	23	15	noun_chunk,pos_ngram	
+feminist	23	2	noun_chunk,pos_ngram	
+global	23	12	pos_ngram	
+intuitive judgment	23	9	noun_chunk,pos_ngram	yes
+length	23	8	noun_chunk,pos_ngram	
+link	23	11	noun_chunk,pos_ngram	
+page	23	11	noun_chunk,pos_ngram	
+period	23	15	noun_chunk,pos_ngram	
+region	23	8	noun_chunk,pos_ngram	
+saving	23	9	noun_chunk,pos_ngram	
+selling	23	8	noun_chunk,pos_ngram	
+single evaluation	23	2	noun_chunk,pos_ngram	yes
+statistician	23	7	noun_chunk,pos_ngram	
+sum	23	14	noun_chunk,pos_ngram	
+target	23	11	noun_chunk,pos_ngram	
+trait	23	10	noun_chunk,pos_ngram	
+unit	23	10	noun_chunk,pos_ngram	
+water	23	9	noun_chunk,pos_ngram	
+willingness	23	11	noun_chunk,pos_ngram	
+worth	23	13	pos_ngram	
+clinical	22	5	pos_ngram	
+distinction	22	11	noun_chunk,pos_ngram	
+don	22	16	pos_ngram	yes
+econs	22	7	noun_chunk,pos_ngram	yes
+focusing	22	7	pos_ngram	yes
+halo effect	22	6	noun_chunk,pos_ngram	yes
+head	22	15	noun_chunk,pos_ngram	
+intention	22	8	noun_chunk,pos_ngram	
+job	22	11	noun_chunk,pos_ngram	
+offer	22	14	noun_chunk,pos_ngram	
+prize	22	8	noun_chunk,pos_ngram	
+richard	22	14	pos_ngram	
+step	22	12	noun_chunk,pos_ngram	
+suggestion	22	11	noun_chunk,pos_ngram	
+sunstein	22	5	noun_chunk,pos_ngram	
+table	22	12	noun_chunk,pos_ngram	
+variable	22	11	noun_chunk,pos_ngram	
+wine	22	2	noun_chunk,pos_ngram	
+absence	21	14	noun_chunk,pos_ngram	
+back	21	15	pos_ngram	
+baseline	21	5	noun_chunk,pos_ngram	yes
+behavioral	21	9	noun_chunk,pos_ngram	yes
+characteristic	21	17	noun_chunk,pos_ngram	
+customer	21	8	noun_chunk,pos_ngram	
+disaster	21	8	noun_chunk,pos_ngram	
+exercise	21	16	noun_chunk,pos_ngram	
+expertise	21	6	noun_chunk,pos_ngram	
+fit	21	10	pos_ngram	
+force	21	16	noun_chunk,pos_ngram	
+golfer	21	5	noun_chunk,pos_ngram	
+illustrate	21	14	pos_ngram	
+label	21	14	noun_chunk,pos_ngram	yes
+matching	21	7	noun_chunk,pos_ngram	yes
+mr.	21	4	noun_chunk,pos_ngram	
+outside view	21	3	noun_chunk,pos_ngram	yes
+playing	21	11	noun_chunk,pos_ngram	
+professor	21	10	noun_chunk,pos_ngram	
+risk aversion	21	5	noun_chunk,pos_ngram	yes
+sampling	21	5	noun_chunk,pos_ngram	yes
+society	21	13	noun_chunk,pos_ngram	
+trader	21	6	noun_chunk,pos_ngram	
+uncertain	21	13	pos_ngram	
+advice	20	15	noun_chunk,pos_ngram	
+apple	20	5	noun_chunk,pos_ngram	
+attribute	20	12	noun_chunk,pos_ngram	
+body	20	12	noun_chunk,pos_ngram	
+committee	20	4	noun_chunk,pos_ngram	
+education	20	7	noun_chunk,pos_ngram	
+experience well - being	20	2	noun_chunk	
+experienced well	20	2	pos_ngram	yes
+experienced well - being	20	2	noun_chunk	
+experimental	20	13	pos_ngram	
+fluency	20	4	noun_chunk,pos_ngram	
+forecasting	20	8	noun_chunk,pos_ngram	yes
+height	20	7	noun_chunk,pos_ngram	
+hold	20	16	noun_chunk,pos_ngram	
+judges	20	9	noun_chunk,pos_ngram	
+julie	20	2	noun_chunk,pos_ngram	
+living	20	14	noun_chunk,pos_ngram	
+mode	20	11	noun_chunk,pos_ngram	yes
+other hand	20	16	pos_ngram	
+paul	20	12	noun_chunk,pos_ngram	
+percentage	20	13	noun_chunk,pos_ngram	
+proportion	20	10	noun_chunk,pos_ngram	
+routine	20	15	noun_chunk,pos_ngram	
+scholar	20	12	noun_chunk,pos_ngram	
+sign	20	14	noun_chunk,pos_ngram	
+status	20	7	noun_chunk,pos_ngram	yes
+subjective probability	20	2	noun_chunk,pos_ngram	yes
+week	20	10	noun_chunk,pos_ngram	
+winner	20	11	noun_chunk,pos_ngram	
+a.	19	9	noun_chunk,pos_ngram	
+baby	19	6	noun_chunk,pos_ngram	
+background	19	13	noun_chunk,pos_ngram	
+basis	19	12	noun_chunk,pos_ngram	
+buyer	19	6	noun_chunk,pos_ngram	
+century	19	15	noun_chunk,pos_ngram	
+coin	19	10	noun_chunk,pos_ngram	
+computer	19	8	noun_chunk,pos_ngram	
+damage	19	11	noun_chunk,pos_ngram	
+drive	19	10	pos_ngram	
+implication	19	14	noun_chunk,pos_ngram	
+inference	19	5	noun_chunk,pos_ngram	
+invariance	19	1	noun_chunk,pos_ngram	
+jack	19	5	noun_chunk,pos_ngram	
+limit	19	11	noun_chunk,pos_ngram	
+machine	19	9	noun_chunk,pos_ngram	yes
+mechanism	19	10	noun_chunk,pos_ngram	
+meeting	19	11	noun_chunk,pos_ngram	
+planning fallacy	19	5	noun_chunk,pos_ngram	yes
+potential	19	12	noun_chunk,pos_ngram	
+rare event	19	4	noun_chunk,pos_ngram	yes
+record	19	12	noun_chunk,pos_ngram	
+resource	19	9	noun_chunk,pos_ngram	
+series	19	16	noun_chunk,pos_ngram	
+seymour	19	2	noun_chunk,pos_ngram	
+starting	19	9	pos_ngram	
+stay	19	13	noun_chunk,pos_ngram	
+strain	19	4	noun_chunk,pos_ngram	yes
+trade	19	7	noun_chunk,pos_ngram	
+truth	19	11	noun_chunk,pos_ngram	
+victim	19	9	noun_chunk,pos_ngram	
+animal	18	7	noun_chunk,pos_ngram	
+bottle	18	4	noun_chunk,pos_ngram	
+box	18	7	noun_chunk,pos_ngram	
+college	18	9	noun_chunk,pos_ngram	
+color	18	13	noun_chunk,pos_ngram	
+contexts	18	8	noun_chunk,pos_ngram	
+correct answer	18	10	noun_chunk,pos_ngram	
+country	18	12	noun_chunk,pos_ngram	
+cover	18	12	noun_chunk,pos_ngram	
+credit	18	8	noun_chunk,pos_ngram	yes
+die	18	7	noun_chunk,pos_ngram	
+distribution	18	3	noun_chunk,pos_ngram	yes
+dolphin	18	2	noun_chunk,pos_ngram	
+expect utility	18	5	noun_chunk	
+expected utility	18	5	noun_chunk,pos_ngram	yes
+government	18	7	noun_chunk,pos_ngram	
+great deal	18	16	noun_chunk,pos_ngram	
+green	18	5	noun_chunk,pos_ngram	
+key	18	13	noun_chunk,pos_ngram	
+kind	18	14	noun_chunk,pos_ngram	
+marriage	18	7	noun_chunk,pos_ngram	
+meaning	18	12	noun_chunk,pos_ngram	
+mental account	18	3	noun_chunk,pos_ngram	yes
+mug	18	1	noun_chunk,pos_ngram	
+narrow	18	6	noun_chunk,pos_ngram	yes
+note	18	14	noun_chunk,pos_ngram,technical_surface	
+other people	18	13	pos_ngram	
+overconfident	18	8	pos_ngram	
+reduction	18	8	noun_chunk,pos_ngram	
+representative	18	7	noun_chunk,pos_ngram	yes
+sensitivity	18	9	noun_chunk,pos_ngram	yes
+shape	18	13	noun_chunk,pos_ngram	
+similarity	18	7	noun_chunk,pos_ngram	
+stake	18	12	noun_chunk,pos_ngram	
+stop	18	10	noun_chunk,pos_ngram	
+sure loss	18	5	noun_chunk,pos_ngram	yes
+survival	18	8	noun_chunk,pos_ngram	
+teacher	18	8	noun_chunk,pos_ngram	
+technology	18	4	noun_chunk,pos_ngram	
+treatment	18	11	noun_chunk,pos_ngram	
+violation	18	8	noun_chunk,pos_ngram	
+witness	18	5	noun_chunk,pos_ngram	
+algorithms	17	3	noun_chunk,pos_ngram	
+associative memory	17	13	noun_chunk,pos_ngram	yes
+betty	17	2	noun_chunk,pos_ngram	
+california	17	6	noun_chunk,pos_ngram	
+card	17	7	noun_chunk,pos_ngram	yes
+causality	17	4	noun_chunk,pos_ngram	
+companies	17	9	pos_ngram	
+conjunction	17	5	noun_chunk,pos_ngram	yes
+consumer	17	5	noun_chunk,pos_ngram	
+county	17	1	noun_chunk,pos_ngram	
+curve	17	5	noun_chunk,pos_ngram	
+difficulty	17	11	noun_chunk,pos_ngram	
+driving	17	11	pos_ngram	
+exposure	17	10	noun_chunk,pos_ngram	yes
+extent	17	11	noun_chunk,pos_ngram	
+gift	17	6	noun_chunk,pos_ngram	
+home	17	14	noun_chunk,pos_ngram	
+house	17	11	noun_chunk,pos_ngram	
+incidence	17	4	noun_chunk,pos_ngram	
+input	17	5	noun_chunk,pos_ngram	
+intuitive prediction	17	5	noun_chunk,pos_ngram	yes
+jump	17	5	noun_chunk,pos_ngram	yes
+librarian	17	5	noun_chunk,pos_ngram	
+media	17	4	pos_ngram	
+medium	17	4	noun_chunk,pos_ngram	
+michigan	17	8	noun_chunk,pos_ngram	
+negotiation	17	4	noun_chunk,pos_ngram	
+office	17	11	noun_chunk,pos_ngram	
+overconfidence	17	7	noun_chunk,pos_ngram	yes
+overweighting	17	3	noun_chunk,pos_ngram	
+phenomenon	17	8	noun_chunk,pos_ngram	
+plaintiff	17	2	noun_chunk,pos_ngram	
+questionnaire	17	8	noun_chunk,pos_ngram	
+rank	17	8	noun_chunk,pos_ngram	
+reliance	17	7	noun_chunk,pos_ngram	
+risk averse	17	6	noun_chunk,pos_ngram	
+social science	17	8	noun_chunk,pos_ngram	
+stage	17	10	noun_chunk,pos_ngram	
+stimulus	17	7	noun_chunk,pos_ngram	
+transaction	17	5	noun_chunk,pos_ngram	
+variation	17	13	noun_chunk,pos_ngram	
+voice	17	8	noun_chunk,pos_ngram	
+walk	17	9	noun_chunk,pos_ngram	
+adviser	16	6	noun_chunk,pos_ngram	
+allais	16	2	noun_chunk,pos_ngram	
+american	16	10	pos_ngram	
+anthony	16	2	noun_chunk,pos_ngram	
+award	16	3	noun_chunk,pos_ngram	
+blindness	16	7	noun_chunk,pos_ngram	yes
+bottom	16	7	pos_ngram	
+budget	16	8	noun_chunk,pos_ngram	
+buyers	16	4	noun_chunk,pos_ngram	
+c.	16	6	noun_chunk,pos_ngram	
+consistency	16	10	noun_chunk,pos_ngram	
+debate	16	11	noun_chunk,pos_ngram	
+discipline	16	10	noun_chunk,pos_ngram	
+discovery	16	10	noun_chunk,pos_ngram	
+duration neglect	16	4	noun_chunk,pos_ngram	yes
+economic theory	16	9	noun_chunk,pos_ngram	
+engineer	16	3	noun_chunk,pos_ngram	
+family	16	8	noun_chunk,pos_ngram	
+film	16	9	noun_chunk,pos_ngram	
+frames	16	4	noun_chunk,pos_ngram	
+heart	16	13	noun_chunk,pos_ngram	
+hospital	16	6	noun_chunk,pos_ngram	
+instruction	16	8	noun_chunk,pos_ngram	
+large majority	16	10	noun_chunk,pos_ngram	
+life satisfaction	16	2	noun_chunk,pos_ngram	yes
+linda problem	16	1	noun_chunk,pos_ngram	yes
+manager	16	8	noun_chunk,pos_ngram	
+mortality	16	6	noun_chunk,pos_ngram	
+occurrence	16	6	noun_chunk,pos_ngram	
+owner	16	7	noun_chunk,pos_ngram	
+paraplegic	16	1	noun_chunk,pos_ngram	
+physicians	16	11	noun_chunk,pos_ngram	
+pressure	16	12	noun_chunk,pos_ngram	
+profit	16	7	noun_chunk,pos_ngram	
+raise	16	12	noun_chunk,pos_ngram	
+ranking	16	9	noun_chunk,pos_ngram	
+relation	16	10	noun_chunk,pos_ngram	yes
+restaurant	16	11	noun_chunk,pos_ngram	
+reversal	16	3	noun_chunk,pos_ngram	yes
+richard thaler	16	10	noun_chunk,pos_ngram	
+salient	16	12	noun_chunk,pos_ngram	
+sample size	16	2	noun_chunk,pos_ngram	
+soul	16	11	noun_chunk,pos_ngram	
+soup	16	4	noun_chunk,pos_ngram,technical_surface	
+today	16	11	pos_ngram	
+undergraduate	16	11	noun_chunk,pos_ngram	
+unfair	16	3	noun_chunk,pos_ngram	
+vivid	16	6	pos_ngram	
+academic	15	7	noun_chunk,pos_ngram	
+air	15	8	noun_chunk,pos_ngram	
+bat	15	4	noun_chunk,pos_ngram	yes
+blue	15	4	noun_chunk,pos_ngram	
+boy	15	7	noun_chunk,pos_ngram	
+cascade	15	3	pos_ngram	yes
+cell	15	5	noun_chunk,pos_ngram	
+central	15	10	pos_ngram	
+certainty effect	15	3	noun_chunk,pos_ngram	yes
+clinician	15	5	noun_chunk,pos_ngram	
+decade	15	12	noun_chunk,pos_ngram	
+development	15	10	noun_chunk,pos_ngram	
+display	15	11	noun_chunk,pos_ngram	
+distance	15	8	noun_chunk,pos_ngram	
+encounter	15	11	noun_chunk,pos_ngram	
+energy	15	5	noun_chunk,pos_ngram	
+expect utility theory	15	5	noun_chunk	
+expected utility theory	15	5	noun_chunk,pos_ngram	yes
+flaw	15	9	noun_chunk,pos_ngram	
+food	15	12	noun_chunk,pos_ngram	
+foot	15	7	noun_chunk,pos_ngram	
+frame effect	15	5	noun_chunk	
+framing effect	15	5	noun_chunk,pos_ngram	yes
+good guess	15	6	noun_chunk,pos_ngram	
+injection	15	1	noun_chunk,pos_ngram	
+item	15	8	noun_chunk,pos_ngram	
+john	15	9	noun_chunk,pos_ngram	
+morning	15	8	noun_chunk,pos_ngram	
+music	15	8	noun_chunk,pos_ngram	
+possibility effect	15	2	noun_chunk,pos_ngram	yes
+princeton	15	9	noun_chunk,pos_ngram	
+priority	15	7	noun_chunk,pos_ngram	
+quo	15	5	pos_ngram	yes
+reluctance	15	6	noun_chunk,pos_ngram	
+repeat	15	10	noun_chunk,pos_ngram	
+respect	15	10	noun_chunk,pos_ngram	
+safety	15	6	noun_chunk,pos_ngram	
+small sample	15	6	noun_chunk,pos_ngram	
+status quo	15	5	noun_chunk,pos_ngram	yes
+structure	15	7	noun_chunk,pos_ngram	
+temperature	15	6	noun_chunk,pos_ngram	
+toss	15	7	noun_chunk,pos_ngram	
+trading	15	5	noun_chunk,pos_ngram	
+worker	15	7	noun_chunk,pos_ngram	
+worry	15	6	noun_chunk,pos_ngram	
+writing	15	12	noun_chunk,pos_ngram	
+adaptation	14	4	noun_chunk,pos_ngram	yes
+addition	14	12	noun_chunk,pos_ngram	
+appeal	14	11	noun_chunk,pos_ngram	
+availability cascade	14	2	noun_chunk,pos_ngram	yes
+collection	14	12	noun_chunk,pos_ngram	
+competition	14	7	noun_chunk,pos_ngram	yes
+contribute	14	10	pos_ngram	
+d.	14	4	noun_chunk,pos_ngram	
+danger	14	7	noun_chunk,pos_ngram	
+defendant	14	4	noun_chunk,pos_ngram	
+disadvantage	14	3	noun_chunk,pos_ngram	
+dish	14	5	noun_chunk,pos_ngram	
+door	14	10	noun_chunk,pos_ngram	
+entrepreneur	14	6	noun_chunk,pos_ngram	
+experienced utility	14	1	noun_chunk,pos_ngram	yes
+feedback	14	7	noun_chunk,pos_ngram	
+flow	14	8	noun_chunk,pos_ngram	yes
+focus illusion	14	1	noun_chunk	
+focusing illusion	14	1	noun_chunk,pos_ngram	yes
+incident	14	7	noun_chunk,pos_ngram	
+inside	14	7	pos_ngram	yes
+institution	14	9	noun_chunk,pos_ngram	
+instructor	14	3	noun_chunk,pos_ngram	
+interval	14	5	noun_chunk,pos_ngram	yes
+intuitive answer	14	7	noun_chunk,pos_ngram	
+lazy	14	6	noun_chunk,pos_ngram	yes
+narrative	14	3	noun_chunk,pos_ngram	yes
+night	14	9	noun_chunk,pos_ngram	
+none	14	12	pos_ngram	
+notice	14	13	noun_chunk,pos_ngram	
+press	14	8	noun_chunk,pos_ngram	yes
+prime	14	3	noun_chunk,pos_ngram	yes
+request	14	10	noun_chunk,pos_ngram	
+save	14	6	noun_chunk,pos_ngram	yes
+seeing	14	12	pos_ngram	
+seller	14	3	noun_chunk,pos_ngram	
+start - up	14	5	noun_chunk	
+statisticians	14	6	noun_chunk,pos_ngram	
+theme	14	9	noun_chunk,pos_ngram	
+token	14	2	noun_chunk,pos_ngram	
+trouble	14	13	noun_chunk,pos_ngram	
+tversky	14	4	noun_chunk,pos_ngram	yes
+two systems	14	6	pos_ngram	
+whole	14	10	pos_ngram	
+abstract	13	5	pos_ngram,technical_surface	
+activation	13	9	noun_chunk,pos_ngram	
+add-3	13	1	noun_chunk,pos_ngram	
+advance	13	10	noun_chunk,pos_ngram	
+baseline prediction	13	2	noun_chunk,pos_ngram	yes
+basketball	13	8	noun_chunk,pos_ngram	
+big	13	10	pos_ngram	
+blame	13	5	noun_chunk,pos_ngram	
+borgida	13	3	noun_chunk,pos_ngram	
+bus	13	1	noun_chunk,pos_ngram	
+cadet	13	3	noun_chunk,pos_ngram	
+charge	13	10	noun_chunk,pos_ngram	yes
+combat	13	6	noun_chunk,pos_ngram	
+conduct	13	11	noun_chunk,pos_ngram	
+culture	13	9	noun_chunk,pos_ngram	
+cut	13	8	noun_chunk,pos_ngram	yes
+dimension	13	6	noun_chunk,pos_ngram	
+discrepancy	13	9	noun_chunk,pos_ngram	
+emotional reaction	13	8	noun_chunk,pos_ngram	
+emotional response	13	9	noun_chunk,pos_ngram	
+evoke	13	11	pos_ngram	
+exaggerated	13	10	pos_ngram	
+exception	13	9	noun_chunk,pos_ngram	
+favorite	13	9	noun_chunk,pos_ngram	
+feminist bank	13	2	pos_ngram	
+feminist bank teller	13	2	noun_chunk,pos_ngram	
+fire	13	7	noun_chunk,pos_ngram	
+front	13	10	pos_ngram	
+guest	13	5	noun_chunk,pos_ngram	
+illustrated	13	9	pos_ngram	
+inconsistency	13	8	noun_chunk,pos_ngram	
+indication	13	13	noun_chunk,pos_ngram	
+individual case	13	6	noun_chunk,pos_ngram	
+individual ’s	13	9	pos_ngram	
+intensity matching	13	6	noun_chunk,pos_ngram	yes
+journal	13	5	noun_chunk,pos_ngram	
+loser	13	6	noun_chunk,pos_ngram	
+many year	13	11	pos_ngram	
+nisbett	13	3	noun_chunk,pos_ngram	
+par	13	2	noun_chunk,pos_ngram	
+perspective	13	9	noun_chunk,pos_ngram	
+presence	13	11	noun_chunk,pos_ngram	
+processes	13	10	pos_ngram	
+rational choice	13	5	noun_chunk,pos_ngram	
+recall	13	11	pos_ngram	
+regularity	13	4	noun_chunk,pos_ngram	
+reliability	13	6	noun_chunk,pos_ngram	
+rest	13	10	noun_chunk,pos_ngram	
+review	13	8	noun_chunk,pos_ngram	yes
+risk policy	13	2	noun_chunk,pos_ngram	yes
+road	13	8	noun_chunk,pos_ngram	yes
+sale	13	8	noun_chunk,pos_ngram	
+same time	13	10	pos_ngram	
+small number	13	5	noun_chunk,pos_ngram	yes
+smile	13	6	noun_chunk,pos_ngram	
+soldier	13	2	noun_chunk,pos_ngram	
+spouse	13	8	noun_chunk,pos_ngram	
+stand	13	10	pos_ngram	yes
+statistical fact	13	7	noun_chunk,pos_ngram	
+sunk	13	3	pos_ngram	yes
+tax	13	4	noun_chunk,pos_ngram	
+value function	13	5	noun_chunk,pos_ngram	yes
+video	13	5	noun_chunk,pos_ngram	
+watching	13	8	pos_ngram	
+wheel	13	5	noun_chunk,pos_ngram	yes
+a student	12	7	pos_ngram	
+accounting	12	3	noun_chunk,pos_ngram	yes
+adjective	12	5	noun_chunk,pos_ngram	
+agency	12	8	noun_chunk,pos_ngram	yes
+axiom	12	4	noun_chunk,pos_ngram	
+causal story	12	6	noun_chunk,pos_ngram	
+classic	12	12	noun_chunk,pos_ngram	
+cognitive illusion	12	8	noun_chunk,pos_ngram	yes
+commander	12	4	noun_chunk,pos_ngram	
+connection	12	8	noun_chunk,pos_ngram	
+contrary	12	9	noun_chunk,pos_ngram	
+department	12	10	noun_chunk,pos_ngram	
+determinant	12	10	noun_chunk,pos_ngram	
+difficult question	12	8	noun_chunk,pos_ngram	
+fairness	12	4	noun_chunk,pos_ngram	
+familiarity	12	3	noun_chunk,pos_ngram	
+foundation	12	9	noun_chunk,pos_ngram	
+german	12	9	pos_ngram	
+google	12	2	noun_chunk,pos_ngram	
+ii	12	6	noun_chunk,pos_ngram,technical_surface	
+illusory	12	6	pos_ngram	yes
+industry	12	9	noun_chunk,pos_ngram	
+intentions	12	7	noun_chunk,pos_ngram	
+interviewer	12	2	noun_chunk,pos_ngram	
+j.	12	2	noun_chunk,pos_ngram	
+jones	12	2	pos_ngram	
+knetsch	12	3	noun_chunk,pos_ngram	
+leg	12	4	noun_chunk,pos_ngram	
+leisure	12	3	noun_chunk,pos_ngram	
+lot	12	10	noun_chunk,pos_ngram	
+lottery	12	5	noun_chunk,pos_ngram	
+machinery	12	11	noun_chunk,pos_ngram	yes
+management	12	8	noun_chunk,pos_ngram	
+manipulation	12	8	noun_chunk,pos_ngram	
+many other	12	11	pos_ngram	
+many people	12	12	pos_ngram	
+mental accounts	12	3	noun_chunk,pos_ngram	
+mental effort	12	6	noun_chunk,pos_ngram	
+other side	12	7	pos_ngram	
+perception	12	9	noun_chunk,pos_ngram	
+philosopher	12	8	noun_chunk,pos_ngram	
+phrase	12	9	noun_chunk,pos_ngram	
+possible outcome	12	7	noun_chunk,pos_ngram	
+protection	12	8	noun_chunk,pos_ngram	
+ratio	12	8	noun_chunk,pos_ngram	yes
+red marble	12	3	noun_chunk,pos_ngram	
+relationship	12	9	noun_chunk,pos_ngram	
+responsibility	12	5	noun_chunk,pos_ngram	
+rise	12	10	noun_chunk,pos_ngram,technical_surface	
+s.	12	7	pos_ngram	yes
+sam	12	3	noun_chunk,pos_ngram	yes
+session	12	7	noun_chunk,pos_ngram	
+small numbers	12	4	noun_chunk,pos_ngram	yes
+speed	12	6	noun_chunk,pos_ngram	
+steve	12	3	noun_chunk,pos_ngram	
+subjective confidence	12	4	noun_chunk,pos_ngram	
+subjective experience	12	8	noun_chunk,pos_ngram	
+sure gain	12	3	noun_chunk,pos_ngram	yes
+surgery	12	5	noun_chunk,pos_ngram	
+systematic error	12	6	noun_chunk,pos_ngram	yes
+talent	12	5	noun_chunk,pos_ngram	
+teaching	12	7	noun_chunk,pos_ngram	
+text	12	8	noun_chunk,pos_ngram	
+triad	12	2	noun_chunk,pos_ngram	
+trials	12	4	noun_chunk,pos_ngram	
+access	11	9	noun_chunk,pos_ngram	
+agent model	11	8	pos_ngram	yes
+agreement	11	8	noun_chunk,pos_ngram	
+application	11	8	noun_chunk,pos_ngram	
+aptitude	11	7	pos_ngram	
+army	11	2	noun_chunk,pos_ngram	
+asset	11	5	noun_chunk,pos_ngram	
+asymmetry	11	6	noun_chunk,pos_ngram	
+audience	11	10	noun_chunk,pos_ngram	
+availability heuristic	11	4	noun_chunk,pos_ngram	yes
+balance	11	6	noun_chunk,pos_ngram	
+bayesian	11	2	pos_ngram	
+birdie	11	2	noun_chunk,pos_ngram	
+boys	11	4	noun_chunk,pos_ngram	
+chicago	11	5	noun_chunk,pos_ngram	
+client	11	7	noun_chunk,pos_ngram	
+coefficient	11	7	noun_chunk,pos_ngram	yes
+collaboration	11	6	noun_chunk,pos_ngram	
+competence	11	5	noun_chunk,pos_ngram	
+consideration	11	7	noun_chunk,pos_ngram	
+court	11	7	noun_chunk,pos_ngram	
+crime	11	5	noun_chunk,pos_ngram	
+crisis	11	5	noun_chunk,pos_ngram	
+decision problem	11	5	noun_chunk,pos_ngram	
+deep	11	8	pos_ngram	
+design	11	10	noun_chunk,pos_ngram	
+diagnosis	11	6	noun_chunk,pos_ngram	
+employee	11	6	noun_chunk,pos_ngram	
+environmental	11	7	pos_ngram	
+expression	11	7	noun_chunk,pos_ngram	
+faith	11	9	noun_chunk,pos_ngram	
+fall	11	8	technical_surface	yes
+fan	11	5	noun_chunk,pos_ngram	
+few year	11	11	pos_ngram	
+font	11	2	noun_chunk,pos_ngram	
+fourfold	11	2	pos_ngram	yes
+fourfold pattern	11	2	noun_chunk,pos_ngram	yes
+functions	11	8	pos_ngram	
+fund	11	4	noun_chunk,pos_ngram	
+g.	11	4	pos_ngram	
+gary	11	6	pos_ngram	
+gorilla	11	2	noun_chunk,pos_ngram	yes
+guide	11	8	pos_ngram	
+hsee	11	3	noun_chunk,pos_ngram	
+importance	11	9	noun_chunk,pos_ngram	
+insight	11	8	noun_chunk,pos_ngram	
+jill	11	2	noun_chunk,pos_ngram	
+keeping	11	8	pos_ngram	
+limitation	11	8	noun_chunk,pos_ngram	
+long time	11	10	noun_chunk,pos_ngram	
+low probability	11	8	noun_chunk,pos_ngram	
+mathematical	11	7	pos_ngram	
+measurement	11	10	noun_chunk,pos_ngram	
+mental accounting	11	3	noun_chunk,pos_ngram	yes
+mile	11	4	noun_chunk,pos_ngram	
+notion	11	10	noun_chunk,pos_ngram	
+party	11	6	noun_chunk,pos_ngram	
+piece	11	8	noun_chunk,pos_ngram	
+portfolio	11	4	noun_chunk,pos_ngram	
+prior probability	11	1	noun_chunk,pos_ngram	yes
+putt	11	2	noun_chunk,pos_ngram	
+retrieval	11	2	noun_chunk,pos_ngram	
+row	11	5	noun_chunk,pos_ngram	yes
+salary	11	6	noun_chunk,pos_ngram	
+set a	11	6	noun_chunk,pos_ngram	
+setting	11	10	noun_chunk,pos_ngram	
+settlement	11	1	noun_chunk,pos_ngram	
+shock	11	5	noun_chunk,pos_ngram	
+shot	11	6	noun_chunk,pos_ngram	yes
+shotgun	11	3	noun_chunk,pos_ngram	yes
+stroke	11	3	noun_chunk,pos_ngram	
+substitute	11	9	noun_chunk,pos_ngram	
+suffering	11	6	noun_chunk,pos_ngram	
+summary	11	9	noun_chunk,pos_ngram	
+taste	11	6	noun_chunk,pos_ngram	
+theorist	11	7	noun_chunk,pos_ngram	
+unlikely event	11	4	noun_chunk,pos_ngram	
+venture	11	5	noun_chunk,pos_ngram	
+wall	11	2	noun_chunk,pos_ngram	
+war	11	6	noun_chunk,pos_ngram	
+wife	11	8	noun_chunk,pos_ngram	
+( i	10	6	noun_chunk	
+add-1	10	1	noun_chunk,pos_ngram	yes
+affect heuristic	10	4	noun_chunk,pos_ngram	yes
+ambiguity	10	5	noun_chunk,pos_ngram	
+arousal	10	6	noun_chunk,pos_ngram	
+base - rate information	10	4	noun_chunk	
+behavioral economic	10	5	noun_chunk,pos_ngram	yes
+bernoulli ’s theory	10	2	noun_chunk	
+black	10	7	noun_chunk,pos_ngram	
+bowl	10	4	noun_chunk,pos_ngram	
+break	10	7	noun_chunk,pos_ngram	
+californians	10	3	noun_chunk,pos_ngram	
+career	10	9	noun_chunk,pos_ngram	
+causal base	10	1	pos_ngram	
+causal base rate	10	1	noun_chunk,pos_ngram	
+choosing	10	10	noun_chunk,pos_ngram	
+climate	10	1	noun_chunk,pos_ngram	
+coherent story	10	6	noun_chunk,pos_ngram	
+comment	10	10	noun_chunk,pos_ngram	
+concrete	10	6	noun_chunk,pos_ngram	
+contract	10	7	noun_chunk,pos_ngram	
+daniel	10	7	pos_ngram	
+dating	10	2	noun_chunk,pos_ngram	
+david	10	7	pos_ngram	
+definition	10	7	noun_chunk,pos_ngram	
+depleted	10	4	pos_ngram	
+depletion	10	1	noun_chunk,pos_ngram	yes
+divorce	10	7	noun_chunk,pos_ngram	
+dominance	10	4	noun_chunk,pos_ngram	yes
+donation	10	1	noun_chunk,pos_ngram	
+dozen	10	7	noun_chunk,pos_ngram	
+ed	10	3	noun_chunk,pos_ngram	yes
+element	10	9	noun_chunk,pos_ngram	
+examination	10	9	noun_chunk,pos_ngram	
+fischhoff	10	3	noun_chunk,pos_ngram	
+france	10	5	noun_chunk,pos_ngram	
+galton	10	3	noun_chunk,pos_ngram	
+gap	10	7	noun_chunk,pos_ngram	
+george	10	6	noun_chunk,pos_ngram	
+gilbert	10	4	noun_chunk,pos_ngram	
+good mood	10	4	noun_chunk,pos_ngram	
+graph	10	4	noun_chunk,pos_ngram	
+ignorance	10	6	noun_chunk,pos_ngram	
+indifference	10	1	noun_chunk,pos_ngram	yes
+interaction	10	9	noun_chunk,pos_ngram	
+jane	10	4	noun_chunk,pos_ngram	
+lichtenstein	10	3	noun_chunk,pos_ngram	
+lover	10	4	noun_chunk,pos_ngram	
+manifestation	10	8	noun_chunk,pos_ngram	
+mark	10	7	noun_chunk,pos_ngram	
+medicine	10	6	noun_chunk,pos_ngram	
+mental shotgun	10	3	noun_chunk,pos_ngram	yes
+mpg	10	1	noun_chunk,pos_ngram,technical_surface	
+narrow framing	10	4	noun_chunk,pos_ngram	yes
+numerical	10	4	pos_ngram	
+organ	10	2	noun_chunk,pos_ngram	
+other word	10	5	pos_ngram	
+pencil	10	4	noun_chunk,pos_ngram	
+politician	10	6	noun_chunk,pos_ngram	
+poll	10	3	noun_chunk,pos_ngram	
+preference reversal	10	2	noun_chunk,pos_ngram	yes
+premium	10	4	noun_chunk,pos_ngram	
+presentation	10	7	noun_chunk,pos_ngram	
+proposition	10	7	noun_chunk,pos_ngram	
+psychophysic	10	4	noun_chunk,pos_ngram	
+psychophysics	10	4	noun_chunk,pos_ngram	
+rat	10	5	noun_chunk,pos_ngram,technical_surface	yes
+rate information	10	4	pos_ngram	
+rational - agent model	10	7	noun_chunk	
+recruit	10	3	noun_chunk,pos_ngram	
+reference points	10	5	noun_chunk,pos_ngram	
+reversals	10	2	noun_chunk,pos_ngram	
+robust	10	9	pos_ngram	
+rose	10	2	noun_chunk,pos_ngram	
+sciences	10	7	noun_chunk,pos_ngram	
+selection	10	4	noun_chunk,pos_ngram	
+sellers	10	2	noun_chunk,pos_ngram	
+smith	10	2	noun_chunk,pos_ngram	
+sources	10	8	pos_ngram	
+specie	10	4	noun_chunk,pos_ngram	
+spending	10	7	noun_chunk,pos_ngram	
+strategy	10	7	noun_chunk,pos_ngram	yes
+stubborn	10	6	pos_ngram	
+switch	10	8	pos_ngram	
+tetlock	10	2	noun_chunk,pos_ngram	
+theater	10	3	noun_chunk,pos_ngram	
+theoretical	10	9	pos_ngram	
+theory - induce blindness	10	3	noun_chunk	
+thousand	10	9	noun_chunk,pos_ngram	
+vaccine	10	4	noun_chunk,pos_ngram	
+variety	10	10	noun_chunk,pos_ngram	
+yield	10	6	noun_chunk,pos_ngram	
+aim	9	7	noun_chunk,pos_ngram	
+anger	9	5	noun_chunk,pos_ngram	
+associative coherence	9	7	noun_chunk,pos_ngram	yes
+attractiveness	9	2	noun_chunk,pos_ngram	
+awareness	9	4	noun_chunk,pos_ngram	
+ball problem	9	4	pos_ngram	yes
+banana	9	2	noun_chunk,pos_ngram	
+basic assessment	9	3	noun_chunk,pos_ngram	yes
+bird	9	3	noun_chunk,pos_ngram	
+board	9	8	noun_chunk,pos_ngram	
+brown	9	2	noun_chunk,pos_ngram	
+building	9	7	noun_chunk,pos_ngram	
+capability	9	7	noun_chunk,pos_ngram	
+chocolate	9	3	noun_chunk,pos_ngram	
+chooser	9	2	noun_chunk,pos_ngram	
+citizen	9	2	noun_chunk,pos_ngram	
+cognitive strain	9	2	noun_chunk,pos_ngram	yes
+community	9	8	noun_chunk,pos_ngram	
+compensation	9	3	noun_chunk,pos_ngram	
+competitor	9	4	noun_chunk,pos_ngram	
+complexity	9	7	noun_chunk,pos_ngram	
+computer science	9	2	noun_chunk,pos_ngram	
+concession	9	2	noun_chunk,pos_ngram	
+confidence interval	9	2	noun_chunk,pos_ngram	yes
+conjunction fallacy	9	1	noun_chunk,pos_ngram	yes
+construction	9	7	noun_chunk,pos_ngram	
+correspond	9	6	noun_chunk,pos_ngram	
+criterion	9	5	noun_chunk,pos_ngram	
+curriculum	9	1	noun_chunk,pos_ngram	
+default option	9	3	noun_chunk,pos_ngram	yes
+dinnerware	9	1	noun_chunk,pos_ngram	
+dow	9	1	pos_ngram	yes
+dow jones	9	1	noun_chunk,pos_ngram	
+drawing	9	4	noun_chunk,pos_ngram	
+easy question	9	8	noun_chunk,pos_ngram	
+eat	9	6	noun_chunk,pos_ngram,technical_surface	
+ego	9	1	noun_chunk,pos_ngram	yes
+english	9	7	noun_chunk,pos_ngram	
+exist	9	9	pos_ngram	
+farmer	9	4	noun_chunk,pos_ngram	
+fine	9	7	noun_chunk,pos_ngram	
+forces	9	8	pos_ngram	
+fox	9	3	noun_chunk,pos_ngram	
+gary klein	9	4	noun_chunk,pos_ngram	
+good story	9	6	noun_chunk,pos_ngram	
+h.	9	1	pos_ngram	
+harm	9	4	noun_chunk,pos_ngram	
+hedonic	9	3	pos_ngram	
+hero	9	7	noun_chunk,pos_ngram	
+high price	9	4	noun_chunk,pos_ngram	
+high probability	9	6	noun_chunk,pos_ngram	
+high school	9	5	noun_chunk,pos_ngram	
+hit	9	5	noun_chunk,pos_ngram	
+hunch	9	5	noun_chunk,pos_ngram	
+hypotheses	9	6	pos_ngram	
+hypothetical	9	3	pos_ngram	
+impulse	9	6	noun_chunk,pos_ngram	
+infant	9	3	noun_chunk,pos_ngram	
+intervention	9	6	noun_chunk,pos_ngram	
+jen	9	2	noun_chunk,pos_ngram	
+jon	9	1	noun_chunk,pos_ngram	
+large number	9	8	noun_chunk,pos_ngram	
+large sample	9	3	noun_chunk,pos_ngram	
+laziness	9	5	noun_chunk,pos_ngram	
+leadership	9	5	noun_chunk,pos_ngram	
+location	9	4	noun_chunk,pos_ngram	
+loom	9	5	pos_ngram	
+master	9	6	pos_ngram	
+more time	9	7	pos_ngram	
+multiplication	9	3	noun_chunk,pos_ngram	
+national	9	7	pos_ngram	
+nudge	9	3	noun_chunk,pos_ngram	yes
+obstacle	9	4	noun_chunk,pos_ngram	
+operating	9	9	pos_ngram	
+opposite	9	8	noun_chunk,pos_ngram	
+phone	9	7	noun_chunk,pos_ngram	
+predictability	9	3	noun_chunk,pos_ngram	
+predictor	9	4	noun_chunk,pos_ngram	
+prime effect	9	2	noun_chunk	
+priming effect	9	2	noun_chunk,pos_ngram	
+probability distribution	9	1	noun_chunk,pos_ngram	yes
+regard	9	4	noun_chunk,pos_ngram	
+resemblance	9	3	noun_chunk,pos_ngram	
+same amount	9	6	pos_ngram	
+schwarz	9	3	noun_chunk,pos_ngram	
+screen	9	7	noun_chunk,pos_ngram	
+sensible	9	8	noun_chunk,pos_ngram	
+sight	9	6	noun_chunk,pos_ngram	yes
+sin	9	5	noun_chunk,pos_ngram	yes
+slow thinking	9	5	noun_chunk,pos_ngram	yes
+speech	9	7	noun_chunk,pos_ngram	
+starting point	9	2	noun_chunk,pos_ngram	
+street	9	7	noun_chunk,pos_ngram	
+strength	9	8	noun_chunk,pos_ngram	
+subjective value	9	2	noun_chunk,pos_ngram	
+tomorrow	9	5	noun_chunk,pos_ngram	yes
+u - index	9	1	noun_chunk,pos_ngram	
+vacations	9	3	pos_ngram	
+vocabulary	9	5	noun_chunk,pos_ngram	
+voter	9	4	noun_chunk,pos_ngram	
+voters	9	4	pos_ngram	
+" system	8	2	noun_chunk	
+( ii	8	4	noun_chunk	
+administration	8	5	noun_chunk,pos_ngram	
+affair	8	8	noun_chunk,pos_ngram	
+associative machinery	8	8	noun_chunk,pos_ngram	yes
+assume	8	4	pos_ngram	
+automatic operation	8	8	noun_chunk,pos_ngram	
+availability bias	8	2	noun_chunk,pos_ngram	
+bad news	8	6	noun_chunk,pos_ngram	
+bar	8	5	noun_chunk,pos_ngram	
+behavioral economist	8	4	noun_chunk,pos_ngram	
+believer	8	6	noun_chunk,pos_ngram	
+bell	8	5	noun_chunk,pos_ngram	
+button	8	1	noun_chunk,pos_ngram	
+causal explanation	8	4	noun_chunk,pos_ngram	
+celebrity	8	5	noun_chunk,pos_ngram	
+chin	8	3	noun_chunk,pos_ngram	yes
+choice problem	8	5	noun_chunk,pos_ngram	
+choosers	8	2	noun_chunk,pos_ngram	
+column	8	2	noun_chunk,pos_ngram	
+conception	8	6	noun_chunk,pos_ngram	
+considerations	8	4	pos_ngram	
+coverage	8	3	noun_chunk,pos_ngram	
+decision theorist	8	5	noun_chunk,pos_ngram	
+decision theory	8	6	noun_chunk,pos_ngram	
+decision utility	8	2	noun_chunk,pos_ngram	yes
+depression	8	5	noun_chunk,pos_ngram	
+disappointment	8	3	noun_chunk,pos_ngram	
+discomfort	8	7	noun_chunk,pos_ngram	
+disposition	8	5	noun_chunk,pos_ngram	yes
+drop	8	7	noun_chunk,pos_ngram	
+economy	8	7	noun_chunk,pos_ngram	
+electric	8	4	pos_ngram	
+employer	8	3	noun_chunk,pos_ngram	
+end rule	8	3	pos_ngram	yes
+few minute	8	6	pos_ngram	
+firefighter	8	2	noun_chunk,pos_ngram	
+flood	8	4	noun_chunk,pos_ngram	
+fortune	8	5	noun_chunk,pos_ngram	yes
+fraction	8	7	noun_chunk,pos_ngram	
+gallon	8	1	noun_chunk,pos_ngram	
+glance	8	4	noun_chunk,pos_ngram	
+glucose	8	1	noun_chunk,pos_ngram	
+heart rate	8	7	noun_chunk,pos_ngram	
+hedonimeter	8	4	pos_ngram	yes
+help experiment	8	1	noun_chunk	
+incentive	8	4	noun_chunk,pos_ngram	
+individual investor	8	3	noun_chunk,pos_ngram	
+inside view	8	2	noun_chunk,pos_ngram	yes
+israel	8	6	noun_chunk,pos_ngram	
+joy	8	6	noun_chunk,pos_ngram	
+jumping	8	2	noun_chunk,pos_ngram	yes
+juror	8	2	noun_chunk,pos_ngram	
+kahneman	8	2	noun_chunk,pos_ngram	
+kidney	8	2	pos_ngram	
+kim	8	1	noun_chunk,pos_ngram	
+kitchen	8	3	noun_chunk,pos_ngram	
+lack	8	8	noun_chunk,pos_ngram	
+large loss	8	4	noun_chunk,pos_ngram	
+leave	8	7	noun_chunk,pos_ngram	
+lie	8	8	noun_chunk,pos_ngram	yes
+loss averse	8	3	noun_chunk,pos_ngram	
+low price	8	5	noun_chunk,pos_ngram	
+lyer	8	4	pos_ngram	yes
+manner	8	6	noun_chunk,pos_ngram	
+marvel	8	5	noun_chunk,pos_ngram	
+meal	8	6	noun_chunk,pos_ngram	
+meek	8	6	noun_chunk,pos_ngram	
+merchant	8	5	noun_chunk,pos_ngram	
+middle	8	7	noun_chunk,pos_ngram	
+million	8	6	noun_chunk,pos_ngram	
+monitoring	8	5	pos_ngram	
+moses	8	1	noun_chunk,pos_ngram	yes
+movement	8	3	noun_chunk,pos_ngram	
+movie	8	6	noun_chunk,pos_ngram	
+muscle	8	5	noun_chunk,pos_ngram	
+müller	8	4	pos_ngram	yes
+nobel	8	6	noun_chunk,pos_ngram	
+normative	8	2	noun_chunk,pos_ngram	
+old age	8	2	noun_chunk,pos_ngram	
+origin	8	7	noun_chunk,pos_ngram	
+peak - end rule	8	3	noun_chunk	
+penalty	8	4	noun_chunk,pos_ngram	
+piano	8	2	noun_chunk,pos_ngram	
+picker	8	2	pos_ngram	
+pilot	8	6	noun_chunk,pos_ngram	
+plausibility	8	3	noun_chunk,pos_ngram	
+politic	8	7	noun_chunk,pos_ngram	
+premortem	8	2	noun_chunk,pos_ngram	yes
+prototype	8	6	noun_chunk,pos_ngram	
+purpose	8	8	noun_chunk,pos_ngram	
+randomness	8	2	noun_chunk,pos_ngram	
+rational agent	8	6	noun_chunk,pos_ngram	yes
+regulation	8	4	noun_chunk,pos_ngram	
+resident	8	5	noun_chunk,pos_ngram	
+resistance	8	6	noun_chunk,pos_ngram	
+risky choice	8	4	noun_chunk,pos_ngram	
+samuelson	8	2	noun_chunk,pos_ngram	
+schelling	8	1	noun_chunk,pos_ngram	
+seizure	8	2	noun_chunk,pos_ngram	
+selling price	8	4	noun_chunk,pos_ngram	
+signal	8	6	noun_chunk,pos_ngram	
+specialty	8	3	noun_chunk,pos_ngram	
+sport	8	6	noun_chunk,pos_ngram	
+standing	8	8	noun_chunk,pos_ngram	yes
+stanovich	8	2	noun_chunk,pos_ngram	
+stock picker	8	2	noun_chunk,pos_ngram	
+strangers	8	8	noun_chunk,pos_ngram	
+such case	8	7	pos_ngram	
+suspect	8	6	pos_ngram	
+switching	8	7	pos_ngram	
+temptation	8	5	noun_chunk,pos_ngram	
+third probability	8	2	pos_ngram	
+tone	8	7	noun_chunk,pos_ngram	
+tool	8	5	noun_chunk,pos_ngram	
+tournament	8	5	noun_chunk,pos_ngram	
+transactions	8	3	noun_chunk,pos_ngram	
+true value	8	3	noun_chunk,pos_ngram	
+twin	8	3	noun_chunk,pos_ngram	
+vigilance	8	6	noun_chunk,pos_ngram	
+virtue	8	6	noun_chunk,pos_ngram	
+wage	8	2	noun_chunk,pos_ngram	
+walking	8	5	noun_chunk,pos_ngram	
+waste	8	5	noun_chunk,pos_ngram	
+weather	8	5	noun_chunk,pos_ngram	
+weighting	8	7	noun_chunk,pos_ngram	
+wisdom	8	7	noun_chunk,pos_ngram	
+" feminist bank teller	7	1	noun_chunk	
+acceptability	7	1	noun_chunk,pos_ngram	
+actual experience	7	5	noun_chunk,pos_ngram	
+admission	7	4	noun_chunk,pos_ngram	
+albert	7	3	noun_chunk,pos_ngram	
+anticipation	7	5	noun_chunk,pos_ngram	
+art	7	6	noun_chunk,pos_ngram	
+ashenfelter	7	1	noun_chunk,pos_ngram	
+assets	7	5	technical_surface	
+associative machine	7	4	noun_chunk,pos_ngram	yes
+athlete	7	3	noun_chunk,pos_ngram	
+automatic system	7	5	noun_chunk,pos_ngram	
+baseball	7	6	pos_ngram	
+ben	7	3	noun_chunk,pos_ngram	
+booklet	7	3	noun_chunk,pos_ngram	
+boundary	7	6	noun_chunk,pos_ngram	
+broad frame	7	3	noun_chunk,pos_ngram	
+broad framing	7	1	noun_chunk,pos_ngram	yes
+canal	7	1	pos_ngram	
+capacity	7	4	noun_chunk,pos_ngram	
+capital	7	5	noun_chunk,pos_ngram	
+causal interpretation	7	5	noun_chunk,pos_ngram	
+cfo	7	1	noun_chunk,pos_ngram,technical_surface	
+chess master	7	4	noun_chunk,pos_ngram	
+chicken	7	1	noun_chunk,pos_ngram	
+circle	7	4	noun_chunk,pos_ngram	
+cognitive bias	7	4	noun_chunk,pos_ngram	
+concentration	7	4	noun_chunk,pos_ngram	
+consumer behavior	7	3	noun_chunk,pos_ngram	
+consumption	7	5	noun_chunk,pos_ngram	
+content	7	5	noun_chunk,pos_ngram	
+core	7	6	noun_chunk,pos_ngram	
+counselor	7	2	noun_chunk,pos_ngram	
+critic	7	4	noun_chunk,pos_ngram	
+criticism	7	7	noun_chunk,pos_ngram	
+date	7	2	noun_chunk,pos_ngram	
+decision value	7	1	noun_chunk,pos_ngram	
+defense	7	6	noun_chunk,pos_ngram	
+denominator	7	2	noun_chunk,pos_ngram	yes
+desk	7	4	noun_chunk,pos_ngram	
+deviation	7	4	noun_chunk,pos_ngram	
+different way	7	7	noun_chunk,pos_ngram	
+drug	7	4	noun_chunk,pos_ngram	
+ducat	7	1	noun_chunk,pos_ngram	
+earthquake	7	4	noun_chunk,pos_ngram	
+editor	7	4	noun_chunk,pos_ngram	
+entitlement	7	1	noun_chunk,pos_ngram	
+estimation	7	2	noun_chunk,pos_ngram	
+expectation principle	7	1	noun_chunk,pos_ngram	yes
+expert intuition	7	2	noun_chunk,pos_ngram	yes
+few people	7	5	pos_ngram	
+few second	7	6	pos_ngram	
+finance	7	5	noun_chunk,pos_ngram	
+floor	7	6	noun_chunk,pos_ngram	
+flower	7	2	noun_chunk,pos_ngram	
+follow pair	7	3	noun_chunk	
+following pair	7	3	noun_chunk,pos_ngram	
+format	7	2	noun_chunk,pos_ngram	
+formulas	7	1	noun_chunk,pos_ngram	
+fruit	7	5	noun_chunk,pos_ngram	
+gambling	7	3	noun_chunk,pos_ngram	
+global evaluation	7	3	noun_chunk,pos_ngram	
+ground	7	6	noun_chunk,pos_ngram	
+headline	7	3	noun_chunk,pos_ngram	
+helen	7	2	noun_chunk,pos_ngram	
+high confidence	7	5	noun_chunk,pos_ngram	
+humanity	7	1	noun_chunk,pos_ngram	
+insensitivity	7	4	noun_chunk,pos_ngram	
+intuitive thinking	7	4	noun_chunk,pos_ngram	
+irrational	7	3	noun_chunk,pos_ngram	yes
+israeli	7	7	pos_ngram	
+jack knetsch	7	2	noun_chunk,pos_ngram	
+judge probability	7	3	noun_chunk	
+jury	7	6	noun_chunk,pos_ngram	
+kidney cancer	7	1	noun_chunk,pos_ngram	
+labor	7	6	noun_chunk,pos_ngram	
+large effect	7	7	noun_chunk,pos_ngram	
+lazy system	7	5	noun_chunk,pos_ngram	
+libertarian	7	2	noun_chunk,pos_ngram	yes
+love canal	7	1	noun_chunk,pos_ngram	
+lyer illusion	7	4	pos_ngram	yes
+magic	7	5	noun_chunk,pos_ngram	
+map	7	3	noun_chunk,pos_ngram	yes
+mental life	7	6	noun_chunk,pos_ngram	
+mission	7	6	noun_chunk,pos_ngram	
+monitor	7	4	noun_chunk,pos_ngram	
+mr. brown	7	1	noun_chunk,pos_ngram	
+müller - lyer illusion	7	4	noun_chunk	
+nation	7	4	noun_chunk,pos_ngram	
+neighbor	7	7	noun_chunk,pos_ngram	
+next year	7	6	pos_ngram	
+opt	7	3	pos_ngram	yes
+optimistic bias	7	2	noun_chunk,pos_ngram	yes
+p.	7	2	noun_chunk,pos_ngram	
+parole	7	2	noun_chunk,pos_ngram	
+patient a	7	1	noun_chunk,pos_ngram	
+paul slovic	7	5	noun_chunk,pos_ngram	
+persistence	7	2	noun_chunk,pos_ngram	
+predict	7	4	pos_ngram	yes
+primary	7	4	noun_chunk,pos_ngram	
+probability judgment	7	3	noun_chunk,pos_ngram	
+progress	7	4	noun_chunk,pos_ngram	
+proof	7	5	noun_chunk,pos_ngram	
+pundit	7	2	noun_chunk,pos_ngram	
+quarter	7	5	noun_chunk,pos_ngram	
+r.	7	1	noun_chunk,pos_ngram	
+rain	7	3	noun_chunk,pos_ngram	yes
+recommendation	7	5	noun_chunk,pos_ngram	
+reference class	7	1	noun_chunk,pos_ngram	yes
+reflection	7	4	noun_chunk,pos_ngram	
+reverse	7	7	noun_chunk,pos_ngram	
+rush	7	2	noun_chunk,pos_ngram	
+salesperson	7	5	noun_chunk,pos_ngram	
+scene	7	7	noun_chunk,pos_ngram	
+second version	7	5	noun_chunk,pos_ngram	
+seminar	7	3	noun_chunk,pos_ngram	
+service	7	5	noun_chunk,pos_ngram	
+sex	7	4	noun_chunk,pos_ngram	
+small chance	7	3	noun_chunk,pos_ngram	
+small risk	7	4	noun_chunk,pos_ngram	
+stress	7	3	noun_chunk,pos_ngram	
+string	7	1	noun_chunk,pos_ngram	
+style	7	4	noun_chunk,pos_ngram	
+subject experiment	7	4	pos_ngram	
+successful firm	7	1	noun_chunk,pos_ngram	
+sympathy	7	5	noun_chunk,pos_ngram	
+taleb	7	5	noun_chunk,pos_ngram	
+television	7	4	noun_chunk,pos_ngram	
+textbook	7	5	noun_chunk,pos_ngram	
+title	7	6	noun_chunk,pos_ngram	
+todorov	7	1	noun_chunk,pos_ngram	
+trace	7	6	noun_chunk,pos_ngram	
+track	7	5	noun_chunk,pos_ngram	
+triangle	7	1	pos_ngram	
+twelve instance	7	1	pos_ngram	
+union	7	3	pos_ngram	
+variant	7	7	noun_chunk,pos_ngram	
+violetta	7	2	noun_chunk,pos_ngram	
+volunteer	7	4	noun_chunk,pos_ngram	
+vote	7	3	noun_chunk,pos_ngram,technical_surface	
+w.	7	6	pos_ngram	
+waiting	7	5	noun_chunk,pos_ngram	
+warning	7	5	noun_chunk,pos_ngram	
+" bank teller	6	1	noun_chunk	
+" life	6	2	noun_chunk	
+acceptance	6	6	noun_chunk,pos_ngram	
+acquaintance	6	4	noun_chunk,pos_ngram	
+acquisition	6	5	noun_chunk,pos_ngram	
+adele	6	1	noun_chunk,pos_ngram	
+adult	6	6	noun_chunk,pos_ngram	
+afternoon	6	3	noun_chunk,pos_ngram	
+airport	6	4	noun_chunk,pos_ngram	
+alar	6	1	noun_chunk,pos_ngram	
+allocation	6	5	noun_chunk,pos_ngram	
+american woman	6	1	noun_chunk,pos_ngram	
+amnesic	6	2	pos_ngram	
+apgar	6	1	noun_chunk,pos_ngram	
+assertiveness	6	1	noun_chunk,pos_ngram	
+bayes	6	3	noun_chunk,pos_ngram	
+beat	6	2	noun_chunk,pos_ngram	
+bill	6	5	noun_chunk,pos_ngram	
+blizzard	6	2	noun_chunk,pos_ngram	
+bogey	6	2	noun_chunk,pos_ngram	
+brand	6	4	noun_chunk,pos_ngram	
+brian	6	1	noun_chunk,pos_ngram	
+build	6	4	noun_chunk,pos_ngram	
+buying price	6	3	noun_chunk,pos_ngram	
+calculation	6	6	noun_chunk,pos_ngram	
+calculator	6	1	noun_chunk,pos_ngram	
+camera	6	3	noun_chunk,pos_ngram	
+capitalist	6	1	pos_ngram	
+cass	6	5	pos_ngram	
+cass sunstein	6	5	noun_chunk,pos_ngram	
+causation	6	3	noun_chunk,pos_ngram	
+circuit	6	3	noun_chunk,pos_ngram	
+co	6	2	noun_chunk,pos_ngram	yes
+coach	6	4	noun_chunk,pos_ngram	
+collaborator	6	5	noun_chunk,pos_ngram	
+concavity	6	1	noun_chunk,pos_ngram	
+contest	6	6	noun_chunk,pos_ngram	
+controversy	6	3	noun_chunk,pos_ngram	
+cost fallacy	6	3	pos_ngram	yes
+creativity	6	3	noun_chunk,pos_ngram	
+crowd	6	5	noun_chunk,pos_ngram	
+current wealth	6	2	noun_chunk,pos_ngram	
+denominator neglect	6	1	noun_chunk,pos_ngram	yes
+desire	6	6	noun_chunk,pos_ngram	
+deterioration	6	4	noun_chunk,pos_ngram	
+detroit	6	1	noun_chunk,pos_ngram	
+dice	6	2	noun_chunk,pos_ngram	
+dictionary	6	1	noun_chunk,pos_ngram	
+different group	6	5	noun_chunk,pos_ngram	
+directions	6	6	pos_ngram	
+disagreement	6	3	noun_chunk,pos_ngram	
+discount	6	3	noun_chunk,pos_ngram	yes
+disjunctive event	6	1	noun_chunk,pos_ngram	yes
+dollar value	6	3	noun_chunk,pos_ngram	
+dow jones average	6	1	noun_chunk,pos_ngram	
+draft	6	4	noun_chunk,pos_ngram	
+drink	6	2	noun_chunk,pos_ngram	
+ed .	6	1	pos_ngram	
+egg	6	4	noun_chunk,pos_ngram	
+ego depletion	6	1	noun_chunk,pos_ngram	yes
+election	6	4	noun_chunk,pos_ngram	
+electric shock	6	3	noun_chunk,pos_ngram	
+enthusiasm	6	6	noun_chunk,pos_ngram	
+essence	6	5	noun_chunk,pos_ngram	
+eugene	6	4	noun_chunk,pos_ngram	
+exam	6	2	noun_chunk,pos_ngram	
+exemption	6	1	noun_chunk,pos_ngram	
+existence	6	4	noun_chunk,pos_ngram	
+experience sampling	6	2	noun_chunk,pos_ngram	yes
+experience value	6	1	noun_chunk,pos_ngram	
+exposure effect	6	1	pos_ngram	yes
+extreme outcome	6	3	noun_chunk,pos_ngram	
+farmworker	6	1	noun_chunk,pos_ngram	
+farmworkers	6	1	noun_chunk,pos_ngram	
+fat	6	4	pos_ngram	
+favorable gamble	6	3	noun_chunk,pos_ngram	
+fechner	6	1	noun_chunk,pos_ngram	
+fee	6	3	noun_chunk,pos_ngram	
+final grade	6	3	noun_chunk,pos_ngram	
+first question	6	4	pos_ngram	
+flight	6	3	pos_ngram	
+fluctuation	6	4	noun_chunk,pos_ngram	
+follow example	6	6	noun_chunk	
+following example	6	6	noun_chunk,pos_ngram	
+following question	6	6	noun_chunk,pos_ngram	
+fool	6	3	noun_chunk,pos_ngram	
+founder	6	3	noun_chunk,pos_ngram	
+frederick	6	2	pos_ngram	
+freedom	6	2	noun_chunk,pos_ngram	
+friday	6	2	pos_ngram	
+frown	6	5	noun_chunk,pos_ngram	
+gas	6	2	noun_chunk,pos_ngram	
+giant	6	5	noun_chunk,pos_ngram	
+girl	6	1	noun_chunk,pos_ngram	
+glass	6	4	noun_chunk,pos_ngram	
+golf	6	3	noun_chunk,pos_ngram	
+good condition	6	1	noun_chunk,pos_ngram	
+good decision	6	5	noun_chunk,pos_ngram	
+good fit	6	3	noun_chunk,pos_ngram	
+good idea	6	6	noun_chunk,pos_ngram	
+gossip	6	2	noun_chunk,pos_ngram	yes
+grading	6	2	noun_chunk,pos_ngram	
+grether	6	1	noun_chunk,pos_ngram	
+harvard	6	4	noun_chunk,pos_ngram	
+hedgehog	6	1	noun_chunk,pos_ngram	
+hint	6	4	noun_chunk,pos_ngram	
+hitler	6	3	noun_chunk,pos_ngram	
+human judgment	6	4	noun_chunk,pos_ngram	
+human mind	6	4	noun_chunk,pos_ngram	
+human nature	6	3	noun_chunk,pos_ngram	
+ice	6	3	noun_chunk,pos_ngram	yes
+illness	6	4	noun_chunk,pos_ngram	
+impose	6	5	pos_ngram	
+increment	6	3	noun_chunk,pos_ngram	
+indicator	6	5	noun_chunk,pos_ngram	
+indifference curve	6	1	noun_chunk,pos_ngram	
+insufficient adjustment	6	2	noun_chunk,pos_ngram	
+inventor	6	1	noun_chunk,pos_ngram	
+investigator	6	6	noun_chunk,pos_ngram	
+joan	6	1	noun_chunk,pos_ngram	
+joke	6	6	noun_chunk,pos_ngram	
+jones average	6	1	pos_ngram	
+laboratory	6	5	noun_chunk,pos_ngram	
+large amount	6	6	noun_chunk,pos_ngram	
+large role	6	5	noun_chunk,pos_ngram	
+last year	6	6	pos_ngram	
+least effort	6	3	pos_ngram	yes
+library	6	2	pos_ngram	
+liking	6	4	noun_chunk,pos_ngram	
+listing	6	3	pos_ngram	
+little time	6	5	noun_chunk,pos_ngram	
+logical rule	6	2	noun_chunk,pos_ngram	
+london	6	5	noun_chunk,pos_ngram	
+long episode	6	2	noun_chunk,pos_ngram	
+lottery ticket	6	4	noun_chunk,pos_ngram	
+mail	6	5	noun_chunk,pos_ngram	
+many decision	6	5	pos_ngram	
+many time	6	6	pos_ngram	
+march	6	4	noun_chunk,pos_ngram	
+marvels	6	4	noun_chunk,pos_ngram	
+material	6	6	noun_chunk,pos_ngram	
+mental work	6	3	noun_chunk,pos_ngram	
+mere exposure	6	1	pos_ngram	yes
+mere exposure effect	6	1	noun_chunk,pos_ngram	yes
+metaphor	6	5	noun_chunk,pos_ngram	
+moral intuition	6	3	noun_chunk,pos_ngram	
+morgenstern	6	3	noun_chunk,pos_ngram	
+mouse	6	2	noun_chunk,pos_ngram	
+mr. smith	6	1	noun_chunk,pos_ngram	
+much time	6	6	pos_ngram	
+much weight	6	5	pos_ngram	
+murder	6	3	noun_chunk,pos_ngram	
+nations	6	3	pos_ngram	
+network	6	3	noun_chunk,pos_ngram	
+neumann	6	3	pos_ngram	
+neuroscientist	6	4	noun_chunk,pos_ngram	
+newspaper	6	6	noun_chunk,pos_ngram	
+odean	6	1	noun_chunk,pos_ngram	
+official	6	5	noun_chunk,pos_ngram	
+oil	6	3	pos_ngram	
+opera	6	3	noun_chunk,pos_ngram	
+organ donation	6	1	noun_chunk,pos_ngram	
+other case	6	6	pos_ngram	
+other situation	6	5	pos_ngram	
+other team	6	2	pos_ngram	
+outcome bias	6	1	noun_chunk,pos_ngram	yes
+overrun	6	1	noun_chunk,pos_ngram	
+paradox	6	4	noun_chunk,pos_ngram	
+patient b	6	1	noun_chunk,pos_ngram	
+penny	6	3	noun_chunk,pos_ngram	
+percentile score	6	2	noun_chunk,pos_ngram	
+persistent	6	4	pos_ngram	
+persuasive	6	5	pos_ngram	
+piano playing	6	2	noun_chunk,pos_ngram	
+plane	6	4	noun_chunk,pos_ngram	
+plott	6	1	noun_chunk,pos_ngram	
+possible loss	6	3	noun_chunk,pos_ngram	
+print	6	3	noun_chunk,pos_ngram	
+profession	6	5	noun_chunk,pos_ngram	
+promise	6	6	noun_chunk,pos_ngram	
+property	6	5	noun_chunk,pos_ngram	
+proposal	6	5	noun_chunk,pos_ngram	
+psychological value	6	3	noun_chunk,pos_ngram	
+publication	6	5	noun_chunk,pos_ngram	
+pundits	6	2	noun_chunk,pos_ngram	
+rabin	6	2	noun_chunk,pos_ngram	
+random process	6	3	noun_chunk,pos_ngram	
+rational decision	6	5	noun_chunk,pos_ngram	
+rational person	6	3	noun_chunk,pos_ngram	
+real world	6	6	noun_chunk,pos_ngram	
+recent research	6	5	noun_chunk,pos_ngram	
+recognition	6	3	noun_chunk,pos_ngram	
+relief	6	5	noun_chunk,pos_ngram	
+reminder	6	3	noun_chunk,pos_ngram	
+repetition	6	3	noun_chunk,pos_ngram	
+replace	6	6	noun_chunk,pos_ngram	
+representativeness heuristic	6	3	noun_chunk,pos_ngram	
+revenue	6	4	noun_chunk,pos_ngram	
+risk - seeking	6	5	noun_chunk	
+risky prospect	6	3	noun_chunk,pos_ngram	
+robyn	6	3	noun_chunk,pos_ngram	
+same choice	6	4	pos_ngram	
+savings	6	3	pos_ngram	
+season	6	4	noun_chunk,pos_ngram	
+set b	6	1	noun_chunk,pos_ngram	
+share factor	6	3	noun_chunk	
+shoe	6	4	noun_chunk,pos_ngram	
+simon	6	2	pos_ngram	
+soap	6	1	noun_chunk,pos_ngram,technical_surface	
+social work	6	1	noun_chunk,pos_ngram	
+son	6	5	noun_chunk,pos_ngram	
+specific information	6	4	noun_chunk,pos_ngram	
+spite	6	6	noun_chunk,pos_ngram	
+sports	6	4	pos_ngram	
+square	6	4	noun_chunk,pos_ngram	
+star	6	6	noun_chunk,pos_ngram	
+station	6	5	pos_ngram	
+stereotyping	6	1	noun_chunk,pos_ngram	
+struggle	6	6	noun_chunk,pos_ngram	
+substance	6	5	noun_chunk,pos_ngram	
+succession	6	6	noun_chunk,pos_ngram	
+suit	6	2	noun_chunk,pos_ngram	
+sunk - cost fallacy	6	3	noun_chunk	
+surcharge	6	2	noun_chunk,pos_ngram	yes
+sure outcome	6	3	noun_chunk,pos_ngram	
+susceptibility	6	5	noun_chunk,pos_ngram	
+symptom	6	5	noun_chunk,pos_ngram	
+tail	6	5	noun_chunk,pos_ngram	
+talk	6	4	noun_chunk,pos_ngram	
+target question	6	1	noun_chunk,pos_ngram	
+telephone	6	4	noun_chunk,pos_ngram	
+tension	6	5	noun_chunk,pos_ngram	
+tenth	6	5	noun_chunk,pos_ngram	
+term memory	6	2	pos_ngram	
+testimony	6	4	noun_chunk,pos_ngram	
+therapy	6	3	noun_chunk,pos_ngram	
+thomas	6	5	pos_ngram	
+time pressure	6	4	noun_chunk,pos_ngram	
+train	6	4	noun_chunk,pos_ngram	yes
+twentieth century	6	5	noun_chunk,pos_ngram	
+venture capitalist	6	1	noun_chunk,pos_ngram	
+von	6	3	pos_ngram	
+von neumann	6	3	noun_chunk,pos_ngram	
+wallet	6	2	noun_chunk,pos_ngram	
+weakness	6	6	noun_chunk,pos_ngram	
+weekend	6	3	noun_chunk,pos_ngram	
+white marble	6	3	noun_chunk,pos_ngram	
+work memory	6	2	noun_chunk	
+working memory	6	2	noun_chunk,pos_ngram	yes
+x90	6	1	noun_chunk,pos_ngram,technical_surface	
+zajonc	6	1	noun_chunk,pos_ngram	
+" personality	5	4	noun_chunk	
+a ’s	5	3	pos_ngram	
+ad	5	2	noun_chunk,pos_ngram,technical_surface	yes
+affairs	5	5	pos_ngram	
+affective	5	2	pos_ngram	yes
+ajzen	5	1	noun_chunk,pos_ngram	
+alan	5	2	noun_chunk,pos_ngram	
+americans	5	3	noun_chunk,pos_ngram	
+analogy	5	5	noun_chunk,pos_ngram	
+asian disease	5	2	noun_chunk,pos_ngram	yes
+ask price	5	1	noun_chunk	
+asking price	5	1	noun_chunk,pos_ngram	
+average height	5	2	noun_chunk,pos_ngram	
+aversiveness	5	2	noun_chunk,pos_ngram	
+avoidance	5	4	noun_chunk,pos_ngram	
+bad mood	5	2	noun_chunk,pos_ngram	
+bag	5	2	noun_chunk,pos_ngram	
+bananas	5	1	pos_ngram	
+bargaining	5	3	noun_chunk,pos_ngram	
+beginning	5	4	noun_chunk,pos_ngram	
+bernoulli ’s model	5	2	noun_chunk	
+birth	5	5	noun_chunk,pos_ngram	
+blueberry	5	1	noun_chunk,pos_ngram	
+bonus	5	3	noun_chunk,pos_ngram	
+borg	5	1	pos_ngram	
+branch	5	4	noun_chunk,pos_ngram	
+british	5	4	pos_ngram	
+calibration	5	1	noun_chunk,pos_ngram	
+cat	5	3	noun_chunk,pos_ngram	yes
+center	5	4	noun_chunk,pos_ngram	
+chain	5	5	noun_chunk,pos_ngram	
+checking	5	3	noun_chunk,pos_ngram	
+cheek	5	3	noun_chunk,pos_ngram	
+clark	5	2	noun_chunk,pos_ngram	
+closing	5	2	pos_ngram	
+code	5	3	pos_ngram	
+coincidence	5	3	noun_chunk,pos_ngram	
+colonoscopy	5	3	noun_chunk,pos_ngram	
+colostomy	5	2	noun_chunk,pos_ngram	
+compelling demonstration	5	5	noun_chunk,pos_ngram	
+concrete word	5	1	noun_chunk,pos_ngram	
+contact	5	3	noun_chunk,pos_ngram	
+contingency	5	3	noun_chunk,pos_ngram	
+cookie	5	2	noun_chunk,pos_ngram	
+corner	5	3	noun_chunk,pos_ngram	
+corridor	5	3	noun_chunk,pos_ngram	
+counting	5	5	pos_ngram	yes
+cousin	5	5	noun_chunk,pos_ngram	
+cycle	5	4	noun_chunk,pos_ngram	
+daniel gilbert	5	4	noun_chunk,pos_ngram	
+daughter	5	4	noun_chunk,pos_ngram	
+dawe	5	2	noun_chunk,pos_ngram	
+dawes	5	2	noun_chunk,pos_ngram	
+decent people	5	1	noun_chunk,pos_ngram	
+deliberation	5	4	noun_chunk,pos_ngram	
+depressed child	5	1	noun_chunk,pos_ngram	
+detection	5	3	noun_chunk,pos_ngram	
+diener	5	2	noun_chunk,pos_ngram	
+diet	5	4	noun_chunk,pos_ngram	
+dilemma	5	4	noun_chunk,pos_ngram	
+disbelief	5	3	noun_chunk,pos_ngram	
+dog	5	4	noun_chunk,pos_ngram	
+drm	5	2	noun_chunk,pos_ngram,technical_surface	
+e - mail	5	4	pos_ngram	
+e.	5	1	noun_chunk,pos_ngram	
+early 1970	5	5	noun_chunk,pos_ngram	
+earning	5	4	noun_chunk,pos_ngram	
+eating	5	1	noun_chunk,pos_ngram	
+elephant	5	1	noun_chunk,pos_ngram	
+emergency	5	4	noun_chunk,pos_ngram	
+endorse	5	5	pos_ngram	
+enterprise	5	5	noun_chunk,pos_ngram	
+equal weight	5	3	noun_chunk,pos_ngram	
+escape	5	5	noun_chunk,pos_ngram	
+everyday language	5	5	noun_chunk,pos_ngram	
+evolutionary history	5	5	noun_chunk,pos_ngram	
+example illustrate	5	4	pos_ngram	
+extra day	5	1	noun_chunk,pos_ngram	
+fictitious character	5	3	noun_chunk,pos_ngram	
+fin	5	3	noun_chunk,pos_ngram	
+fireground	5	2	pos_ngram	
+fireground commander	5	2	noun_chunk,pos_ngram	
+first time	5	5	pos_ngram	
+first version	5	3	pos_ngram	
+flyvbjerg	5	1	noun_chunk,pos_ngram	
+football	5	5	noun_chunk,pos_ngram	
+ford	5	1	pos_ngram	
+foregone	5	3	pos_ngram	
+formulation effect	5	1	noun_chunk,pos_ngram	yes
+freshman	5	2	noun_chunk,pos_ngram	
+games	5	5	noun_chunk,pos_ngram	
+gandhi	5	1	noun_chunk,pos_ngram	
+generosity	5	2	noun_chunk,pos_ngram	
+gilovich	5	2	noun_chunk,pos_ngram	
+good reason	5	5	noun_chunk,pos_ngram	
+hair	5	3	noun_chunk,pos_ngram	
+hand column	5	2	pos_ngram	
+hard work	5	5	noun_chunk,pos_ngram	
+hedonimeter total	5	2	noun_chunk,pos_ngram	
+hess	5	1	noun_chunk,pos_ngram	
+heuristic answer	5	3	noun_chunk,pos_ngram	
+high income	5	2	noun_chunk,pos_ngram	
+hot hand	5	1	noun_chunk,pos_ngram	
+human rationality	5	4	noun_chunk,pos_ngram	
+hundred	5	5	noun_chunk,pos_ngram	
+husband	5	4	noun_chunk,pos_ngram	
+imagination	5	5	noun_chunk,pos_ngram	
+important decision	5	4	noun_chunk,pos_ngram	
+important role	5	5	noun_chunk,pos_ngram	
+inability	5	5	noun_chunk,pos_ngram	
+injury	5	2	noun_chunk,pos_ngram	
+innovation	5	5	noun_chunk,pos_ngram	
+intuitive sense	5	4	noun_chunk,pos_ngram	
+intuitive skill	5	1	noun_chunk,pos_ngram	
+jerusalem	5	4	noun_chunk,pos_ngram	
+judgment heuristic	5	4	noun_chunk,pos_ngram	
+justice	5	5	noun_chunk,pos_ngram	
+justification	5	5	noun_chunk,pos_ngram	
+k member	5	1	noun_chunk,pos_ngram	
+k members	5	1	noun_chunk,pos_ngram	
+kuran	5	1	noun_chunk,pos_ngram	
+lab	5	3	noun_chunk,pos_ngram	yes
+law of least effort	5	2	noun_chunk	yes
+lecture	5	5	noun_chunk,pos_ngram	
+less time	5	3	pos_ngram	
+library science	5	1	noun_chunk,pos_ngram	
+litigation	5	5	noun_chunk,pos_ngram	
+little or no effort	5	4	noun_chunk	
+long period	5	3	noun_chunk,pos_ngram	
+long run	5	4	noun_chunk,pos_ngram	
+long way	5	5	noun_chunk,pos_ngram	
+loudness	5	3	noun_chunk,pos_ngram	
+many date	5	2	pos_ngram	
+many occasion	5	4	pos_ngram	
+maximum	5	4	noun_chunk,pos_ngram	
+meek and tidy soul	5	5	noun_chunk	
+mention	5	4	noun_chunk,pos_ngram	
+military	5	4	noun_chunk,pos_ngram	
+most subject	5	3	pos_ngram	
+nassim	5	5	pos_ngram	
+nassim taleb	5	5	noun_chunk,pos_ngram	
+new state	5	3	noun_chunk,pos_ngram	
+new york times	5	4	noun_chunk,pos_ngram	
+nobel prize	5	5	noun_chunk,pos_ngram	
+noise	5	4	noun_chunk,pos_ngram	
+novice	5	5	noun_chunk,pos_ngram	
+occupation	5	2	noun_chunk,pos_ngram	
+officer training	5	2	noun_chunk,pos_ngram	
+omission	5	4	noun_chunk,pos_ngram	
+optimist	5	3	noun_chunk,pos_ngram	yes
+organism	5	3	noun_chunk,pos_ngram	
+originate	5	3	noun_chunk,pos_ngram	
+other example	5	5	pos_ngram	
+other information	5	4	pos_ngram	
+other way	5	5	pos_ngram	
+overall probability	5	2	noun_chunk,pos_ngram	
+overestimation	5	2	noun_chunk,pos_ngram	
+paris	5	3	noun_chunk,pos_ngram	
+passenger	5	3	noun_chunk,pos_ngram	
+patch	5	2	noun_chunk,pos_ngram	
+path	5	4	noun_chunk,pos_ngram	yes
+personal experience	5	5	noun_chunk,pos_ngram	
+phase	5	4	noun_chunk,pos_ngram	
+picking	5	5	noun_chunk,pos_ngram	
+pole	5	3	noun_chunk,pos_ngram	
+pollution	5	3	noun_chunk,pos_ngram	
+precision	5	5	noun_chunk,pos_ngram	
+premise	5	4	noun_chunk,pos_ngram	
+prevalence	5	5	noun_chunk,pos_ngram	
+problem a	5	1	noun_chunk,pos_ngram	
+processing	5	5	noun_chunk,pos_ngram	
+propensity	5	5	noun_chunk,pos_ngram	
+protective action	5	4	noun_chunk,pos_ngram	
+public health	5	2	noun_chunk,pos_ngram	
+public policy	5	4	noun_chunk,pos_ngram	
+quote	5	5	noun_chunk,pos_ngram	
+radiation	5	2	noun_chunk,pos_ngram	
+recurrent theme	5	5	noun_chunk,pos_ngram	
+reference state	5	2	noun_chunk,pos_ngram	
+reform	5	1	noun_chunk,pos_ngram	
+regression effect	5	1	noun_chunk,pos_ngram	
+rejection	5	5	noun_chunk,pos_ngram	
+requirement	5	3	noun_chunk,pos_ngram	
+resort	5	3	noun_chunk,pos_ngram	
+rhythm	5	3	noun_chunk,pos_ngram	
+right cell	5	2	noun_chunk,pos_ngram	
+risk taking	5	4	noun_chunk,pos_ngram	
+river	5	3	noun_chunk,pos_ngram	
+salience	5	4	noun_chunk,pos_ngram	
+same bias	5	5	pos_ngram	
+same pattern	5	5	pos_ngram	
+same problem	5	5	pos_ngram	
+same value	5	4	pos_ngram	
+same way	5	5	pos_ngram	
+schoemaker	5	1	noun_chunk,pos_ngram	
+seat	5	3	noun_chunk,pos_ngram	
+second group	5	3	noun_chunk,pos_ngram	
+several year	5	4	pos_ngram	
+sharp contrast	5	4	noun_chunk,pos_ngram	
+sheet	5	4	noun_chunk,pos_ngram	
+shopper	5	3	noun_chunk,pos_ngram	
+short - term memory	5	2	noun_chunk	
+significance	5	5	noun_chunk,pos_ngram	
+simple gamble	5	3	noun_chunk,pos_ngram	
+simple rule	5	4	noun_chunk,pos_ngram	
+sketch	5	5	pos_ngram	
+small business	5	2	noun_chunk,pos_ngram	
+space	5	4	noun_chunk,pos_ngram	
+specialization	5	2	noun_chunk,pos_ngram	
+stability	5	3	noun_chunk,pos_ngram	
+stanford	5	4	noun_chunk,pos_ngram	
+steak	5	1	noun_chunk,pos_ngram	
+stock market	5	2	noun_chunk,pos_ngram	
+strike	5	4	pos_ngram	
+subjective probability distribution	5	1	noun_chunk,pos_ngram	
+telling	5	5	noun_chunk,pos_ngram	
+temperament	5	3	noun_chunk,pos_ngram	
+tennis	5	3	noun_chunk,pos_ngram	
+third position	5	2	pos_ngram	
+thornton	5	1	pos_ngram	
+tidy soul	5	5	noun_chunk,pos_ngram	
+tongue	5	4	noun_chunk,pos_ngram	
+topical organization	5	1	noun_chunk,pos_ngram	
+touch	5	4	noun_chunk,pos_ngram	
+traffic	5	5	noun_chunk,pos_ngram	
+trend	5	4	noun_chunk,pos_ngram	
+trigger	5	3	pos_ngram	
+u.s	5	4	technical_surface	
+u.s.	5	4	noun_chunk,pos_ngram	
+utility function	5	2	noun_chunk,pos_ngram	
+victory	5	3	noun_chunk,pos_ngram	
+viewer	5	4	noun_chunk,pos_ngram	
+visitor	5	2	noun_chunk,pos_ngram	
+vividness	5	1	noun_chunk,pos_ngram	
+voting	5	2	noun_chunk,pos_ngram	
+wainer	5	2	noun_chunk,pos_ngram	
+watercooler	5	3	noun_chunk,pos_ngram	
+weak evidence	5	3	noun_chunk,pos_ngram	
+west	5	4	noun_chunk,pos_ngram	
+window	5	4	noun_chunk,pos_ngram	
+winter	5	5	noun_chunk,pos_ngram	
+wise	5	4	noun_chunk,pos_ngram	
+york times	5	4	pos_ngram	
+young people	5	5	noun_chunk,pos_ngram	
+" area	4	1	noun_chunk	
+" risk	4	3	noun_chunk	
+abstract word	4	1	noun_chunk,pos_ngram	
+absurdity	4	4	noun_chunk,pos_ngram	
+accurate intuition	4	2	noun_chunk,pos_ngram	
+activate idea	4	4	noun_chunk	
+adam	4	2	noun_chunk,pos_ngram	
+affective forecasting	4	1	noun_chunk,pos_ngram	yes
+alert	4	4	noun_chunk,pos_ngram	
+amos tversky	4	4	noun_chunk,pos_ngram	yes
+amygdala	4	2	noun_chunk,pos_ngram	
+anchor index	4	1	noun_chunk	
+anchoring index	4	1	noun_chunk,pos_ngram	yes
+anesthesiologist	4	2	noun_chunk,pos_ngram	
+anomaly	4	4	noun_chunk,pos_ngram	
+apartment	4	4	noun_chunk,pos_ngram	
+appearance	4	4	noun_chunk,pos_ngram	
+aptitude test	4	3	noun_chunk,pos_ngram	
+ark	4	1	noun_chunk,pos_ngram	
+arm	4	3	noun_chunk,pos_ngram	
+array	4	1	noun_chunk,pos_ngram	
+associate	4	2	pos_ngram	
+attack	4	4	pos_ngram	
+attraction	4	4	noun_chunk,pos_ngram	
+automatic function	4	3	noun_chunk,pos_ngram	
+automatic process	4	4	noun_chunk,pos_ngram	
+averse choice	4	3	pos_ngram	
+aversion coefficient	4	3	pos_ngram	
+b ’s	4	3	pos_ngram	
+bad outcome	4	3	noun_chunk,pos_ngram	
+baseball card	4	3	noun_chunk,pos_ngram	
+baumeister	4	1	noun_chunk,pos_ngram	
+bayesian reasoning	4	2	noun_chunk,pos_ngram	
+beach	4	3	noun_chunk,pos_ngram	
+beatty	4	1	noun_chunk,pos_ngram	
+berkeley	4	3	noun_chunk,pos_ngram	
+black swan	4	4	noun_chunk,pos_ngram	
+blessing	4	2	noun_chunk,pos_ngram	
+block	4	1	noun_chunk,pos_ngram	
+blue cab	4	1	noun_chunk,pos_ngram	
+blueberry tiles	4	1	noun_chunk,pos_ngram	
+bombing	4	2	noun_chunk,pos_ngram	
+bordeaux	4	1	pos_ngram	
+bordeaux wine	4	1	noun_chunk,pos_ngram	
+bridge	4	4	noun_chunk,pos_ngram	
+burden	4	4	noun_chunk,pos_ngram	
+burglary	4	1	noun_chunk,pos_ngram	
+business administration	4	2	noun_chunk,pos_ngram	
+cabdriver	4	2	noun_chunk,pos_ngram	
+calm	4	3	pos_ngram	
+candy	4	2	noun_chunk,pos_ngram	
+capture	4	1	pos_ngram,technical_surface	
+case scenario	4	2	pos_ngram	
+cash equivalent	4	2	noun_chunk,pos_ngram	
+caution	4	3	noun_chunk,pos_ngram	yes
+checklist	4	3	noun_chunk,pos_ngram	
+chemical	4	2	noun_chunk,pos_ngram	
+chicago school	4	1	noun_chunk,pos_ngram	
+christopher	4	4	pos_ngram	
+clarity	4	3	noun_chunk,pos_ngram	
+coffee	4	2	noun_chunk,pos_ngram	
+cognition	4	3	noun_chunk,pos_ngram	
+cognitive task	4	1	noun_chunk,pos_ngram	
+cold - hand experiment	4	2	noun_chunk	
+commission	4	3	noun_chunk,pos_ngram	
+commitment	4	4	noun_chunk,pos_ngram	
+common sense	4	4	noun_chunk,pos_ngram	
+company b	4	1	noun_chunk,pos_ngram	
+competition neglect	4	1	noun_chunk,pos_ngram	yes
+completion	4	2	noun_chunk,pos_ngram	
+comprehensive account	4	1	noun_chunk,pos_ngram	
+computer scientist	4	1	noun_chunk,pos_ngram	
+concurrent decision	4	2	noun_chunk,pos_ngram	
+conflicting	4	3	pos_ngram	
+conjunctive event	4	1	noun_chunk,pos_ngram	
+conscious experience	4	4	noun_chunk,pos_ngram	
+correlation coefficient	4	3	noun_chunk,pos_ngram	yes
+couple	4	4	noun_chunk,pos_ngram	
+cream	4	1	pos_ngram	
+credit card	4	3	noun_chunk,pos_ngram	yes
+critique	4	1	noun_chunk,pos_ngram	
+csikszentmihalyi	4	2	noun_chunk,pos_ngram	
+currency	4	4	noun_chunk,pos_ngram	
+dan	4	2	pos_ngram	
+dan lovallo	4	2	noun_chunk,pos_ngram	
+david stenbill	4	1	noun_chunk,pos_ngram	
+decrease	4	4	pos_ngram	
+defeat	4	4	noun_chunk,pos_ngram	
+delivery	4	2	pos_ngram	
+diagnostic	4	4	noun_chunk,pos_ngram	
+dick	4	1	noun_chunk,pos_ngram	
+dinner	4	3	noun_chunk,pos_ngram	
+direct comparison	4	2	noun_chunk,pos_ngram	
+discharge	4	1	noun_chunk,pos_ngram	
+disgust	4	4	noun_chunk,pos_ngram	
+disposition effect	4	1	noun_chunk,pos_ngram	yes
+distress	4	4	noun_chunk,pos_ngram	
+dream	4	3	noun_chunk,pos_ngram	
+duty	4	2	pos_ngram	
+dynamic	4	4	noun_chunk,pos_ngram	
+earth	4	3	noun_chunk,pos_ngram	
+easy one	4	3	noun_chunk,pos_ngram	
+econometrica	4	2	noun_chunk,pos_ngram	
+economic agent	4	4	noun_chunk,pos_ngram	
+economic behavior	4	3	noun_chunk,pos_ngram	
+edge	4	4	noun_chunk,pos_ngram	
+edgeworth	4	2	pos_ngram	
+effectiveness	4	2	noun_chunk,pos_ngram	
+elementary event	4	1	noun_chunk,pos_ngram	
+elimination	4	3	noun_chunk,pos_ngram	
+emotional arousal	4	4	noun_chunk,pos_ngram	
+emotional state	4	3	noun_chunk,pos_ngram	
+ending	4	4	pos_ngram	
+energy drink	4	1	noun_chunk,pos_ngram	
+engagement	4	3	noun_chunk,pos_ngram	
+engineering	4	2	noun_chunk,pos_ngram	
+entry	4	2	noun_chunk,pos_ngram	
+equal chance	4	2	noun_chunk,pos_ngram	
+evening	4	2	noun_chunk,pos_ngram	
+exaggeration	4	4	noun_chunk,pos_ngram	
+excess	4	4	noun_chunk,pos_ngram	
+execution	4	3	pos_ngram	
+exertion	4	3	noun_chunk,pos_ngram	
+expense	4	3	noun_chunk,pos_ngram	
+extreme case	4	3	noun_chunk,pos_ngram	
+extreme prediction	4	2	noun_chunk,pos_ngram	
+extreme predictions	4	2	noun_chunk,pos_ngram	
+facial expression	4	3	noun_chunk,pos_ngram	
+factual question	4	1	noun_chunk,pos_ngram	
+fate	4	3	noun_chunk,pos_ngram	
+fault	4	3	noun_chunk,pos_ngram	yes
+feat	4	4	noun_chunk,pos_ngram	
+feminist movement	4	1	noun_chunk,pos_ngram	
+few month	4	4	pos_ngram	
+final decision	4	2	noun_chunk,pos_ngram	
+financial adviser	4	3	noun_chunk,pos_ngram	
+first group	4	2	pos_ngram	
+first impression	4	2	pos_ngram	
+first jump	4	1	pos_ngram	
+fish	4	4	noun_chunk,pos_ngram	
+fly	4	4	noun_chunk,pos_ngram	
+focus attention	4	4	noun_chunk,pos_ngram	
+follow question	4	4	noun_chunk	
+follower	4	4	noun_chunk,pos_ngram	
+folly	4	4	noun_chunk,pos_ngram	
+foregone gain	4	2	noun_chunk,pos_ngram	
+foster	4	3	pos_ngram	
+fourth	4	3	pos_ngram	
+fragment	4	2	noun_chunk,pos_ngram	
+francisco	4	4	pos_ngram	
+fred	4	1	noun_chunk,pos_ngram	
+friday afternoon	4	1	noun_chunk,pos_ngram	
+funding	4	4	noun_chunk,pos_ngram	
+gallup	4	1	pos_ngram	
+general agreement	4	4	noun_chunk,pos_ngram	
+german psychologist	4	4	noun_chunk,pos_ngram	
+germany	4	3	noun_chunk,pos_ngram	
+good - case scenario	4	2	noun_chunk	
+good estimate	4	1	noun_chunk,pos_ngram	
+good example	4	3	noun_chunk,pos_ngram	
+good feeling	4	1	noun_chunk,pos_ngram	
+grade point	4	2	pos_ngram	
+grade point average	4	2	noun_chunk,pos_ngram	
+green driver	4	1	noun_chunk,pos_ngram	
+guarantee	4	4	noun_chunk,pos_ngram	
+hand experiment	4	2	pos_ngram	yes
+hedgehogs	4	1	noun_chunk,pos_ngram	
+heuristic question	4	1	noun_chunk,pos_ngram	
+high anchor	4	2	noun_chunk,pos_ngram	
+high rate	4	3	noun_chunk,pos_ngram	
+highlight	4	4	pos_ngram	
+highway	4	2	noun_chunk,pos_ngram	
+hindsight bias	4	2	noun_chunk,pos_ngram	yes
+hitchhiker	4	1	noun_chunk,pos_ngram	
+holder	4	3	pos_ngram	
+hole	4	2	noun_chunk,pos_ngram	
+hostility	4	2	noun_chunk,pos_ngram	
+household	4	4	noun_chunk,pos_ngram	
+howard	4	3	pos_ngram	
+hubris	4	1	noun_chunk,pos_ngram	
+hume	4	2	noun_chunk,pos_ngram	
+hussein	4	1	noun_chunk,pos_ngram,technical_surface	
+ice cream	4	1	noun_chunk,pos_ngram	
+illusory correlation	4	1	noun_chunk,pos_ngram	yes
+inch	4	3	noun_chunk,pos_ngram	
+individual difference	4	2	noun_chunk,pos_ngram	
+initiative	4	3	noun_chunk,pos_ngram	
+input variable	4	1	noun_chunk,pos_ngram	
+insecticide	4	2	noun_chunk,pos_ngram	
+integral	4	2	noun_chunk,pos_ngram	
+intelligent woman	4	1	noun_chunk,pos_ngram	
+internal consistency	4	1	noun_chunk,pos_ngram	
+intuitive impression	4	3	noun_chunk,pos_ngram	
+intuitive statistician	4	2	pos_ngram	
+intuitive thought	4	2	noun_chunk,pos_ngram	
+invisible	4	3	pos_ngram	yes
+isolation	4	4	noun_chunk,pos_ngram	
+italy	4	1	noun_chunk,pos_ngram	
+i’m	4	3	noun_chunk,pos_ngram	
+jen ’s life	4	2	noun_chunk	
+jim	4	2	noun_chunk,pos_ngram	
+julie ’s reading	4	2	noun_chunk	
+jurist	4	4	noun_chunk,pos_ngram	
+kunreuther	4	2	noun_chunk,pos_ngram	
+ladder	4	1	noun_chunk,pos_ngram	
+landing	4	1	pos_ngram	
+large sum	4	4	noun_chunk,pos_ngram	
+legislation	4	3	noun_chunk,pos_ngram	
+lewis	4	2	pos_ngram	
+life evaluation	4	1	noun_chunk,pos_ngram	
+lifestyle	4	2	noun_chunk,pos_ngram	
+like variable	4	2	pos_ngram	
+list price	4	1	noun_chunk,pos_ngram	
+load	4	2	noun_chunk,pos_ngram	
+long list	4	4	noun_chunk,pos_ngram	
+lovallo	4	2	pos_ngram	
+lung	4	2	pos_ngram	
+lung cancer	4	2	noun_chunk,pos_ngram	
+magazine	4	3	noun_chunk,pos_ngram	
+main finding	4	4	noun_chunk,pos_ngram	
+maintain	4	4	pos_ngram	
+maintenance	4	3	noun_chunk,pos_ngram	
+management practice	4	1	noun_chunk,pos_ngram	
+many experiment	4	4	pos_ngram	
+many hour	4	4	pos_ngram	
+many instance	4	2	pos_ngram	
+many situation	4	4	pos_ngram	
+many trial	4	2	pos_ngram	
+many way	4	4	pos_ngram	
+mate	4	3	noun_chunk,pos_ngram	
+median estimate	4	1	noun_chunk,pos_ngram	
+mental activity	4	3	noun_chunk,pos_ngram	
+mental energy	4	2	noun_chunk,pos_ngram	
+mental event	4	3	noun_chunk,pos_ngram	
+metronome	4	1	noun_chunk,pos_ngram	
+michotte	4	1	noun_chunk,pos_ngram	
+mirror	4	4	pos_ngram	
+misconception	4	2	noun_chunk,pos_ngram	
+mislead	4	4	pos_ngram	
+models	4	3	pos_ngram	
+monetary outcome	4	2	noun_chunk,pos_ngram	
+more effect	4	4	pos_ngram	
+more effort	4	3	pos_ngram	
+more weight	4	3	pos_ngram	
+motivation	4	3	noun_chunk,pos_ngram	
+motive	4	2	noun_chunk,pos_ngram	
+motorcycle	4	3	noun_chunk,pos_ngram	
+mouth	4	3	noun_chunk,pos_ngram	
+mr. thornton	4	1	noun_chunk,pos_ngram	
+much attention	4	3	pos_ngram	
+multiplication problem	4	1	noun_chunk,pos_ngram	
+near future	4	3	noun_chunk,pos_ngram	
+negativity	4	1	noun_chunk,pos_ngram	yes
+negotiator	4	2	noun_chunk,pos_ngram	
+nixon	4	1	noun_chunk,pos_ngram	
+normality	4	2	noun_chunk,pos_ngram	
+objective observer	4	3	noun_chunk,pos_ngram	
+obligation	4	2	noun_chunk,pos_ngram	
+obstacle field	4	1	noun_chunk,pos_ngram	
+occupational	4	2	pos_ngram	
+only way	4	4	pos_ngram	
+oregon	4	3	noun_chunk,pos_ngram	
+orienting	4	2	noun_chunk,pos_ngram	
+other belief	4	4	pos_ngram	
+other cause	4	4	pos_ngram	
+other participant	4	4	pos_ngram	
+other store	4	2	pos_ngram	
+other thing	4	4	pos_ngram	
+pace	4	3	noun_chunk,pos_ngram	
+paragraph	4	3	noun_chunk,pos_ngram	
+partial	4	4	pos_ngram	
+passion	4	4	noun_chunk,pos_ngram	
+paul meehl	4	2	noun_chunk,pos_ngram	
+payoff	4	3	noun_chunk,pos_ngram	
+peace	4	3	noun_chunk,pos_ngram	
+peach	4	1	noun_chunk,pos_ngram	
+people ’s choice	4	3	noun_chunk	
+personality trait	4	4	noun_chunk,pos_ngram	
+philosophy	4	4	noun_chunk,pos_ngram	
+pity	4	2	noun_chunk,pos_ngram	
+planet	4	3	noun_chunk,pos_ngram	
+planner	4	1	noun_chunk,pos_ngram	
+pocket	4	4	noun_chunk,pos_ngram	
+poignancy	4	2	noun_chunk,pos_ngram	
+point average	4	2	pos_ngram	
+point scale	4	3	pos_ngram	
+pointing	4	4	pos_ngram	
+poisoning	4	2	pos_ngram	
+policy maker	4	2	noun_chunk,pos_ngram	
+political scientist	4	3	noun_chunk,pos_ngram	
+possible cause	4	2	noun_chunk,pos_ngram	
+possible gain	4	2	noun_chunk,pos_ngram	
+posterior	4	1	pos_ngram	
+poverty	4	3	noun_chunk,pos_ngram	
+powerful effect	4	3	noun_chunk,pos_ngram	
+precautionary principle	4	1	noun_chunk,pos_ngram	yes
+predictable bias	4	3	noun_chunk,pos_ngram	
+pride	4	3	noun_chunk,pos_ngram	
+probabilistic insurance	4	1	noun_chunk,pos_ngram	
+problem b	4	1	noun_chunk,pos_ngram	
+professional basketball	4	3	noun_chunk,pos_ngram	
+professional golfer	4	2	noun_chunk,pos_ngram	
+professor r	4	1	noun_chunk,pos_ngram	
+profile	4	3	noun_chunk,pos_ngram	
+profitability	4	3	noun_chunk,pos_ngram	
+program a	4	2	noun_chunk,pos_ngram	
+program b	4	2	noun_chunk,pos_ngram	
+psychological research	4	4	noun_chunk,pos_ngram	
+race	4	3	noun_chunk,pos_ngram	
+random anchor	4	1	noun_chunk,pos_ngram	
+random event	4	1	noun_chunk,pos_ngram	
+rational model	4	4	noun_chunk,pos_ngram	
+recent year	4	4	noun_chunk,pos_ngram	
+regress	4	2	noun_chunk,pos_ngram	yes
+regular store	4	1	noun_chunk,pos_ngram	
+related question	4	3	noun_chunk,pos_ngram	
+relative frequency	4	4	noun_chunk,pos_ngram	
+relevance	4	4	noun_chunk,pos_ngram	
+relevant fact	4	4	noun_chunk,pos_ngram	
+relevant information	4	3	noun_chunk,pos_ngram	
+religion	4	3	noun_chunk,pos_ngram	
+replacement	4	2	noun_chunk,pos_ngram	
+reply	4	2	noun_chunk,pos_ngram	
+ride	4	3	noun_chunk,pos_ngram	
+risk taker	4	2	noun_chunk,pos_ngram	
+riskless	4	2	pos_ngram	
+risky option	4	3	noun_chunk,pos_ngram	
+ruler	4	4	noun_chunk,pos_ngram	
+s&p	4	1	pos_ngram	
+salt	4	3	noun_chunk,pos_ngram	
+same effect	4	4	pos_ngram	
+same information	4	4	pos_ngram	
+same mistake	4	3	pos_ngram	
+same utility	4	2	pos_ngram	
+san	4	4	pos_ngram	
+san francisco	4	4	noun_chunk,pos_ngram	
+sat	4	4	pos_ngram,technical_surface	yes
+scoring	4	3	noun_chunk,pos_ngram	
+second stage	4	1	noun_chunk,pos_ngram	
+security	4	4	noun_chunk,pos_ngram	
+several way	4	4	pos_ngram	
+shame	4	4	noun_chunk,pos_ngram	
+shane	4	2	pos_ngram	
+shane frederick	4	2	noun_chunk,pos_ngram	
+significant difference	4	4	noun_chunk,pos_ngram	
+simple question	4	4	noun_chunk,pos_ngram	
+skin	4	2	noun_chunk,pos_ngram	
+slope	4	2	noun_chunk,pos_ngram	
+small amount	4	4	noun_chunk,pos_ngram	
+social situation	4	3	noun_chunk,pos_ngram	
+sox	4	1	noun_chunk,pos_ngram	
+speaker	4	3	noun_chunk,pos_ngram	
+spelling	4	2	noun_chunk,pos_ngram	
+spill	4	3	noun_chunk,pos_ngram	
+spin	4	3	noun_chunk,pos_ngram	
+sprint	4	2	noun_chunk,pos_ngram	
+squadron	4	1	noun_chunk,pos_ngram	
+standard economic theory	4	3	noun_chunk,pos_ngram	
+standard theory	4	2	noun_chunk,pos_ngram	
+statistical algorithm	4	2	noun_chunk,pos_ngram	
+statistical analysis	4	4	noun_chunk,pos_ngram	
+statistical information	4	3	noun_chunk,pos_ngram	
+statistical intuition	4	4	noun_chunk,pos_ngram	
+statistical prediction	4	1	noun_chunk,pos_ngram	
+stenbill	4	1	pos_ngram	
+strained	4	1	noun_chunk,pos_ngram	
+stroll	4	3	noun_chunk,pos_ngram	
+studio	4	2	noun_chunk,pos_ngram	
+such question	4	3	pos_ngram	
+sum - like variable	4	2	noun_chunk	
+summer	4	3	noun_chunk,pos_ngram	
+sun	4	4	noun_chunk,pos_ngram	yes
+sunk cost	4	2	noun_chunk,pos_ngram	yes
+suspiciousness	4	1	noun_chunk,pos_ngram	
+swan	4	4	pos_ngram	
+taker	4	2	pos_ngram	
+tax code	4	2	noun_chunk,pos_ngram	
+taxis	4	1	noun_chunk,pos_ngram	
+teenager	4	3	noun_chunk,pos_ngram	
+term prediction	4	2	pos_ngram	
+terrorism	4	3	noun_chunk,pos_ngram,technical_surface	
+therapies	4	2	pos_ngram	
+therapist	4	3	noun_chunk,pos_ngram	
+tiles	4	1	pos_ngram	
+tom w problem	4	2	noun_chunk,pos_ngram	yes
+top right	4	1	pos_ngram	
+total happiness	4	1	noun_chunk,pos_ngram	
+tower	4	1	noun_chunk,pos_ngram	
+toxic waste	4	1	noun_chunk,pos_ngram	
+toy	4	3	noun_chunk,pos_ngram	
+tradeoff	4	2	pos_ngram	
+transformation	4	1	noun_chunk,pos_ngram	
+trip	4	2	noun_chunk,pos_ngram	
+tv	4	3	pos_ngram,technical_surface	yes
+unbiased prediction	4	1	noun_chunk,pos_ngram	
+uncertain event	4	2	noun_chunk,pos_ngram	
+uncertain prospect	4	4	noun_chunk,pos_ngram	
+undertaking	4	2	noun_chunk,pos_ngram	
+underweighting	4	2	noun_chunk,pos_ngram	
+unexpected	4	4	pos_ngram	
+upshot	4	4	noun_chunk,pos_ngram	
+urge	4	2	noun_chunk,pos_ngram	
+valid cue	4	1	noun_chunk,pos_ngram	
+validity environment	4	2	pos_ngram	
+variability	4	3	noun_chunk,pos_ngram	
+vase	4	2	noun_chunk,pos_ngram	
+vast amount	4	4	noun_chunk,pos_ngram	
+vein	4	3	noun_chunk,pos_ngram	
+violence	4	1	noun_chunk,pos_ngram	
+visit	4	3	noun_chunk,pos_ngram	
+vivid image	4	1	noun_chunk,pos_ngram	
+vomit	4	2	pos_ngram	
+w problem	4	2	pos_ngram	yes
+weighted average	4	2	noun_chunk,pos_ngram	
+wilson	4	2	noun_chunk,pos_ngram	
+win marble	4	2	noun_chunk	
+yesterday	4	3	pos_ngram	
+young man	4	3	noun_chunk,pos_ngram	
+zwerling	4	1	noun_chunk,pos_ngram	
+" chance	3	2	noun_chunk	
+" probability	3	3	noun_chunk	
+" prospect theory	3	3	noun_chunk	
+a. tversky	3	1	noun_chunk,pos_ngram	
+abnormal event	3	2	noun_chunk,pos_ngram	
+accidental death	3	2	noun_chunk,pos_ngram	
+actuarial	3	2	noun_chunk,pos_ngram	
+add-1 task	3	1	noun_chunk,pos_ngram	yes
+add-3 exercise	3	1	noun_chunk,pos_ngram	
+adequate opportunity	3	2	noun_chunk,pos_ngram	
+admired	3	2	pos_ngram	
+admonition	3	3	pos_ngram	
+adoption	3	2	noun_chunk,pos_ngram	
+african nation	3	1	noun_chunk,pos_ngram	
+aggregation	3	2	noun_chunk,pos_ngram	
+agony	3	2	noun_chunk,pos_ngram	
+aid	3	2	noun_chunk,pos_ngram	
+air force	3	3	pos_ngram	
+america	3	2	noun_chunk,pos_ngram	
+anchoring question	3	1	noun_chunk,pos_ngram	
+ann	3	3	noun_chunk,pos_ngram	yes
+anxiety	3	3	noun_chunk,pos_ngram	
+appointment	3	2	noun_chunk,pos_ngram	
+appreciation	3	2	pos_ngram	
+arrow	3	3	noun_chunk,pos_ngram	yes
+ashenfelter ’s formula	3	1	noun_chunk	
+aspiration	3	2	noun_chunk,pos_ngram	
+assess quantity	3	1	noun_chunk	
+assignment	3	2	noun_chunk,pos_ngram	
+assistance	3	3	noun_chunk,pos_ngram	
+associative system	3	3	noun_chunk,pos_ngram	
+authority	3	3	noun_chunk,pos_ngram	
+automobile	3	3	noun_chunk,pos_ngram	
+average contribution	3	2	noun_chunk,pos_ngram	
+average effect	3	1	pos_ngram	
+average length	3	1	noun_chunk,pos_ngram	
+average score	3	1	noun_chunk,pos_ngram	
+bad choice	3	3	noun_chunk,pos_ngram	
+bad experience	3	3	noun_chunk,pos_ngram	
+bad luck	3	3	noun_chunk,pos_ngram	
+bad option	3	2	noun_chunk,pos_ngram	
+bargh	3	1	noun_chunk,pos_ngram	
+baruch	3	3	pos_ngram	
+base - rate neglect	3	3	noun_chunk	
+basement	3	3	noun_chunk,pos_ngram	
+basic assumption	3	3	noun_chunk,pos_ngram	
+bayes ’s rule	3	2	noun_chunk	
+bc	3	1	noun_chunk,pos_ngram,technical_surface	
+beauty	3	3	noun_chunk,pos_ngram	
+behalf	3	3	noun_chunk,pos_ngram	
+bend	3	3	noun_chunk,pos_ngram	
+bentham	3	1	noun_chunk,pos_ngram	
+bernoulli ’s error	3	2	noun_chunk	
+bet a	3	1	noun_chunk,pos_ngram	
+bet b	3	1	noun_chunk,pos_ngram	
+beth	3	1	pos_ngram	
+betting	3	3	noun_chunk,pos_ngram	
+big thing	3	2	noun_chunk,pos_ngram	
+blackboard	3	3	noun_chunk,pos_ngram	
+bomber	3	1	noun_chunk,pos_ngram	
+bond	3	2	pos_ngram	
+bookstore	3	2	noun_chunk,pos_ngram	
+booth	3	1	noun_chunk,pos_ngram	
+bottom line	3	2	pos_ngram	
+brain activity	3	3	noun_chunk,pos_ngram	
+brain region	3	2	noun_chunk,pos_ngram	
+brain response	3	2	noun_chunk,pos_ngram	
+brake	3	2	noun_chunk,pos_ngram	
+breakthrough	3	3	noun_chunk,pos_ngram	
+brow	3	2	noun_chunk,pos_ngram	
+bully	3	1	noun_chunk,pos_ngram	
+burn child	3	1	noun_chunk	
+burst	3	2	noun_chunk,pos_ngram	
+bush	3	3	pos_ngram	
+business school	3	3	noun_chunk,pos_ngram	
+butler	3	1	noun_chunk,pos_ngram	
+cab problem	3	1	noun_chunk,pos_ngram	
+cake	3	2	pos_ngram	
+campbell	3	2	pos_ngram	
+cancer rate	3	1	pos_ngram	
+canonical representation	3	1	noun_chunk,pos_ngram	
+carrier	3	2	noun_chunk,pos_ngram	
+cartoon	3	2	noun_chunk,pos_ngram	
+casualty	3	2	noun_chunk,pos_ngram	
+caterer	3	1	noun_chunk,pos_ngram	
+causal connection	3	3	noun_chunk,pos_ngram	
+centimeter	3	3	noun_chunk,pos_ngram	
+central role	3	3	noun_chunk,pos_ngram	
+child care	3	1	noun_chunk,pos_ngram	
+child poisoning	3	2	noun_chunk,pos_ngram	
+childhood	3	2	noun_chunk,pos_ngram	
+china	3	2	noun_chunk,pos_ngram	
+chocolate bar	3	1	noun_chunk,pos_ngram	
+christopher hsee	3	3	noun_chunk,pos_ngram	
+civil suit	3	1	noun_chunk,pos_ngram	
+classic experiment	3	3	noun_chunk,pos_ngram	
+clear instance	3	2	noun_chunk,pos_ngram	
+clinical psychologist	3	2	noun_chunk,pos_ngram	
+clue	3	3	noun_chunk,pos_ngram	
+cluster	3	3	noun_chunk,pos_ngram	
+cognitive reflection	3	2	pos_ngram	
+cognitive reflection test	3	2	noun_chunk,pos_ngram	
+coherent pattern	3	2	noun_chunk,pos_ngram	
+college student	3	2	noun_chunk,pos_ngram	
+combat duty	3	1	noun_chunk,pos_ngram	
+comfort	3	3	noun_chunk,pos_ngram	
+common bias	3	3	noun_chunk,pos_ngram	
+company b.	3	1	pos_ngram	
+component	3	1	noun_chunk,pos_ngram	
+compromise	3	3	noun_chunk,pos_ngram	
+concave	3	1	pos_ngram	
+conditioning	3	3	pos_ngram	
+confirmatory mode	3	1	noun_chunk,pos_ngram	
+consciousness	3	3	noun_chunk,pos_ngram	
+consensus	3	3	pos_ngram	
+consonant	3	1	noun_chunk,pos_ngram	
+constraint	3	2	noun_chunk,pos_ngram	
+contour	3	3	noun_chunk,pos_ngram	
+contours	3	3	noun_chunk,pos_ngram	
+contractor	3	2	noun_chunk,pos_ngram	
+contradiction	3	3	noun_chunk,pos_ngram	
+convention	3	2	noun_chunk,pos_ngram	
+corny	3	1	pos_ngram	
+corny pun	3	1	noun_chunk,pos_ngram	
+corporation	3	1	pos_ngram	
+counterexample	3	2	noun_chunk,pos_ngram	
+cover story	3	3	noun_chunk,pos_ngram	
+coworker	3	3	noun_chunk,pos_ngram	
+critical item	3	1	noun_chunk,pos_ngram	
+crt	3	1	noun_chunk,pos_ngram,technical_surface	
+cure	3	3	noun_chunk,pos_ngram	
+current mood	3	2	noun_chunk,pos_ngram	
+current situation	3	3	noun_chunk,pos_ngram	
+current view	3	3	noun_chunk,pos_ngram	
+d size	3	1	pos_ngram	
+debt	3	3	noun_chunk,pos_ngram	
+default case	3	2	noun_chunk,pos_ngram	
+delivery room	3	1	noun_chunk,pos_ngram	
+democracy	3	2	noun_chunk,pos_ngram	
+dentist	3	2	noun_chunk,pos_ngram	
+departure	3	2	noun_chunk,pos_ngram	
+desirability	3	3	noun_chunk,pos_ngram	
+determination	3	3	noun_chunk,pos_ngram	
+device	3	3	noun_chunk,pos_ngram	
+diabete	3	2	noun_chunk,pos_ngram	
+diabetes	3	2	noun_chunk,pos_ngram	
+diagnosticity	3	1	noun_chunk,pos_ngram	
+dial	3	1	noun_chunk,pos_ngram	
+different choice	3	2	noun_chunk,pos_ngram	
+different field	3	1	noun_chunk,pos_ngram	
+different preference	3	2	noun_chunk,pos_ngram	
+different question	3	2	noun_chunk,pos_ngram	
+difficult problem	3	3	noun_chunk,pos_ngram	
+dilate pupil	3	3	noun_chunk	
+dilation	3	1	pos_ngram	
+dinnerware set	3	1	noun_chunk,pos_ngram	
+director	3	3	noun_chunk,pos_ngram	
+disclosure	3	1	noun_chunk,pos_ngram	
+disease problem	3	1	noun_chunk,pos_ngram	yes
+disjoint	3	1	pos_ngram	
+disposal	3	3	noun_chunk,pos_ngram	
+distinctive feature	3	3	noun_chunk,pos_ngram	
+distinctive pattern	3	3	noun_chunk,pos_ngram	
+distributional information	3	1	noun_chunk,pos_ngram	
+doctor	3	3	noun_chunk,pos_ngram	
+doctrine	3	3	pos_ngram	
+dollar amount	3	3	noun_chunk,pos_ngram	
+dozen red rose	3	1	noun_chunk,pos_ngram	
+drinker	3	2	noun_chunk,pos_ngram	
+dwelling	3	2	noun_chunk,pos_ngram	
+early experiment	3	3	noun_chunk,pos_ngram	
+early study	3	3	noun_chunk,pos_ngram	
+earphone	3	2	noun_chunk,pos_ngram	
+ed diener	3	2	noun_chunk,pos_ngram	
+editorial	3	2	pos_ngram	
+efficiency	3	2	noun_chunk,pos_ngram	
+effortful system	3	3	noun_chunk,pos_ngram	
+effortless	3	2	noun_chunk,pos_ngram	yes
+elicitation	3	2	noun_chunk,pos_ngram	
+emotional attitude	3	2	noun_chunk,pos_ngram	
+employment	3	2	noun_chunk,pos_ngram	
+endanger specie	3	2	noun_chunk	
+endangered specie	3	2	noun_chunk,pos_ngram	
+enrollment	3	2	noun_chunk,pos_ngram	
+entire life	3	2	noun_chunk,pos_ngram	
+entrepreneurial	3	1	pos_ngram	
+envelope	3	2	noun_chunk,pos_ngram	
+equation	3	2	noun_chunk,pos_ngram	
+equivalent statement	3	3	noun_chunk,pos_ngram	
+eureka	3	3	noun_chunk,pos_ngram	
+europe	3	3	noun_chunk,pos_ngram	
+event a	3	1	noun_chunk,pos_ngram	
+everyday experience	3	3	noun_chunk,pos_ngram	
+exactly what	3	3	noun_chunk	
+exaggerated optimism	3	2	noun_chunk,pos_ngram	
+executive control	3	2	noun_chunk,pos_ngram	yes
+exemplar	3	2	noun_chunk,pos_ngram	
+expect return	3	3	noun_chunk	
+expedition	3	1	noun_chunk,pos_ngram	
+experienced professional	3	1	noun_chunk,pos_ngram	
+experimental economist	3	2	noun_chunk,pos_ngram	
+expert judgment	3	1	noun_chunk,pos_ngram	
+exploration	3	3	noun_chunk,pos_ngram	
+exploratorium	3	1	noun_chunk,pos_ngram	
+extreme result	3	1	noun_chunk,pos_ngram	
+extremeness	3	2	noun_chunk,pos_ngram	
+fake	3	1	noun_chunk,pos_ngram	
+familiar system	3	3	noun_chunk,pos_ngram	
+family history	3	1	noun_chunk,pos_ngram	
+fashion	3	3	noun_chunk,pos_ngram	
+fast thinking	3	3	noun_chunk,pos_ngram	yes
+father	3	3	noun_chunk,pos_ngram	
+favorite example	3	3	noun_chunk,pos_ngram	
+feller	3	1	noun_chunk,pos_ngram	
+fiction	3	3	noun_chunk,pos_ngram	
+fifth	3	3	pos_ngram	
+file	3	2	noun_chunk,pos_ngram	
+final score	3	2	noun_chunk,pos_ngram	
+financial crisis	3	3	noun_chunk,pos_ngram	
+financial market	3	3	noun_chunk,pos_ngram	
+financial outcome	3	2	noun_chunk,pos_ngram	
+first essay	3	1	pos_ngram	
+first guest	3	1	pos_ngram	
+first part	3	3	pos_ngram	
+first phase	3	3	pos_ngram	
+first set	3	1	pos_ngram	
+flight instructor	3	2	noun_chunk,pos_ngram	
+fluke	3	3	noun_chunk,pos_ngram	
+focal event	3	1	noun_chunk,pos_ngram	
+follow chapter	3	3	noun_chunk	
+follow scenario	3	3	noun_chunk	
+following chapter	3	3	noun_chunk,pos_ngram	
+following problem	3	2	noun_chunk,pos_ngram	
+food break	3	2	noun_chunk,pos_ngram	
+football game	3	3	noun_chunk,pos_ngram	
+ford stock	3	1	noun_chunk,pos_ngram	
+forecaster	3	3	noun_chunk,pos_ngram	
+framework	3	3	noun_chunk,pos_ngram	
+francis	3	2	pos_ngram	
+frey	3	1	pos_ngram	
+frivolous claim	3	1	noun_chunk,pos_ngram	
+frowner	3	2	noun_chunk,pos_ngram	
+fuel	3	2	noun_chunk,pos_ngram	
+fun	3	1	pos_ngram	yes
+future price	3	1	noun_chunk,pos_ngram	
+future value	3	2	noun_chunk,pos_ngram	
+gambler	3	1	pos_ngram	
+gambler ’s fallacy	3	1	noun_chunk	
+gates	3	1	pos_ngram	
+gates foundation	3	1	noun_chunk,pos_ngram	
+general idea	3	3	noun_chunk,pos_ngram	
+general population	3	3	noun_chunk,pos_ngram	
+george w.	3	3	pos_ngram	
+george w. bush	3	3	noun_chunk,pos_ngram	
+gladwell	3	1	noun_chunk,pos_ngram	
+glass vase	3	1	noun_chunk,pos_ngram	
+good answer	3	3	noun_chunk,pos_ngram	
+good chance	3	3	noun_chunk,pos_ngram	
+good intuitive statistician	3	2	noun_chunk,pos_ngram	
+good one	3	1	noun_chunk,pos_ngram	
+good outcome	3	3	noun_chunk,pos_ngram	
+good part	3	3	noun_chunk,pos_ngram	
+good possible story	3	3	noun_chunk,pos_ngram	
+good thing	3	3	noun_chunk,pos_ngram	
+google story	3	1	noun_chunk,pos_ngram	
+government agency	3	3	noun_chunk,pos_ngram	
+graduate school	3	3	noun_chunk,pos_ngram	
+graduating	3	2	pos_ngram	
+grandmother	3	1	noun_chunk,pos_ngram	
+gratification	3	2	noun_chunk,pos_ngram	
+great confidence	3	2	noun_chunk,pos_ngram	
+green cab	3	1	noun_chunk,pos_ngram	
+grip	3	3	noun_chunk,pos_ngram	
+growth	3	3	noun_chunk,pos_ngram	
+guessing	3	3	pos_ngram	
+gun	3	3	noun_chunk,pos_ngram	yes
+hammer	3	1	noun_chunk,pos_ngram	
+hand urn	3	1	pos_ngram	
+happy face	3	1	noun_chunk,pos_ngram	
+happy life	3	1	noun_chunk,pos_ngram	
+hardware	3	2	pos_ngram	
+hardworking	3	2	pos_ngram	
+hazard	3	1	noun_chunk,pos_ngram	
+health problem	3	1	pos_ngram	
+hebrew	3	3	noun_chunk,pos_ngram	
+hedonic experience	3	2	noun_chunk,pos_ngram	
+heider	3	1	noun_chunk,pos_ngram	
+herbert	3	2	pos_ngram	
+herbert simon	3	2	noun_chunk,pos_ngram	
+hershey	3	1	noun_chunk,pos_ngram	
+high intelligence	3	3	noun_chunk,pos_ngram	
+high level	3	3	noun_chunk,pos_ngram	
+high return	3	3	noun_chunk,pos_ngram	
+high score	3	3	noun_chunk,pos_ngram	
+high value	3	3	noun_chunk,pos_ngram	
+highly intelligent woman	3	1	noun_chunk	
+hill	3	2	noun_chunk,pos_ngram	
+housework	3	2	noun_chunk,pos_ngram	
+howard wainer	3	2	noun_chunk,pos_ngram	
+human life	3	1	noun_chunk,pos_ngram	
+humiliation	3	2	noun_chunk,pos_ngram	
+ideal	3	3	noun_chunk,pos_ngram	
+identity	3	3	noun_chunk,pos_ngram	
+illustration	3	3	noun_chunk,pos_ngram	
+imagery	3	2	pos_ngram	
+imaginability	3	1	noun_chunk,pos_ngram	
+immediate succession	3	3	noun_chunk,pos_ngram	
+implementation	3	3	noun_chunk,pos_ngram	
+inclination	3	3	noun_chunk,pos_ngram	
+increase effort	3	3	noun_chunk	
+indifference map	3	1	noun_chunk,pos_ngram	yes
+inevitability	3	2	noun_chunk,pos_ngram	
+inferior outcome	3	3	noun_chunk,pos_ngram	
+inferiority	3	2	noun_chunk,pos_ngram	
+inhalation	3	2	noun_chunk,pos_ngram	
+initial value	3	1	noun_chunk,pos_ngram	
+insurance policy	3	2	noun_chunk,pos_ngram	
+insurance salesperson	3	1	noun_chunk,pos_ngram	
+intelligent person	3	3	noun_chunk,pos_ngram	
+internet	3	3	noun_chunk,pos_ngram	
+interview procedure	3	1	noun_chunk,pos_ngram	
+interviewee	3	2	noun_chunk,pos_ngram	
+interviewing	3	2	noun_chunk,pos_ngram	
+introduction	3	3	noun_chunk,pos_ngram	yes
+intuitive choice	3	3	noun_chunk,pos_ngram	
+intuitive decision	3	3	pos_ngram	
+intuitive decision making	3	3	noun_chunk,pos_ngram	
+intuitive expertise	3	2	noun_chunk,pos_ngram	
+intuitive preference	3	2	noun_chunk,pos_ngram	
+invention	3	1	noun_chunk,pos_ngram	
+island	3	2	noun_chunk,pos_ngram	
+israeli air	3	3	pos_ngram	
+israeli air force	3	3	noun_chunk,pos_ngram	
+jacket	3	1	noun_chunk,pos_ngram	
+jacoby	3	1	noun_chunk,pos_ngram	
+james	3	2	noun_chunk,pos_ngram	
+jar	3	1	noun_chunk,pos_ngram	
+joint article	3	2	noun_chunk,pos_ngram	
+judgment error	3	3	noun_chunk,pos_ngram	
+judgmental heuristic	3	1	noun_chunk,pos_ngram	
+juice	3	3	noun_chunk,pos_ngram	
+july	3	2	noun_chunk,pos_ngram	
+keith	3	2	pos_ngram	
+keith stanovich	3	2	noun_chunk,pos_ngram	
+key question	3	3	noun_chunk,pos_ngram	
+lake	3	1	noun_chunk,pos_ngram	
+lamp	3	2	noun_chunk,pos_ngram	
+large collection	3	3	noun_chunk,pos_ngram	
+large dilation	3	1	noun_chunk,pos_ngram	
+large group	3	3	noun_chunk,pos_ngram	
+large hospital	3	1	noun_chunk,pos_ngram	
+large school	3	1	noun_chunk,pos_ngram	
+large triangle	3	1	noun_chunk,pos_ngram	
+last month	3	2	pos_ngram	
+league	3	2	noun_chunk,pos_ngram	
+leave cell	3	1	noun_chunk	
+left - hand column	3	2	noun_chunk	
+left cell	3	1	noun_chunk,pos_ngram	
+libertarian paternalism	3	1	noun_chunk,pos_ngram	yes
+like	3	2	noun_chunk,pos_ngram	
+limit information	3	3	noun_chunk	
+limited budget	3	3	noun_chunk,pos_ngram	
+limited information	3	3	noun_chunk,pos_ngram	
+lion	3	2	noun_chunk,pos_ngram	
+literature	3	2	pos_ngram	
+little attention	3	3	noun_chunk,pos_ngram	
+little book	3	1	pos_ngram	
+little effort	3	2	noun_chunk,pos_ngram	
+little feel	3	1	noun_chunk,pos_ngram	
+little information	3	3	noun_chunk,pos_ngram	
+little or no regard	3	1	noun_chunk	
+little sympathy	3	1	noun_chunk,pos_ngram	
+loan	3	2	noun_chunk,pos_ngram	
+log	3	1	noun_chunk,pos_ngram	
+loneliness	3	2	noun_chunk,pos_ngram	
+long - term forecast	3	2	noun_chunk	
+long evolutionary history	3	3	noun_chunk,pos_ngram	
+long trial	3	1	noun_chunk,pos_ngram	
+loss aversion coefficient	3	2	noun_chunk,pos_ngram	
+low end	3	3	noun_chunk,pos_ngram	
+luxury	3	3	noun_chunk,pos_ngram	
+m.	3	1	noun_chunk,pos_ngram	
+main point	3	3	noun_chunk,pos_ngram	
+maneuver	3	1	noun_chunk,pos_ngram	
+mantra	3	1	noun_chunk,pos_ngram	
+many example	3	3	pos_ngram	
+many thing	3	3	pos_ngram	
+marketing	3	3	pos_ngram	
+mathematical psychology	3	3	noun_chunk,pos_ngram	
+matthew	3	2	pos_ngram	
+matthew rabin	3	2	noun_chunk,pos_ngram	
+meat	3	3	pos_ngram	
+mediocrity	3	1	noun_chunk,pos_ngram	
+medium coverage	3	2	noun_chunk,pos_ngram	
+meehl ’s book	3	1	noun_chunk	
+membership	3	1	pos_ngram	
+membership fee	3	1	noun_chunk,pos_ngram	
+mental multiplication	3	1	noun_chunk,pos_ngram	
+menu	3	2	noun_chunk,pos_ngram	
+mere statistic	3	3	noun_chunk,pos_ngram	
+merger	3	1	noun_chunk,pos_ngram	
+microphone	3	1	noun_chunk,pos_ngram	
+midwest	3	2	noun_chunk,pos_ngram	
+mihaly	3	2	pos_ngram	
+mindik	3	1	noun_chunk,pos_ngram	
+minefield	3	1	noun_chunk,pos_ngram	
+ministry	3	1	noun_chunk,pos_ngram	
+minor celebrity	3	2	noun_chunk,pos_ngram	
+minority	3	3	noun_chunk,pos_ngram	
+mirror image	3	3	noun_chunk,pos_ngram	
+miswanting	3	1	noun_chunk,pos_ngram	
+more information	3	1	pos_ngram	
+more regret	3	1	pos_ngram	
+more risk	3	2	pos_ngram	
+most respondent	3	3	pos_ngram	
+motel	3	1	noun_chunk,pos_ngram	
+mother	3	2	noun_chunk,pos_ngram	
+motion	3	2	noun_chunk,pos_ngram	
+mountain	3	3	noun_chunk,pos_ngram	
+mr. jones	3	1	noun_chunk,pos_ngram	
+much faith	3	3	pos_ngram	
+multiattribute	3	1	pos_ngram	
+multiple way	3	3	noun_chunk,pos_ngram	
+multitude	3	3	noun_chunk,pos_ngram	
+mutual fund	3	1	noun_chunk,pos_ngram	
+naive subject	3	1	noun_chunk,pos_ngram	
+narrative fallacy	3	1	noun_chunk,pos_ngram	yes
+natural starting	3	1	pos_ngram	
+natural starting point	3	1	noun_chunk,pos_ngram	
+negative outcome	3	1	noun_chunk,pos_ngram	
+negativity dominance	3	1	noun_chunk,pos_ngram	yes
+neighborhood	3	3	noun_chunk,pos_ngram	
+neighboring	3	3	pos_ngram	
+net effect	3	3	noun_chunk,pos_ngram	
+new fact	3	3	noun_chunk,pos_ngram	
+new one	3	3	noun_chunk,pos_ngram	
+new procedure	3	1	noun_chunk,pos_ngram	
+new situation	3	2	noun_chunk,pos_ngram	
+new word	3	2	noun_chunk,pos_ngram	
+new york city	3	3	noun_chunk,pos_ngram	
+next day	3	3	pos_ngram	
+next question	3	3	pos_ngram	
+next try	3	2	pos_ngram	
+nonevent	3	3	noun_chunk,pos_ngram	
+nonlinearity	3	1	noun_chunk,pos_ngram	
+norbert	3	3	pos_ngram	
+norbert schwarz	3	3	noun_chunk,pos_ngram	
+normal choice	3	2	noun_chunk,pos_ngram	
+novelty	3	3	noun_chunk,pos_ngram	
+numerical prediction	3	1	noun_chunk,pos_ngram	
+nurse	3	1	noun_chunk,pos_ngram	
+o.	3	2	pos_ngram	
+obama	3	2	pos_ngram	
+objection	3	3	noun_chunk,pos_ngram	
+objectives	3	3	pos_ngram	
+offensive	3	2	noun_chunk,pos_ngram	
+officer school	3	1	noun_chunk,pos_ngram	
+only cause	3	2	pos_ngram	
+only difference	3	3	pos_ngram	
+opponent	3	2	noun_chunk,pos_ngram	
+original question	3	3	noun_chunk,pos_ngram	
+other animal	3	3	pos_ngram	
+other child	3	1	pos_ngram	
+other context	3	2	pos_ngram	
+other contexts	3	2	pos_ngram	
+other idea	3	1	pos_ngram	
+other professional	3	3	pos_ngram	
+other question	3	3	pos_ngram	
+outdo	3	2	pos_ngram	
+outline	3	3	noun_chunk,pos_ngram	
+overload	3	1	pos_ngram	
+own behavior	3	2	pos_ngram	
+own intuition	3	3	pos_ngram	
+own thinking	3	2	pos_ngram	
+pacific	3	2	pos_ngram	
+package	3	3	noun_chunk,pos_ngram	
+particular person	3	3	noun_chunk,pos_ngram	
+party candidate	3	1	pos_ngram	
+pass	3	3	noun_chunk,pos_ngram	
+passing	3	3	noun_chunk,pos_ngram	
+past year	3	2	noun_chunk,pos_ngram	
+pastness	3	1	noun_chunk,pos_ngram	
+paternalism	3	1	pos_ngram	yes
+patient b.	3	1	pos_ngram	
+patron	3	2	noun_chunk,pos_ngram	
+payment	3	2	noun_chunk,pos_ngram	
+pen	3	1	noun_chunk,pos_ngram	yes
+pennsylvania	3	3	noun_chunk,pos_ngram	
+people ’s attitude	3	2	noun_chunk	
+percentile	3	1	noun_chunk,pos_ngram	
+personal impression	3	3	noun_chunk,pos_ngram	
+personality description	3	3	noun_chunk,pos_ngram	
+personality sketch	3	3	noun_chunk,pos_ngram	
+persuasive message	3	3	noun_chunk,pos_ngram	
+petersburg	3	1	noun_chunk,pos_ngram	
+phd	3	1	noun_chunk,pos_ngram	
+phenomena	3	3	pos_ngram	
+philip	3	3	pos_ngram	
+phone number	3	3	noun_chunk,pos_ngram	
+physical causality	3	1	noun_chunk,pos_ngram	
+physical quantity	3	2	noun_chunk,pos_ngram	
+pie	3	1	noun_chunk,pos_ngram	
+pitch	3	3	noun_chunk,pos_ngram	
+plain	3	3	noun_chunk,pos_ngram	
+plate	3	2	pos_ngram	
+plot	3	2	noun_chunk,pos_ngram	
+poetry	3	1	noun_chunk,pos_ngram	
+poker	3	3	noun_chunk,pos_ngram	
+police	3	2	noun_chunk,pos_ngram	
+portrait	3	3	pos_ngram	
+position a	3	1	noun_chunk,pos_ngram	
+possible result	3	3	noun_chunk,pos_ngram	
+possible story	3	3	pos_ngram	
+post	3	3	pos_ngram	
+poster	3	1	noun_chunk,pos_ngram	
+posterior odd	3	1	noun_chunk,pos_ngram	
+practice lesson	3	1	noun_chunk,pos_ngram	
+practitioner	3	3	noun_chunk,pos_ngram	
+praise	3	2	noun_chunk,pos_ngram	
+precaution	3	3	noun_chunk,pos_ngram	yes
+precisely what	3	3	noun_chunk	
+predict outcome	3	2	noun_chunk	
+predictive accuracy	3	3	noun_chunk,pos_ngram	
+premonition	3	2	noun_chunk,pos_ngram	
+prescience	3	1	noun_chunk,pos_ngram	
+present state	3	2	noun_chunk,pos_ngram	
+president obama	3	2	noun_chunk,pos_ngram	
+prior belief	3	2	noun_chunk,pos_ngram	
+process b	3	1	noun_chunk,pos_ngram	
+producer	3	3	noun_chunk,pos_ngram	
+production	3	3	noun_chunk,pos_ngram	
+productivity	3	2	pos_ngram	
+professional investor	3	1	noun_chunk,pos_ngram	
+prolong practice	3	3	noun_chunk	
+prolonged practice	3	3	noun_chunk,pos_ngram	
+pseudo	3	3	noun_chunk,pos_ngram	yes
+psychological intensity	3	1	noun_chunk,pos_ngram	
+psychological interpretation	3	3	noun_chunk,pos_ngram	
+psychologist paul	3	3	pos_ngram	
+psychotherapist	3	2	noun_chunk,pos_ngram	
+public health problem	3	1	noun_chunk,pos_ngram	
+pulse	3	2	noun_chunk,pos_ngram	
+pun	3	1	pos_ngram	
+punitive damage	3	1	noun_chunk,pos_ngram	
+pupil size	3	2	noun_chunk,pos_ngram	
+qualification	3	3	noun_chunk,pos_ngram	
+radio	3	3	noun_chunk,pos_ngram	
+rate frequency	3	2	pos_ngram	
+rate neglect	3	3	pos_ngram	
+real thing	3	3	noun_chunk,pos_ngram	
+recent decade	3	2	noun_chunk,pos_ngram	
+recent past	3	3	noun_chunk,pos_ngram	
+recent study	3	3	noun_chunk,pos_ngram	
+red ball	3	2	noun_chunk,pos_ngram	
+red rose	3	1	pos_ngram	
+redwood	3	1	noun_chunk,pos_ngram	
+reflection test	3	2	pos_ngram	
+reflective	3	2	pos_ngram	
+refrain	3	3	noun_chunk,pos_ngram	
+regular environment	3	2	noun_chunk,pos_ngram	
+regulatory	3	3	pos_ngram	
+rejoinder	3	1	noun_chunk,pos_ngram	
+relative importance	3	3	noun_chunk,pos_ngram	
+relative weight	3	2	noun_chunk,pos_ngram	
+relevant norm	3	3	noun_chunk,pos_ngram	
+relevant statistical fact	3	2	noun_chunk,pos_ngram	
+remedy	3	3	noun_chunk,pos_ngram	
+remote	3	2	pos_ngram	
+rent	3	2	noun_chunk,pos_ngram	
+repertoire	3	3	noun_chunk,pos_ngram	
+reputation	3	3	noun_chunk,pos_ngram	
+reverse order	3	3	noun_chunk,pos_ngram	
+revolve	3	2	noun_chunk,pos_ngram	
+risky behavior	3	1	noun_chunk,pos_ngram	
+rock	3	2	noun_chunk,pos_ngram	
+rocket	3	2	noun_chunk,pos_ngram	
+roll	3	3	noun_chunk,pos_ngram	yes
+roulette	3	3	pos_ngram	
+roulette wheel	3	3	noun_chunk,pos_ngram	
+royal	3	2	pos_ngram	
+rural lifestyle	3	1	noun_chunk,pos_ngram	
+s&p return	3	1	noun_chunk,pos_ngram	
+salient event	3	3	noun_chunk,pos_ngram	
+same answer	3	3	pos_ngram	
+same direction	3	3	pos_ngram	
+same option	3	3	pos_ngram	
+same outcome	3	3	pos_ngram	
+same person	3	3	pos_ngram	
+same probability	3	2	pos_ngram	
+same question	3	3	pos_ngram	
+same statistic	3	3	pos_ngram	
+same student	3	2	pos_ngram	
+sarah	3	2	pos_ngram	
+sarah lichtenstein	3	2	noun_chunk,pos_ngram	
+savage	3	2	noun_chunk,pos_ngram	
+saver	3	2	pos_ngram	
+saving rate	3	2	noun_chunk,pos_ngram	
+scare	3	1	noun_chunk,pos_ngram	
+school student	3	3	pos_ngram	
+scorer	3	2	pos_ngram	
+screen saver	3	2	noun_chunk,pos_ngram	
+second day	3	1	noun_chunk,pos_ngram	
+second question	3	3	noun_chunk,pos_ngram	
+secret	3	2	noun_chunk,pos_ngram	
+seed	3	1	noun_chunk,pos_ngram	
+selection interview	3	2	noun_chunk,pos_ngram	
+selective activation	3	2	noun_chunk,pos_ngram	
+separate occasion	3	3	noun_chunk,pos_ngram	
+sequence h	3	1	pos_ngram	
+serious error	3	3	pos_ngram	
+setup	3	3	noun_chunk,pos_ngram	
+several experiment	3	2	pos_ngram	
+several month	3	2	pos_ngram	
+several study	3	3	pos_ngram	
+several time	3	2	pos_ngram	
+severity	3	2	noun_chunk,pos_ngram	
+shafir	3	1	noun_chunk,pos_ngram	
+sharp distinction	3	3	noun_chunk,pos_ngram	
+shelf	3	2	noun_chunk,pos_ngram	
+shell	3	3	noun_chunk,pos_ngram	
+shop	3	1	noun_chunk,pos_ngram	
+short episode	3	2	noun_chunk,pos_ngram	
+short time	3	3	noun_chunk,pos_ngram	
+sided evidence	3	1	pos_ngram	
+significant effort	3	3	noun_chunk,pos_ngram	
+significant fact	3	3	noun_chunk,pos_ngram	
+significant improvement	3	3	noun_chunk,pos_ngram	
+similar result	3	3	noun_chunk,pos_ngram	
+simple algorithm	3	1	noun_chunk,pos_ngram	
+simple event	3	1	noun_chunk,pos_ngram	
+simple procedure	3	3	noun_chunk,pos_ngram	
+sins	3	2	noun_chunk,pos_ngram	
+skeptic	3	2	noun_chunk,pos_ngram	
+skin cancer	3	1	noun_chunk,pos_ngram	
+slice	3	2	pos_ngram	
+small gamble	3	1	noun_chunk,pos_ngram	
+small hospital	3	1	noun_chunk,pos_ngram	
+small population	3	1	noun_chunk,pos_ngram	
+small probability	3	1	noun_chunk,pos_ngram	
+small school	3	1	noun_chunk,pos_ngram	
+small triangle	3	1	noun_chunk,pos_ngram	
+socializing	3	1	noun_chunk,pos_ngram	
+sophisticated researcher	3	3	noun_chunk,pos_ngram	
+south	3	2	noun_chunk,pos_ngram	
+specific question	3	3	noun_chunk,pos_ngram	
+specifie	3	3	pos_ngram	
+spread	3	3	pos_ngram	
+spreading	3	3	noun_chunk,pos_ngram	
+state university	3	3	noun_chunk,pos_ngram	
+statistical regularity	3	3	noun_chunk,pos_ngram	
+statistical result	3	2	noun_chunk,pos_ngram	
+statistical rule	3	2	noun_chunk,pos_ngram	
+stimulation	3	1	noun_chunk,pos_ngram	
+stooge	3	1	noun_chunk,pos_ngram	
+straw	3	2	noun_chunk,pos_ngram	
+strong ceo	3	1	noun_chunk,pos_ngram	
+strong preference	3	3	noun_chunk,pos_ngram	
+successful school	3	1	noun_chunk,pos_ngram	
+such judgment	3	3	pos_ngram	
+such thing	3	3	pos_ngram	
+suicide	3	1	noun_chunk,pos_ngram	
+supermarket	3	3	noun_chunk,pos_ngram	
+supply	3	3	pos_ngram	
+suppresse	3	3	noun_chunk,pos_ngram	
+surgeon	3	3	noun_chunk,pos_ngram	
+survival rate	3	1	noun_chunk,pos_ngram	
+syllable	3	3	noun_chunk,pos_ngram	
+synopsis	3	2	noun_chunk,pos_ngram	
+system model	3	3	pos_ngram	
+tale	3	3	noun_chunk,pos_ngram	
+task set	3	2	noun_chunk,pos_ngram	yes
+tattoo	3	3	noun_chunk,pos_ngram	
+teach psychology	3	2	noun_chunk	
+technique	3	3	pos_ngram	
+term forecast	3	2	pos_ngram	
+term outcome	3	3	pos_ngram	
+terror	3	2	noun_chunk,pos_ngram	
+testing	3	3	noun_chunk,pos_ngram	
+thinker	3	3	pos_ngram	
+third letter	3	2	pos_ngram	
+thought experiment	3	2	noun_chunk,pos_ngram	
+thrifty	3	1	pos_ngram	
+thrifty drug	3	1	noun_chunk,pos_ngram	
+tie	3	3	noun_chunk,pos_ngram	
+tiffany	3	1	noun_chunk,pos_ngram	
+timing	3	2	noun_chunk,pos_ngram	
+timothy	3	2	pos_ngram	
+timothy wilson	3	2	noun_chunk,pos_ngram	
+tom gilovich	3	2	noun_chunk,pos_ngram	
+top right cell	3	1	pos_ngram	
+topical account	3	1	noun_chunk,pos_ngram	
+total amount	3	1	noun_chunk,pos_ngram	
+total wealth	3	2	noun_chunk,pos_ngram	
+tourist	3	2	noun_chunk,pos_ngram	
+transition	3	2	noun_chunk,pos_ngram	
+treat	3	3	pos_ngram	
+triumph	3	3	noun_chunk,pos_ngram	
+un	3	1	noun_chunk,pos_ngram,technical_surface	yes
+uncertain quantity	3	3	noun_chunk,pos_ngram	
+uncompensated loss	3	1	noun_chunk,pos_ngram	
+underestimation	3	1	noun_chunk,pos_ngram	
+unemployment	3	3	noun_chunk,pos_ngram	
+university press	3	1	pos_ngram	
+unlikely outcome	3	2	noun_chunk,pos_ngram	
+unpleasant state	3	1	noun_chunk,pos_ngram	
+unpleasantness	3	2	noun_chunk,pos_ngram	
+unusual event	3	2	noun_chunk,pos_ngram	
+useful information	3	2	noun_chunk,pos_ngram	
+vacation day	3	1	noun_chunk,pos_ngram	
+vancouver	3	3	noun_chunk,pos_ngram	
+various aspect	3	3	pos_ngram	
+vast network	3	2	noun_chunk,pos_ngram	
+verdict	3	3	noun_chunk,pos_ngram	
+view forecast	3	1	pos_ngram	
+visibility	3	2	noun_chunk,pos_ngram	
+vision	3	3	noun_chunk,pos_ngram	
+voluntary control	3	2	noun_chunk,pos_ngram	
+w. bush	3	3	pos_ngram	
+waiter	3	1	noun_chunk,pos_ngram	
+wall street	3	1	pos_ngram	
+warm water	3	2	noun_chunk,pos_ngram	
+wash	3	1	noun_chunk,pos_ngram,technical_surface	
+washington	3	2	pos_ngram	
+weekly hour	3	1	noun_chunk,pos_ngram	
+welfare	3	3	noun_chunk,pos_ngram	
+well memory	3	3	noun_chunk,pos_ngram	
+wine lover	3	2	noun_chunk,pos_ngram	
+withdrawal	3	2	noun_chunk,pos_ngram	
+wording	3	3	noun_chunk,pos_ngram	
+x10	3	1	noun_chunk,pos_ngram,technical_surface	
+x99	3	1	noun_chunk,pos_ngram,technical_surface	
+year correlation	3	1	pos_ngram	
+york city	3	3	pos_ngram	

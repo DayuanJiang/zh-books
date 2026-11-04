@@ -83,3 +83,81 @@
 | default option / status quo | 默认选项 / 现状 |  |  | ch20 | 25 | 初定 |
 | Amos Tversky | 阿莫斯·特沃斯基 |  |  | dedication | 27 | 初定 |
 | Speaking of … | 说起…… | 每章结尾的小结，列出可以在闲谈中说的话 |  | ch01 | 40 | 初定 |
+| fast thinking / slow thinking | 快思考 / 慢思考 |  |  | introduction | 12 | 初定 |
+| agent（把两个系统比作行动者） | 主体 | 引言里“两个主体的比喻” | 代理人 | introduction | 46 | 初定 |
+| character（虚构的角色） | 角色 | 系统 1 和系统 2 是故事里的两个角色 | 性格 | introduction | 25 | 初定 |
+| effortful / effortless | 费力的 / 不费力的 |  |  | introduction | 39 | 初定 |
+| voluntary / involuntary | 自主的 / 不由自主的 | voluntary attention 译作“主动注意” |  | ch01 | 14 | 初定 |
+| working memory | 工作记忆 |  |  | ch01 | 6 | 初定 |
+| Müller-Lyer illusion | 缪勒-莱尔错觉 | 中间是复姓的连字符 |  | ch01 | 8 | 初定 |
+| psychopath / psychopathy | 精神病态者 / 精神病态 |  | 精神病人 | ch01 | 3 | 初定 |
+| self-control | 自我控制 |  |  | ch01 | 26 | 初定 |
+| impression | 印象 | 系统 1 产生的印象，与 belief（信念）对照 |  | introduction | 84 | 初定 |
+| stereotype | 刻板印象 |  |  | introduction | 39 | 初定 |
+| The Invisible Gorilla | 《看不见的大猩猩》 | 沿用大陆中译本书名 |  | ch01 | 2 | 初定 |
+
+## 第二批（2026-11-04 补充）
+
+来源：纸质版索引的 600 个概念词条、spaCy 候选词（干净原文，频次不少于 3）和 51 个定义句，统计数据在 `review/terms/`。出现次数和首次出现按干净原文统计，不含书末注释。
+
+| 英文 | 首选译法 | 适用的意思 | 不要混同 | 首次出现 | 出现次数 | 状态 |
+| --- | --- | --- | --- | --- | --- | --- |
+| experienced utility / decision utility | 体验效用 / 决策效用 | 边沁意义上的快乐与痛苦 / 决策时的“想要程度” |  | ch35 | 21 | 初定 |
+| causal / statistical base rate | 因果性基础比率 / 统计性基础比率 |  |  | ch16 | 13 | 初定 |
+| Linda problem | 琳达问题 |  |  | ch15 | 16 | 初定 |
+| Tom W problem | 汤姆·W 问题 |  |  | ch14 | 38 | 初定 |
+| bat-and-ball problem | 球拍和球问题 |  |  | ch03 | 12 | 初定 |
+| Asian disease problem | 亚洲疾病问题 |  |  | ch34 | 5 | 初定 |
+| helping experiment | 助人实验 |  |  | ch16 | 8 | 初定 |
+| cold-hand experiment | 冷手实验 |  |  | ch35 | 12 | 初定 |
+| jumping to conclusions | 急于下结论 | 与第 7 章标题一致 |  | ch07 | 10 | 初定 |
+| basic assessments | 基本评估 | 系统 1 自动进行的评估 |  | ch08 | 9 | 初定 |
+| expectation principle | 期望原则 |  |  | ch29 | 7 | 初定 |
+| expected value | 期望值 |  |  | ch25 | 30 | 初定 |
+| value function | 价值函数 | 前景理论里的价值函数 |  | ch26 | 13 | 初定 |
+| subjective probability / prior probability | 主观概率 / 先验概率 |  |  | ch15 | 31 | 初定 |
+| probability distribution | 概率分布 |  |  | appendix-a-judgment-under | 9 | 初定 |
+| confidence interval | 置信区间 |  |  | ch24 | 9 | 初定 |
+| correlation coefficient | 相关系数 |  |  | ch17 | 4 | 初定 |
+| multiple regression | 多元回归 |  |  | ch21 | 2 | 初定 |
+| experience sampling | 经验取样 |  |  | ch37 | 6 | 初定 |
+| sunk-cost fallacy | 沉没成本谬误 |  |  | ch23 | 6 | 初定 |
+| affective forecasting | 情感预测 | 预测自己将来的感受 |  | ch38 | 4 | 初定 |
+| competition neglect | 忽视竞争 |  |  | ch24 | 4 | 初定 |
+| precautionary principle | 预防原则 |  |  | ch32 | 4 | 初定 |
+| conjunctive / disjunctive events | 合取事件 / 析取事件 |  |  | appendix-a-judgment-under | 11 | 初定 |
+| executive control | 执行控制 |  |  | ch02 | 3 | 初定 |
+| formulation effects | 表述效应 |  |  | appendix-b-choices-values-and | 5 | 初定 |
+| negativity dominance | 负面主导 |  |  | ch28 | 3 | 初定 |
+| indifference map | 无差异曲线图 |  |  | ch27 | 9 | 初定 |
+| adaptation level | 适应水平 |  |  | ch26 | 2 | 初定 |
+| confirmation bias | 证实偏差 | 只找支持自己看法的证据 |  | ch07 | 2 | 初定 |
+| positive test strategy | 正向检验策略 |  |  | ch07 | 1 | 初定 |
+| ideomotor effect | 观念运动效应 |  |  | ch04 | 2 | 初定 |
+| reference group | 参照群体 |  |  | ch18 | 2 | 初定 |
+| irrational perseverance | 非理性坚持 |  |  | ch23 | 1 | 初定 |
+| agency problem | 代理问题 |  |  | ch32 | 1 | 初定 |
+| illusory correlation | 错觉相关 |  |  | appendix-a-judgment-under | 4 | 初定 |
+| pseudo-certainty effect | 伪确定性效应 |  |  | appendix-b-choices-values-and | 1 | 初定 |
+| dead-loss effect | 纯损失效应 |  |  | appendix-b-choices-values-and | 1 | 初定 |
+| cash discount / credit card surcharge | 现金折扣 / 信用卡附加费 |  |  | ch34 | 8 | 初定 |
+| duration-weighted | 按时长加权 |  |  | ch35 | 4 | 初定 |
+| intuitive prediction / baseline prediction | 直觉预测 / 基线预测 |  |  | ch12 | 31 | 初定 |
+| associative machinery | 联想机制 |  |  | ch05 | 8 | 初定 |
+| 3-D heuristic | 三维启发式 |  |  | ch09 | 2 | 初定 |
+| probability neglect | 忽视概率 |  |  | ch13 | 2 | 初定 |
+| loss aversion ratio | 损失厌恶比率 |  |  | ch26 | 2 | 初定 |
+| Moses illusion | 摩西错觉 |  |  | ch06 | 2 | 初定 |
+| norm theory | 常态理论 |  |  | ch06 | 2 | 初定 |
+| flow / optimal experience | 心流 / 最佳体验 | 契克森米哈赖的概念 |  | ch03 | 16 | 初定 |
+| reference class forecasting | 参照类别预测 |  |  | ch23 | 1 | 初定 |
+| retrievability of instances | 实例的可提取性 |  |  | appendix-a-judgment-under | 2 | 初定 |
+| Save More Tomorrow | “明天多储蓄”计划 |  |  | conclusions | 2 | 初定 |
+| task set | 任务定势 |  |  | ch02 | 3 | 初定 |
+| hedonimeter | 快乐计 |  |  | ch35 | 8 | 初定 |
+| rare event | 罕见事件 |  |  | ch14 | 20 | 初定 |
+| behavioral economics | 行为经济学 |  |  | introduction | 18 | 初定 |
+| illusion of skill | 技能错觉 |  |  | ch20 | 5 | 初定 |
+| Add-1 task | 加 1 任务 |  |  | ch02 | 10 | 初定 |
+| wheel of fortune | 幸运轮盘 | 第 11 章的锚定实验 |  | ch11 | 5 | 初定 |
+| Stumbling on Happiness | 《撞上幸福》 | 丹尼尔·吉尔伯特的书，沿用中译本书名 |  | ch07 | 1 | 初定 |
