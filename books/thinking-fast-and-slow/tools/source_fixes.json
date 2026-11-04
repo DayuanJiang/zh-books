@@ -40,5 +40,2129 @@
   "before": "We easily think associativelm 1associay, we think",
   "after": "We easily think associatively, we think",
   "reason": "garbled word"
+ },
+ {
+  "chapter": "ch01",
+  "before": "the two modagee fi Pn=\"cees of thinking",
+  "after": "the two modes of thinking",
+  "reason": "Two Systems 第一段，插入了乱码和重复片段"
+ },
+ {
+  "chapter": "ch01",
+  "before": "to an occupatiohein occupatnal stereotype",
+  "after": "to an occupational stereotype",
+  "reason": "All these mental events 段，重复插入的 occupat 片段"
+ },
+ {
+  "chapter": "ch01",
+  "before": "if you try to i>Cyou try tgo beyond your budget",
+  "after": "if you try to go beyond your budget",
+  "reason": "pay attention 段，插入了 HTML 残片和重复片段"
+ },
+ {
+  "chapter": "ch01",
+  "before": "System 2 is activ\">< 2 is actated when",
+  "after": "System 2 is activated when",
+  "reason": "Plot Synopsis 第二段，插入了 HTML 残片和重复片段"
+ },
+ {
+  "chapter": "ch01",
+  "before": "an intention to conWhetion to ctrol it",
+  "after": "an intention to control it",
+  "reason": "Conflict 第三段"
+ },
+ {
+  "chapter": "ch01",
+  "before": "in the strn y in the udy of psychopathy",
+  "after": "in the study of psychopathy",
+  "reason": "Illusions 部分 Many years later 段"
+ },
+ {
+  "chapter": "ch01",
+  "before": "that they are217at they a fictitious characters",
+  "after": "that they are fictitious characters",
+  "reason": "Useful Fictions 部分，数字粘在词上并重复了 they a"
+ },
+ {
+  "chapter": "notes",
+  "before": "Annual Review of Psychology 59 (2008): 25 {59 eight=\"0%\"5–78.",
+  "after": "Annual Review of Psychology 59 (2008): 255–78.",
+  "reason": "stray markup inside page range"
+ },
+ {
+  "chapter": "notes",
+  "before": "followed by Y ELLOW printed in green",
+  "after": "followed by YELLOW printed in green",
+  "reason": "garbled text"
+ },
+ {
+  "chapter": "notes",
+  "before": "Wouter Kool et {ute979): 1289al., ",
+  "after": "Wouter Kool et al., ",
+  "reason": "garbled text"
+ },
+ {
+  "chapter": "notes",
+  "before": "po {\"><21; : Sian L. Beilock",
+  "after": "pointless anxious thoughts: Sian L. Beilock",
+  "reason": "lemma restored from ch03 text; uncertain"
+ },
+ {
+  "chapter": "notes",
+  "before": "M. Rosario Rued { Rocenca et al.",
+  "after": "M. Rosario Rueda et al.",
+  "reason": "garbled text"
+ },
+ {
+  "chapter": "notes",
+  "before": "Journal of Personality and Social Psychology {gy",
+  "after": "Journal of Personality and Social Psychology 58 (1990): 308–18.",
+  "reason": "volume/pages restored from the known citation; uncertain"
+ },
+ {
+  "chapter": "notes",
+  "before": "Matthew S. Mc Glone",
+  "after": "Matthew S. McGlone",
+  "reason": "garbled text"
+ },
+ {
+  "chapter": "notes",
+  "before": "Rhyme as Reas {RhyPsychological Science",
+  "after": "Rhyme as Reason in Aphorisms,” Psychological Science",
+  "reason": "title completed from the known paper; uncertain"
+ },
+ {
+  "chapter": "notes",
+  "before": "Influence Shortand Long-Run",
+  "after": "Influence Short- and Long-Run",
+  "reason": "garbled text"
+ },
+ {
+  "chapter": "notes",
+  "before": "Affect Determine {ectition Intuitive",
+  "after": "Affect Determine Intuitive",
+  "reason": "garbled text"
+ },
+ {
+  "chapter": "notes",
+  "before": "“Forming {#823.\n\nImpressions of Personality,”",
+  "after": "“Forming Impressions of Personality,”",
+  "reason": "garble had split one note into two paragraphs; now one block"
+ },
+ {
+  "chapter": "notes",
+  "before": "95–96 sentence was literally true: Sam Glucksberg, Patricia Gildea, and Howard G. Boo {How>\n\nJournal of Verbal",
+  "after": "sentence was literally true: Sam Glucksberg, Patricia Gildea, and Howard G. Bookin, “On Understanding Nonliteral Speech: Can People Ignore Metaphors?” Journal of Verbal",
+  "reason": "stray 95–96 removed, author and title restored, two paragraphs merged; uncertain"
+ },
+ {
+  "chapter": "notes",
+  "before": "happiness quest {ppiournal ofion.",
+  "after": "happiness question.",
+  "reason": "garbled text"
+ },
+ {
+  "chapter": "notes",
+  "before": "Person {pantion ality and Social",
+  "after": "Personality and Social",
+  "reason": "garbled text"
+ },
+ {
+  "chapter": "notes",
+  "before": "Alexander Rotliman",
+  "after": "Alexander Rothman",
+  "reason": "garbled text"
+ },
+ {
+  "chapter": "notes",
+  "before": "the solutions that have {ns problems,the largest benefits",
+  "after": "the solutions that have the largest benefits",
+  "reason": "garbled text"
+ },
+ {
+  "chapter": "notes",
+  "before": "said 4, 000 children",
+  "after": "said 4,000 children",
+  "reason": "garbled text"
+ },
+ {
+  "chapter": "notes",
+  "before": "(.03/. 97 = .031)",
+  "after": "(.03/.97 = .031)",
+  "reason": "garbled text"
+ },
+ {
+  "chapter": "notes",
+  "before": "4 × . 031 = 12.4",
+  "after": "4 × .031 = 12.4",
+  "reason": "space only; the value 12.4 kept as in source"
+ },
+ {
+  "chapter": "notes",
+  "before": "From these odds you can { odes as l compute",
+  "after": "From these odds you can compute",
+  "reason": "garbled text"
+ },
+ {
+  "chapter": "notes",
+  "before": "12.4/112. 4 = .11",
+  "after": "12.4/112.4 = .11",
+  "reason": "garbled text"
+ },
+ {
+  "chapter": "notes",
+  "before": ".706/1. 706 = .41",
+  "after": ".706/1.706 = .41",
+  "reason": "garbled text"
+ },
+ {
+  "chapter": "notes",
+  "before": "when the statistica {he deviatiol distributions",
+  "after": "when the statistical distributions",
+  "reason": "garbled text"
+ },
+ {
+  "chapter": "notes",
+  "before": "The relevant formula is v (1–r2)",
+  "after": "The relevant formula is √(1–r²)",
+  "reason": "garbled text"
+ },
+ {
+  "chapter": "notes",
+  "before": "Outcome Bias in Decision {s iiv> Evaluation",
+  "after": "Outcome Bias in Decision Evaluation",
+  "reason": "garbled text"
+ },
+ {
+  "chapter": "notes",
+  "before": "Rosenz {lenlatweig, The Halo Effect.",
+  "after": "Rosenzweig, The Halo Effect.",
+  "reason": "garbled text"
+ },
+ {
+  "chapter": "notes",
+  "before": "(Mean-while, his replacement",
+  "after": "(Meanwhile, his replacement",
+  "reason": "garbled text"
+ },
+ {
+  "chapter": "notes",
+  "before": "Expert Political Judgment:̶> How Good is It?",
+  "after": "Expert Political Judgment: How Good is It?",
+  "reason": "garbled text"
+ },
+ {
+  "chapter": "notes",
+  "before": "## 2 {ce",
+  "after": "## 22: Expert Intuition: When Can We Trust It?",
+  "reason": "section heading restored from the chapter title"
+ },
+ {
+  "chapter": "notes",
+  "before": "Journal of Business Venturing 24 ( {>",
+  "after": "Journal of Business Venturing 24 (2009): 149–64.",
+  "reason": "uncertain"
+ },
+ {
+  "chapter": "notes",
+  "before": "Michael T. Stalk-fleet",
+  "after": "Michael T. Stalkfleet",
+  "reason": "garbled text"
+ },
+ {
+  "chapter": "notes",
+  "before": "## 26: Prospect Theory\n\nast=\"2%\">\n\n",
+  "after": "## 26: Prospect Theory\n\n",
+  "reason": "stray paragraph removed"
+ },
+ {
+  "chapter": "notes",
+  "before": "in the range of 1. 5 and 2.5",
+  "after": "in the range of 1.5 and 2.5",
+  "reason": "garbled text"
+ },
+ {
+  "chapter": "notes",
+  "before": "Organiz {an>y did not ational Behavior",
+  "after": "Organizational Behavior",
+  "reason": "garbled text"
+ },
+ {
+  "chapter": "notes",
+  "before": "Brian Knutson an {an utson et ad Stephanie M. Greer",
+  "after": "Brian Knutson and Stephanie M. Greer",
+  "reason": "garbled text"
+ },
+ {
+  "chapter": "notes",
+  "before": "Kne {ers): tsch’s exchange",
+  "after": "Knetsch’s exchange",
+  "reason": "garbled text"
+ },
+ {
+  "chapter": "notes",
+  "before": "5 (200 {/spFac1): 323.",
+  "after": "5 (2001): 323.",
+  "reason": "garbled text"
+ },
+ {
+  "chapter": "notes",
+  "before": "“The {r, n>: C. A Affect Heuristic.”",
+  "after": "“The Affect Heuristic.”",
+  "reason": "garbled text"
+ },
+ {
+  "chapter": "notes",
+  "before": "Journal of E {>Joenon?&conomic Behavior",
+  "after": "Journal of Economic Behavior",
+  "reason": "garbled text"
+ },
+ {
+  "chapter": "notes",
+  "before": "some attributes {e a#822become evaluable",
+  "after": "some attributes become evaluable",
+  "reason": "garbled text"
+ },
+ {
+  "chapter": "notes",
+  "before": "Asian flu epidem {an s less ic of 1957.",
+  "after": "Asian flu epidemic of 1957.",
+  "reason": "garbled text"
+ },
+ {
+  "chapter": "notes",
+  "before": "but { thk-e she was regarded",
+  "after": "but she was regarded",
+  "reason": "garbled text"
+ },
+ {
+  "chapter": "notes",
+  "before": "distributio {i>dll-Being: Ed Diener",
+  "after": "distribution of emotional pain: Ed Diener",
+  "reason": "lemma restored from ch37 text; uncertain"
+ },
+ {
+  "chapter": "notes",
+  "before": "American C {he on, Rouncil on Education",
+  "after": "American Council on Education",
+  "reason": "garbled text"
+ },
+ {
+  "chapter": "appendix-b-choices-values-and",
+  "before": "The paradigmatic example of decision un ^v>",
+  "after": "The paradigmatic example of decision under risk is the acceptability of a gamble that yields monetary outcomes with specified probabilities. A typical riskless decision concerns the acceptability of a transaction in which a good or a service is exchanged for money or labor. In the first part of this article we present an analysis of the cognitive and psychophysical factors that determine the value of risky prospects. In the second part we extend this analysis to transactions and trades.",
+  "reason": "EPUB 本身在这里就断了（index_split_055.html 里也是 \"decision un ^v&gt;\"）。补上的文字取自 1984 年 American Psychologist 39(4) 刊出的原文，两份网上副本（communicationcache.com 的 PDF 和 studocu 的转录）逐字一致。"
+ },
+ {
+  "chapter": "appendix-b-choices-values-and",
+  "before": "or to Wn indispan> – $20",
+  "after": "or to W – $20",
+  "reason": "garbled text"
+ },
+ {
+  "chapter": "appendix-b-choices-values-and",
+  "before": "that should g ctha211;$850)overn the preferences",
+  "after": "that should govern the preferences",
+  "reason": "garbled text"
+ },
+ {
+  "chapter": "appendix-b-choices-values-and",
+  "before": "The same cd Cce f pattern of results",
+  "after": "The same pattern of results",
+  "reason": "garbled text"
+ },
+ {
+  "chapter": "appendix-b-choices-values-and",
+  "before": "(when the chance of winning is nil cinntric. We) and one",
+  "after": "(when the chance of winning is nil) and one",
+  "reason": "garbled text"
+ },
+ {
+  "chapter": "appendix-b-choices-values-and",
+  "before": "one chan ce i toce in four",
+  "after": "one chance in four",
+  "reason": "garbled text"
+ },
+ {
+  "chapter": "appendix-b-choices-values-and",
+  "before": "a hypotheti ct arnative cal vaccine",
+  "after": "a hypothetical vaccine",
+  "reason": "garbled text"
+ },
+ {
+  "chapter": "appendix-b-choices-values-and",
+  "before": "sets up a men cset optiotal account",
+  "after": "sets up a mental account",
+  "reason": "garbled text"
+ },
+ {
+  "chapter": "appendix-b-choices-values-and",
+  "before": "This finding cThinchsupports the notion",
+  "after": "This finding supports the notion",
+  "reason": "garbled text"
+ },
+ {
+  "chapter": "appendix-b-choices-values-and",
+  "before": "problems apparent clemosition ly enabled",
+  "after": "problems apparently enabled",
+  "reason": "garbled text"
+ },
+ {
+  "chapter": "appendix-b-choices-values-and",
+  "before": "(S2, T2), and c2< that most subjects",
+  "after": "(S2, T2), and that most subjects",
+  "reason": "garbled text"
+ },
+ {
+  "chapter": "appendix-b-choices-values-and",
+  "before": "offer objecti coffler problevely identical options",
+  "after": "offer objectively identical options",
+  "reason": "garbled text"
+ },
+ {
+  "chapter": "appendix-b-choices-values-and",
+  "before": "complicates the relati ces maker won between",
+  "after": "complicates the relation between",
+  "reason": "garbled text"
+ },
+ {
+  "chapter": "appendix-b-choices-values-and",
+  "before": "and A. Tver c, aistsky.",
+  "after": "and A. Tversky.",
+  "reason": "在参考文献 Kahneman and Tversky 1982 一条里"
+ },
+ {
+  "chapter": "appendix-a-judgment-under",
+  "before": "Additional support for this research wass r\"0%\" wid provided by",
+  "after": "Additional support for this research was provided by",
+  "reason": "stray fragment; matches the 1974 Science acknowledgment"
+ },
+ {
+  "chapter": "appendix-a-judgment-under",
+  "before": "seen less sharply than Vt pofreak/>stimated when visibility is good",
+  "after": "seen less sharply than nearer objects. However, the reliance on this rule leads to systematic errors in the estimation of distance. Specifically, distances are often overestimated when visibility is poor because the contours of objects are blurred. On the other hand, distances are often underestimated when visibility is good",
+  "reason": "three lost sentences replaced by garbage; restored word for word from the published 1974 Science text (confirmed in the Stanford copy of the article and the Cambridge 1982 reprint excerpt)"
+ },
+ {
+  "chapter": "appendix-a-judgment-under",
+  "before": "[1](#filepos1138148)",
+  "after": "[^1]",
+  "reason": "import repair: curate_source.py converted only index_split_*.html#filepos links, so in-text references 1 to 15 stayed as dead same-file links; now real footnote markers like 16 to 25"
+ },
+ {
+  "chapter": "appendix-a-judgment-under",
+  "before": "[2](#filepos1138148)",
+  "after": "[^2]",
+  "reason": "same import repair"
+ },
+ {
+  "chapter": "appendix-a-judgment-under",
+  "before": "rather than to a lawy [hanerser. In one",
+  "after": "rather than to a lawyer. In one",
+  "reason": "garbled word"
+ },
+ {
+  "chapter": "appendix-a-judgment-under",
+  "before": "should be (.7/.3)2, or 5.44",
+  "after": "should be (.7/.3)², or 5.44",
+  "reason": "superscript lost; (7/3)^2 = 5.44"
+ },
+ {
+  "chapter": "appendix-a-judgment-under",
+  "before": "[3](#filepos1138685)",
+  "after": "[^3]",
+  "reason": "import repair"
+ },
+ {
+  "chapter": "appendix-a-judgment-under",
+  "before": "in a random sample often men will be",
+  "after": "in a random sample of ten men will be",
+  "reason": "'of ten' fused into 'often'"
+ },
+ {
+  "chapter": "appendix-a-judgment-under",
+  "before": "[4](#filepos1138786)",
+  "after": "[^4]",
+  "reason": "import repair"
+ },
+ {
+  "chapter": "appendix-a-judgment-under",
+  "before": "A certain town is s [ainquote wierved by two hospitals.",
+  "after": "A certain town is served by two hospitals.",
+  "reason": "stray fragment"
+ },
+ {
+  "chapter": "appendix-a-judgment-under",
+  "before": "[5](#filepos1138786)",
+  "after": "[^5]",
+  "reason": "import repair"
+ },
+ {
+  "chapter": "appendix-a-judgment-under",
+  "before": "[6](#filepos1138786)",
+  "after": "[^6]",
+  "reason": "import repair"
+ },
+ {
+  "chapter": "appendix-a-judgment-under",
+  "before": "the sequence H-H-H-T- [enc. IT-T, which",
+  "after": "the sequence H-H-H-T-T-T, which",
+  "reason": "stray fragment; matches Science text"
+ },
+ {
+  "chapter": "appendix-a-judgment-under",
+  "before": "[7](#filepos1138786)",
+  "after": "[^7]",
+  "reason": "import repair"
+ },
+ {
+  "chapter": "appendix-a-judgment-under",
+  "before": "[8](#filepos1138786)",
+  "after": "[^8]",
+  "reason": "import repair"
+ },
+ {
+  "chapter": "appendix-a-judgment-under",
+  "before": "[9](#filepos1138786)",
+  "after": "[^9]",
+  "reason": "import repair"
+ },
+ {
+  "chapter": "appendix-a-judgment-under",
+  "before": "In one o [pand tf these studies,",
+  "after": "In one of these studies,",
+  "reason": "stray fragment"
+ },
+ {
+  "chapter": "appendix-a-judgment-under",
+  "before": "[10](#filepos1138786)",
+  "after": "[^10]",
+  "reason": "import repair"
+ },
+ {
+  "chapter": "appendix-a-judgment-under",
+  "before": "Mo [r vs tre generally, consider",
+  "after": "More generally, consider",
+  "reason": "stray fragment"
+ },
+ {
+  "chapter": "appendix-a-judgment-under",
+  "before": "[11](#filepos1138786)",
+  "after": "[^11]",
+  "reason": "import repair"
+ },
+ {
+  "chapter": "appendix-a-judgment-under",
+  "before": "[12](#filepos1140755)",
+  "after": "[^12]",
+  "reason": "import repair"
+ },
+ {
+  "chapter": "appendix-a-judgment-under",
+  "before": "recalling such occurrences a [occpunishmentmong one’s acquaintances",
+  "after": "recalling such occurrences among one’s acquaintances",
+  "reason": "stray fragment"
+ },
+ {
+  "chapter": "appendix-a-judgment-under",
+  "before": "[13](#filepos1140755)",
+  "after": "[^13]",
+  "reason": "import repair"
+ },
+ {
+  "chapter": "appendix-a-judgment-under",
+  "before": "[14](#filepos1140755)",
+  "after": "[^14]",
+  "reason": "import repair"
+ },
+ {
+  "chapter": "appendix-a-judgment-under",
+  "before": "[15](#filepos1140755)",
+  "after": "[^15]",
+  "reason": "import repair"
+ },
+ {
+  "chapter": "appendix-a-judgment-under",
+  "before": "committees of k members, 2 = k= 8.",
+  "after": "committees of k members, 2 ≤ k ≤ 8.",
+  "reason": "less-than-or-equal signs lost"
+ },
+ {
+  "chapter": "appendix-a-judgment-under",
+  "before": "overestimated the frequency of [ frpici co-occurrence of",
+  "after": "overestimated the frequency of co-occurrence of",
+  "reason": "stray fragment"
+ },
+ {
+  "chapter": "appendix-a-judgment-under",
+  "before": "Two groups of high school student [choult os estimated,",
+  "after": "Two groups of high school students estimated,",
+  "reason": "stray fragment"
+ },
+ {
+  "chapter": "appendix-a-judgment-under",
+  "before": "10% red marbles and 9% white marbles",
+  "after": "10% red marbles and 90% white marbles",
+  "reason": "lost digit; Science text says 90 percent and the stated .52 requires it"
+ },
+ {
+  "chapter": "appendix-a-judgment-under",
+  "before": "to overestimate the pr [timrall obability of conjunctive",
+  "after": "to overestimate the probability of conjunctive",
+  "reason": "stray fragment"
+ },
+ {
+  "chapter": "appendix-a-judgment-under",
+  "before": "if exactly ![](images/00019.jpg)% of the true values",
+  "after": "if exactly Π% of the true values",
+  "reason": "the inline image already shows 'Π%', so the text read 'Π%%'"
+ },
+ {
+  "chapter": "appendix-a-judgment-under",
+  "before": "below his stated values of X![](images/00019.jpg).",
+  "after": "below his stated values of XΠ.",
+  "reason": "the same 'Π%' image was reused for the subscript, so it read 'XΠ%'; written flat like X90"
+ },
+ {
+  "chapter": "appendix-a-judgment-under",
+  "before": "either smaller than X0l or greater",
+  "after": "either smaller than X01 or greater",
+  "reason": "letter l in place of digit 1"
+ },
+ {
+  "chapter": "appendix-a-judgment-under",
+  "before": "A similar anchoring [lariciently effect will occur",
+  "after": "A similar anchoring effect will occur",
+  "reason": "stray fragment"
+ },
+ {
+  "chapter": "appendix-a-judgment-under",
+  "before": "training in statistics. [ticor pri[^23] Although",
+  "after": "training in statistics.[^23] Although",
+  "reason": "stray fragment before the footnote marker"
+ },
+ {
+  "chapter": "appendix-a-judgment-under",
+  "before": "not entirely satisfactory [ saf sub, because",
+  "after": "not entirely satisfactory, because",
+  "reason": "stray fragment"
+ },
+ {
+  "chapter": "appendix-a-judgment-under",
+  "before": "(New York: Wiley, 1968), 17–52. [t=\"orm",
+  "after": "(New York: Wiley, 1968), 17–52.",
+  "reason": "stray HTML fragment at the end of note 6"
+ },
+ {
+  "chapter": "appendix-a-judgment-under",
+  "before": "Confirmation of the Inertial-? Effect",
+  "after": "Confirmation of the Inertial-ψ Effect",
+  "reason": "lost Greek letter; the paper is Cohen, Chesnick and Haran, 'A Confirmation of the Inertial-ψ Effect…' (1972)"
+ },
+ {
+  "chapter": "appendix-a-judgment-under",
+  "before": "[^21]: M. Alpe [spa Acta Psychologica 35 (1971): 478–94;",
+  "after": "[^21]: M. Alpert and H. Raiffa, unpublished manuscript; C. A. S. von Holstein, “Two Techniques for Assessment of Subjective Probability Distributions: An Experimental Study,” Acta Psychologica 35 (1971): 478–94;",
+  "reason": "two citations lost; reconstructed from the 1974 reference 11 plus the journal title of the von Holstein paper (see uncertain_fixes)"
+ },
+ {
+  "chapter": "ch02",
+  "before": "br\"0%e ca Tting",
+  "after": "bring",
+  "reason": "第 4 块（Mental Effort 下第一段）：it should bring you to the limits of your cognitive abilities，单词中间插入了乱码"
+ },
+ {
+  "chapter": "ch02",
+  "before": "one indigits onby one",
+  "after": "one by one",
+  "reason": "第 11 块：repeat or transform the digits one by one，插入了重复片段"
+ },
+ {
+  "chapter": "ch02",
+  "before": "at any rored at antime during",
+  "after": "at any time during",
+  "reason": "第 14 块：whether the letter K had appeared at any time during the trial，插入了乱码片段"
+ },
+ {
+  "chapter": "ch02",
+  "before": "appd t” alies to",
+  "after": "applies to",
+  "reason": "第 19 块：A general “law of least effort” applies to cognitive as well as physical exertion，单词中间插入了右引号和片段"
+ },
+ {
+  "chapter": "ch02",
+  "before": "humans tht un humans an in other primates",
+  "after": "humans than in other primates",
+  "reason": "第 23 块：substantially more developed in humans than in other primates，than 被拆坏并插入重复的 humans"
+ },
+ {
+  "chapter": "ch03",
+  "before": "could wahene dd reasonably infer",
+  "after": "could reasonably infer",
+  "reason": "Stray fragment inserted before 'reasonably'."
+ },
+ {
+  "chapter": "ch03",
+  "before": "In a typical demo thypical denstration, participants",
+  "after": "In a typical demonstration, participants",
+  "reason": "Word 'demonstration' split by a garbled repeat."
+ },
+ {
+  "chapter": "ch03",
+  "before": "confirmed this hypothesis n ohypothesiin several experiments.",
+  "after": "confirmed this hypothesis in several experiments.",
+  "reason": "Garbled repeat of 'hypothesis' glued to 'in'."
+ },
+ {
+  "chapter": "ch03",
+  "before": "The correct answer is 5¢. It%\">5¢. is safe to assume",
+  "after": "The correct answer is 5¢. It is safe to assume",
+  "reason": "Stray HTML fragment and a repeated '5¢.'."
+ },
+ {
+  "chapter": "ch03",
+  "before": "MIT, and Princeton ton gave",
+  "after": "MIT, and Princeton gave",
+  "reason": "Stray repeated syllable 'ton'."
+ },
+ {
+  "chapter": "ch03",
+  "before": "a high-crime c thigh-crimeity, is in Michigan",
+  "after": "a high-crime city, is in Michigan",
+  "reason": "Word 'city' split by a garbled repeat of 'high-crime'."
+ },
+ {
+  "chapter": "ch03",
+  "before": "call in the experimenter and receiven oand recei the one cookie",
+  "after": "call in the experimenter and receive the one cookie",
+  "reason": "Garbled repeat of 'and receive'."
+ },
+ {
+  "chapter": "ch03",
+  "before": "one of the better predictors of laztestors of ly thinking.",
+  "after": "one of the better predictors of lazy thinking.",
+  "reason": "Word 'lazy' split by a garbled repeat of 'predictors of'."
+ },
+ {
+  "chapter": "ch04",
+  "before": "it is the ass12;velyociation of ideas.",
+  "after": "it is the association of ideas.",
+  "reason": "在 association 中间插入了乱码 12;vely"
+ },
+ {
+  "chapter": "ch04",
+  "before": "found the cartoons rri221; (withfunnier than did those",
+  "after": "found the cartoons funnier than did those",
+  "reason": "删去插入的 HTML 实体残片 rri221; 和重复片段 (with"
+ },
+ {
+  "chapter": "ch04",
+  "before": "Participants primed by money chose in the exto stay much farther apart",
+  "after": "Participants primed by money chose to stay much farther apart",
+  "reason": "删去插入的残片 in the ex"
+ },
+ {
+  "chapter": "ch04",
+  "before": "But your subjective expefteelief. Trience consists largely",
+  "after": "But your subjective experience consists largely",
+  "reason": "experience 中间插入了 fteelief. T"
+ },
+ {
+  "chapter": "ch04",
+  "before": "It happens to allel",
+  "after": "It happens to all of us.”",
+  "reason": "本章最后第二条“说起”引语被截断，补全并加上右引号"
+ },
+ {
+  "chapter": "ch05",
+  "before": "David Stenbill, Monica Bigoutski, Sh\"imight=s is pictana Tirana.",
+  "after": "David Stenbill, Monica Bigoutski, Shana Tirana.",
+  "reason": "Sh 和 ana 之间插进了一段乱码 \"imight=s is pict"
+ },
+ {
+  "chapter": "ch05",
+  "before": "supermarkets often sell chickenordblurred, legs in packages of four",
+  "after": "supermarkets often sell chicken legs in packages of four",
+  "reason": "chicken 后面插进了 ordblurred,"
+ },
+ {
+  "chapter": "ch05",
+  "before": "My Princeton ton colleague Danny Oppenheimer",
+  "after": "My Princeton colleague Danny Oppenheimer",
+  "reason": "多出一个 ton"
+ },
+ {
+  "chapter": "ch05",
+  "before": "refuted a myth prevalent a wo ton colmong undergraduates",
+  "after": "refuted a myth prevalent among undergraduates",
+  "reason": "among 中间插进了 \" wo ton col\""
+ },
+ {
+  "chapter": "ch05",
+  "before": "Companies with pronounceable names dmisorrectlo better than others",
+  "after": "Companies with pronounceable names do better than others",
+  "reason": "do 中间插进了 misorrectl"
+ },
+ {
+  "chapter": "ch05",
+  "before": "Zajonc offered an eloquent summary of hing icts program of research:",
+  "after": "Zajonc offered an eloquent summary of his program of research:",
+  "reason": "his 被拆成 hing icts"
+ },
+ {
+  "chapter": "ch05",
+  "before": "The experimentershape tende computed an “intuition index”",
+  "after": "The experimenters computed an “intuition index”",
+  "reason": "experimenters 后面插进了 hape tende"
+ },
+ {
+  "chapter": "ch05",
+  "before": "the cognitive ease of a tri pr that aad of words",
+  "after": "the cognitive ease of a triad of words",
+  "reason": "triad 中间插进了 \" pr that a\""
+ },
+ {
+  "chapter": "ch06",
+  "before": "my wife and I were of dealWhen normvacationing in a small island",
+  "after": "my wife and I were vacationing in a small island",
+  "reason": "Stray fragment \"of dealWhen norm\" inserted before \"vacationing\"."
+ },
+ {
+  "chapter": "ch06",
+  "before": "will be linked and thehinsur soup will surely be blamed",
+  "after": "will be linked and the soup will surely be blamed",
+  "reason": "Stray letters \"hinsur\" glued to \"the\"."
+ },
+ {
+  "chapter": "ch06",
+  "before": "In your network of associationsmals in co, anger",
+  "after": "In your network of associations, anger",
+  "reason": "Stray fragment \"mals in co\" glued to \"associations\"."
+ },
+ {
+  "chapter": "ch06",
+  "before": "he created episodes in n ttiowhich a black square",
+  "after": "he created episodes in which a black square",
+  "reason": "Stray fragment \"n ttio\" before \"which\"."
+ },
+ {
+  "chapter": "ch06",
+  "before": "to describe psycl c to thinhological processes",
+  "after": "to describe psychological processes",
+  "reason": "Fragment \"l c to thin\" inserted inside \"psychological\"."
+ },
+ {
+  "chapter": "ch07",
+  "before": "have read e iom prthe cve them as",
+  "after": "have read them as",
+  "reason": "Stray fragment inserted into the sentence."
+ },
+ {
+  "chapter": "ch07",
+  "before": "the depleted par muumbling toticipants ended",
+  "after": "the depleted participants ended",
+  "reason": "Stray fragment inserted into the word participants."
+ },
+ {
+  "chapter": "ch07",
+  "before": "envious—The#82stubborn—critical",
+  "after": "envious—stubborn—critical",
+  "reason": "Stray characters inside Ben's adjective list."
+ },
+ {
+  "chapter": "ch07",
+  "before": "I recognized that thass confthis was a good sign",
+  "after": "I recognized that this was a good sign",
+  "reason": "Stray fragment before this."
+ },
+ {
+  "chapter": "ch07",
+  "before": "Amos’s jokes always maht=cipde a point",
+  "after": "Amos’s jokes always made a point",
+  "reason": "Garbled word made."
+ },
+ {
+  "chapter": "ch07",
+  "before": "the choice of conto room whilforming to these requirements",
+  "after": "the choice of conforming to these requirements",
+  "reason": "Stray fragment inside conforming."
+ },
+ {
+  "chapter": "ch07",
+  "before": "more male farm mu\n- Base-rers than male librarians",
+  "after": "more male farmers than male librarians",
+  "reason": "A stray fragment split the third list item in two. After the repair the list has 3 items again."
+ },
+ {
+  "chapter": "ch07",
+  "before": "WY SIATI facilitates",
+  "after": "WYSIATI facilitates",
+  "reason": "A stray space inside the abbreviation."
+ },
+ {
+  "chapter": "ch07",
+  "before": "invoke WY SIATI to help",
+  "after": "invoke WYSIATI to help",
+  "reason": "A stray space inside the abbreviation."
+ },
+ {
+  "chapter": "ch07",
+  "before": "As the WY SIATI rule implies",
+  "after": "As the WYSIATI rule implies",
+  "reason": "A stray space inside the abbreviation."
+ },
+ {
+  "chapter": "ch08",
+  "before": "on the savannah, aalenc and e: How , but we have inherited",
+  "after": "on the savannah, but we have inherited",
+  "reason": "在 savannah 和 but 之间插入了一段乱码，已删除"
+ },
+ {
+  "chapter": "ch08",
+  "before": "among politicalr m=\"5%\">Todoly uninformed voters",
+  "after": "among politically uninformed voters",
+  "reason": "politically 被 HTML 残片和 Tod 拆开了"
+ },
+ {
+  "chapter": "ch08",
+  "before": "number of lines.\n\nestimaight=\"0%\">\n\nThe failure",
+  "after": "number of lines.\n\nThe failure",
+  "reason": "单独成段的 HTML 残片，连同多出的空行一起删除；英文因此少了一个块，总块数从 49 变成 48"
+ },
+ {
+  "chapter": "ch08",
+  "before": "as quickly as post=\"lly desible to indicate",
+  "after": "as quickly as possible to indicate",
+  "reason": "possible 被 HTML 残片拆开了"
+ },
+ {
+  "chapter": "ch09",
+  "before": "If a satisfactory answer to a hard question isebr ques D not found quickly",
+  "after": "If a satisfactory answer to a hard question is not found quickly",
+  "reason": "garbled word with a stray fragment"
+ },
+ {
+  "chapter": "ch09",
+  "before": "you will not have to work very her р wheard, and you may not even notice",
+  "after": "you will not have to work very hard, and you may not even notice",
+  "reason": "garbled word with a stray fragment (contains a Cyrillic letter)"
+ },
+ {
+  "chapter": "ch09",
+  "before": "< stрr to a p height=\"0%\" width=\"0%\">The experimenters were interested in the correlation",
+  "after": "The experimenters were interested in the correlation",
+  "reason": "stray HTML fragment at the start of the paragraph"
+ },
+ {
+  "chapter": "ch09",
+  "before": "you probabltheр\"0%y think they are relatively weak",
+  "after": "you probably think they are relatively weak",
+  "reason": "garbled word with a stray HTML fragment"
+ },
+ {
+  "chapter": "ch10",
+  "before": "counties of the United a>< HЉStates reveals",
+  "after": "counties of the United States reveals",
+  "reason": "Stray HTML fragment and a Cyrillic letter inserted inside \"United States\"."
+ },
+ {
+  "chapter": "ch10",
+  "before": "two very patient marble counters thatрy dake turns.",
+  "after": "two very patient marble counters take turns.",
+  "reason": "Inserted fragment \"thatрy d\" (Cyrillic р) in front of \"take\"."
+ },
+ {
+  "chapter": "ch10",
+  "before": "The principle of WY SIATI suggests that it cannot.",
+  "after": "The principle of WYSIATI suggests that it cannot.",
+  "reason": "Stray space inside the acronym."
+ },
+ {
+  "chapter": "ch10",
+  "before": "closely related to the halo effect thрhe , the sense we often get",
+  "after": "closely related to the halo effect, the sense we often get",
+  "reason": "Inserted fragment \"thрhe \" before the comma."
+ },
+ {
+  "chapter": "ch10",
+  "before": "what I had learned frpeaрrainom Feller.",
+  "after": "what I had learned from Feller.",
+  "reason": "Inserted fragment \"peaрrain\" inside \"from\"."
+ },
+ {
+  "chapter": "ch10",
+  "before": "Their essay focused on a large iiveрothersnvestment, some $1.7 billion",
+  "after": "Their essay focused on a large investment, some $1.7 billion",
+  "reason": "Inserted fragment \"iveрothers\" inside \"investment\"."
+ },
+ {
+  "chapter": "ch10",
+  "before": "Otherwisortрxpere we will face pressure",
+  "after": "Otherwise we will face pressure",
+  "reason": "Inserted fragment \"ortрxper\" inside \"Otherwise\"."
+ },
+ {
+  "chapter": "ch11",
+  "before": "loaded with dighdth=igits or because",
+  "after": "loaded with digits or because",
+  "reason": "Garbled characters (stray \"hdth=\") inserted inside the word digits."
+ },
+ {
+  "chapter": "ch11",
+  "before": "how much to contribute al.ls denied to a cause",
+  "after": "how much to contribute to a cause",
+  "reason": "Stray fragment \"al.ls denied\" inserted; removed."
+ },
+ {
+  "chapter": "ch11",
+  "before": "rolled a 3 saidthif Africa they would",
+  "after": "rolled a 3 said they would",
+  "reason": "Stray fragment \"thif Africa\" glued to said; removed."
+ },
+ {
+  "chapter": "ch11",
+  "before": "> & st",
+  "after": "> “Let’s make it clear that if that is their proposal, the negotiations are over. We do not want to start there.”",
+  "reason": "The fourth quote in the Speaking of Anchors section had been reduced to \"& st\". Restored from my recollection of the published book (\"st\" fits \"start\"). Also listed in uncertain_fixes."
+ },
+ {
+  "chapter": "ch12",
+  "before": "you wish to estimate the size se ost c d of a category",
+  "after": "you wish to estimate the size of a category",
+  "reason": "Stray fragment inserted after 'size'."
+ },
+ {
+  "chapter": "ch12",
+  "before": "“Is our belief that theft s by teenagers are a major problem",
+  "after": "“Is our belief that thefts by teenagers are a major problem",
+  "reason": "Split plural; the verb 'are' requires 'thefts'."
+ },
+ {
+  "chapter": "ch12",
+  "before": "In any eve#82ght=nt, it is a good thing for every individual to remember.",
+  "after": "In any event, it is a good thing for every individual to remember.",
+  "reason": "Garbled characters inside 'event'."
+ },
+ {
+  "chapter": "ch12",
+  "before": "they have appliserv heighted Schwarz’s discovery with gusto",
+  "after": "they have applied Schwarz’s discovery with gusto",
+  "reason": "'appli' + stray 'serv heighted' + missing 'ed'; 'applied' is the only reading that fits 'with gusto'."
+ },
+ {
+  "chapter": "ch12",
+  "before": "The process appears to consist of a sophisticatedriethe subj set of inferences.",
+  "after": "The process appears to consist of a sophisticated set of inferences.",
+  "reason": "Stray fragment 'riethe subj' glued to 'sophisticated'."
+ },
+ {
+  "chapter": "ch12",
+  "before": "(Georgee e the w W. Bush, November 2002)",
+  "after": "(George W. Bush, November 2002)",
+  "reason": "Stray fragment inside the name."
+ },
+ {
+  "chapter": "ch13",
+  "before": "survey to siIs th t#consider pairs",
+  "after": "survey to consider pairs",
+  "reason": "删去插入的乱码片段"
+ },
+ {
+  "chapter": "ch13",
+  "before": "list both the benefits >",
+  "after": "list both the benefits and the risks of each technology. They observed an implausibly high negative correlation between two estimates that their respondents made: the level of benefit and the level of risk that they attributed to the technologies. When people were favorably disposed toward a technology, they rated it as offering large benefits and imposing little risk; when they disliked a technology, they could think only of its disadvantages, and few advantages came to mind. Because the technologies were neatly lined up from good to bad, no painful tradeoffs needed to be faced. Estimates of risk and benefit corresponded even more closely when people evaluated the technologies under time pressure. Remarkably, members of the British Toxicology Society responded similarly: they found little benefit in substances or technologies that they thought risky, and vice versa. Consistent affect is a central element of what I have called associative coherence.",
+  "reason": "EPUB 在这里截断，只剩一个 HTML 残留的 >，段落后半部分缺失。按原书补回。书末注释里本章的两个注释锚点“risks of each technology”和“British Toxicology Society”正好落在补回的文字里，可以佐证。补回的措辞凭对原书的记忆，见 uncertain_fixes"
+ },
+ {
+  "chapter": "ch13",
+  "before": "“Each side muiesst respect",
+  "after": "“Each side must respect",
+  "reason": "garbled text"
+ },
+ {
+  "chapter": "ch13",
+  "before": "an expand Uned notion",
+  "after": "an expanded notion",
+  "reason": "garbled text"
+ },
+ {
+  "chapter": "ch13",
+  "before": "industry su ofstained large",
+  "after": "industry sustained large",
+  "reason": "garbled text"
+ },
+ {
+  "chapter": "ch13",
+  "before": "of toxic betwaste,",
+  "after": "of toxic waste,",
+  "reason": "garbled text"
+ },
+ {
+  "chapter": "ch14",
+  "before": "judgments of similarity and probak tbility",
+  "after": "judgments of similarity and probability",
+  "reason": "garbled text"
+ },
+ {
+  "chapter": "ch14",
+  "before": "Judging probability byals representativeness",
+  "after": "Judging probability by representativeness",
+  "reason": "garbled text"
+ },
+ {
+  "chapter": "ch14",
+  "before": "with Harvard undergradut oates yielded",
+  "after": "with Harvard undergraduates yielded",
+  "reason": "garbled text"
+ },
+ {
+  "chapter": "ch14",
+  "before": "a 40% chance plethat it will rain",
+  "after": "a 40% chance that it will rain",
+  "reason": "garbled text"
+ },
+ {
+  "chapter": "ch14",
+  "before": "WY SIATI",
+  "after": "WYSIATI",
+  "reason": "出现两处（“but WY SIATI makes it very difficult”和“The combination of WY SIATI and associative coherence”），两处都改了；其他章节也是这样处理的。"
+ },
+ {
+  "chapter": "ch14",
+  "before": "”\n\nht=\"5%\">\n",
+  "after": "”\n",
+  "reason": "删掉文件末尾多出来的 HTML 碎片 ht=\"5%\">，它单独占一个段落块；其他章节删除这类整行碎片时也是这样做的。"
+ },
+ {
+  "chapter": "ch15",
+  "before": "as every feminist bank teller is0%\"ustwora ban0%\" w a bank teller.",
+  "after": "as every feminist bank teller is a bank teller.",
+  "reason": "Inserted garbage fragment removed"
+ },
+ {
+  "chapter": "ch15",
+  "before": "my large undergraduatnite class",
+  "after": "my large undergraduate class",
+  "reason": "garbled text"
+ },
+ {
+  "chapter": "ch15",
+  "before": "richer and more entdetailed scenario",
+  "after": "richer and more detailed scenario",
+  "reason": "garbled text"
+ },
+ {
+  "chapter": "ch15",
+  "before": "does not suggest and answer to the probability question",
+  "after": "does not suggest an answer to the probability question",
+  "reason": "Could also be a typo in the printed original; the intended wording is clear"
+ },
+ {
+  "chapter": "ch15",
+  "before": "Here si again, the scenario",
+  "after": "Here again, the scenario",
+  "reason": "garbled text"
+ },
+ {
+  "chapter": "ch15",
+  "before": "participated in our thastudies of",
+  "after": "participated in our studies of",
+  "reason": "garbled text"
+ },
+ {
+  "chapter": "ch15",
+  "before": "normal in politicaverl debates",
+  "after": "normal in political debates",
+  "reason": "garbled text"
+ },
+ {
+  "chapter": "ch16",
+  "before": "you would consider only the reliability of the witness,%\"> our w",
+  "after": "you would consider only the reliability of the witness, concluding that the probability is 80%. The two sources of information can be combined by Bayes’s rule. The correct answer is 41%. However, you can probably guess what people do when faced with this problem: they ignore the base rate and go with the witness. The most common answer is 80%.",
+  "reason": "这一段在 EPUB 里从 witness 之后就断了，剩下的几句全丢了。后三句有两处网上引文可以逐字核对（anesi.com/bayes.htm 和 MSN 的一篇文章）。书末注释的锚点“正确答案是 41%”也指向这里。"
+ },
+ {
+  "chapter": "ch16",
+  "before": "Hely re are two examples:",
+  "after": "Here are two examples:",
+  "reason": "garbled text"
+ },
+ {
+  "chapter": "ch16",
+  "before": "causal bs oase rates",
+  "after": "causal base rates",
+  "reason": "garbled text"
+ },
+ {
+  "chapter": "ch16",
+  "before": "coming on, andpeo asked",
+  "after": "coming on, and asked",
+  "reason": "garbled text"
+ },
+ {
+  "chapter": "ch16",
+  "before": "about the a stwo individuals",
+  "after": "about the two individuals",
+  "reason": "garbled text"
+ },
+ {
+  "chapter": "ch16",
+  "before": "a surprising statisticis al fact",
+  "after": "a surprising statistical fact",
+  "reason": "garbled text"
+ },
+ {
+  "chapter": "ch17",
+  "before": "he does better t t ask yry abr two repon his next try",
+  "after": "he does better on his next try",
+  "reason": "Stray fragment inserted before \"on\" in the instructor's quoted speech."
+ },
+ {
+  "chapter": "ch17",
+  "before": "who did verye d well on the first day",
+  "after": "who did very well on the first day",
+  "reason": "garbled text"
+ },
+ {
+  "chapter": "ch17",
+  "before": "and had done filess well on day 1",
+  "after": "and had done less well on day 1",
+  "reason": "garbled text"
+ },
+ {
+  "chapter": "ch17",
+  "before": "both their height ann wd their weight",
+  "after": "both their height and their weight",
+  "reason": "garbled text"
+ },
+ {
+  "chapter": "ch17",
+  "before": "the golfers who werecte successful on day 1",
+  "after": "the golfers who were successful on day 1",
+  "reason": "garbled text"
+ },
+ {
+  "chapter": "ch18",
+  "before": "a fly fishing competitiowhired D=n or excelling",
+  "after": "a fly fishing competition or excelling",
+  "reason": "删除插入的乱码 whired D="
+ },
+ {
+  "chapter": "ch18",
+  "before": "WY SIATI applies",
+  "after": "WYSIATI applies",
+  "reason": "删除缩写中间多出的空格"
+ },
+ {
+  "chapter": "ch18",
+  "before": "produced the prediof рctions were",
+  "after": "produced the predictions were",
+  "reason": "删除插入的 of р（р 是西里尔字母）"
+ },
+ {
+  "chapter": "ch18",
+  "before": "business administration grahavрduates when",
+  "after": "business administration graduates when",
+  "reason": "删除插入的 havр"
+ },
+ {
+  "chapter": "ch18",
+  "before": "your initial predictiononsр. This",
+  "after": "your initial prediction. This",
+  "reason": "删除插入的 onsр"
+ },
+ {
+  "chapter": "ch18",
+  "before": "bound to a singleys р number",
+  "after": "bound to a single number",
+  "reason": "删除插入的 ys р"
+ },
+ {
+  "chapter": "ch18",
+  "before": "will be inclinehe рd to put",
+  "after": "will be inclined to put",
+  "reason": "删除插入的 he р"
+ },
+ {
+  "chapter": "ch19",
+  "before": "Good stories provide a simple and coherent account >",
+  "after": "Good stories provide a simple and coherent account of people’s actions and intentions. You are always ready to interpret behavior as a manifestation of general propensities and personality traits—causes that you can readily match to effects. The halo effect discussed earlier contributes to coherence, because it inclines us to match our view of all the qualities of a person to our judgment of one attribute that is particularly significant. If we think a baseball pitcher is handsome and athletic, for example, we are likely to rate him better at throwing the ball, too. Halos can also be negative: if we think a player is ugly, we will probably underrate his athletic ability. The halo effect helps keep explanatory narratives simple and coherent by exaggerating the consistency of evaluations: good people do only good things and bad people are all bad. The statement “Hitler loved dogs and little children” is shocking no matter how many times you hear it, because any trace of kindness in someone so evil violates the expectations set up by the halo effect. Inconsistencies reduce the ease of our thoughts and the clarity of our feelings.",
+  "reason": "这段在 EPUB 里被截断，只剩开头半句加一个 >。按原书补全整段，做法和其他章节修复截断段落一样。书末注释里本章的“one attribute that is particularly significant”和“throwing the ball”两个提示语正好出自这一段，可以佐证。"
+ },
+ {
+  "chapter": "ch19",
+  "before": "there is foр an instructive difference",
+  "after": "there is an instructive difference",
+  "reason": "删掉插入的碎片 foр（含西里尔字母 р）"
+ },
+ {
+  "chapter": "ch19",
+  "before": "that powerful WY SIATI rule",
+  "after": "that powerful WYSIATI rule",
+  "reason": "其他章节同样改成了 WYSIATI"
+ },
+ {
+  "chapter": "ch19",
+  "before": "has been altered be fрy that new perception",
+  "after": "has been altered by that new perception",
+  "reason": "garbled text"
+ },
+ {
+  "chapter": "ch19",
+  "before": "Baruch Fischh off first",
+  "after": "Baruch Fischhoff first",
+  "reason": "连字 ff 拆开造成的错误，本章共 3 处，书末注释写作 Fischhoff"
+ },
+ {
+  "chapter": "ch19",
+  "before": "Beyth (another of our students), Fischh off conducted",
+  "after": "Beyth (another of our students), Fischhoff conducted",
+  "reason": "garbled text"
+ },
+ {
+  "chapter": "ch19",
+  "before": "travels, Fischh off and Beyth",
+  "after": "travels, Fischhoff and Beyth",
+  "reason": "garbled text"
+ },
+ {
+  "chapter": "ch19",
+  "before": "successful movesecaр that appear",
+  "after": "successful moves that appear",
+  "reason": "garbled text"
+ },
+ {
+  "chapter": "ch19",
+  "before": "Many bdecрusiness books",
+  "after": "Many business books",
+  "reason": "garbled text"
+ },
+ {
+  "chapter": "ch19",
+  "before": "They poрare keenly aware",
+  "after": "They are keenly aware",
+  "reason": "garbled text"
+ },
+ {
+  "chapter": "ch20",
+  "before": "they had to declare itsigрЉ T and start again.",
+  "after": "they had to declare it and start again.",
+  "reason": "stray characters after 'it'"
+ },
+ {
+  "chapter": "ch20",
+  "before": "We weed ဆre downcast for a while",
+  "after": "We were downcast for a while",
+  "reason": "'were' split by a garble"
+ },
+ {
+  "chapter": "ch20",
+  "before": "“When you sell a stock,” d nဆI asked,",
+  "after": "“When you sell a stock,” I asked,",
+  "reason": "stray fragment before 'I'"
+ },
+ {
+  "chapter": "ch20",
+  "before": "“Trading Is Hazardous to Yourt-tဆ Wealth,”",
+  "after": "“Trading Is Hazardous to Your Wealth,”",
+  "reason": "Barber and Odean paper title"
+ },
+ {
+  "chapter": "ch20",
+  "before": "Each adviser’s scoof ဆre for each year",
+  "after": "Each adviser’s score for each year",
+  "reason": "'score' split by a garble"
+ },
+ {
+  "chapter": "ch20",
+  "before": "your impression of the lenglliဆth of lines",
+  "after": "your impression of the length of lines",
+  "reason": "'length' split by a garble"
+ },
+ {
+  "chapter": "ch20",
+  "before": "the intentions and abilities of a few g coဆreat men.",
+  "after": "the intentions and abilities of a few great men.",
+  "reason": "'great' split by a garble"
+ },
+ {
+  "chapter": "ch20",
+  "before": "in ‘reading&#oulဆ8217; emerging situations.",
+  "after": "in ‘reading’ emerging situations.",
+  "reason": "garbled HTML entity &#8217; restored as the closing quote character ’, matching the rest of the file"
+ },
+ {
+  "chapter": "ch20",
+  "before": "the unpredictable distant future is inဆ yet to be drawn.",
+  "after": "the unpredictable distant future is yet to be drawn.",
+  "reason": "stray 'in' fragment"
+ },
+ {
+  "chapter": "ch21",
+  "before": "more than fifty yephyဆЉ diars after its publication",
+  "after": "more than fifty years after its publication",
+  "reason": "乱码夹在 years 中间"
+ },
+ {
+  "chapter": "ch21",
+  "before": "Why are experts e yinferior to algorithms?",
+  "after": "Why are experts inferior to algorithms?",
+  "reason": "garbled text"
+ },
+ {
+  "chapter": "ch21",
+  "before": "evaluate the quas plity of immature wine",
+  "after": "evaluate the quality of immature wine",
+  "reason": "garbled text"
+ },
+ {
+  "chapter": "ch21",
+  "before": "she might have made a breakequthrough that any delivery room could implement",
+  "after": "she might have made a breakthrough that any delivery room could implement",
+  "reason": "garbled text"
+ },
+ {
+  "chapter": "ch21",
+  "before": "strong preference that many people have for the ormnatural over the synthetic or artificial",
+  "after": "strong preference that many people have for the natural over the synthetic or artificial",
+  "reason": "garbled text"
+ },
+ {
+  "chapter": "ch21",
+  "before": "recommendations generated by soft ware.",
+  "after": "recommendations generated by software.",
+  "reason": "拆开的 software，按正常拼写合并"
+ },
+ {
+  "chapter": "ch21",
+  "before": "An idilnterview routine was already in place",
+  "after": "An interview routine was already in place",
+  "reason": "garbled text"
+ },
+ {
+  "chapter": "ch21",
+  "before": "“Leave the predicok tive validity to me,”",
+  "after": "“Leave the predictive validity to me,”",
+  "reason": "garbled text"
+ },
+ {
+  "chapter": "ch21",
+  "before": "what you will caleigl “very weak” or “very strong.”",
+  "after": "what you will call “very weak” or “very strong.”",
+  "reason": "garbled text"
+ },
+ {
+  "chapter": "ch22",
+  "before": "organizations where the\"0%Љ ty often study",
+  "after": "organizations where they often study",
+  "reason": "Garbled characters replaced the word \"they\"."
+ },
+ {
+  "chapter": "ch22",
+  "before": "The N DMers adamantly",
+  "after": "The NDMers adamantly",
+  "reason": "A stray space split the abbreviation."
+ },
+ {
+  "chapter": "ch22",
+  "before": "wrote many draft s, became",
+  "after": "wrote many drafts, became",
+  "reason": "Split ft ligature, fixed the same way as \"theft s\" in another chapter."
+ },
+ {
+  "chapter": "ch22",
+  "before": "a single dubious dish tto hat still",
+  "after": "a single dubious dish that still",
+  "reason": "Stray characters inserted into \"that\"."
+ },
+ {
+  "chapter": "ch22",
+  "before": "A mind that follows WY SIATI will",
+  "after": "A mind that follows WYSIATI will",
+  "reason": "Fixed the same way as in the earlier chapters."
+ },
+ {
+  "chapter": "ch22",
+  "before": "highly valid cues that es the expert’s System 1",
+  "after": "highly valid cues that the expert’s System 1",
+  "reason": "Stray fragment \"es\" removed."
+ },
+ {
+  "chapter": "ch22",
+  "before": "actions and their manoticeable outcomes",
+  "after": "actions and their noticeable outcomes",
+  "reason": "Stray fragment \"ma\" removed."
+ },
+ {
+  "chapter": "ch22",
+  "before": "Unfortunately, associativentu memory",
+  "after": "Unfortunately, associative memory",
+  "reason": "Stray fragment \"ntu\" removed."
+ },
+ {
+  "chapter": "ch22",
+  "before": "endless exchanges of draft s and",
+  "after": "endless exchanges of drafts and",
+  "reason": "Split ft ligature."
+ },
+ {
+  "chapter": "ch23",
+  "before": "Rw l剢 sidering t20;About 40%,”",
+  "after": "“About 40%,”",
+  "reason": "Stray fragment in place of the opening quotation mark; 't20;' looks like the remains of the HTML entity &#8220;."
+ },
+ {
+  "chapter": "ch23",
+  "before": "comanspleted",
+  "after": "completed",
+  "reason": "Stray letters inserted into the word."
+ },
+ {
+  "chapter": "ch23",
+  "before": "insidethaa view",
+  "after": "inside view",
+  "reason": "Stray letters glued to 'inside'."
+ },
+ {
+  "chapter": "ch23",
+  "before": "story, ir In which",
+  "after": "story, in which",
+  "reason": "Stray 'ir' plus a wrong capital letter."
+ },
+ {
+  "chapter": "ch24",
+  "before": "optimistic bias. sid to adtions of aMost of us",
+  "after": "optimistic bias. Most of us",
+  "reason": "Stray fragment inserted"
+ },
+ {
+  "chapter": "ch24",
+  "before": "will thesurvive for",
+  "after": "will survive for",
+  "reason": "garbled text"
+ },
+ {
+  "chapter": "ch24",
+  "before": "the eiv xecutives of",
+  "after": "the executives of",
+  "reason": "garbled text"
+ },
+ {
+  "chapter": "ch24",
+  "before": "exposing ourselves to tnesehe planning fallacy.",
+  "after": "exposing ourselves to the planning fallacy.",
+  "reason": "garbled text"
+ },
+ {
+  "chapter": "ch24",
+  "before": "However, WY SIATI plays its part",
+  "after": "However, WYSIATI plays its part",
+  "reason": "Same repair other chapters already made"
+ },
+ {
+  "chapter": "ch24",
+  "before": "to go around. re",
+  "after": "to go around.",
+  "reason": "Stray ' re' at the end of the Disney quote"
+ },
+ {
+  "chapter": "ch24",
+  "before": "processes of WY SIATI and substitution",
+  "after": "processes of WYSIATI and substitution",
+  "reason": "garbled text"
+ },
+ {
+  "chapter": "ch24",
+  "before": "that “th%\">iere is a good chance",
+  "after": "that “there is a good chance",
+  "reason": "Stray HTML"
+ },
+ {
+  "chapter": "ch24",
+  "before": "founder of potelsitive psychology",
+  "after": "founder of positive psychology",
+  "reason": "garbled text"
+ },
+ {
+  "chapter": "ch24",
+  "before": "have a v filepos-id=\"filepos726557\"> nacea",
+  "after": "have a voice. The main virtue of the premortem is that it legitimizes doubts. Furthermore, it encourages even supporters of the decision to search for possible threats that they had not considered earlier. The premortem is not a panacea",
+  "reason": "Both EPUB copies on the machine lose about three sentences here. The restored text matches a word-for-word quotation of this passage on a blog post (pencerw.squarespace.com, 2014). The joining words 'The premortem is not a pa' are inferred from the leftover 'nacea'."
+ },
+ {
+  "chapter": "ch24",
+  "before": "biases of WY SIATI and uncritical",
+  "after": "biases of WYSIATI and uncritical",
+  "reason": "garbled text"
+ },
+ {
+  "chapter": "ch25",
+  "before": "and he Mathematical Psychology, and he directed",
+  "after": "and he had coauthored a textbook, Mathematical Psychology, and he directed",
+  "reason": "这里少了几个词。书末注释把 Mathematical Psychology 注为 Coombs、Dawes、Tversky 合著的教科书，第 26 章开头也说读的是“他的书”里的一章，所以补成“合著过一本教科书”。原词无法核实，已列入 uncertain_fixes。"
+ },
+ {
+  "chapter": "ch25",
+  "before": "figure out the mos BineithWe t rational",
+  "after": "figure out the most rational",
+  "reason": "删掉插进 most 中间的乱码。"
+ },
+ {
+  "chapter": "ch25",
+  "before": "a function that rel Binepitze=\"4\">utility) and the actual amount of money.",
+  "after": "a function that relates psychological intensity to the physical magnitude of the stimulus. In 1738, the Swiss scientist Daniel Bernoulli anticipated Fechner’s reasoning and applied it to the relationship between the psychological value or desirability of money (now called utility) and the actual amount of money.",
+  "reason": "这里丢了约一句半的原文，留下的是 HTML 残片。补写的内容依据几份公开的章节摘要（英文摘要和意大利文摘要都写到 1738 年、瑞士科学家、预先想到费希纳的推理、金钱的心理价值或吸引力，现在称为效用）。措辞是重建的，已列入 uncertain_fixes。"
+ },
+ {
+  "chapter": "ch25",
+  "before": "you also need to Bineli&r quite fa know the reference",
+  "after": "you also need to know the reference",
+  "reason": "删掉插入的乱码（其中的 quite fa 是从前一句 quite faint 重复进来的）。"
+ },
+ {
+  "chapter": "ch26",
+  "before": "you shou Clth\"ld ask direct questions",
+  "after": "you should ask direct questions",
+  "reason": "单词中间插进了乱码片段"
+ },
+ {
+  "chapter": "ch26",
+  "before": "the value of a ga Blth\"it ue of a gin of $1,000.",
+  "after": "the value of a gain of $1,000.",
+  "reason": "乱码片段，还重复了 value of a gain"
+ },
+ {
+  "chapter": "ch26",
+  "before": "illustrated by figure 1 Blth\" wagure 0.",
+  "after": "illustrated by figure 10.",
+  "reason": "图号 10 中间插进了乱码；下文和注释都写作 figure 10"
+ },
+ {
+  "chapter": "ch26",
+  "before": "either bold Blth\"vioher or cautious",
+  "after": "either bold or cautious",
+  "reason": "插进了乱码片段"
+ },
+ {
+  "chapter": "ch26",
+  "before": "the possible loss and the off setting gain.",
+  "after": "the possible loss and the offsetting gain.",
+  "reason": "单词被拆成两半"
+ },
+ {
+  "chapter": "ch26",
+  "before": "Consider a 5 0–5 0 gamble",
+  "after": "Consider a 50–50 gamble",
+  "reason": "数字中间多了空格；第 31 章写作 50–50"
+ },
+ {
+  "chapter": "ch26",
+  "before": "do you require to off set it?",
+  "after": "do you require to offset it?",
+  "reason": "单词被拆成两半"
+ },
+ {
+  "chapter": "ch26",
+  "before": "In an exuberant article they wrote abo Blth\"ins>",
+  "after": "In an exuberant article they wrote about the paper, Rabin and Richard Thaler commented that the larger gamble “has an expected return of $9,900—with exactly zero chance of losing more than $200. Even a lousy lawyer could have you declared legally insane for turning down this gamble.”",
+  "reason": "句子后半截丢了，只剩乱码和 HTML 残片。补回的引文和 Rabin、Thaler 2001 年在 Journal of Economic Perspectives 上的原文逐字一致（我取回了那篇文章核对过）；书末注释的提示语“Even a lousy lawyer”也对得上。引文前面的引导语是按我对原书的记忆补的，没能找到原书核对"
+ },
+ {
+  "chapter": "ch26",
+  "before": "## Blind Spots pf Prospect Theory",
+  "after": "## Blind Spots of Prospect Theory",
+  "reason": "小节标题里的拼写错误"
+ },
+ {
+  "chapter": "ch26",
+  "before": "as obvious a flow as the counterexamples",
+  "after": "as obvious a flaw as the counterexamples",
+  "reason": "flaw 错成了 flow"
+ },
+ {
+  "chapter": "ch27",
+  "before": "The omission of the ref Con serence point",
+  "after": "The omission of the reference point",
+  "reason": "插入了乱码 Con s"
+ },
+ {
+  "chapter": "ch27",
+  "before": "that the st Bon s Ae st Bonandard model",
+  "after": "that the standard model",
+  "reason": "插入了重复片段 Bon s Ae st Bon"
+ },
+ {
+  "chapter": "ch27",
+  "before": "considerable Bon s Able Bonexcitement",
+  "after": "considerable excitement",
+  "reason": "garbled text"
+ },
+ {
+  "chapter": "ch27",
+  "before": "at the end Bon s A end Bon of the experiment",
+  "after": "at the end of the experiment",
+  "reason": "garbled text"
+ },
+ {
+  "chapter": "ch27",
+  "before": "either a m Bon s A a m Bonug or money",
+  "after": "either a mug or money",
+  "reason": "garbled text"
+ },
+ {
+  "chapter": "ch27",
+  "before": "loss aversi Bon s Aersi Bonon",
+  "after": "loss aversion",
+  "reason": "garbled text"
+ },
+ {
+  "chapter": "ch27",
+  "before": "on whims Bon s Ahims Bon and minor luxuries",
+  "after": "on whims and minor luxuries",
+  "reason": "garbled text"
+ },
+ {
+  "chapter": "ch27",
+  "before": "The gift s were assigned",
+  "after": "The gifts were assigned",
+  "reason": "单词中间多了一个空格"
+ },
+ {
+  "chapter": "ch28",
+  "before": "narrowed by the Crro raised cheeks",
+  "after": "narrowed by the raised cheeks",
+  "reason": "stray fragment 'Crro' removed"
+ },
+ {
+  "chapter": "ch28",
+  "before": "requires Brro Qres Brrthat good interactions",
+  "after": "requires that good interactions",
+  "reason": "inserted fragment removed"
+ },
+ {
+  "chapter": "ch28",
+  "before": "is a los Brro Q los Brrs, but missing",
+  "after": "is a loss, but missing",
+  "reason": "'loss' split by inserted fragment"
+ },
+ {
+  "chapter": "ch28",
+  "before": "in “reo Brro Q;reo Brrrganizations” and",
+  "after": "in “reorganizations” and",
+  "reason": "'reorganizations' split by inserted fragment"
+ },
+ {
+  "chapter": "ch28",
+  "before": "we found, i Brro Qd, i Brrs that the exploitation",
+  "after": "we found, is that the exploitation",
+  "reason": "'is' split by inserted fragment"
+ },
+ {
+  "chapter": "ch28",
+  "before": "its conclusions Brro Qions Brr have stood",
+  "after": "its conclusions have stood",
+  "reason": "inserted fragment removed"
+ },
+ {
+  "chapter": "ch28",
+  "before": "have gone up r Brro Qup r Brrecently, but",
+  "after": "have gone up recently, but",
+  "reason": "'recently' split by inserted fragment"
+ },
+ {
+  "chapter": "ch29",
+  "before": "at a heft y price",
+  "after": "at a hefty price",
+  "reason": "EPUB 把 ft 连字拆开，多出一个空格"
+ },
+ {
+  "chapter": "ch29",
+  "before": "He also introduced me Bima a me Bimto a famous challenge",
+  "after": "He also introduced me to a famous challenge",
+  "reason": "garbled text"
+ },
+ {
+  "chapter": "ch29",
+  "before": "the approach that Bima ahat Bimhe rather contemptuously labeled",
+  "after": "the approach that he rather contemptuously labeled",
+  "reason": "garbled text"
+ },
+ {
+  "chapter": "ch29",
+  "before": "< Bima av> < Bimp height=\"0%\" width=\"5%\">The combination of the certainty effect",
+  "after": "The combination of the certainty effect",
+  "reason": "删去段首混入的 HTML 残片"
+ },
+ {
+  "chapter": "ch29",
+  "before": "that we ca Bima ae ca Bimlled the fourfold pattern",
+  "after": "that we called the fourfold pattern",
+  "reason": "garbled text"
+ },
+ {
+  "chapter": "ch29",
+  "before": "a high probability o Bima aty o Bimf a larger loss",
+  "after": "a high probability of a larger loss",
+  "reason": "garbled text"
+ },
+ {
+  "chapter": "ch29",
+  "before": "likely to be risk seeking, Bima aing, Bim prepared to gamble",
+  "after": "likely to be risk seeking, prepared to gamble",
+  "reason": "garbled text"
+ },
+ {
+  "chapter": "ch29",
+  "before": "hang Bima aang Bimon a last-minute deal",
+  "after": "hang on a last-minute deal",
+  "reason": "garbled text"
+ },
+ {
+  "chapter": "ch30",
+  "before": "and re Cmuninforced by conversations",
+  "after": "and reinforced by conversations",
+  "reason": "插入了乱码 Cmun"
+ },
+ {
+  "chapter": "ch30",
+  "before": "capability to Bmun q to Bmufocus spontaneously",
+  "after": "capability to focus spontaneously",
+  "reason": "乱码片段，并重复了 to"
+ },
+ {
+  "chapter": "ch30",
+  "before": "in the rel Bmun q rel Bmuationship it suggests",
+  "after": "in the relationship it suggests",
+  "reason": "relationship 被乱码拆开"
+ },
+ {
+  "chapter": "ch30",
+  "before": "in a dormitory bath Bmun qbath Bmuroom after",
+  "after": "in a dormitory bathroom after",
+  "reason": "bathroom 被乱码拆开"
+ },
+ {
+  "chapter": "ch30",
+  "before": "choose the urn Bmun q urn Bmu with the larger",
+  "after": "choose the urn with the larger",
+  "reason": "乱码片段，并重复了 urn"
+ },
+ {
+  "chapter": "ch30",
+  "before": "truly random, s Bmun qm, s Bmuo there is",
+  "after": "truly random, so there is",
+  "reason": "so 被乱码拆开"
+ },
+ {
+  "chapter": "ch30",
+  "before": "the second interpretation a Bmun qon a Bmuppears far more",
+  "after": "the second interpretation appears far more",
+  "reason": "appears 被乱码拆开"
+ },
+ {
+  "chapter": "ch31",
+  "before": "There were tw Bght hecome oo ways of construing",
+  "after": "There were two ways of construing",
+  "reason": "Inserted fragment \"Bght hecome o\" inside \"two\"."
+ },
+ {
+  "chapter": "ch31",
+  "before": "susceptible to WY SIATI and",
+  "after": "susceptible to WYSIATI and",
+  "reason": "Stray space; other chapters were repaired the same way."
+ },
+ {
+  "chapter": "ch31",
+  "before": "to deserve some Bght iciof 2",
+  "after": "to deserve some attention.",
+  "reason": "End of the paragraph just before the table image was replaced by a garbled fragment. Uncertain, see uncertain_fixes."
+ },
+ {
+  "chapter": "ch31",
+  "before": "this rule requires, Bght l d for e you will",
+  "after": "this rule requires, you will",
+  "reason": "Inserted fragment removed."
+ },
+ {
+  "chapter": "ch31",
+  "before": "The outside view shift s the focus",
+  "after": "The outside view shifts the focus",
+  "reason": "Stray space inside \"shifts\"."
+ },
+ {
+  "chapter": "ch31",
+  "before": "current situation to Bght pecicy tthe statistics",
+  "after": "current situation to the statistics",
+  "reason": "Inserted fragment \"Bght pecicy t\" removed."
+ },
+ {
+  "chapter": "ch32",
+  "before": "They shape o C Th5ur preferences",
+  "after": "They shape our preferences",
+  "reason": "garbled text"
+ },
+ {
+  "chapter": "ch32",
+  "before": "(if Eco B Th5motketns have friends)",
+  "after": "(if Econs have friends)",
+  "reason": "garbled text"
+ },
+ {
+  "chapter": "ch32",
+  "before": "Cl B Th5inge liosing a mental account with a gain",
+  "after": "Closing a mental account with a gain",
+  "reason": "garbled text"
+ },
+ {
+  "chapter": "ch32",
+  "before": "by a B Th5=\"4ncesinking feeling",
+  "after": "by a sinking feeling",
+  "reason": "garbled text"
+ },
+ {
+  "chapter": "ch32",
+  "before": "> George owned shares in company B. During the past year he sw B Th5 ne",
+  "after": "> George owned shares in company B. During the past year he switched to stock in company A. He now learns that he would have been better off by $1,200 if he had kept his stock in company B.",
+  "reason": "损坏处吞掉了半句话。补全的文字和网上引用的原书段落完全一致（acquirersmultiple.com 摘录了本章原文），也和 Kahneman & Miller 1986 的原始题目一致。"
+ },
+ {
+  "chapter": "ch32",
+  "before": "## Responsib B Th5onche potenility",
+  "after": "## Responsibility",
+  "reason": "garbled text"
+ },
+ {
+  "chapter": "ch32",
+  "before": "the safety of t B Th5ry tance ofhose we wish to protect",
+  "after": "the safety of those we wish to protect",
+  "reason": "garbled text"
+ },
+ {
+  "chapter": "ch32",
+  "before": "hindsight-avoiding B Th5he ything policy",
+  "after": "hindsight-avoiding policy",
+  "reason": "garbled text"
+ },
+ {
+  "chapter": "ch33",
+  "before": "make any diff Cmakerence?",
+  "after": "make any difference?",
+  "reason": "Removed the inserted fragment \"Cmak\"."
+ },
+ {
+  "chapter": "ch33",
+  "before": "the prize that can be won is Bmaktweare notsalient in this task",
+  "after": "the prize that can be won is salient in this task",
+  "reason": "Removed the inserted fragment \"Bmaktweare not\" and restored the space before \"salient\"."
+ },
+ {
+  "chapter": "ch33",
+  "before": "including both psychol Bmak/p>ished soogy and economics",
+  "after": "including both psychology and economics",
+  "reason": "Removed the stray HTML fragment \"Bmak/p>ished so\" that split \"psychology\"."
+ },
+ {
+  "chapter": "ch33",
+  "before": "requesting a Bmak\n",
+  "after": "requesting a contribution:\n",
+  "reason": "The end of the sentence was lost. Restored it from context (the next blockquote is the fundraising appeal). Also listed under uncertain_fixes."
+ },
+ {
+  "chapter": "ch33",
+  "before": "not noticeable in si Bmakecksider the ngle evaluation",
+  "after": "not noticeable in single evaluation",
+  "reason": "Removed the inserted fragment \"Bmakecksider the\" that split \"single\"."
+ },
+ {
+  "chapter": "ch33",
+  "before": "the case with which it was Bmak in, eac paired and",
+  "after": "the case with which it was paired and",
+  "reason": "Removed the inserted fragment \"Bmak in, eac\"."
+ },
+ {
+  "chapter": "ch33",
+  "before": "while a vi Bmaknseflected polation of the Wild Bird",
+  "after": "while a violation of the Wild Bird",
+  "reason": "Removed the inserted fragment \"Bmaknseflected p\" that split \"violation\"."
+ },
+ {
+  "chapter": "ch34",
+  "before": "beliefs an Con d preferences",
+  "after": "beliefs and preferences",
+  "reason": "stray fragment ' Con' inside 'and'"
+ },
+ {
+  "chapter": "ch34",
+  "before": "in which Bon he linthe topic was",
+  "after": "in which the topic was",
+  "reason": "inserted fragment 'Bon he lin'"
+ },
+ {
+  "chapter": "ch34",
+  "before": "and s Bon nd t=\"4%\" wome frames are clearly better",
+  "after": "and some frames are clearly better",
+  "reason": "inserted fragment with stray HTML attribute inside 'some'"
+ },
+ {
+  "chapter": "ch34",
+  "before": "switches from a Bon ss es from 30 mpg car",
+  "after": "switches from a 30 mpg car",
+  "reason": "inserted fragment 'Bon ss es from'"
+ },
+ {
+  "chapter": "ch35",
+  "before": "beach?” T Jon e t8221; T Jhe British economist",
+  "after": "beach?” The British economist",
+  "reason": "插入的乱码夹在 The 中间，t8221 是右引号实体的残片"
+ },
+ {
+  "chapter": "ch35",
+  "before": "The worst rati Jon er soever on ng (8 on the 10-point scale)",
+  "after": "The worst rating (8 on the 10-point scale)",
+  "reason": "rating 被插入的碎片拆开"
+ },
+ {
+  "chapter": "ch35",
+  "before": "it is the one that makes decisions Jon thaperienci. What we learn",
+  "after": "it is the one that makes decisions. What we learn",
+  "reason": "删去插入的碎片"
+ },
+ {
+  "chapter": "ch35",
+  "before": "they simply Jon the heigmade a mistake.",
+  "after": "they simply made a mistake.",
+  "reason": "删去插入的碎片，made 前面粘着 heig"
+ },
+ {
+  "chapter": "ch35",
+  "before": "twice as bad as 10, and Jon e oe e a reduction from 20 to 18",
+  "after": "twice as bad as 10, and a reduction from 20 to 18",
+  "reason": "删去插入的碎片"
+ },
+ {
+  "chapter": "ch36",
+  "before": "H Kto earing the news",
+  "after": "Hearing the news",
+  "reason": "第 1 段，单词中间插入了乱码 \" Kto\""
+ },
+ {
+  "chapter": "ch36",
+  "before": "had Jto Aad Jto no effect",
+  "after": "had no effect",
+  "reason": "第 6 段，插入了乱码片段 \"Jto Aad Jto\""
+ },
+ {
+  "chapter": "ch36",
+  "before": "significance Jto Ace Jto that",
+  "after": "significance that",
+  "reason": "“Amnesic Vacations”一节第 2 段，插入了乱码片段 \"Jto Ace Jto\""
+ },
+ {
+  "chapter": "ch37",
+  "before": "n=\"4\">Experienced Well-Being",
+  "after": "## Experienced Well-Being",
+  "reason": "A stray HTML attribute fragment replaced the subheading marker; the line is a section title between paragraphs, like the other chapters' ## subheadings."
+ },
+ {
+  "chapter": "ch37",
+  "before": "We called the percentage Jr\">n Qge Jr\">of time that",
+  "after": "We called the percentage of time that",
+  "reason": "Removed an inserted fragment."
+ },
+ {
+  "chapter": "ch37",
+  "before": "can will themselves to ha Jr\">n Q ha Jr\">ve a sunnier disposition",
+  "after": "can will themselves to have a sunnier disposition",
+  "reason": "Removed an inserted fragment that split the word \"have\"."
+ },
+ {
+  "chapter": "ch37",
+  "before": "Gallup-Healthways Well-Bei Jr\">n QBei Jr\">ng Index",
+  "after": "Gallup-Healthways Well-Being Index",
+  "reason": "Removed an inserted fragment that split the word \"Being\"."
+ },
+ {
+  "chapter": "ch38",
+  "before": "such as the health JghtA5 alth Jght of a spouse",
+  "after": "such as the health of a spouse",
+  "reason": "删掉插入的乱码片段"
+ },
+ {
+  "chapter": "ch38",
+  "before": "which was conducted for JghtA5 aor Jghtanother purpose",
+  "after": "which was conducted for another purpose",
+  "reason": "删掉乱码，恢复 another"
+ },
+ {
+  "chapter": "ch38",
+  "before": "will loom JghtA5 aoom Jght large in a global evaluation",
+  "after": "will loom large in a global evaluation",
+  "reason": "删掉插入的乱码片段"
+ },
+ {
+  "chapter": "ch38",
+  "before": "you actually answered JghtA5 aed Jghta much narrower question",
+  "after": "you actually answered a much narrower question",
+  "reason": "删掉乱码，恢复冠词 a"
+ },
+ {
+  "chapter": "ch38",
+  "before": "only when one at JghtA5 a at Jghttends to them",
+  "after": "only when one attends to them",
+  "reason": "乱码把 attends 拆开了，合并回 attends"
+ },
+ {
+  "chapter": "conclusions",
+  "before": "which does JghtA5 `؇J5 the fast thinking",
+  "after": "which does the fast thinking",
+  "reason": "Stray garbage characters inserted between 'does' and 'the'."
+ },
+ {
+  "chapter": "conclusions",
+  "before": "they are memorable Sareeva or because",
+  "after": "they are memorable or because",
+  "reason": "Stray fragment 'Sareeva'."
+ },
+ {
+  "chapter": "conclusions",
+  "before": "so long as hi Sso as alls preferences are consistent",
+  "after": "so long as his preferences are consistent",
+  "reason": "Fragment 'Sso as all' inserted inside 'his'."
+ },
+ {
+  "chapter": "conclusions",
+  "before": "than for tru S th17;e believers",
+  "after": "than for true believers",
+  "reason": "Fragment ' S th17;' inserted inside 'true'."
+ },
+ {
+  "chapter": "conclusions",
+  "before": "allow the employer to increa Syers liberalse their contribution",
+  "after": "allow the employer to increase their contribution",
+  "reason": "Fragment 'Syers liberal' inserted inside 'increase'."
+ },
+ {
+  "chapter": "conclusions",
+  "before": "attention is fo Stenations,cused, and",
+  "after": "attention is focused, and",
+  "reason": "Fragment 'Stenations,' inserted inside 'focused'."
+ },
+ {
+  "chapter": "conclusions",
+  "before": "In this conception of heu Septtedristics,",
+  "after": "In this conception of heuristics,",
+  "reason": "Fragment 'Septted' inserted inside 'heuristics'."
+ },
+ {
+  "chapter": "conclusions",
+  "before": "Whatever else it produces, a St pof othersn organization",
+  "after": "Whatever else it produces, an organization",
+  "reason": "Fragment 'St pof others' inserted inside 'an'."
+ },
+ {
+  "chapter": "acknowledgments",
+  "before": "into chapter draft s.",
+  "after": "into chapter drafts.",
+  "reason": "A stray space had split the word \"drafts\" in the sentence about Roger Lewin."
  }
 ]

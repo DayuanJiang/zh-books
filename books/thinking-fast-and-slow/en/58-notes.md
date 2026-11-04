@@ -28,13 +28,13 @@ without noticing the substitution:.
 
 ## 1: The Characters of the Story
 
-offered many labels: For reviews of the field, see Jonathan St. B. T. Evans and Keith Frankish, eds., In Two Minds: Dual Processes and Beyond (New York: Oxford University Press, 2009); Jonathan St. B. T. Evans, “Dual-Processing Accounts of Reasoning, Judgment, and Social Cognition,” Annual Review of Psychology 59 (2008): 25 {59 eight="0%"5–78. Among the pioneers are Seymour Epstein, Jonathan Evans, Steven Sloman, Keith Stanovich, and Richard West. I borrow the terms System 1 and System 2 from early writings of Stanovich and West that greatly influenced my thinking: Keith E. Stanovich and Richard F. West, “Individual Differences in Reasoning: Implications for the Rationality Debate,” Behavioral and Brain Sciences 23 (2000): 645–65.
+offered many labels: For reviews of the field, see Jonathan St. B. T. Evans and Keith Frankish, eds., In Two Minds: Dual Processes and Beyond (New York: Oxford University Press, 2009); Jonathan St. B. T. Evans, “Dual-Processing Accounts of Reasoning, Judgment, and Social Cognition,” Annual Review of Psychology 59 (2008): 255–78. Among the pioneers are Seymour Epstein, Jonathan Evans, Steven Sloman, Keith Stanovich, and Richard West. I borrow the terms System 1 and System 2 from early writings of Stanovich and West that greatly influenced my thinking: Keith E. Stanovich and Richard F. West, “Individual Differences in Reasoning: Implications for the Rationality Debate,” Behavioral and Brain Sciences 23 (2000): 645–65.
 
 subjective experience of agency: This sense of free will is sometimes illusory, as shown in Daniel M. Wegner, The Illusion of Conscious Will (Cambridge, MA: Bradford Books, 2003).
 
 attention is totally focused elsewhere: Nilli Lavie, “Attention, Distraction and Cognitive Control Under Load,” Current Directions in Psychological Science 19 (2010): 143–48.
 
-conflict between the two systems: In the classic Stroop task, you are shown a display of patches of different colors, or of words printed in various colors. Your task is to call out the names of the colors, ignoring the words. The task is extremely difficult when the colored words are themselves names of color (e.g., GREEN printed in red, followed by Y ELLOW printed in green, etc.).
+conflict between the two systems: In the classic Stroop task, you are shown a display of patches of different colors, or of words printed in various colors. Your task is to call out the names of the colors, ignoring the words. The task is extremely difficult when the colored words are themselves names of color (e.g., GREEN printed in red, followed by YELLOW printed in green, etc.).
 
 psychopathic charm: Professor Hare wrote me to say, “Your teacher was right,” March 16, 2011. Robert D. Hare, Without Conscience: The Disturbing World of the Psychopaths Among Us (New York: Guilford Press, 1999). Paul Babiak and Robert D. Hare, Snakes in Suits: When Psychopaths Go to Work (New York: Harper, 2007).
 
@@ -60,7 +60,7 @@ Studies of the brain: Michael E. Smith, Linda K. McEvoy, and Alan Gevins, “Neu
 
 less effort to solve the same problems: For example, Sylvia K. Ahern and Jackson Beatty showed that individuals who scored higher on the SAT showed smaller pupillary dilations than low scorers in responding to the same task. “Physiological Signs of Information Processing Vary with Intelligence,” Science 205 (1979): 1289–92.
 
-“law of least effort”: Wouter Kool et {ute979): 1289al., “Decision Making and the Avoidance of Cognitive Demand,” Journal of Experimental Psychology—General 139 (2010): 665–82. Joseph T. McGuire and Matthew M. Botvinick, “The Impact of Anticipated Demand on Attention and Behavioral Choice,” in Effortless Attention, ed. Brian Bruya (Cambridge, MA: Bradford Books, 2010), 103–20.
+“law of least effort”: Wouter Kool et al., “Decision Making and the Avoidance of Cognitive Demand,” Journal of Experimental Psychology—General 139 (2010): 665–82. Joseph T. McGuire and Matthew M. Botvinick, “The Impact of Anticipated Demand on Attention and Behavioral Choice,” in Effortless Attention, ed. Brian Bruya (Cambridge, MA: Bradford Books, 2010), 103–20.
 
 balance of benefits and costs: Neuroscientists have identified a region of the brain that assesses the overall value of an action when it is completed. The effort that was invested counts as a cost in this neural computation. Joseph T. McGuire and Matthew M. Botvinick, “Prefrontal Cortex, Cognitive Control, and the Registration of Decision Costs,” PNAS 107 (2010): 7922–26.
 
@@ -84,7 +84,7 @@ sweet tooth: Baba Shiv and Alexander Fedorikhin, “Heart and Mind in Conflict: 
 
 cognitively busy: Daniel T. Gilbert, “How Mental Systems Believe,” American Psychologist 46 (1991): 107–19. C. Neil Macrae and Galen V. Bodenhausen, “Social Cognition: Thinking Categorically about Others,” Annual Review of Psychology 51 (2000): 93–120.
 
-po {"><21; : Sian L. Beilock and Thomas H. Carr, “When High-Powered People Fail: Working Memory and Choking Under Pressure in Math,” Psychological Science 16 (2005): 101–105.
+pointless anxious thoughts: Sian L. Beilock and Thomas H. Carr, “When High-Powered People Fail: Working Memory and Choking Under Pressure in Math,” Psychological Science 16 (2005): 101–105.
 
 exertion of self-control: Martin S. Hagger et al., “Ego Depletion and the Strength Model of Self-Control: A Meta-Analysis,” Psychological Bulletin 136 (2010): 495–525.
 
@@ -108,7 +108,7 @@ cruel dilemma: Walter Mischel and Ebbe B. Ebbesen, “Attention in Delay of Grat
 
 higher scores on tests of intelligence: Mischel and Ebbesen, “Attention in Delay of Gratification.” Walter Mischel, “Processes in Delay of Gratification,” in Advances in Experimental Social Psychology, Vol. 7, ed. Leonard Berkowitz (San Diego, CA: Academic Press, 1974), 249–92. Walter Mischel, Yuichi Shoda, and Monica L. Rodriguez, “Delay of Gratification in Children,” Science 244 (1989): 933–38. Eigsti, “Predicting Cognitive Control from Preschool to Late Adolescence.”
 
-improvement was maintained: M. Rosario Rued { Rocenca et al., “Training, Maturation, and Genetic Influences on the Development of Executive Attention,” PNAS 102 (2005): 14931–36.
+improvement was maintained: M. Rosario Rueda et al., “Training, Maturation, and Genetic Influences on the Development of Executive Attention,” PNAS 102 (2005): 14931–36.
 
 conventional measures of intelligence: Maggie E. Toplak, Richard F. West, and Keith E. Stanovich, “The Cognitive Reflection Test as a Predictor of Performance on Heuristics-and-Biases Tasks,” Memory & Cognition (in press).
 
@@ -136,7 +136,7 @@ increase the funding of schools: Jonah Berger, Marc Meredith, and S. Christian W
 
 Reminders of money: Kathleen D. Vohs, “The Psychological Consequences of Money,” Science 314 (2006): 1154–56.
 
-appeal of authoritarian ideas: Jeff Greenberg et al., “Evidence for Terror Management Theory II: The Effect of Mortality Salience on Reactions to Those Who Threaten or Bolster the Cultural Worldview,” Journal of Personality and Social Psychology {gy
+appeal of authoritarian ideas: Jeff Greenberg et al., “Evidence for Terror Management Theory II: The Effect of Mortality Salience on Reactions to Those Who Threaten or Bolster the Cultural Worldview,” Journal of Personality and Social Psychology 58 (1990): 308–18.
 
 “Lady Macbeth effect”: Chen-Bo Zhong and Katie Liljenquist, “Washing Away Your Sins: Threatened Morality and Physical Cleansing,” Science 313 (2006): 1451–52.
 
@@ -162,7 +162,7 @@ The impression of familiarity: Normally, when you meet a friend you can immediat
 
 low credibility: Daniel M. Oppenheimer, “Consequences of Erudite Vernacular Utilized Irrespective of Necessity: Problems with Using Long Words Needlessly,” Applied Cognitive Psychology 20 (2006): 139–56.
 
-when they rhymed: Matthew S. Mc Glone and Jessica Tofighbakhsh, “Birds of a Feather Flock Conjointly (?): Rhyme as Reas {RhyPsychological Science 11 (2000): 424–28.
+when they rhymed: Matthew S. McGlone and Jessica Tofighbakhsh, “Birds of a Feather Flock Conjointly (?): Rhyme as Reason in Aphorisms,” Psychological Science 11 (2000): 424–28.
 
 fictitious Turkish companies: Anuj K. Shah and Daniel M. Oppenheimer, “Easy Does It: The Role of Fluency in Cue Weighting,” Judgment and Decision Making Journal 2 (2007): 371–79.
 
@@ -172,7 +172,7 @@ pictures of objects: Piotr Winkielman and John T. Cacioppo, “Mind at Ease Puts
 
 small advantage: Adam L. Alter and Daniel M. Oppenheimer, “Predicting Short-Term Stock Fluctuations by Using Processing Fluency,” PNAS 103 (2006). Michael J. Cooper, Orlin Dimitrov, and P. Raghavendra Rau, “A [Rose.com](http://Rose.com) by Any Other Name,” Journal of Finance 56 (2001): 2371–88.
 
-clunky labels: Pascal Pensa, “Nomen Est Omen: How Company Names Influence Shortand Long-Run Stock Market Performance,” Social Science Research Network Working Paper, September 2006.
+clunky labels: Pascal Pensa, “Nomen Est Omen: How Company Names Influence Short- and Long-Run Stock Market Performance,” Social Science Research Network Working Paper, September 2006.
 
 mere exposure effect: Robert B. Zajonc, “Attitudinal Effects of Mere Exposure,” Journal of Personality and Social Psychology 9 (1968): 1–27.
 
@@ -188,7 +188,7 @@ triad of words: Annette Bolte, Thomas Goschke, and Julius Kuhl, “Emotion and I
 
 association is retrieved: The analysis excludes all cases in which the subject actually found the correct solution. It shows that even subjects who will ultimately fail to find a common association have some idea of whether there is one to be found.
 
-increase cognitive ease: Sascha Topolinski and Fritz Strack, “The Architecture of Intuition: Fluency and Affect Determine {ectition Intuitive Judgments of Semantic and Visual Coherence and Judgments of Grammaticality in Artificial Grammar Learning,” Journal of Experimental Psychology—General 138 (2009): 39–63.
+increase cognitive ease: Sascha Topolinski and Fritz Strack, “The Architecture of Intuition: Fluency and Affect Determine Intuitive Judgments of Semantic and Visual Coherence and Judgments of Grammaticality in Artificial Grammar Learning,” Journal of Experimental Psychology—General 138 (2009): 39–63.
 
 doubled accuracy: Bolte, Goschke, and Kuhl, “Emotion and Intuition.”
 
@@ -218,9 +218,7 @@ as we die: Paul Bloom, “Is God an Accident?” Atlantic, December 2005.
 
 elegant experiment: Daniel T. Gilbert, Douglas S. Krull, and Patrick S. Malone, “Unbelieving the Unbelievable: Some Problems in the Rejection of False Information,” Journal of Personality and Social Psychology 59 (1990): 601–13.
 
-descriptions of two people: Solomon E. Asch, “Forming {#823.
-
-Impressions of Personality,” Journal of Abnormal and Social Psychology 41 (1946): 258–90.
+descriptions of two people: Solomon E. Asch, “Forming Impressions of Personality,” Journal of Abnormal and Social Psychology 41 (1946): 258–90.
 
 all six adjectives: Ibid.
 
@@ -248,9 +246,7 @@ sense of injustice: Stanley S. Stevens, Psychophysics: Introduction to Its Perce
 
 detected that the words rhymed: Mark S. Seidenberg and Michael K. Tanenhaus, “Orthographic Effects on Rhyme Monitoring,” Journal of Experimental Psychology—Human Learning and Memory 5 (1979): 546–54.
 
-95–96 sentence was literally true: Sam Glucksberg, Patricia Gildea, and Howard G. Boo {How>
-
-Journal of Verbal Learning and Verbal Behavior 21 (1982): 85–98.
+sentence was literally true: Sam Glucksberg, Patricia Gildea, and Howard G. Bookin, “On Understanding Nonliteral Speech: Can People Ignore Metaphors?” Journal of Verbal Learning and Verbal Behavior 21 (1982): 85–98.
 
 ## 9: Answering an Easier Question
 
@@ -262,7 +258,7 @@ correlations between psychological measures: The correlation was .66.
 
 dominates happiness reports: Other substitution topics include marital satisfaction, job satisfaction, and leisure time satisfaction: Norbert Schwarz, Fritz Strack, and Hans-Peter Mai, “Assimilation and Contrast Effects in Part-Whole Question Sequences: A Conversational Logic Analysis,” Public Opinion Quarterly 55 (1991): 3–23.
 
-evaluate their happiness: A telephone survey conducted in Germany included a question about general happiness. When the self-reports of happiness were correlated with the local weather at the time of the interview, a pronounced correlation was found. Mood is known to vary with the weather, and substitution explains the effect on reported happiness. However, another version of the telephone survey yielded a somewhat different result. These respondents were asked about the current weather before they were asked the happiness quest {ppiournal ofion. For them, weather had no effect at all on reported happiness! The explicit priming of weather provided them with an explanation of their mood, undermining the connection that would normally be made between current mood and overall happiness.
+evaluate their happiness: A telephone survey conducted in Germany included a question about general happiness. When the self-reports of happiness were correlated with the local weather at the time of the interview, a pronounced correlation was found. Mood is known to vary with the weather, and substitution explains the effect on reported happiness. However, another version of the telephone survey yielded a somewhat different result. These respondents were asked about the current weather before they were asked the happiness question. For them, weather had no effect at all on reported happiness! The explicit priming of weather provided them with an explanation of their mood, undermining the connection that would normally be made between current mood and overall happiness.
 
 view of the benefits: Melissa L. Finucane et al., “The Affect Heuristic in Judgments of Risks and Benefits,” Journal of Behavioral Decision Making 13 (2000): 1–17.
 
@@ -290,7 +286,7 @@ stay closer to the anchor: Epley and Gilovich, “The Anchoring-and-Adjustment H
 
 associative coherence: Thomas Mussweiler, “The Use of Category and Exemplar Knowledge in the Solution of Anchoring Tasks,” Journal of Personality and Social Psychology 78 (2000): 1038–52.
 
-San Francisco Exploratorium: Karen E. Jacowitz and Daniel Kahneman, “Measures of Anchoring in Estimation Tasks,” Person {pantion ality and Social Psychology Bulletin 21 (1995): 1161–66.
+San Francisco Exploratorium: Karen E. Jacowitz and Daniel Kahneman, “Measures of Anchoring in Estimation Tasks,” Personality and Social Psychology Bulletin 21 (1995): 1161–66.
 
 substantially lower: Gregory B. Northcraft and Margaret A. Neale, “Experts, Amateurs, and Real Estate: An Anchoring-and-Adjustment Perspective on Property Pricing Decisions,” Organizational Behavior and Human Decision Processes 39 (1987): 84–97. The high anchor was 12% above the listed price, the low anchor was 12% below that price.
 
@@ -316,7 +312,7 @@ role of fluency: Sabine Stepper and Fritz Strack, “Proprioceptive Determinants
 
 experimenters dreamed up: For a review of this area of research, see Rainer Greifeneder, Herbert Bless, and Michel T. Pham, “When Do People Rely on Affective and Cognitive Feelings in Judgment? A Review,” Personality and Social Psychology Review 15 (2011): 107–41.
 
-affect their cardiac health: Alexander Rotliman and Norbert Schwarz, “Constructing Perceptions of Vulnerability: Personal Relevance and the Use of Experimental Information in Health Judgments,” Personality and Social Psychology Bulletin 24 (1998): 1053–64.
+affect their cardiac health: Alexander Rothman and Norbert Schwarz, “Constructing Perceptions of Vulnerability: Personal Relevance and the Use of Experimental Information in Health Judgments,” Personality and Social Psychology Bulletin 24 (1998): 1053–64.
 
 effortful task at the same time: Rainer Greifeneder and Herbert Bless, “Relying on Accessible Content Versus Accessibility Experiences: The Case of Processing Capacity,” Social Cognition 25 (2007): 853–81.
 
@@ -338,7 +334,7 @@ because of brain damage: Damasio’s idea is known as the “somatic marker hypo
 
 risks of each technology: Finucane et al., “The Affect Heuristic in Judgments of Risks and Benefits.” Paul Slovic, Melissa Finucane, Ellen Peters, and Donald G. MacGregor, “The Affect Heuristic,” in Thomas Gilovich, Dale Griffin, and Daniel Kahneman, eds., Heuristics and Biases (New York: Cambridge University Press, 2002), 397–420. Paul Slovic, Melissa Finucane, Ellen Peters, and Donald G. MacGregor, “Risk as Analysis and Risk as Feelings: Some Thoughts About Affect, Reason, Risk, and Rationality,” Risk Analysis 24 (2004): 1–12. Paul Slovic, “Trust, Emotion, Sex, Politics, and Science: Surveying the Risk-Assessment Battlefield,” Risk Analysis 19 (1999): 689–701.
 
-British Toxicology Society: Slovic, “Trust, Emotion, Sex, Politics, and Science.” The technologies and substances used in these studies are not alternative solutions to the same problem. In realistic problems, where competitive solutions are considered, the correlation between costs and benefits must be negative; the solutions that have {ns problems,the largest benefits are also the most costly. Whether laypeople and even experts might fail to recognize the correct relationship even in those cases is an interesting question.
+British Toxicology Society: Slovic, “Trust, Emotion, Sex, Politics, and Science.” The technologies and substances used in these studies are not alternative solutions to the same problem. In realistic problems, where competitive solutions are considered, the correlation between costs and benefits must be negative; the solutions that have the largest benefits are also the most costly. Whether laypeople and even experts might fail to recognize the correct relationship even in those cases is an interesting question.
 
 “wags the rational dog”: Jonathan Haidt, “The Emotional Dog and Its Rational Tail: A Social Institutionist Approach to Moral Judgment,” Psychological Review 108 (2001): 814–34.
 
@@ -346,7 +342,7 @@ British Toxicology Society: Slovic, “Trust, Emotion, Sex, Politics, and Scienc
 
 availability cascade: Timur Kuran and Cass R. Sunstein, “Availability Cascades and Risk Regulation,” Stanford Law Review 51 (1999): 683–768. CERCLA, the Comprehensive Environmental Response, Compensation, and Liability Act, passed in 1980.
 
-nothing in between: Paul Slovic, who testified for the apple growers in the Alar case, has a rather different view: “The scare was triggered by the CBS 60 Minutes broadcast that said 4, 000 children will die of cancer (no probabilities there) along with frightening pictures of bald children in a cancer ward—and many more incorrect statements. Also the story exposed EPA’s lack of competence in attending to and evaluating the safety of Alar, destroying trust in regulatory control. Given this, I think the public’s response was rational.” (Personal communication, May 11, 2011.)
+nothing in between: Paul Slovic, who testified for the apple growers in the Alar case, has a rather different view: “The scare was triggered by the CBS 60 Minutes broadcast that said 4,000 children will die of cancer (no probabilities there) along with frightening pictures of bald children in a cancer ward—and many more incorrect statements. Also the story exposed EPA’s lack of competence in attending to and evaluating the safety of Alar, destroying trust in regulatory control. Given this, I think the public’s response was rational.” (Personal communication, May 11, 2011.)
 
 ## 14: Tom W’s Specialty
 
@@ -360,7 +356,7 @@ told to frown: Alter, Oppenheimer, Epley, and Eyre, “Overcoming Intuition.”
 
 Bayes’s rule: The simplest form of Bayes’s rule is in odds form, posterior odds = prior odds × likelihood ratio, where the posterior odds are the odds (the ratio of probabilities) for two competing hypotheses. Consider a problem of diagnosis. Your friend has tested positive for a serious disease. The disease is rare: only 1 in 600 of the cases sent in for testing actually has the disease. The test is fairly accurate. Its likelihood ratio is 25:1, which means that the probability that a person who has the disease will test positive is 25 times higher than the probability of a false positive. Testing positive is frightening news, but the odds that your friend has the disease have risen only from 1/600 to 25/600, and the probability is 4%.
 
-For the hypothesis that Tom W is a computer scientist, the prior odds that correspond to a base rate of 3% are (.03/. 97 = .031). Assuming a likelihood ratio of 4 (the description is 4 times as likely if Tom W is a computer scientist than if he is not), the posterior odds are 4 × . 031 = 12.4. From these odds you can { odes as l compute that the posterior probability of Tom W being a computer scientist is now 11% (because 12.4/112. 4 = .11).
+For the hypothesis that Tom W is a computer scientist, the prior odds that correspond to a base rate of 3% are (.03/.97 = .031). Assuming a likelihood ratio of 4 (the description is 4 times as likely if Tom W is a computer scientist than if he is not), the posterior odds are 4 × .031 = 12.4. From these odds you can compute that the posterior probability of Tom W being a computer scientist is now 11% (because 12.4/112.4 = .11).
 
 ## 15: Linda: Less is More
 
@@ -374,7 +370,7 @@ settle our differences: Barbara Mellers, Ralph Hertwig, and Daniel Kahneman, “
 
 ## 16: Causes Trump Statistics
 
-correct answer is 41%: Applying Bayes’s rule in odds form, the prior odds are the odds for the Blue cab from the base rate, and the likelihood ratio is the ratio of the probability of the witness saying the cab is Blue if it is Blue, divided by the probability of the witness saying the cab is Blue if it is Green: posterior odds = (.15/.85) × (.80/.20) = .706. The odds are the ratio of the probability that the cab is Blue, divided by the probability that the cab is Green. To obtain the probability that the cab is Blue, we compute: Probability (Blue) = .706/1. 706 = .41. The probability that the cab is Blue is 41%.
+correct answer is 41%: Applying Bayes’s rule in odds form, the prior odds are the odds for the Blue cab from the base rate, and the likelihood ratio is the ratio of the probability of the witness saying the cab is Blue if it is Blue, divided by the probability of the witness saying the cab is Blue if it is Green: posterior odds = (.15/.85) × (.80/.20) = .706. The odds are the ratio of the probability that the cab is Blue, divided by the probability that the cab is Green. To obtain the probability that the cab is Blue, we compute: Probability (Blue) = .706/1.706 = .41. The probability that the cab is Blue is 41%.
 
 not too far from the Bayesian: Amos Tversky and Daniel Kahneman, “Causal Schemas in Judgments Under Uncertainty,” in Progress in Social Psychology, ed. Morris Fishbein (Hillsdale, NJ: Erlbaum, 1980), 49–72.
 
@@ -386,13 +382,13 @@ relieved of responsibility: John M. Darley and Bibb Latane, “Bystander Interve
 
 help of the most brilliant statisticians: Michael Bulmer, Francis Galton: Pioneer of Heredity and Biometry (Baltimore: Johns Hopkins University Press, 2003).
 
-standard scores: Researchers transform each original score into a standard score by subtracting the mean and dividing the result by the standard deviation. Standard scores have a mean of zero and a standard deviation of 1, can be compared across variables (especially when the statistica {he deviatiol distributions of the original scores are similar), and have many desirable mathematical properties, which Galton had to work out to understand the nature of correlation and regression.
+standard scores: Researchers transform each original score into a standard score by subtracting the mean and dividing the result by the standard deviation. Standard scores have a mean of zero and a standard deviation of 1, can be compared across variables (especially when the statistical distributions of the original scores are similar), and have many desirable mathematical properties, which Galton had to work out to understand the nature of correlation and regression.
 
 correlation between parent and child: This will not be true in an environment in which some children are malnourished. Differences in nutrition will become important, the proportion of shared factors will diminish, and with it the correlation between the height of parents and the height of children (unless the parents of malnourished children were also stunted by hunger in childhood).
 
 height and weight: The correlation was computed for a very large sample of the population of the United States (the Gallup-Healthways Well-Being Index).
 
-income and education: The correlation appears impressive, but I was surprised to learn many years ago from the sociologist Christopher Jencks that if everyone had the same education, the inequality of income (measured by standard deviation) would be reduced only by about 9%. The relevant formula is v (1–r2), where r is the correlation.
+income and education: The correlation appears impressive, but I was surprised to learn many years ago from the sociologist Christopher Jencks that if everyone had the same education, the inequality of income (measured by standard deviation) would be reduced only by about 9%. The relevant formula is √(1–r²), where r is the correlation.
 
 correlation and regression: This is true when both variables are measured in standard scores—that is, where each score is transformed by removing the mean and dividing the result by the standard deviation.
 
@@ -416,7 +412,7 @@ ever felt differently: Richard E. Nisbett and Timothy D. Wilson, “Telling More
 
 United States and the Soviet Union: Baruch Fischhoff and Ruth Beyth, “I Knew It Would Happen: Remembered Probabilities of Once Future Things,” Organizational Behavior and Human Performance 13 (1975): 1–16.
 
-quality of a decision: Jonathan Baron and John C. Hershey, “Outcome Bias in Decision {s iiv> Evaluation,” Journal of Personality and Social Psychology 54 (1988): 569–79.
+quality of a decision: Jonathan Baron and John C. Hershey, “Outcome Bias in Decision Evaluation,” Journal of Personality and Social Psychology 54 (1988): 569–79.
 
 should have hired the monitor: Kim A. Kamin and Jeffrey Rachlinski, “Ex Post? Ex Ante: Determining Liability in Hindsight,” Law and Human Behavior 19 (1995): 89–104. Jeffrey J. Rachlinski, “A Positive Psychological Theory of Judging in Hindsight,” University of Chicago Law Review 65 (1998): 571–625.
 
@@ -434,11 +430,11 @@ his penetrating book: The Halo Effect was praised as one of the best business bo
 
 flip of a coin: In fact, even if you were the CEO yourself, your forecasts would not be impressively reliable; the extensive research on insider trading shows that executives do beat the market when they trade their own stock, but the margin of their outperformance is barely enough to cover the costs of trading. See H. Nejat Seyhun, “The Information Content of Aggregate Insider Trading,” Journal of Business 61 (1988): 1–24; Josef Lakonishok and Inmoo Lee, “Are Insider Trades Informative?” Review of Financial Studies 14 (2001): 79–111; Zahid Iqbal and Shekar Shetty, “An Investigation of Causality Between Insider Transactions and Stock Returns,” Quarterly Review of Economics and Finance 42 (2002): 41–57.
 
-In Search of Excellence: Rosenz {lenlatweig, The Halo Effect.
+In Search of Excellence: Rosenzweig, The Halo Effect.
 
 “Most Admired Companies”: Deniz Anginer, Kenneth L. Fisher, and Meir Statman, “Stocks of Admired Companies and Despised Ones,” working paper, 2007.
 
-regression to the mean: Jason Zweig observes that the lack of appreciation for regression has detrimental implications for the recruitment of CEOs. Struggling firms tend to turn to outsiders, recruiting CEOs from companies with high recent returns. The incoming CEO then gets credit, at least temporarily, for his new firm’s subsequent improvement. (Mean-while, his replacement at his former firm is now struggling, leading the new bosses to believe that they definitely hired “the right guy.”) Anytime a CEO jumps ship, the new company must buy out his stake (in stock and options) at his old firm, setting a baseline for future compensation that has nothing to do with performance at the new firm. Tens of millions of dollars in compensation get awarded for “personal” achievements that are driven mainly by regression and halo effects (personal communication, December 29, 2009).
+regression to the mean: Jason Zweig observes that the lack of appreciation for regression has detrimental implications for the recruitment of CEOs. Struggling firms tend to turn to outsiders, recruiting CEOs from companies with high recent returns. The incoming CEO then gets credit, at least temporarily, for his new firm’s subsequent improvement. (Meanwhile, his replacement at his former firm is now struggling, leading the new bosses to believe that they definitely hired “the right guy.”) Anytime a CEO jumps ship, the new company must buy out his stake (in stock and options) at his old firm, setting a baseline for future compensation that has nothing to do with performance at the new firm. Tens of millions of dollars in compensation get awarded for “personal” achievements that are driven mainly by regression and halo effects (personal communication, December 29, 2009).
 
 ## 20: The Illusion of Validity
 
@@ -446,7 +442,7 @@ this startling conclusion: Brad M. Barber and Terrance Odean, “Trading Is Haza
 
 men acted on their useless ideas: Brad M. Barber and Terrance Odean, “Boys Will Be Boys: Gender, Overconfidence, and Common Stock Investment,” Quarterly Journal of Economics 116 (2006): 261–92.
 
-selling “winners”: This “disposition effect” is discussed further.
+selling “winners”: This “disposition effect” is discussed further in chapter 32.
 
 responding to news: Brad M. Barber and Terrance Odean, “All That Glitters: The Effect of Attention and News on the Buying Behavior of Individual and Institutional Investors,” Review of Financial Studies 21 (2008): 785–818.
 
@@ -456,7 +452,7 @@ underperform the overall market: John C. Bogle, Common Sense on Mutual Funds: Ne
 
 persistent differences in skill: Mark Grinblatt and Sheridan Titman, “The Persistence of Mutual Fund Performance,” Journal of Finance 42 (1992): 1977–84. Edwin J. Elton et al., “The Persistence of Risk-Adjusted Mutual Fund Performance,” Journal of Business 52 (1997): 1–33. Edwin Elton et al., “Efficiency With Costly Information: A Re-interpretation of Evidence from Managed Portfolios,” Review of Financial Studies 6 (1993): 1–21.
 
-“In this age of academic hyperspecialization”: Philip E. Tetlock, Expert Political Judgment:̶> How Good is It? How Can We Know? (Princeton: Princeton University Press, 2005), 233.
+“In this age of academic hyperspecialization”: Philip E. Tetlock, Expert Political Judgment: How Good is It? How Can We Know? (Princeton: Princeton University Press, 2005), 233.
 
 ## 21: Intuitions vs. Formulas
 
@@ -485,7 +481,7 @@ virtues of checklists: Atul Gawande, The Checklist Manifesto: How to Get Things 
 
 organic fruit: Paul Rozin, “The Meaning of ‘Natural’: Process More Important than Content,” Psychological Science 16 (2005): 652–58.
 
-## 2 {ce
+## 22: Expert Intuition: When Can We Trust It?
 
 moderated by an arbiter: Mellers, Hertwig, and Kahneman, “Do Frequency Representations Eliminate Conjunction Effects?”
 
@@ -509,7 +505,7 @@ very different answers: Dan Lovallo and Daniel Kahneman, “Timid Choices and Bo
 
 “Pallid” statistical information: Richard E. Nisbett and Lee D. Ross, Human Inference: Strategies and Shortcomings of Social Judgment (Englewood Cliffs, NJ: Prentice-Hall, 1980).
 
-impersonality of procedures: Fo {i>How Doctors Think (New York: Mariner Books, 2008), 6.
+impersonality of procedures: For an example of the doubts about evidence-based medicine, see Jerome Groopman, How Doctors Think (New York: Mariner Books, 2008), 6.
 
 planning fallacy: Daniel Kahneman and Amos Tversky, “Intuitive Prediction: Biases and Corrective Procedures,” Management Science 12 (1979): 313–27.
 
@@ -535,7 +531,7 @@ the Royal Society B 276 (2009): 1747–51.
 
 more sanguine than midlevel managers: Lowell W. Busenitz and Jay B. Barney, “Differences Between Entrepreneurs and Managers in Large Organizations: Biases and Heuristics in Strategic Decision-Making,” Journal of Business Venturing 12 (1997): 9–30.
 
-admiration of others: Entrepreneurs who have failed are sustained in their confidence by the probably mistaken belief that they have learned a great deal from the experience. Gavin Cassar and Justin Craig, “An Investigation of Hindsight Bias in Nascent Venture Activity,” Journal of Business Venturing 24 ( {>
+admiration of others: Entrepreneurs who have failed are sustained in their confidence by the probably mistaken belief that they have learned a great deal from the experience. Gavin Cassar and Justin Craig, “An Investigation of Hindsight Bias in Nascent Venture Activity,” Journal of Business Venturing 24 (2009): 149–64.
 
 influence on the lives of others: Keith M. Hmieleski and Robert A. Baron, “Entrepreneurs’ Optimism and New Venture Performance: A Social Cognitive Perspective,” Academy of Management Journal 52 (2009): 473–88. Matthew L. A. Hayward, Dean A. Shepherd, and Dale Griffin, “A Hubris Theory of Entrepreneurship,” Management Science 52 (2006): 160–72.
 
@@ -553,7 +549,7 @@ bet small amounts of money: Eleanor F. Williams and Thomas Gilovich, “Do Peopl
 
 “engage in earnings management”: Ulrike Malmendier and Geoffrey Tate, “Superstar CEOs,” Quarterly Journal of Economics 24 (2009), 1593–1638.
 
-self-aggrandizement to a cognitive bias: Paul D. Windschitl, Jason P. Rose, Michael T. Stalk-fleet, and Andrew R. Smith, “Are People Excessive or Judicious in Their Egocentrism? A Modeling Approach to Understanding Bias and Accuracy in People’s Optimism,” Journal of Personality and Social Psychology 95 (2008): 252–73.
+self-aggrandizement to a cognitive bias: Paul D. Windschitl, Jason P. Rose, Michael T. Stalkfleet, and Andrew R. Smith, “Are People Excessive or Judicious in Their Egocentrism? A Modeling Approach to Understanding Bias and Accuracy in People’s Optimism,” Journal of Personality and Social Psychology 95 (2008): 252–73.
 
 average outcome is a loss: A form of competition neglect has also been observed in the time of day at which sellers on eBay choose to end their auctions. The easy question is: At what time is the total number of bidders the highest? Answer: around 7:00 p.m. EST. The question sellers should answer is harder: Considering how many other sellers end their auctions during peak hours, at what time will there be the most bidders looking at my auction? The answer: around noon, when the number of bidders is large relative to the number of sellers. The sellers who remember the competition and avoid prime time get higher prices. Uri Simonsohn, “eBay’s Crowded Evenings: Competition Neglect in Market Entry Decisions,” Management Science 56 (2010): 1060–73.
 
@@ -579,13 +575,11 @@ $10 million from $100 million: Bernoulli’s intuition was correct, and economis
 
 ## 26: Prospect Theory
 
-ast="2%">
-
 subjective value of wealth: Stanley S. Stevens, “To Honor Fechner and Repeal His Law,” Science 133 (1961): 80–86. Stevens, Psychophysics.
 
 The three principles: Writing this sentence reminded me that the graph of the value function has already been used as an emblem. Every Nobel laureate receives an individual certificate with a personalized drawing, which is presumably chosen by the committee. My illustration was a stylized rendition of figure 10.
 
-“loss aversion ratio”: The loss aversion ratio is often found to be in the range of 1. 5 and 2.5: Nathan Novemsky and Daniel Kahneman, “The Boundaries of Loss Aversion,” Journal of Marketing Research 42 (2005): 119–28.
+“loss aversion ratio”: The loss aversion ratio is often found to be in the range of 1.5 and 2.5: Nathan Novemsky and Daniel Kahneman, “The Boundaries of Loss Aversion,” Journal of Marketing Research 42 (2005): 119–28.
 
 emotional reaction to losses: Peter Sokol-Hessner et al., “Thinking Like a Trader Selectively Reduces Individuals’ Loss Aversion,” PNAS 106 (2009): 5035–40.
 
@@ -595,7 +589,7 @@ rejects that gamble: The intuition of the proof can be illustrated by an example
 
 “Even a lousy lawyer”: Matthew Rabin, “Risk Aversion and Expected-Utility Theory: A Calibration Theorem,” Econometrica 68 (2000): 1281–92. Matthew Rabin and Richard H. Thaler, “Anomalies: Risk Aversion,” Journal of Economic Perspectives 15 (2001): 219–32.
 
-economists and psychologists: Several theorists have proposed versions of regret theories that are built on the idea that people are able to anticipate how their future experiences will be affected by the options that did not materialize and/or by the choices they did not make: David E. Bell, “Regret in Decision Making Under Uncertainty,” Operations Research 30 (1982): 961–81. Graham Loomes and Robert Sugden, “Regret Theory: An Alternative to Rational Choice Under Uncertainty,” Economic Journal 92 (1982): 805–25. Barbara A. Mellers, “Choice and the Relative Pleasure of Consequences,” Psychological Bulletin 126 (2000): 910–24. Barbara A. Mellers, Alan Schwartz, and Ilana Ritov, “Emotion-Based Choice,” Journal of Experimental Psychology—General 128 (1999): 332–45. Decision makers’ choices between gambles depend on whether they expect to know the outcome of the gamble they did not choose. Ilana Ritov, “Probability of Regret: Anticipation of Uncertainty Resolution in Choice,” Organiz {an>y did not ational Behavior and Human Decision Processes 66 (1966): 228–36.
+economists and psychologists: Several theorists have proposed versions of regret theories that are built on the idea that people are able to anticipate how their future experiences will be affected by the options that did not materialize and/or by the choices they did not make: David E. Bell, “Regret in Decision Making Under Uncertainty,” Operations Research 30 (1982): 961–81. Graham Loomes and Robert Sugden, “Regret Theory: An Alternative to Rational Choice Under Uncertainty,” Economic Journal 92 (1982): 805–25. Barbara A. Mellers, “Choice and the Relative Pleasure of Consequences,” Psychological Bulletin 126 (2000): 910–24. Barbara A. Mellers, Alan Schwartz, and Ilana Ritov, “Emotion-Based Choice,” Journal of Experimental Psychology—General 128 (1999): 332–45. Decision makers’ choices between gambles depend on whether they expect to know the outcome of the gamble they did not choose. Ilana Ritov, “Probability of Regret: Anticipation of Uncertainty Resolution in Choice,” Organizational Behavior and Human Decision Processes 66 (1966): 228–36.
 
 ## 27: The Endowment Effect
 
@@ -613,7 +607,7 @@ market transactions: Novemsky and Kahneman, “The Boundaries of Loss Aversion.�
 
 half of the tokens will change hands: Imagine that all the participants are ordered in a line by the redemption value assigned to them. Now randomly allocate tokens to half the individuals in the line. Half of the people in the front of the line will not have a token, and half of the people at the end of the line will own one. These people (half of the total) are expected to move by trading places with each other, so that in the end everyone in the first half of the line has a token, and no one behind them does.
 
-Brain recordings: Brian Knutson et al., “Neural Antecedents of the Endowment Effect,” Neuron 58 (2008): 814–22. Brian Knutson an {an utson et ad Stephanie M. Greer, “Anticipatory Affect: Neural Correlates and Consequences for Choice,” Philosophical Transactions of the Royal Society B 363 (2008): 3771–86.
+Brain recordings: Brian Knutson et al., “Neural Antecedents of the Endowment Effect,” Neuron 58 (2008): 814–22. Brian Knutson and Stephanie M. Greer, “Anticipatory Affect: Neural Correlates and Consequences for Choice,” Philosophical Transactions of the Royal Society B 363 (2008): 3771–86.
 
 riskless and risky decisions: A review of the price of risk, based on “international data from 16 different countries during over 100 years,” yielded an estimate of 2.3, “in striking agreement with estimates obtained in the very different methodology of laboratory experiments of individual decision-making”: Moshe Levy, “Loss Aversion and the Price of Risk,” Quantitative Finance 10 (2010): 1009–22.
 
@@ -627,7 +621,7 @@ effect of trading experience: John A. List, “Does Market Experience Eliminate 
 
 Jack Knetsch also: Jack L. Knetsch, “The Endowment Effect and Evidence of Nonreversible Indifference Curves,” American Economic Review 79 (1989): 1277–84.
 
-ongoing debate about the endowment effect: Charles R. Plott and Kathryn Zeiler, “The Willingness to Pay–Willingness to Accept Gap, the ‘Endowment Effect,’ Subject Misconceptions, and Experimental Procedures for Eliciting Valuations,” American Economic Review 95 (2005): 530–45. Charles Plott, a leading experimental economist, has been very skeptical of the endowment effect and has attempted to show that it is not a “fundamental aspect of human preference” but rather an outcome of inferior technique. Plott and Zeiler believe that participants who show the endowment effect are under some misconception about what their true values are, and they modified the procedures of the original experiments to eliminate the misconceptions. They devised an elaborate training procedure in which the participants experienced the roles of both buyers and sellers, and were explicitly taught to assess their true values. As expected, the endowment effect disappeared. Plott and Zeiler view their method as an important improvement of technique. Psychologists would consider the method severely deficient, because it communicates to the participants a message of what the experimenters consider appropriate behavior, which happens to coincide with the experimenters’ theory. Plott and Zeiler’s favored version of Kne {ers): tsch’s exchange experiment is similarly biased: It does not allow the owner of the good to have physical possession of it, which is crucial to the effect. See Charles R. Plott and Kathryn Zeiler, “Exchange Asymmetries Incorrectly Interpreted as Evidence of Endowment Effect Theory and Prospect Theory?” American Economic Review 97 (2007): 1449–66. There may be an impasse here, where each side rejects the methods required by the other.
+ongoing debate about the endowment effect: Charles R. Plott and Kathryn Zeiler, “The Willingness to Pay–Willingness to Accept Gap, the ‘Endowment Effect,’ Subject Misconceptions, and Experimental Procedures for Eliciting Valuations,” American Economic Review 95 (2005): 530–45. Charles Plott, a leading experimental economist, has been very skeptical of the endowment effect and has attempted to show that it is not a “fundamental aspect of human preference” but rather an outcome of inferior technique. Plott and Zeiler believe that participants who show the endowment effect are under some misconception about what their true values are, and they modified the procedures of the original experiments to eliminate the misconceptions. They devised an elaborate training procedure in which the participants experienced the roles of both buyers and sellers, and were explicitly taught to assess their true values. As expected, the endowment effect disappeared. Plott and Zeiler view their method as an important improvement of technique. Psychologists would consider the method severely deficient, because it communicates to the participants a message of what the experimenters consider appropriate behavior, which happens to coincide with the experimenters’ theory. Plott and Zeiler’s favored version of Knetsch’s exchange experiment is similarly biased: It does not allow the owner of the good to have physical possession of it, which is crucial to the effect. See Charles R. Plott and Kathryn Zeiler, “Exchange Asymmetries Incorrectly Interpreted as Evidence of Endowment Effect Theory and Prospect Theory?” American Economic Review 97 (2007): 1449–66. There may be an impasse here, where each side rejects the methods required by the other.
 
 People who are poor: In their studies of decision making under poverty, Eldar Shafir, Sendhil Mullainathan, and their colleagues have observed other instances in which poverty induces economic behavior that is in some respects more realistic and more rational than that of people who are better off. The poor are more likely to respond to real outcomes than to their description. Marianne Bertrand, Sendhil Mullainathan, and Eldar Shafir, “Behavioral Economics and Marketing in Aid of Decision Making Among the Poor,” Journal of Public Policy & Marketing 25 (2006): 8–23.
 
@@ -647,7 +641,7 @@ processed faster: Elaine Fox et al., “Facial Expressions of Emotion: Are Angry
 
 negativity dominance: Paul Rozin and Edward B. Royzman, “Negativity Bias, Negativity Dominance, and Contagion,” Personality and Social Psychology Review 5 (2001): 296–320.
 
-resistant to disconfirmation: Roy F. Baumeister, Ellen Bratslavsky, Catrin Finkenauer, and Kathleen D. Vohs, “Bad Is Stronger Than Good,” Review of General Psychology 5 (200 {/spFac1): 323.
+resistant to disconfirmation: Roy F. Baumeister, Ellen Bratslavsky, Catrin Finkenauer, and Kathleen D. Vohs, “Bad Is Stronger Than Good,” Review of General Psychology 5 (2001): 323.
 
 biologically significant improvement: Michel Cabanac, “Pleasure: The Common Currency,” Journal of Theoretical Biology 155 (1992): 173–200.
 
@@ -671,7 +665,7 @@ asymmetrical effects on individual well-being: Zamir, “Law and Psychology.”
 
 ## 29: The Fourfold Pattern
 
-and other disasters: Including exposure to a “Dutch book,” which is a set of gambles that your incorrect preferences commit you to accept an { to>
+and other disasters: Including exposure to a “Dutch book,” which is a set of gambles that your incorrect preferences commit you to accept and is guaranteed to end up in a loss.
 
 puzzle that Allais constructed: Readers who are familiar with the Allais paradoxes will recognize that this version is new. It is both much simpler and actually a stronger violation than the original paradox. The left-hand option is preferred in the first problem. The second problem is obtained by adding a more valuable prospect to the left than to the right, but the right-hand option is now preferred.
 
@@ -695,7 +689,7 @@ the frivolous claim: Chris Guthrie, “Framing Frivolous Litigation: A Psycholog
 
 wish to avoid it: George F. Loewenstein, Elke U. Weber, Christopher K. Hsee, and Ned Welch, “Risk as Feelings,” Psychological Bulletin 127 (2001): 267–86.
 
-vividness in decision making: Ibid. Cass R. Sunstein, “Probability Neglect: Emotions, Worst Cases, and Law,” Yale Law Journal 112 (2002): 61–107. See notes to chapter 13: Damasio, Descartes’ Error. Slovic, Finucane, Peters, and MacGregor, “The {r, n>: C. A Affect Heuristic.”
+vividness in decision making: Ibid. Cass R. Sunstein, “Probability Neglect: Emotions, Worst Cases, and Law,” Yale Law Journal 112 (2002): 61–107. See notes to chapter 13: Damasio, Descartes’ Error. Slovic, Finucane, Peters, and MacGregor, “The Affect Heuristic.”
 
 Amos’s student: Craig R. Fox, “Strength of Evidence, Judged Probability, and Choice Under Uncertainty,” Cognitive Psychology 38 (1999): 167–89.
 
@@ -721,7 +715,7 @@ not yet settled: Liat Hadar and Craig R. Fox, “Information Asymmetry in Decisi
 
 inferior option BC: The calculation is straightforward. Each of the two combinations consists of a sure thing and a gamble. Add the sure thing to both options of the gamble and you will find AD and BC.
 
-the equivalent of “locking in”: Thomas Langer and Martin Weber, “Myopic Prospect Theory vs. Myopic Loss Aversion: How General Is the Phenomenon?” Journal of E {>Joenon?&conomic Behavior & Organization 56 (2005): 25–38.
+the equivalent of “locking in”: Thomas Langer and Martin Weber, “Myopic Prospect Theory vs. Myopic Loss Aversion: How General Is the Phenomenon?” Journal of Economic Behavior & Organization 56 (2005): 25–38.
 
 ## 32: Keeping Score
 
@@ -765,7 +759,7 @@ where the precautionary principle: Cass R. Sunstein, The Laws of Fear: Beyond th
 
 in the man’s regular store: Dale T. Miller and Cathy McFarland, “Counterfactual Thinking and Victim Compensation: A Test of Norm Theory,” Personality and Social Psychology Bulletin 12 (1986): 513–19.
 
-reversals of judgment and choice: The first step toward the current interpretation was taken by Max H. Bazerman, George F. Loewenstein, and Sally B. White, “Reversals of Preference in Allocation Decisions: Judging Alternatives Versus Judging Among Alternatives,” Administrative Science Quarterly 37 (1992): 220–40. Christopher Hsee introduced the terminology of joint and separate evaluation, and formulated the important evaluability hypothesis, which explains reversals by the idea that some attributes {e a#822become evaluable only in joint evaluation: “Attribute Evaluability: Its Implications for Joint-Separate Evaluation Reversals and Beyond,” in Kahneman and Tversky, Choices, Values, and Frames.
+reversals of judgment and choice: The first step toward the current interpretation was taken by Max H. Bazerman, George F. Loewenstein, and Sally B. White, “Reversals of Preference in Allocation Decisions: Judging Alternatives Versus Judging Among Alternatives,” Administrative Science Quarterly 37 (1992): 220–40. Christopher Hsee introduced the terminology of joint and separate evaluation, and formulated the important evaluability hypothesis, which explains reversals by the idea that some attributes become evaluable only in joint evaluation: “Attribute Evaluability: Its Implications for Joint-Separate Evaluation Reversals and Beyond,” in Kahneman and Tversky, Choices, Values, and Frames.
 
 conversation between psychologists and economists: Sarah Lichtenstein and Paul Slovic, “Reversals of Preference Between Bids and Choices in Gambling Decisions,” Journal of Experimental Psychology 89 (1971): 46–55. A similar result was obtained independently by Harold R. Lindman, “Inconsistent Preferences Among Gambles,” Journal of Experimental Psychology 89 (1971): 390–97.
 
@@ -791,7 +785,7 @@ paid with cash or on credit: Thaler, “Toward a Positive Theory of Consumer Cho
 
 10% mortality is frightening: Barbara McNeil, Stephen G. Pauker, Harold C. Sox Jr., and Amos Tversky, “On the Elicitation of Preferences for Alternative Therapies,” New England Journal of Medicine 306 (1982): 1259–62.
 
-“Asian disease problem”: Some people have commented that the “Asian” label is unnecessary and pejorative. We probably would not use it today, but the example was written in the 1970s, when sensitivity to group labels was less developed than it is today. The word was added to make the example more concrete by reminding respondents of the Asian flu epidem {an s less ic of 1957.
+“Asian disease problem”: Some people have commented that the “Asian” label is unnecessary and pejorative. We probably would not use it today, but the example was written in the 1970s, when sensitivity to group labels was less developed than it is today. The word was added to make the example more concrete by reminding respondents of the Asian flu epidemic of 1957.
 
 Choice and Consequence: Thomas Schelling, Choice and Consequence (Cambridge, MA: Harvard University Press, 1985).
 
@@ -819,7 +813,7 @@ burst of stimulation: Peter Shizgal, “On the Neural Computation of Utility: Im
 
 had a lover: Paul Rozin and Jennifer Stellar, “Posthumous Events Affect Rated Quality and Happiness of Lives,” Judgment and Decision Making 4 (2009): 273–79.
 
-entire lives as well as brief episodes: Ed Diener, Derrick Wirtz, and Shigehiro Oishi, “End Effects of Rated Life Quality: The James Dean Effect,” Psychological Science 12 (2001): 124–28. The same series of experiments also tested for the peak-end rule in an unhappy life and found similar results: Jen was not judged twice as unhappy if she lived miserably for 60 years rather than 30, but { thk-e she was regarded as considerably happier if 5 mildly miserable years were added just before her death.
+entire lives as well as brief episodes: Ed Diener, Derrick Wirtz, and Shigehiro Oishi, “End Effects of Rated Life Quality: The James Dean Effect,” Psychological Science 12 (2001): 124–28. The same series of experiments also tested for the peak-end rule in an unhappy life and found similar results: Jen was not judged twice as unhappy if she lived miserably for 60 years rather than 30, but she was regarded as considerably happier if 5 mildly miserable years were added just before her death.
 
 ## 37: Experienced Well-Being
 
@@ -835,7 +829,7 @@ physiological indications of emotion: Previous research had documented that peop
 
 state the U-index: Alan B. Krueger, ed., Measuring the Subjective Well-Being of Nations: National Accounts of Time Use and Well-Being (Chicago: University of Chicago Press, 2009).
 
-distributio {i>dll-Being: Ed Diener, “Most People Are Happy,” Psychological Science 7 (1996): 181–85.
+distribution of emotional pain: Ed Diener, “Most People Are Happy,” Psychological Science 7 (1996): 181–85.
 
 Gallup World Poll: For a number of years I have been one of several Senior Scientists associated with the efforts of the Gallup Organization in the domain of well-being.
 
@@ -859,7 +853,7 @@ questionnaire on life satisfaction: The original study was reported by Norbert S
 
 goals that young people set: The study was described in William G. Bowen and Derek Curtis Bok, The Shape of the River: Long-Term Consequences of Considering Race in College and University Admissions (Princeton: Princeton University Press, 1998). Some of Bowen and Bok’s findings were reported by Carol Nickerson, Norbert Schwarz, and Ed Diener, “Financial Aspirations, Financial Success, and Overall Life Satisfaction: Who? and How?” Journal of Happiness Studies 8 (2007): 467–515.
 
-“being very well-off financially”: Alexander Astin, M. R. King, and G. T. Richardson, “The American Freshman: National Norms for Fall 1976,” Cooperative Institutional Research Program of the American C {he on, Rouncil on Education and the University of California at Los Angeles, Graduate School of Education, Laboratory for Research in Higher Education, 1976.
+“being very well-off financially”: Alexander Astin, M. R. King, and G. T. Richardson, “The American Freshman: National Norms for Fall 1976,” Cooperative Institutional Research Program of the American Council on Education and the University of California at Los Angeles, Graduate School of Education, Laboratory for Research in Higher Education, 1976.
 
 money was not important: These results were presented in a talk at the American Economic Association annual meeting in 2004. Daniel Kahneman, “Puzzles of Well-Being,” paper presented at the meeting.
 

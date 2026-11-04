@@ -4,7 +4,7 @@ A remarkable aspect of your mental life is that you are rarely stumped. True, yo
 
 ## Substituting Questions
 
-I propose a simple account of how we generate intuitive opinions on complex matters. If a satisfactory answer to a hard question isebr ques D not found quickly, System 1 will find a related question that is easier and will answer it. I call the operation of answering one question in place of another substitution. I also adopt the following terms:
+I propose a simple account of how we generate intuitive opinions on complex matters. If a satisfactory answer to a hard question is not found quickly, System 1 will find a related question that is easier and will answer it. I call the operation of answering one question in place of another substitution. I also adopt the following terms:
 
 The target question is the assessment you intend to produce.
 
@@ -26,7 +26,7 @@ Consider the questions listed in the left-hand column of table 1. These are diff
 |  |  |  |
 | How happy are you with your life these days? |  | What is my mood right now? |
 |  |  |  |
-| How popular is the president right now? |  | How popular will the president be six months from now? |
+| How popular will the president be six months from now? |  | How popular is the president right now? |
 |  |  |  |
 | How should financial advisers who prey on the elderly be punished? |  | How much anger do I feel when I think of financial predators? |
 |  |  |  |
@@ -37,7 +37,7 @@ The mental shotgun makes it easy to generate quick answers to difficult question
 
 Something is still missing from this story: the answers need to be fitted to the original questions. For example, my feelings about dying dolphins must be expressed in dollars. Another capability of System 1, intensity matching, is available to solve that problem. Recall that both feelings and contribution dollars are intensity scales. I can feel more or less strongly about dolphins and there is a contribution that matches the intensity of my feelings. The dollar amount that will come to my mind is the matching amount. Similar intensity matches are possible for all the questions. For example, the political skills of a candidate can range from pathetic to extraordinarily impressive, and the scale of political success can range from the low of “She will be defeated in the primary” to a high of “She will someday be president of the United States.”
 
-The automatic processes of the mental shotgun and intensity matching often make available one or more answers to easy questions that could be mapped onto the target question. On some occasions, substitution will occur and a heuristic answer will be endorsed by System 2. Of course, System 2 has the opportunity to reject this intuitive answer, or to modify it by incorporating other information. However, a lazy System 2 often follows the path of least effort and endorses a heuristic answer without much scrutiny of whether it is truly appropriate. You will not be stumped, you will not have to work very her р wheard, and you may not even notice that you did not answer the question you were asked. Furthermore, you may not realize that the target question was difficult, because an intuitive answer to it came readily to mind.
+The automatic processes of the mental shotgun and intensity matching often make available one or more answers to easy questions that could be mapped onto the target question. On some occasions, substitution will occur and a heuristic answer will be endorsed by System 2. Of course, System 2 has the opportunity to reject this intuitive answer, or to modify it by incorporating other information. However, a lazy System 2 often follows the path of least effort and endorses a heuristic answer without much scrutiny of whether it is truly appropriate. You will not be stumped, you will not have to work very hard, and you may not even notice that you did not answer the question you were asked. Furthermore, you may not realize that the target question was difficult, because an intuitive answer to it came readily to mind.
 
 ## The 3-D Heuristic
 
@@ -65,7 +65,7 @@ A survey of German students is one of the best examples of substitution. The sur
 
 > How many dates did you have last month?
 
-< stрr to a p height="0%" width="0%">The experimenters were interested in the correlation between the two answers. Would the students who reported many dates say that they were happier than those with fewer dates? Surprisingly, no: the correlation between the answers was about zero. Evidently, dating was not what came first to the students’ minds when they were asked to assess their happiness. Another group of students saw the same two questions, but in reverse order:
+The experimenters were interested in the correlation between the two answers. Would the students who reported many dates say that they were happier than those with fewer dates? Surprisingly, no: the correlation between the answers was about zero. Evidently, dating was not what came first to the students’ minds when they were asked to assess their happiness. Another group of students saw the same two questions, but in reverse order:
 
 > How many dates did you have last month?
 
@@ -83,7 +83,7 @@ Dating is not unique. The same pattern is found if a question about the students
 
 ## The Affect Heuristic
 
-The dominance of conclusions over arguments is most pronounced where emotions are involved. The psychologist Paul Slovic has proposed an affect heuristic in which people let their likes and dislikes determine their beliefs about the world. Your political preference determines the arguments that you find compelling. If you like the current health policy, you believe its benefits are substantial and its costs more manageable than the costs of alternatives. If you are a hawk in your attitude toward other nations, you probabltheр"0%y think they are relatively weak and likely to submit to your country’s will. If you are a dove, you probably think they are strong and will not be easily coerced. Your emotional attitude to such things as irradiated food, red meat, nuclear power, tattoos, or motorcycles drives your beliefs about their benefits and their risks. If you dislike any of these things, you probably believe that its risks are high and its benefits negligible.
+The dominance of conclusions over arguments is most pronounced where emotions are involved. The psychologist Paul Slovic has proposed an affect heuristic in which people let their likes and dislikes determine their beliefs about the world. Your political preference determines the arguments that you find compelling. If you like the current health policy, you believe its benefits are substantial and its costs more manageable than the costs of alternatives. If you are a hawk in your attitude toward other nations, you probably think they are relatively weak and likely to submit to your country’s will. If you are a dove, you probably think they are strong and will not be easily coerced. Your emotional attitude to such things as irradiated food, red meat, nuclear power, tattoos, or motorcycles drives your beliefs about their benefits and their risks. If you dislike any of these things, you probably believe that its risks are high and its benefits negligible.
 
 The primacy of conclusions does not mean that your mind is completely closed and that your opinions are wholly immune to information and sensible reasoning. Your beliefs, and even your emotional attitude, may change (at least a little) when you learn that the risk of an activity you disliked is smaller than you thought. However, the information about lower risks will also change your view of the benefits (for the better) even if nothing was said about benefits in the information you received.
 

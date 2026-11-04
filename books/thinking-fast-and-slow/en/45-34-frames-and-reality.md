@@ -8,13 +8,13 @@ There is another sense of meaning, in which “Italy won” and “France lost�
 
 ## Emotional Framing
 
-Amos and I applied the label of framing effects to the unjustified influences of formulation on beliefs an Con d preferences. This is one of the examples we used:
+Amos and I applied the label of framing effects to the unjustified influences of formulation on beliefs and preferences. This is one of the examples we used:
 
 > Would you accept a gamble that offers a 10% chance to win $95 and a 90% chance to lose $5?
 
 > Would you pay $5 to participate in a lottery that offers a 10% chance to win $100 and a 90% chance to win nothing?
 
-First, take a moment to convince yourself that the two problems are identical. In both of them you must decide whether to accept an uncertain prospect that will leave you either richer by $95 or poorer by $5. Someone whose preferences are reality-bound would give the same answer to both questions, but such individuals are rare. In fact, one version attracts many more positive answers: the second. A bad outcome is much more acceptable if it is framed as the cost of a lottery ticket that did not win than if it is simply described as losing a gamble. We should not be surprised: losses evokes stronger negative feelings than costs. Choices are not reality-bound because System 1 is not reality-bound.
+First, take a moment to convince yourself that the two problems are identical. In both of them you must decide whether to accept an uncertain prospect that will leave you either richer by $95 or poorer by $5. Someone whose preferences are reality-bound would give the same answer to both questions, but such individuals are rare. In fact, one version attracts many more positive answers: the second. A bad outcome is much more acceptable if it is framed as the cost of a lottery ticket that did not win than if it is simply described as losing a gamble. We should not be surprised: *losses* evokes stronger negative feelings than *costs*. Choices are not reality-bound because System 1 is not reality-bound.
 
 The problem we constructed was influenced by what we had learned from Richard Thaler, who told us that when he was a graduate student he had pinned on his board a card that said costs are not losses. In his early essay on consumer behavior, Thaler described the debate about whether gas stations would be allowed to charge different prices for purchases paid with cash or on credit. The credit-card lobby pushed hard to make differential pricing illegal, but it had a fallback position: the difference, if allowed, would be labeled a cash discount, not a credit surcharge. Their psychology was sound: people will more readily forgo a discount than pay a surcharge. The two may be economically equivalent, but they are not emotionally equivalent.
 
@@ -30,7 +30,7 @@ The subject is then asked to choose between a sure outcome and a gamble on a whe
 
 As shown, the same sure outcome can be framed in two different ways: as KEEP £20 or as LOSE £30. The objective outcomes are precisely identical in the two frames, and a reality-bound Econ would respond to both in the same way—selecting either the sure thing or the gamble regardless of the frame—but we already know that the Human mind is not bound to reality. Tendencies to approach or avoid are evoked by the words, and we expect System 1 to be biased in favor of the sure option when it is designated as KEEP and against that same option when it is designated as LOSE.
 
-The experiment consisted of many trials, and each participant encountere Bon p>
+The experiment consisted of many trials, and each participant encountered several choice problems in both the KEEP and the LOSE frames.
 
 The activity of the brain was recorded as the subjects made each decision. Later, the trials were separated into two categories:
 
@@ -67,7 +67,7 @@ Amos and I introduced our discussion of framing by an example that has become kn
 
 > If program A is adopted, 200 people will be saved.
 
-> > > If program B is adopted, there is a one-third probability that 600 people will be saved and a two-thirds probability that no people will be saved.
+> If program B is adopted, there is a one-third probability that 600 people will be saved and a two-thirds probability that no people will be saved.
 
 A substantial majority of respondents choose program A: they prefer the certain option over the gamble.
 
@@ -86,7 +86,7 @@ An experience that Amos shared with me adds a grim note to the story. Amos was i
 Even more troubling is what happens when people are confronted with their inconsistency: “You chose to save 200 lives for sure in one formulation and you chose to gamble rather than accept 400 deaths in the other. Now that you know these choices were inconsistent, how do you decide?” The answer is usually embarrassed silence. The intuitions that determined the original choice came from System 1 and had no more moral basis than did the preference for keeping £20 or the aversion to losing £30. Saving lives with certainty is good, deaths are bad. Most people find that their System 2 has no moral intuitions of its own to answer the question.
 
 I am grateful to the great economist Thomas Schelling for my favorite example of a framing effect, which he described in his book Choice and
-Consequence. Schelling’s book was written before our work on framing was published, and framing was not his main concern. He reported on his experience teaching a class at the Kennedy School at Harvard, in which Bon he linthe topic was child exemptions in the tax code. Schelling told his students that a standard exemption is allowed for each child, and that the amount of the exemption is independent of the taxpayer’s income. He asked their opinion of the following proposition:
+Consequence. Schelling’s book was written before our work on framing was published, and framing was not his main concern. He reported on his experience teaching a class at the Kennedy School at Harvard, in which the topic was child exemptions in the tax code. Schelling told his students that a standard exemption is allowed for each child, and that the amount of the exemption is independent of the taxpayer’s income. He asked their opinion of the following proposition:
 
 > Should the child exemption be larger for the rich than for the poor?
 
@@ -104,7 +104,7 @@ Here again, you will probably find yourself dumbfounded. You have moral intuitio
 
 ## Good Frames
 
-Not all frames are equal, and s Bon nd t="4%" wome frames are clearly better than alternative ways to describe (or to think about) the same thing. Consider the following pair of problems:
+Not all frames are equal, and some frames are clearly better than alternative ways to describe (or to think about) the same thing. Consider the following pair of problems:
 
 > A woman has bought two $80 tickets to the theater. When she arrives at the theater, she opens her wallet and discovers that the tickets are missing. Will she buy two more tickets to see the play?
 
@@ -120,7 +120,7 @@ In the next example, two alternative frames evoke different mathematical intuiti
 
 > Adam switches from a gas-guzzler of 12 mpg to a slightly less voracious guzzler that runs at 14 mpg.
 
-> The environmentally virtuous Beth switches from a Bon ss es from 30 mpg car to one that runs at 40 mpg.
+> The environmentally virtuous Beth switches from a 30 mpg car to one that runs at 40 mpg.
 
 Suppose both drivers travel equal distances over a year. Who will save more gas by switching? You almost certainly share the widespread intuition that Beth’s action is more significant than Adam’s: she reduced mpg by 10 miles rather than 2, and by a third (from 30 to 40) rather than a sixth (from 12 to 14). Now engage your System 2 and work it out. If the two car owners both drive 10,000 miles, Adam will reduce his consumption from a scandalous 833 gallons to a still shocking 714 gallons, for a saving of 119 gallons. Beth’s use of fuel will drop from 333 gallons to 250, saving only 83 gallons. The mpg frame is wrong, and it should be replaced by the gallons-per-mile frame (or liters-per–100 kilometers, which is used in most other countries). As Larrick and Soll point out, the misleading intuitions fostered by the mpg frame are likely to mislead policy makers as well as car buyers.
 
