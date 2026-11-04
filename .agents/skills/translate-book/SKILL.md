@@ -21,7 +21,13 @@ description: Translate or polish a whole book in the zh-books repository, chapte
    ```
 
 4. **核对导入结果。** 对照 EPUB 检查章节是否齐全、有没有漏段或重复、脚注是否都在、编号章节的 `number` 对不对。版权页、目录页这类不需要翻译的分节，从 `book.json` 删掉，同时删掉 `en/` 下对应的文件。核对中发现的问题和处理方式，记在 `review/source.md`。
-5. **定术语。** 用 `en-zh-translation-polish` 的 `scripts/terms.py` 抽取术语候选并统计频次（用法见它的 `reference/reusable-scripts.md`），逐条裁定后写进 `books/<id>/glossary.md`，写明适用的意思和不要混同的概念。
+5. **先做完术语统计，再开始翻译。** 用核对过、没有乱码的英文统计，数据存进 `books/<id>/review/terms/`，并写一份 README，说明用了哪些来源、什么门槛、得到多少条：
+   - 用 `en-zh-translation-polish` 的 `scripts/corpus.py` 和 `scripts/terms.py` 抽取候选词，门槛设低一些（例如频次不少于 3），记录频次和分布的章数（用法见它的 `reference/reusable-scripts.md`）。
+   - 纸质版索引的词条：概念和人名分开统计，人名用来统一译名。
+   - 原文里的定义句（we call、known as、the term 等）和小节标题。
+   - 低频但重要的概念不能漏。
+
+   从这些数据里挑出书中特有、反复出现或作者专门定义过的概念，逐条裁定后写进 `books/<id>/glossary.md`，写明适用的意思和不要混同的概念。全书译完后，对每个术语统计对应中文段落里用了哪些译法，不一致的统一改过来。
 6. **译样章。** 先译一章有代表性的（通常是引言或第 1 章），状态设为 `draft`，用 `serve --drafts` 给用户看真实页面。用户认可译文风格后，再推广到其他章节。
 
 ## 每一章怎样译
