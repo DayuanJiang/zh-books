@@ -188,6 +188,14 @@ def serve(port, drafts):
     class Handler(http.server.SimpleHTTPRequestHandler):
         """Serve _site/ under the same path prefix as the public site."""
 
+        def do_GET(self):
+            if self.path in ("/", ""):
+                self.send_response(302)
+                self.send_header("Location", PREFIX)
+                self.end_headers()
+                return
+            super().do_GET()
+
         def translate_path(self, path):
             if not path.startswith(PREFIX):
                 return str(root / "__not_found__")

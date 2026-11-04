@@ -1,0 +1,44 @@
+[
+ {
+  "chapter": "introduction",
+  "before": "You cannot tracryd>e how you came",
+  "after": "You cannot trace how you came",
+  "reason": "garbled word"
+ },
+ {
+  "chapter": "introduction",
+  "before": "a need for order and structurut and stre, and a passion",
+  "after": "a need for order and structure, and a passion",
+  "reason": "garbled word with a stray fragment"
+ },
+ {
+  "chapter": "introduction",
+  "before": "tend to share basic re share assumptions",
+  "after": "tend to share basic assumptions",
+  "reason": "stray repeated fragment"
+ },
+ {
+  "chapter": "introduction",
+  "before": "to the familiar l the famifecklessness of undergraduates",
+  "after": "to the familiar fecklessness of undergraduates",
+  "reason": "stray repeated fragment"
+ },
+ {
+  "chapter": "introduction",
+  "before": "a richer andigha riche more balanced picture",
+  "after": "a richer and more balanced picture",
+  "reason": "stray repeated fragment"
+ },
+ {
+  "chapter": "introduction",
+  "before": "Amos and I studied proviheitudied de little help",
+  "after": "Amos and I studied provide little help",
+  "reason": "garbled word with a stray fragment"
+ },
+ {
+  "chapter": "introduction",
+  "before": "We easily think associativelm 1associay, we think",
+  "after": "We easily think associatively, we think",
+  "reason": "garbled word"
+ }
+]

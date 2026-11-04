@@ -4,7 +4,10 @@
   "authors": "Daniel Kahneman",
   "reader": "bilingual",
   "summary": "诺贝尔经济学奖得主卡尼曼讲人怎样判断和选择：快而直觉的系统 1，慢而费力的系统 2，以及由此产生、可以预料的各种偏差。",
-  "facts": [],
+  "facts": [
+    "引言、38 章与两篇附录",
+    "中英逐段对照"
+  ],
   "cover": "assets/images/cover.jpg",
   "listed": true,
   "chapterMaps": false,
@@ -12,9 +15,10 @@
     "epub": "book.epub",
     "sha256": "e845b92c58fc504f83789b944c9f1820627a32c549867c1901cd6f89f85a4770"
   },
+  "start": "introduction",
   "chapters": [
     {"id": "dedication", "file": "02-section-2.md", "status": "todo"},
-    {"id": "introduction", "file": "03-introduction.md", "status": "todo"},
+    {"id": "introduction", "file": "03-introduction.md", "status": "review"},
     {"id": "ch01", "number": 1, "file": "06-1-the-characters-of-the-story.md", "status": "todo"},
     {"id": "ch02", "number": 2, "file": "07-2-attention-and-effort.md", "status": "todo"},
     {"id": "ch03", "number": 3, "file": "08-3-the-lazy-controller.md", "status": "todo"},
