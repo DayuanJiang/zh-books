@@ -80,6 +80,7 @@ class Epub:
         self.toc_id = opf.find("opf:spine", NS).get("toc")
         self.nav = next((i["href"] for i in self.items.values() if "nav" in i["properties"].split()), None)
         self.titles = self.read_toc()
+        self.labels = list(dict.fromkeys(self.titles_in_order))
 
     @staticmethod
     def resolve(base, href):
@@ -88,16 +89,33 @@ class Epub:
     def soup(self, name):
         return BeautifulSoup(self.zip.read(name), "html.parser")
 
+    def toc_target(self, base, href):
+        """The spine document a table-of-contents link opens.
+
+        Books converted from Kindle files often put the anchor at the very end of the previous document;
+        when no text follows the anchor there, the entry belongs to the next document.
+        """
+        name, fragment = self.resolve(base, href), href.partition("#")[2]
+        if not fragment or name not in self.spine:
+            return name
+        anchor = self.soup(name).find(id=fragment)
+        if anchor is None or any(s.strip() for s in anchor.find_all_next(string=True)):
+            return name
+        index = self.spine.index(name)
+        return self.spine[index + 1] if index + 1 < len(self.spine) else name
+
     def read_toc(self):
-        """First table-of-contents label for each document."""
+        """First table-of-contents label for each document (and every label in reading order)."""
         titles = {}
+        self.titles_in_order = []
         nav = next((i for i in self.items.values() if "nav" in i["properties"].split()), None)
         if nav:
             page = self.soup(nav["href"])
             toc = next((n for n in page.find_all("nav") if "toc" in types(n)), page.find("nav"))
             for link in (toc.find_all("a", href=True) if toc else []):
-                target = self.resolve(posixpath.dirname(nav["href"]), link["href"])
+                target = self.toc_target(posixpath.dirname(nav["href"]), link["href"])
                 titles.setdefault(target, " ".join(link.get_text(" ").split()))
+                self.titles_in_order.append(" ".join(link.get_text(" ").split()))
         elif self.toc_id and self.toc_id in self.items:
             ncx_path = self.items[self.toc_id]["href"]
             ncx = ET.fromstring(self.zip.read(ncx_path))
@@ -105,8 +123,9 @@ class Epub:
                 label = point.find("ncx:navLabel/ncx:text", NS)
                 content = point.find("ncx:content", NS)
                 if label is not None and content is not None:
-                    target = self.resolve(posixpath.dirname(ncx_path), content.get("src"))
+                    target = self.toc_target(posixpath.dirname(ncx_path), content.get("src"))
                     titles.setdefault(target, " ".join((label.text or "").split()))
+                    self.titles_in_order.append(" ".join((label.text or "").split()))
         return titles
 
 
@@ -119,6 +138,26 @@ def starts_block(link):
     block = block_of(link)
     text, own = " ".join(block.get_text(" ").split()), " ".join(link.get_text(" ").split())
     return text.startswith(own) and len(text) > len(own) + 1
+
+
+def bold_only(tag):
+    """A short paragraph whose whole text is bold: how books converted from Kindle files mark headings."""
+    text = " ".join(tag.get_text(" ").split())
+    if not text or len(text) > 100 or text[-1] in ".,;:":
+        return False
+    for piece in tag.find_all(string=True):
+        if not piece.strip():
+            continue
+        parent, bold = piece.parent, False
+        while parent is not None and parent is not tag.parent:
+            classes = " ".join(parent.get("class") or [])
+            if parent.name in ("b", "strong") or "bold" in classes or "bold" in (parent.get("style") or ""):
+                bold = True
+                break
+            parent = parent.parent
+        if not bold:
+            return False
+    return True
 
 
 def note_body(tag):
@@ -137,6 +176,12 @@ def inline_markdown(tag):
     text = markdownify(str(tag), heading_style="ATX", bullets="-")
     text = " ".join(text.split())
     return re.sub(r"^\d+[.)]?\s+", "", text)
+
+
+def plain_title(text):
+    """Lowercase title without a leading chapter number, for matching headings with table-of-contents labels."""
+    text = " ".join(re.sub(r"[\\*]+", " ", text).replace("’", "'").replace("‘", "'").lower().split())
+    return re.sub(r"^(?:chapter\s+)?(?:\d{1,3}|[ivxlc]+)[.:]?\s+", "", text)
 
 
 def import_epub(root, epub_path, force=False):
@@ -190,6 +235,7 @@ def import_epub(root, epub_path, force=False):
     en = root / "en"
     (en / "images").mkdir(parents=True, exist_ok=True)
     chapters, ids, notes_total = [], set(), 0
+    unused_labels = list(epub.labels)
     for name in epub.spine:
         page = pages[name]
         body = page.body or page
@@ -212,6 +258,15 @@ def import_epub(root, epub_path, force=False):
                 held_notes = True
         for tag in body.find_all(["script", "style"]):
             tag.decompose()
+        links_out = [a for a in body.find_all("a", href=True)
+                     if not a["href"].startswith("#") and epub.resolve(posixpath.dirname(name), a["href"]) in pages]
+        if len(links_out) >= 5 and sum(len(a.get_text(strip=True)) for a in links_out) > len(body.get_text(strip=True)) / 2:
+            continue  # the book's own table of contents page
+        if not body.find(["h1", "h2", "h3", "h4", "h5", "h6"]):
+            # No heading markup at all: bold paragraphs are the headings, the first one is the title.
+            for index, paragraph in enumerate(p for p in body.find_all("p") if bold_only(p)):
+                paragraph.string = " ".join(paragraph.get_text(" ").split())
+                paragraph.name = "h1" if index == 0 else "h2"
         for image in body.find_all("img", src=True):
             source = epub.resolve(posixpath.dirname(name), image["src"])
             if source not in images:
@@ -236,7 +291,14 @@ def import_epub(root, epub_path, force=False):
             continue  # the EPUB's own table of contents
         # The first heading becomes level 1; deeper headings move up by the same amount.
         levels = [len(m) for m in re.findall(r"^(#{1,6}) ", text, flags=re.M)]
-        title = epub.titles.get(name) or next(iter(re.findall(r"^#{1,6} (.+)$", text, flags=re.M)), "") or f"Section {len(chapters) + 1}"
+        heading = " ".join(re.sub(r"ZZNOTEREF\d+ZZ", "", next(iter(re.findall(r"^#{1,6} (.+)$", text, flags=re.M)), "")).split())
+        # Prefer the table-of-contents label that names this section's own first heading; link targets come second,
+        # because converted books often point the links a little before the section they mean.
+        has_body = bool(re.sub(r"^#{1,6} .*$|\s", "", text, flags=re.M))
+        label = next((l for l in unused_labels if heading and has_body and plain_title(l) == plain_title(heading)), None)
+        if label:
+            unused_labels.remove(label)
+        title = label or epub.titles.get(name) or heading or f"Section {len(chapters) + 1}"
         title = " ".join(re.sub(r"ZZNOTEREF\d+ZZ", "", title).split())
         if levels:
             shift = min(levels) - 1
@@ -245,6 +307,11 @@ def import_epub(root, epub_path, force=False):
                 text = f"# {title}\n\n{text}"
         else:
             text = f"# {title}\n\n{text}"
+        first, _, rest = text.partition("\n")
+        own = " ".join(re.sub(r"ZZNOTEREF\d+ZZ", "", first[2:]).split())
+        if own and own.lower() in title.lower() and own != title:
+            # "The Characters of the Story" becomes "1. The Characters of the Story"; note markers stay.
+            text = f"# {title}" + "".join(re.findall(r"ZZNOTEREF\d+ZZ", first)) + "\n" + rest
         for number in range(1, len(definitions) + 1):
             text = text.replace(MARK.format(number), f"[^{number}]")
         if definitions:

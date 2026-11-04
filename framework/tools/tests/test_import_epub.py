@@ -104,5 +104,57 @@ class ImportEpubTests(unittest.TestCase):
             import_epub.import_epub(self.root, self.epub, force=True)
 
 
+KINDLE_OPF = """<?xml version="1.0"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0">
+  <manifest>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="s0" href="split_000.html" media-type="application/xhtml+xml"/>
+    <item id="s1" href="split_001.html" media-type="application/xhtml+xml"/>
+    <item id="s2" href="split_002.html" media-type="application/xhtml+xml"/>
+    <item id="s3" href="split_003.html" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx"><itemref idref="s0"/><itemref idref="s1"/><itemref idref="s2"/><itemref idref="s3"/></spine>
+</package>"""
+# The contents links point near the end of the previous file, as in books converted from Kindle files.
+KINDLE_NCX = """<?xml version="1.0"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/"><navMap>
+  <navPoint id="a"><navLabel><text>Introduction</text></navLabel><content src="split_001.html"/></navPoint>
+  <navPoint id="b"><navLabel><text>1. The Characters of the Story</text></navLabel><content src="split_001.html#p9"/></navPoint>
+  <navPoint id="c"><navLabel><text>2. Attention and Effort</text></navLabel><content src="split_002.html#p8"/></navPoint>
+</navMap></ncx>"""
+BOLD = '<p class="c2"><span class="c3"><span class="bold">{}</span></span></p>'
+KINDLE = {
+    "split_000.html": PAGE.format('<p><b>Contents</b></p>' + "".join(f'<p><a href="split_00{i}.html#x">Entry {i}</a></p>' for i in (1, 2, 3, 1, 2))),
+    "split_001.html": PAGE.format(BOLD.format("Introduction") + "<p>Every author hopes.</p>"),
+    "split_002.html": PAGE.format(BOLD.format("The Characters of the Story") + "<p>Glance at the image.</p>"
+                                  + BOLD.format("Two Systems") + '<p>System 1 is fast.</p><p id="p8"> </p><p>“A quote after the anchor.”</p>'),
+    "split_003.html": PAGE.format(BOLD.format("Attention and Effort") + "<p>System 2 is slow.</p>"),
+}
+
+
+class KindleEpubTests(unittest.TestCase):
+    def test_bold_headings_and_contents_labels_matched_by_title(self):
+        with tempfile.TemporaryDirectory() as folder:
+            base = Path(folder)
+            epub = base / "kindle.epub"
+            with zipfile.ZipFile(epub, "w") as archive:
+                archive.writestr("mimetype", "application/epub+zip")
+                archive.writestr("META-INF/container.xml", CONTAINER.replace("OEBPS/content.opf", "content.opf"))
+                archive.writestr("content.opf", KINDLE_OPF)
+                archive.writestr("toc.ncx", KINDLE_NCX)
+                for name, text in KINDLE.items():
+                    archive.writestr(name, text)
+            root = base / "kindle-book"
+            new_book.create(root, "测试书", "Fixture Book", "Someone")
+            self.assertEqual(import_epub.import_epub(root, epub), "Imported 3 sections, 0 notes and 0 images from kindle.epub.")
+            config = json.loads((root / "book.json").read_text())
+            self.assertEqual([(c["id"], c.get("number")) for c in config["chapters"]],
+                             [("introduction", None), ("ch01", 1), ("ch02", 2)])
+            chapter = (root / "en" / config["chapters"][1]["file"]).read_text()
+            self.assertTrue(chapter.startswith("# 1. The Characters of the Story\n"))
+            self.assertIn("\n## Two Systems\n", chapter)
+            self.assertTrue((root / "en" / config["chapters"][2]["file"]).read_text().startswith("# 2. Attention and Effort\n"))
+
+
 if __name__ == "__main__":
     unittest.main()
