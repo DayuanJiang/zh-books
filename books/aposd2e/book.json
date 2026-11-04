@@ -1,0 +1,36 @@
+{
+  "title": "软件设计的哲学（第二版）",
+  "originalTitle": "A Philosophy of Software Design, 2nd Edition",
+  "authors": "John Ousterhout",
+  "reader": "custom",
+  "summary": "软件设计的核心任务是控制复杂性。书里讨论模块该切多大，接口怎样才算好，注释该写什么，名字怎么取，异常怎样处理。",
+  "facts": [
+    "22 章",
+    "50 幅译者图解",
+    "代码可切换为 Python",
+    "简体与繁体"
+  ],
+  "cover": "cover.jpeg",
+  "links": [
+    {
+      "label": "繁體版",
+      "href": "zh-tw/",
+      "lang": "zh-TW"
+    }
+  ],
+  "build": [
+    "test -d node_modules || npm ci --no-audit --no-fund",
+    "npm run build"
+  ],
+  "output": "docs/.vuepress/dist",
+  "checks": [
+    "test -d node_modules || npm ci --no-audit --no-fund",
+    "uv run --with opencc==1.4.1 python3 bin/zh-tw.py --check",
+    "uv run --with opencc==1.4.1 python3 bin/chapter_figures.py --check",
+    "uv run --with opencc==1.4.1 python3 tools/localize.py --check",
+    "python3 bin/glossary.py --check",
+    "npm test",
+    "uv run --with opencc==1.4.1 python3 -m unittest discover -s tools -p 'test_*.py'",
+    "python3 tools/verify.py --complete"
+  ]
+}

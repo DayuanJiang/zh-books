@@ -4,9 +4,10 @@ import { defineUserConfig } from 'vuepress'
 import { createSidebar } from './sidebar'
 import { readerPlugin } from './reader/plugin'
 
-const base = '/zh-books/aposd2e/'
+// scripts/site.py sets BOOK_BASE and BOOK_URL from site.json when it builds the whole site.
+const base = (process.env.BOOK_BASE || '/zh-books/aposd2e/') as `/${string}/`
 const favicon = { rel: 'icon', type: 'image/png', href: `${base}favicon.png` }
-const site = 'https://dayuanjiang.github.io/zh-books/aposd2e/'
+const site = process.env.BOOK_URL || 'https://dayuanjiang.github.io/zh-books/aposd2e/'
 const description = '《软件设计的哲学（第二版）》中文版：对照原文修订的译文，每章配有译者图解、章首概览与章末回顾，代码示例可切换为 Python，支持简体与繁体。'
 
 export default defineUserConfig({

@@ -45,19 +45,19 @@ Google 用二十多年时间，把几万名工程师和几十亿行代码组织�
 - **代码示例可切换为 Python。** 原书示例以 Java 为主，另有少量 C++ 和 Go。每个示例右上角有“Java | Python”标签，点一下就切换全书示例的语言。63 个示例中的 58 个有等价的 Python 改写并带语法高亮，其余 5 个没有对应写法，Python 标签置灰，悬停可见原因。
 - **术语前后一致。** 核心术语经过人工审定，译法、适用范围和例外都记录在术语表里，全书统一。
 - **读起来舒服。** 中文正文用思源宋体，按全书用到的字符裁剪后随仓库托管，各系统显示一致。浅色与深色主题，正文字号 16 至 22 像素可调，右侧固定本章目录并随滚动高亮，顶部有阅读进度条。偏好设置保存在浏览器里。
-- **轻快。** 首次打开只加载当前章节，全书搜索索引在第一次搜索时才下载。所有前端依赖和字体都已本地化，克隆下来用任何静态服务器都能跑。
+- **轻快。** 首次打开只加载当前章节，全书搜索索引在第一次搜索时才下载。所有前端依赖和字体都已本地化，构建出的站点放在任何静态服务器上都能跑。
 
 ## 开始阅读
 
 在线版本：<https://dayuanjiang.github.io/zh-books/swe-at-google/>
 
-本地运行：
+本地运行（在仓库根目录）：
 
 ```bash
 git clone https://github.com/DayuanJiang/zh-books.git
-cd zh-books/books/swe-at-google
-python3 -m http.server 8000
-# 打开 http://localhost:8000
+cd zh-books
+python3 scripts/site.py serve
+# 打开 http://127.0.0.1:8000/zh-books/swe-at-google/
 ```
 
 如果只想读文字，英文原文在 [`en/`](en/)，中文译文在 [`zh-cn/`](zh-cn/)，同名文件逐块对应，在 GitHub 上直接点开就能看。
@@ -93,23 +93,23 @@ python3 -m http.server 8000
 
 ## 仓库结构
 
+这本书用仓库共用的中英对照阅读器（[`framework/`](../../framework)），这个目录里只有书的内容：
+
 ```text
+book.json                    书名、简介、章节列表和每章的状态，书架首页和阅读器都从这里读取
 en/                          英文原文，每章一个目录，图片也放在这里
 zh-cn/                       中文译文，与 en/ 同名同结构
-assets/reader.js             阅读器本体，以 Docsify 插件形式实现
-assets/reader.css            阅读器样式，含浅色与深色主题
-assets/reader-manifest.json  章节与图解清单，打开页面时加载
-assets/reader-content/       每章对齐好的中英段落单元，由 en/ 与 zh-cn/ 生成，进入该章时加载
-assets/search-index.json     全书搜索索引，第一次搜索时加载
-assets/code-variants/        代码示例的 Python 改写：每章一个目录，原文与改写成对存放，编译为按章 JSON
-assets/diagrams/             144 张图解的 SVG 与元数据；章首概览和章末回顾由 chNN.json 里的内容生成
-assets/vendor/               本地化的 Docsify 与图标依赖
-tools/                       审校、校验和构建脚本，用 uv 管理
+assets/diagrams/             章首概览和章末回顾的内容数据（chNN.json），以及 94 个小节的细节图（sections/）
+assets/code-variants/        代码示例的 Python 改写：每章一个目录，原文与改写成对存放
+assets/fonts/                按全书用到的字符裁剪的思源宋体
+assets/images/               封面和 README 截图
+tools/                       这本书自己的检查（test_book.py）和润色审校用的语料分析脚本
 translation-review/          全书润色的审校记录、术语表与验收数据
-../../.github/workflows/ci.yml 整个仓库共用的 CI：每次推送运行这本书的测试，并检查生成文件是否同步
 ```
 
-原文与译文分开存放，按块一一对应：`en/` 里的每个标题、段落、列表、引文和表格，在 `zh-cn/` 同名文件的同一位置都有且只有一个中文块；代码、图片和分隔线只出现在 `en/`。脚注在两边都是 `[^n]:` 定义，按编号对应；`zh-cn/` 里以 `[^tN]:` 定义的是译者注。`tools/book.py` 负责解析、对齐并生成阅读器数据，两边结构对不上时构建会直接报错，指出出问题的块。阅读器只负责渲染这些单元，不再猜测哪段是原文、哪段是译文。
+阅读器需要的清单、每章的段落单元、搜索索引和章首章末的 SVG，都在构建时生成到 `_site/swe-at-google/`，不放进仓库。
+
+原文与译文分开存放，按块一一对应：`en/` 里的每个标题、段落、列表、引文和表格，在 `zh-cn/` 同名文件的同一位置都有且只有一个中文块；代码、图片和分隔线只出现在 `en/`。脚注在两边都是 `[^n]:` 定义，按编号对应；`zh-cn/` 里以 `[^tN]:` 定义的是译者注。`framework/tools/book.py` 负责解析、对齐并生成阅读器数据，两边结构对不上时构建会直接报错，指出出问题的块。阅读器只负责渲染这些单元，不再猜测哪段是原文、哪段是译文。
 
 ## 翻译是怎么审校的
 
@@ -130,21 +130,13 @@ translation-review/          全书润色的审校记录、术语表与验收数
 1. 修改 `zh-cn/` 下对应章节的中文块，保持与 `en/` 同一位置、同一类型（段落对段落、列表项数相同）；英文原文在 `en/`，保持原样。
 2. 涉及术语时先查[术语表](translation-review/glossary.md)，与已审定译法保持一致。
 3. 改写代码示例时，在 `assets/code-variants/<章节>/` 下放一对文件：`NN.java`（或 `.cpp`、`.go`）保存原书代码，`NN.py` 保存 Python 改写；没有对应写法的示例改放 `NN.skip`，写明原因。构建脚本会检查原文能在章节中找到、Python 能通过语法解析。
-4. 提交前在 `tools/` 目录跑一遍测试：
+4. 提交前在仓库根目录运行这本书的检查，CI 会做同样的事：
 
 ```bash
-cd tools
-uv sync
-uv run --with pytest pytest -q
+python3 scripts/site.py check swe-at-google
 ```
 
-改动正文、图解或译者注后，重新生成章首和章末图、阅读器清单和搜索索引。CI 会检查这些生成文件是否与源文件同步。
-
-```bash
-uv run python build_chapter_figures.py
-uv run python build_reader_manifest.py
-uv run python build_search_index.py
-```
+它按严格模式构建全书：生成章首和章末图、阅读器数据和搜索索引，检查中英两边逐块对应、图解和代码改写的约定，再运行 `tools/` 里这本书自己的测试。
 
 ## 来源与许可
 

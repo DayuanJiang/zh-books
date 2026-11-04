@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{title}}</title>
+  <meta name="description" content="{{lead}}">
+  <style>
+    :root {
+      color-scheme: light dark;
+      --page: #e7eae6;
+      --card: #eff1ee;
+      --ink: #1c201d;
+      --muted: #4a524b;
+      --line: #c6cdc6;
+      --accent: #a33e36;
+      --accent-soft: #e9dad6;
+      --ui-font: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Microsoft YaHei", sans-serif;
+      --book-font: "Noto Serif SC", "Songti SC", "STSong", "Noto Serif CJK SC", "Source Han Serif SC", Georgia, serif;
+    }
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --page: #191919;
+        --card: #222222;
+        --ink: #e5e5e5;
+        --muted: #a6a6a6;
+        --line: #363636;
+        --accent: #e5a29a;
+        --accent-soft: #3b2826;
+      }
+    }
+    * { box-sizing: border-box; }
+    body { margin: 0; background: var(--page); color: var(--ink); font-family: var(--ui-font); line-height: 1.7; }
+    main { max-width: 960px; margin: 0 auto; padding: 56px 24px 40px; }
+    header { margin-bottom: 36px; }
+    h1 { margin: 0 0 8px; font-family: var(--book-font); font-size: 32px; font-weight: 600; letter-spacing: 0.02em; }
+    .lead { margin: 0; max-width: 720px; color: var(--muted); font-size: 16px; }
+    .shelf { display: grid; grid-template-columns: repeat(auto-fit, minmax(400px, 1fr)); gap: 20px; }
+    .book { display: flex; gap: 20px; padding: 20px; background: var(--card); border: 1px solid var(--line); border-radius: 10px; }
+    .cover { flex: 0 0 112px; }
+    .cover.placeholder { display: flex; align-items: center; justify-content: center; width: 112px; height: 148px; padding: 10px; border: 1px solid var(--line); border-radius: 3px; background: var(--accent-soft); color: var(--accent); font-family: var(--book-font); font-size: 15px; font-weight: 600; text-align: center; text-decoration: none; }
+    .cover img { display: block; width: 112px; height: auto; border-radius: 3px; box-shadow: 0 2px 8px rgb(0 0 0 / 0.18); }
+    .info { display: flex; flex-direction: column; min-width: 0; }
+    h2 { margin: 0; font-family: var(--book-font); font-size: 21px; font-weight: 600; line-height: 1.45; }
+    h2 a { color: inherit; text-decoration: none; }
+    h2 a:hover { color: var(--accent); }
+    .original { margin: 2px 0 10px; color: var(--muted); font-size: 13px; }
+    .summary { margin: 0 0 12px; font-size: 14.5px; }
+    .facts { display: flex; flex-wrap: wrap; gap: 6px; margin: 0 0 16px; padding: 0; list-style: none; }
+    .facts li { padding: 1px 9px; border: 1px solid var(--line); border-radius: 999px; color: var(--muted); font-size: 12.5px; }
+    .actions { display: flex; flex-wrap: wrap; gap: 8px; margin-top: auto; }
+    .actions a { padding: 5px 14px; border: 1px solid var(--line); border-radius: 6px; color: var(--ink); font-size: 14px; text-decoration: none; }
+    .actions a:hover { border-color: var(--accent); color: var(--accent); }
+    .actions a.primary { background: var(--accent); border-color: var(--accent); color: var(--page); }
+    .actions a.primary:hover { background: var(--accent-soft); color: var(--accent); }
+    footer { margin-top: 40px; padding-top: 16px; border-top: 1px solid var(--line); color: var(--muted); font-size: 13px; }
+    footer a { color: inherit; }
+    @media (max-width: 560px) {
+      main { padding: 32px 16px 28px; }
+      h1 { font-size: 26px; }
+      .shelf { grid-template-columns: 1fr; }
+      .book { gap: 14px; padding: 16px; }
+      .cover { flex-basis: 84px; }
+      .cover.placeholder { display: flex; align-items: center; justify-content: center; width: 112px; height: 148px; padding: 10px; border: 1px solid var(--line); border-radius: 3px; background: var(--accent-soft); color: var(--accent); font-family: var(--book-font); font-size: 15px; font-weight: 600; text-align: center; text-decoration: none; }
+    .cover img { width: 84px; }
+      h2 { font-size: 18px; }
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <header>
+      <h1>{{title}}</h1>
+      <p class="lead">{{lead}}</p>
+    </header>
+
+    <section class="shelf" aria-label="书目">
+{{books}}
+    </section>
+
+    <footer>
+      各书的译文来源、原书版权和许可写在各自目录的 README 里。发现翻译问题，欢迎到 <a href="{{repo}}">GitHub 仓库</a> 提交 Issue 或 Pull Request。
+    </footer>
+  </main>
+</body>
+</html>

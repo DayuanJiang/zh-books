@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <title>{{pageTitle}}</title>
+    <link rel="icon" href="{{cover}}">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+    <meta name="description" content="{{description}}">
+
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="{{title}}">
+    <meta property="og:title" content="{{shareTitle}}">
+    <meta property="og:description" content="{{shareDescription}}">
+    <meta property="og:url" content="{{url}}">
+    <meta property="og:image" content="{{url}}{{cover}}">
+    <meta property="og:locale" content="zh_CN">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="{{shareTitle}}">
+    <meta name="twitter:description" content="{{shareDescription}}">
+    <meta name="twitter:image" content="{{url}}{{cover}}">
+
+    <link rel="preload" href="assets/fonts/NotoSerifSC-Regular.woff2" as="font" type="font/woff2" crossorigin>
+    <link rel="stylesheet" href="assets/vendor/docsify-vue.css?v={{hash:assets/vendor/docsify-vue.css}}">
+    <link rel="stylesheet" href="assets/reader.css?v={{hash:assets/reader.css}}">
+</head>
+<body>
+<a class="skip-link" href="#main">跳到正文</a>
+<div id="app"></div>
+
+<script>
+    window.READER_BOOK = {{book}};
+    if (!location.hash || location.hash === '#/' || location.hash === '#') {
+        // Reopen the chapter the reader was last on; fall back to the book's first chapter.
+        var lastRoute = '';
+        try {
+            lastRoute = JSON.parse(localStorage.getItem(READER_BOOK.storageKey) || '{}').lastRoute || '';
+        } catch (_) {}
+        if (!/^\/zh-cn\/[A-Za-z0-9_\/.-]+$/.test(lastRoute)) lastRoute = '';
+        location.replace('#' + (lastRoute || READER_BOOK.start));
+    }
+    window.$docsify = {
+        name: {{docsifyName}},
+        repo: '',
+        themeColor: '{{themeColor}}',
+        auto2top: true,
+        loadSidebar: true,
+        alias: {
+            '/.*/_sidebar.md': '/_sidebar.md'
+        },
+        subMaxLevel: 0,
+        coverpage: false,
+        plugins: [],
+    }
+</script>
+<script src="assets/reader.js?v={{hash:assets/reader.js}}"></script>
+<script src="assets/vendor/docsify.min.js"></script>
+<script src="assets/vendor/docsify-zoom-image.min.js"></script>
+<script src="assets/vendor/prism-python.min.js"></script>
+<script src="assets/vendor/prism-java.min.js"></script>
+<script src="assets/vendor/prism-c.min.js"></script>
+<script src="assets/vendor/prism-cpp.min.js"></script>
+<script src="assets/vendor/prism-go.min.js"></script>
+</body>
+</html>

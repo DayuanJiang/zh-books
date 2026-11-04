@@ -1,7 +1,0 @@
-[
-  {
-    "language": "java",
-    "source": "assertThat(response.Contains(\"Colossal Cave\"))",
-    "python": "assert \"Colossal Cave\" in response"
-  }
-]
