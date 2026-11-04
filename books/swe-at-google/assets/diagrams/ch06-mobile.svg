@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="687" viewBox="0 0 420 687" class="chapter-svg cg-ch06" data-layout="mobile" role="img" aria-labelledby="ch06m-title ch06m-desc">
+  <title id="ch06m-title">管的团队大了，还能事事亲力亲为吗？</title>
+  <desc id="ch06m-desc">本章概览。管的团队大了，还能事事亲力亲为吗？ 本章的主要部分：持续作出决策：模糊难题没有唾手可得的答案。认清盲点，找出关键权衡，做出当前最好的决定，然后不断迭代；随时准备离开：打造自主运转的组织：定清晰的目标和方向，把决策权交下去，你不在时它也能自己判断；不断适应规模增长：成功会带来更多责任。保护有限的时间、注意力和精力，学会放手，只留下最重要的问题。一句话：规模一大，领导要从做事转向决策、放权和守住自己的注意力</desc>
+  <style>
+    .cg-ch06[data-layout="mobile"] text {font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif;fill:var(--diagram-ink,#242424)}
+    .cg-ch06[data-layout="mobile"] .headline {font-size:30px;font-weight:600}
+    .cg-ch06[data-layout="mobile"] .headline-m {font-size:23px;font-weight:600}
+    .cg-ch06[data-layout="mobile"] .story-headline {font-size:26px;font-weight:600}
+    .cg-ch06[data-layout="mobile"] .story-headline-m {font-size:21px;font-weight:600}
+    .cg-ch06[data-layout="mobile"] .h22 {font-size:22px;font-weight:600}
+    .cg-ch06[data-layout="mobile"] .h20 {font-size:20px;font-weight:600}
+    .cg-ch06[data-layout="mobile"] .h19 {font-size:19px;font-weight:600}
+    .cg-ch06[data-layout="mobile"] .h18 {font-size:18px;font-weight:600}
+    .cg-ch06[data-layout="mobile"] .h16 {font-size:16px;font-weight:600}
+    .cg-ch06[data-layout="mobile"] .t15 {font-size:15px}
+    .cg-ch06[data-layout="mobile"] .t14 {font-size:14px}
+    .cg-ch06[data-layout="mobile"] .c15 {font-size:15px;fill:var(--diagram-muted,#686868)}
+    .cg-ch06[data-layout="mobile"] .c14 {font-size:14px;fill:var(--diagram-muted,#686868)}
+    .cg-ch06[data-layout="mobile"] .c13 {font-size:13px;fill:var(--diagram-muted,#686868)}
+    .cg-ch06[data-layout="mobile"] .tag {font-size:13px;font-weight:600;fill:var(--diagram-primary,#0b6f5d)}
+    .cg-ch06[data-layout="mobile"] .act {font-size:12px;font-weight:600;letter-spacing:1px}
+    .cg-ch06[data-layout="mobile"] .answer {font-size:21px;font-weight:600}
+    .cg-ch06[data-layout="mobile"] .answer-m {font-size:17px;font-weight:600}
+    .cg-ch06[data-layout="mobile"] .emph {font-size:20px;font-weight:600}
+    .cg-ch06[data-layout="mobile"] .emph-m {font-size:18px;font-weight:600}
+  </style>
+  <rect x="0" y="0" width="420" height="687" fill="var(--diagram-bg,#fff)"/>
+  <defs><marker id="ch06m-arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="9" markerHeight="9" orient="auto" markerUnits="userSpaceOnUse"><path d="M1 1L9 5L1 9Z" fill="var(--diagram-line,#aebbad)"/></marker></defs>
+  <text x="22.0" y="44.0" class="headline-m" text-anchor="start">管的团队大了，还能事事亲力亲为</text>
+  <text x="22.0" y="75.0" class="headline-m" text-anchor="start">吗？</text>
+  <rect x="22.0" y="99.0" width="376.0" height="112.0" rx="9" fill="var(--diagram-primary-soft,#d6e5dc)"/>
+  <circle cx="50.0" cy="125.0" r="14" fill="var(--diagram-primary-soft,#d6e5dc)" stroke="var(--diagram-primary,#0b6f5d)" stroke-width="2"/><g transform="translate(42.0,117.0) scale(0.667)" fill="none" stroke="var(--diagram-primary,#0b6f5d)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><circle cx="12" cy="12" r="6"/><circle cx="12" cy="12" r="2"/></g>
+  <text x="74.0" y="130.0" class="h18" text-anchor="start">目标：带一个你不在也能运转、还能</text>
+  <text x="74.0" y="154.0" class="h18" text-anchor="start">持续变大的组织</text>
+  <text x="74.0" y="179.0" class="c15" text-anchor="start">从带一个团队到带几个团队，问题变得模糊，</text>
+  <text x="74.0" y="201.0" class="c15" text-anchor="start">答案不再唾手可得</text>
+  <text x="22.0" y="235.0" class="h16" fill="var(--diagram-primary,#0b6f5d)" text-anchor="start">靠什么支撑</text>
+  <rect x="22.0" y="251.0" width="376.0" height="110.0" rx="9" fill="var(--diagram-secondary-soft,#dce4ed)"/>
+  <circle cx="50.0" cy="277.0" r="14" fill="var(--diagram-secondary-soft,#dce4ed)" stroke="var(--diagram-secondary,#2c6096)" stroke-width="2"/><g transform="translate(42.0,269.0) scale(0.667)" fill="none" stroke="var(--diagram-secondary,#2c6096)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m16.24 7.76-1.804 5.411a2 2 0 0 1-1.265 1.265L7.76 16.24l1.804-5.411a2 2 0 0 1 1.265-1.265z"/><circle cx="12" cy="12" r="10"/></g>
+  <text x="74.0" y="282.0" class="h18" text-anchor="start">持续作出决策</text>
+  <text x="74.0" y="307.0" class="c15" text-anchor="start">模糊难题没有唾手可得的答案。认清盲点，找</text>
+  <text x="74.0" y="329.0" class="c15" text-anchor="start">出关键权衡，做出当前最好的决定，然后不断</text>
+  <text x="74.0" y="351.0" class="c15" text-anchor="start">迭代</text>
+  <rect x="22.0" y="371.0" width="376.0" height="88.0" rx="9" fill="var(--diagram-secondary-soft,#dce4ed)"/>
+  <circle cx="50.0" cy="397.0" r="14" fill="var(--diagram-secondary-soft,#dce4ed)" stroke="var(--diagram-secondary,#2c6096)" stroke-width="2"/><g transform="translate(42.0,389.0) scale(0.667)" fill="none" stroke="var(--diagram-secondary,#2c6096)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M13 4h3a2 2 0 0 1 2 2v14"/><path d="M2 20h3"/><path d="M13 20h9"/><path d="M10 12v.01"/><path d="M13 4.562v16.157a1 1 0 0 1-1.242.97L5 20V5.562a2 2 0 0 1 1.515-1.94l4-1A2 2 0 0 1 13 4.561Z"/></g>
+  <text x="74.0" y="402.0" class="h18" text-anchor="start">随时准备离开</text>
+  <text x="74.0" y="427.0" class="c15" text-anchor="start">打造自主运转的组织：定清晰的目标和方向，</text>
+  <text x="74.0" y="449.0" class="c15" text-anchor="start">把决策权交下去，你不在时它也能自己判断</text>
+  <rect x="22.0" y="469.0" width="376.0" height="88.0" rx="9" fill="var(--diagram-secondary-soft,#dce4ed)"/>
+  <circle cx="50.0" cy="495.0" r="14" fill="var(--diagram-secondary-soft,#dce4ed)" stroke="var(--diagram-secondary,#2c6096)" stroke-width="2"/><g transform="translate(42.0,487.0) scale(0.667)" fill="none" stroke="var(--diagram-secondary,#2c6096)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 22h14"/><path d="M5 2h14"/><path d="M17 22v-4.172a2 2 0 0 0-.586-1.414L12 12l-4.414 4.414A2 2 0 0 0 7 17.828V22"/><path d="M7 2v4.172a2 2 0 0 0 .586 1.414L12 12l4.414-4.414A2 2 0 0 0 17 6.172V2"/></g>
+  <text x="74.0" y="500.0" class="h18" text-anchor="start">不断适应规模增长</text>
+  <text x="74.0" y="525.0" class="c15" text-anchor="start">成功会带来更多责任。保护有限的时间、注意</text>
+  <text x="74.0" y="547.0" class="c15" text-anchor="start">力和精力，学会放手，只留下最重要的问题</text>
+  <rect x="22.0" y="575.0" width="376.0" height="90.0" rx="10" fill="var(--diagram-primary-soft,#d6e5dc)"/>
+  <text x="36.0" y="596.0" class="tag" text-anchor="start">一句话</text>
+  <text x="36.0" y="622.0" class="answer-m" text-anchor="start">规模一大，领导要从做事转向决策、放权和守</text>
+  <text x="36.0" y="648.0" class="answer-m" text-anchor="start">住自己的注意力</text>
+</svg>

@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="508" viewBox="0 0 420 508" class="chapter-svg cg-ch02" data-layout="mobile" role="img" aria-labelledby="ch02m-title ch02m-desc">
+  <title id="ch02m-title">为什么独自闷头干，反而更慢？</title>
+  <desc id="ch02m-desc">本章概览。为什么独自闷头干，反而更慢？ 本章的主要部分：躲起来写：怕被看到、巴士因子为 1、走错方向没人提醒；一起做：小步提交、谦逊尊重信任、无责复盘、快速学习。一句话：软件是团队做出来的：早点把工作亮出来，靠谦逊、尊重、信任协作</desc>
+  <style>
+    .cg-ch02[data-layout="mobile"] text {font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif;fill:var(--diagram-ink,#242424)}
+    .cg-ch02[data-layout="mobile"] .headline {font-size:30px;font-weight:600}
+    .cg-ch02[data-layout="mobile"] .headline-m {font-size:23px;font-weight:600}
+    .cg-ch02[data-layout="mobile"] .story-headline {font-size:26px;font-weight:600}
+    .cg-ch02[data-layout="mobile"] .story-headline-m {font-size:21px;font-weight:600}
+    .cg-ch02[data-layout="mobile"] .h22 {font-size:22px;font-weight:600}
+    .cg-ch02[data-layout="mobile"] .h20 {font-size:20px;font-weight:600}
+    .cg-ch02[data-layout="mobile"] .h19 {font-size:19px;font-weight:600}
+    .cg-ch02[data-layout="mobile"] .h18 {font-size:18px;font-weight:600}
+    .cg-ch02[data-layout="mobile"] .h16 {font-size:16px;font-weight:600}
+    .cg-ch02[data-layout="mobile"] .t15 {font-size:15px}
+    .cg-ch02[data-layout="mobile"] .t14 {font-size:14px}
+    .cg-ch02[data-layout="mobile"] .c15 {font-size:15px;fill:var(--diagram-muted,#686868)}
+    .cg-ch02[data-layout="mobile"] .c14 {font-size:14px;fill:var(--diagram-muted,#686868)}
+    .cg-ch02[data-layout="mobile"] .c13 {font-size:13px;fill:var(--diagram-muted,#686868)}
+    .cg-ch02[data-layout="mobile"] .tag {font-size:13px;font-weight:600;fill:var(--diagram-primary,#0b6f5d)}
+    .cg-ch02[data-layout="mobile"] .act {font-size:12px;font-weight:600;letter-spacing:1px}
+    .cg-ch02[data-layout="mobile"] .answer {font-size:21px;font-weight:600}
+    .cg-ch02[data-layout="mobile"] .answer-m {font-size:17px;font-weight:600}
+    .cg-ch02[data-layout="mobile"] .emph {font-size:20px;font-weight:600}
+    .cg-ch02[data-layout="mobile"] .emph-m {font-size:18px;font-weight:600}
+  </style>
+  <rect x="0" y="0" width="420" height="508" fill="var(--diagram-bg,#fff)"/>
+  <defs><marker id="ch02m-arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="9" markerHeight="9" orient="auto" markerUnits="userSpaceOnUse"><path d="M1 1L9 5L1 9Z" fill="var(--diagram-line,#aebbad)"/></marker></defs>
+  <text x="22.0" y="44.0" class="headline-m" text-anchor="start">为什么独自闷头干，反而更慢？</text>
+  <text x="22.0" y="80.0" class="c13" text-anchor="start">天才神话让人想躲起来独自做出完美的东西；这一章说，躲起来</text>
+  <text x="22.0" y="100.0" class="c13" text-anchor="start">的代价比你想的大</text>
+  <rect x="22.0" y="118.0" width="376.0" height="110.0" rx="9" fill="var(--diagram-danger-soft,#ead9dc)"/>
+  <circle cx="50.0" cy="144.0" r="14" fill="var(--diagram-danger-soft,#ead9dc)" stroke="var(--diagram-danger,#a03946)" stroke-width="2"/><g transform="translate(42.0,136.0) scale(0.667)" fill="none" stroke="var(--diagram-danger,#a03946)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10.733 5.076a10.744 10.744 0 0 1 11.205 6.575 1 1 0 0 1 0 .696 10.747 10.747 0 0 1-1.444 2.49"/><path d="M14.084 14.158a3 3 0 0 1-4.242-4.242"/><path d="M17.479 17.499a10.75 10.75 0 0 1-15.417-5.151 1 1 0 0 1 0-.696 10.75 10.75 0 0 1 4.446-5.143"/><path d="m2 2 20 20"/></g>
+  <text x="74.0" y="149.0" class="h18" text-anchor="start">一个人躲起来写</text>
+  <text x="74.0" y="174.0" class="c15" text-anchor="start">怕别人看到不成熟的代码；巴士因子是 1，你</text>
+  <text x="74.0" y="196.0" class="c15" text-anchor="start">一走项目就停；方向错了，没人早点提醒；重</text>
+  <text x="74.0" y="218.0" class="c15" text-anchor="start">复造别人已有的轮子</text>
+  <rect x="22.0" y="238.0" width="376.0" height="110.0" rx="9" fill="var(--diagram-primary-soft,#d6e5dc)"/>
+  <circle cx="50.0" cy="264.0" r="14" fill="var(--diagram-primary-soft,#d6e5dc)" stroke="var(--diagram-primary,#0b6f5d)" stroke-width="2"/><g transform="translate(42.0,256.0) scale(0.667)" fill="none" stroke="var(--diagram-primary,#0b6f5d)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M22 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></g>
+  <text x="74.0" y="269.0" class="h18" text-anchor="start">早点亮出来，一起做</text>
+  <text x="74.0" y="294.0" class="c15" text-anchor="start">小步提交，问题早发现；谦逊、尊重、信任是</text>
+  <text x="74.0" y="316.0" class="c15" text-anchor="start">协作的底；接受批评，无责复盘；快速失败，</text>
+  <text x="74.0" y="338.0" class="c15" text-anchor="start">快速学习</text>
+  <text x="22.0" y="370.0" class="c13" text-anchor="start">了解自己和同事偏好的工作方式，团队才转得顺</text>
+  <rect x="22.0" y="396.0" width="376.0" height="90.0" rx="10" fill="var(--diagram-primary-soft,#d6e5dc)"/>
+  <text x="36.0" y="417.0" class="tag" text-anchor="start">一句话</text>
+  <text x="36.0" y="443.0" class="answer-m" text-anchor="start">软件是团队做出来的：早点把工作亮出来，靠</text>
+  <text x="36.0" y="469.0" class="answer-m" text-anchor="start">谦逊、尊重、信任协作</text>
+</svg>

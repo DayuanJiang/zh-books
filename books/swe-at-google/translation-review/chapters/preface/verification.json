@@ -1,0 +1,20 @@
+{
+  "id": "preface",
+  "file": "zh-cn/Preface.md",
+  "status": "verified",
+  "after_sha256": "fa928a1c43472f2000507884ef75cf086c567c694fdc39f58b769d627e7a9298",
+  "reviewed_chinese_lines": 31,
+  "changed_lines": 22,
+  "english_lines": 27,
+  "english_segments": 29,
+  "code_items": 0,
+  "links": 8,
+  "footnote_markers": 0,
+  "structural_items": 13,
+  "holds": [],
+  "held_line_count": 0,
+  "prose_code_exceptions": [],
+  "link_syntax_exceptions": [],
+  "structure_exceptions": [],
+  "english_format_exceptions": []
+}

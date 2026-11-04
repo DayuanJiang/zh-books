@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="728" viewBox="0 0 420 728" class="chapter-svg cg-ch22" data-layout="mobile" role="img" aria-labelledby="ch22m-title ch22m-desc">
+  <title id="ch22m-title">一处改动牵动几千个文件，怎么做？</title>
+  <desc id="ch22m-desc">本章概览。一处改动牵动几千个文件，怎么做？ 本章的主要部分：一个逻辑改动：改名、换 API、清理旧用法：逻辑上是一件事，物理上散在整个代码库；拆成分片：工具按目录或负责人自动切成许多小改动，每片都能独立审查和提交；自动审查提交：全局批准人代替逐个目录负责人；测试通过就自动提交，失败自动回滚；清理收尾：旧接口删掉，兼容别名撤掉，别让迁移停在一半。一句话：把一个大改动拆成很多小提交，靠工具和流程批量推进</desc>
+  <style>
+    .cg-ch22[data-layout="mobile"] text {font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif;fill:var(--diagram-ink,#242424)}
+    .cg-ch22[data-layout="mobile"] .headline {font-size:30px;font-weight:600}
+    .cg-ch22[data-layout="mobile"] .headline-m {font-size:23px;font-weight:600}
+    .cg-ch22[data-layout="mobile"] .story-headline {font-size:26px;font-weight:600}
+    .cg-ch22[data-layout="mobile"] .story-headline-m {font-size:21px;font-weight:600}
+    .cg-ch22[data-layout="mobile"] .h22 {font-size:22px;font-weight:600}
+    .cg-ch22[data-layout="mobile"] .h20 {font-size:20px;font-weight:600}
+    .cg-ch22[data-layout="mobile"] .h19 {font-size:19px;font-weight:600}
+    .cg-ch22[data-layout="mobile"] .h18 {font-size:18px;font-weight:600}
+    .cg-ch22[data-layout="mobile"] .h16 {font-size:16px;font-weight:600}
+    .cg-ch22[data-layout="mobile"] .t15 {font-size:15px}
+    .cg-ch22[data-layout="mobile"] .t14 {font-size:14px}
+    .cg-ch22[data-layout="mobile"] .c15 {font-size:15px;fill:var(--diagram-muted,#686868)}
+    .cg-ch22[data-layout="mobile"] .c14 {font-size:14px;fill:var(--diagram-muted,#686868)}
+    .cg-ch22[data-layout="mobile"] .c13 {font-size:13px;fill:var(--diagram-muted,#686868)}
+    .cg-ch22[data-layout="mobile"] .tag {font-size:13px;font-weight:600;fill:var(--diagram-primary,#0b6f5d)}
+    .cg-ch22[data-layout="mobile"] .act {font-size:12px;font-weight:600;letter-spacing:1px}
+    .cg-ch22[data-layout="mobile"] .answer {font-size:21px;font-weight:600}
+    .cg-ch22[data-layout="mobile"] .answer-m {font-size:17px;font-weight:600}
+    .cg-ch22[data-layout="mobile"] .emph {font-size:20px;font-weight:600}
+    .cg-ch22[data-layout="mobile"] .emph-m {font-size:18px;font-weight:600}
+  </style>
+  <rect x="0" y="0" width="420" height="728" fill="var(--diagram-bg,#fff)"/>
+  <defs><marker id="ch22m-arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="9" markerHeight="9" orient="auto" markerUnits="userSpaceOnUse"><path d="M1 1L9 5L1 9Z" fill="var(--diagram-line,#aebbad)"/></marker></defs>
+  <text x="22.0" y="44.0" class="headline-m" text-anchor="start">一处改动牵动几千个文件，怎么做？</text>
+  <text x="22.0" y="80.0" class="c13" text-anchor="start">为什么不能一次提交：冲突、审查、测试和技术限制都承受不了</text>
+  <text x="22.0" y="100.0" class="c13" text-anchor="start">巨型提交</text>
+  <rect x="22.0" y="118.0" width="376.0" height="88.0" rx="9" fill="var(--diagram-primary-soft,#d6e5dc)"/>
+  <circle cx="50.0" cy="144.0" r="14" fill="var(--diagram-primary-soft,#d6e5dc)" stroke="var(--diagram-primary,#0b6f5d)" stroke-width="2"/><g transform="translate(42.0,136.0) scale(0.667)" fill="none" stroke="var(--diagram-primary,#0b6f5d)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V7Z"/><path d="M14 2v4a2 2 0 0 0 2 2h4"/><path d="M10 9H8"/><path d="M16 13H8"/><path d="M16 17H8"/></g>
+  <text x="74.0" y="149.0" class="h18" text-anchor="start">一个逻辑改动</text>
+  <text x="74.0" y="174.0" class="c15" text-anchor="start">改名、换 API、清理旧用法：逻辑上是一件</text>
+  <text x="74.0" y="196.0" class="c15" text-anchor="start">事，物理上散在整个代码库</text>
+  <path d="M210.0 208.0 L210.0 224.0" fill="none" stroke="var(--diagram-line,#aebbad)" stroke-width="2" marker-end="url(#ch22m-arrow)"/>
+  <rect x="22.0" y="232.0" width="376.0" height="88.0" rx="9" fill="var(--diagram-primary-soft,#d6e5dc)"/>
+  <circle cx="50.0" cy="258.0" r="14" fill="var(--diagram-primary-soft,#d6e5dc)" stroke="var(--diagram-primary,#0b6f5d)" stroke-width="2"/><g transform="translate(42.0,250.0) scale(0.667)" fill="none" stroke="var(--diagram-primary,#0b6f5d)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M16 3h5v5"/><path d="M8 3H3v5"/><path d="M12 22v-8.3a4 4 0 0 0-1.172-2.872L3 3"/><path d="m15 9 6-6"/></g>
+  <text x="74.0" y="263.0" class="h18" text-anchor="start">拆成分片</text>
+  <text x="74.0" y="288.0" class="c15" text-anchor="start">工具按目录或负责人自动切成许多小改动，每</text>
+  <text x="74.0" y="310.0" class="c15" text-anchor="start">片都能独立审查和提交</text>
+  <path d="M210.0 322.0 L210.0 338.0" fill="none" stroke="var(--diagram-line,#aebbad)" stroke-width="2" marker-end="url(#ch22m-arrow)"/>
+  <rect x="22.0" y="346.0" width="376.0" height="88.0" rx="9" fill="var(--diagram-primary-soft,#d6e5dc)"/>
+  <circle cx="50.0" cy="372.0" r="14" fill="var(--diagram-primary-soft,#d6e5dc)" stroke="var(--diagram-primary,#0b6f5d)" stroke-width="2"/><g transform="translate(42.0,364.0) scale(0.667)" fill="none" stroke="var(--diagram-primary,#0b6f5d)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 20a8 8 0 1 0 0-16 8 8 0 0 0 0 16Z"/><path d="M12 14a2 2 0 1 0 0-4 2 2 0 0 0 0 4Z"/><path d="M12 2v2"/><path d="M12 22v-2"/><path d="m17 20.66-1-1.73"/><path d="M11 10.27 7 3.34"/><path d="m20.66 17-1.73-1"/><path d="m3.34 7 1.73 1"/><path d="M14 12h8"/><path d="M2 12h2"/><path d="m20.66 7-1.73 1"/><path d="m3.34 17 1.73-1"/><path d="m17 3.34-1 1.73"/><path d="m11 13.73-4 6.93"/></g>
+  <text x="74.0" y="377.0" class="h18" text-anchor="start">自动审查提交</text>
+  <text x="74.0" y="402.0" class="c15" text-anchor="start">全局批准人代替逐个目录负责人；测试通过就</text>
+  <text x="74.0" y="424.0" class="c15" text-anchor="start">自动提交，失败自动回滚</text>
+  <path d="M210.0 436.0 L210.0 452.0" fill="none" stroke="var(--diagram-line,#aebbad)" stroke-width="2" marker-end="url(#ch22m-arrow)"/>
+  <rect x="22.0" y="460.0" width="376.0" height="88.0" rx="9" fill="var(--diagram-primary-soft,#d6e5dc)"/>
+  <circle cx="50.0" cy="486.0" r="14" fill="var(--diagram-primary-soft,#d6e5dc)" stroke="var(--diagram-primary,#0b6f5d)" stroke-width="2"/><g transform="translate(42.0,478.0) scale(0.667)" fill="none" stroke="var(--diagram-primary,#0b6f5d)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 19H4.815a1.83 1.83 0 0 1-1.57-.881 1.785 1.785 0 0 1-.004-1.784L7.196 9.5"/><path d="M11 19h8.203a1.83 1.83 0 0 0 1.556-.89 1.784 1.784 0 0 0 0-1.775l-1.226-2.12"/><path d="m14 16-3 3 3 3"/><path d="M8.293 13.596 7.196 9.5 3.1 10.598"/><path d="m9.344 5.811 1.093-1.892A1.83 1.83 0 0 1 11.985 3a1.784 1.784 0 0 1 1.546.888l3.943 6.843"/><path d="m13.378 9.633 4.096 1.098 1.097-4.096"/></g>
+  <text x="74.0" y="491.0" class="h18" text-anchor="start">清理收尾</text>
+  <text x="74.0" y="516.0" class="c15" text-anchor="start">旧接口删掉，兼容别名撤掉，别让迁移停在一</text>
+  <text x="74.0" y="538.0" class="c15" text-anchor="start">半</text>
+  <text x="22.0" y="570.0" class="c13" text-anchor="start">基础设施：政策与授权、代码库洞察、变更管理工具（Rosie）、</text>
+  <text x="22.0" y="590.0" class="c13" text-anchor="start">测试与回滚</text>
+  <rect x="22.0" y="616.0" width="376.0" height="90.0" rx="10" fill="var(--diagram-primary-soft,#d6e5dc)"/>
+  <text x="36.0" y="637.0" class="tag" text-anchor="start">一句话</text>
+  <text x="36.0" y="663.0" class="answer-m" text-anchor="start">把一个大改动拆成很多小提交，靠工具和流程</text>
+  <text x="36.0" y="689.0" class="answer-m" text-anchor="start">批量推进</text>
+</svg>

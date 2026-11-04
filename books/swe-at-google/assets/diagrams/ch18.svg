@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="454" viewBox="0 0 960 454" class="chapter-svg cg-ch18" data-layout="desktop" role="img" aria-labelledby="ch18-title ch18-desc">
+  <title id="ch18-title">构建系统到底在解决什么问题？</title>
+  <desc id="ch18-desc">本章概览。构建系统到底在解决什么问题？ 本章的主要部分：基于任务：你写步骤，工具照做，难并行难缓存；基于产物：你声明目标和依赖，工具决定怎么做。一句话：只声明要什么，让工具决定怎么做，构建才可靠、可缓存、可并行</desc>
+  <style>
+    .cg-ch18[data-layout="desktop"] text {font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif;fill:var(--diagram-ink,#242424)}
+    .cg-ch18[data-layout="desktop"] .headline {font-size:30px;font-weight:600}
+    .cg-ch18[data-layout="desktop"] .headline-m {font-size:23px;font-weight:600}
+    .cg-ch18[data-layout="desktop"] .story-headline {font-size:26px;font-weight:600}
+    .cg-ch18[data-layout="desktop"] .story-headline-m {font-size:21px;font-weight:600}
+    .cg-ch18[data-layout="desktop"] .h22 {font-size:22px;font-weight:600}
+    .cg-ch18[data-layout="desktop"] .h20 {font-size:20px;font-weight:600}
+    .cg-ch18[data-layout="desktop"] .h19 {font-size:19px;font-weight:600}
+    .cg-ch18[data-layout="desktop"] .h18 {font-size:18px;font-weight:600}
+    .cg-ch18[data-layout="desktop"] .h16 {font-size:16px;font-weight:600}
+    .cg-ch18[data-layout="desktop"] .t15 {font-size:15px}
+    .cg-ch18[data-layout="desktop"] .t14 {font-size:14px}
+    .cg-ch18[data-layout="desktop"] .c15 {font-size:15px;fill:var(--diagram-muted,#686868)}
+    .cg-ch18[data-layout="desktop"] .c14 {font-size:14px;fill:var(--diagram-muted,#686868)}
+    .cg-ch18[data-layout="desktop"] .c13 {font-size:13px;fill:var(--diagram-muted,#686868)}
+    .cg-ch18[data-layout="desktop"] .tag {font-size:13px;font-weight:600;fill:var(--diagram-primary,#0b6f5d)}
+    .cg-ch18[data-layout="desktop"] .act {font-size:12px;font-weight:600;letter-spacing:1px}
+    .cg-ch18[data-layout="desktop"] .answer {font-size:21px;font-weight:600}
+    .cg-ch18[data-layout="desktop"] .answer-m {font-size:17px;font-weight:600}
+    .cg-ch18[data-layout="desktop"] .emph {font-size:20px;font-weight:600}
+    .cg-ch18[data-layout="desktop"] .emph-m {font-size:18px;font-weight:600}
+  </style>
+  <rect x="0" y="0" width="960" height="454" fill="var(--diagram-bg,#fff)"/>
+  <defs><marker id="ch18-arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="9" markerHeight="9" orient="auto" markerUnits="userSpaceOnUse"><path d="M1 1L9 5L1 9Z" fill="var(--diagram-line,#aebbad)"/></marker></defs>
+  <text x="32.0" y="52.0" class="headline" text-anchor="start">构建系统到底在解决什么问题？</text>
+  <text x="32.0" y="94.0" class="c15" text-anchor="start">构建系统的目的：把源码可靠、可重复地变成产物；核心难点在依赖</text>
+  <rect x="32.0" y="114.0" width="418.0" height="192.0" rx="12" fill="var(--diagram-warm-soft,#eae2cf)"/>
+  <g transform="translate(52.0,132.0) scale(1.083)" fill="none" stroke="var(--diagram-warm,#80531b)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m3 17 2 2 4-4"/><path d="m3 7 2 2 4-4"/><path d="M13 6h8"/><path d="M13 12h8"/><path d="M13 18h8"/></g>
+  <text x="88.0" y="152.0" class="h20" text-anchor="start">基于任务：Ant、Maven、Gradle</text>
+  <g transform="translate(52.0,176.0) scale(0.667)" fill="none" stroke="var(--diagram-warm,#80531b)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="m15 9-6 6"/><path d="m9 9 6 6"/></g>
+  <text x="76.0" y="189.0" class="t15" text-anchor="start">你写步骤，工具照做</text>
+  <g transform="translate(52.0,206.0) scale(0.667)" fill="none" stroke="var(--diagram-warm,#80531b)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="m15 9-6 6"/><path d="m9 9 6 6"/></g>
+  <text x="76.0" y="219.0" class="t15" text-anchor="start">工具看不懂步骤之间的依赖</text>
+  <g transform="translate(52.0,236.0) scale(0.667)" fill="none" stroke="var(--diagram-warm,#80531b)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="m15 9-6 6"/><path d="m9 9 6 6"/></g>
+  <text x="76.0" y="249.0" class="t15" text-anchor="start">难以并行，难以缓存</text>
+  <g transform="translate(52.0,266.0) scale(0.667)" fill="none" stroke="var(--diagram-warm,#80531b)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="m15 9-6 6"/><path d="m9 9 6 6"/></g>
+  <text x="76.0" y="279.0" class="t15" text-anchor="start">构建脚本本身越来越难维护</text>
+  <rect x="510.0" y="114.0" width="418.0" height="192.0" rx="12" fill="var(--diagram-primary-soft,#d6e5dc)"/>
+  <g transform="translate(530.0,132.0) scale(1.083)" fill="none" stroke="var(--diagram-primary,#0b6f5d)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2.97 12.92A2 2 0 0 0 2 14.63v3.24a2 2 0 0 0 .97 1.71l3 1.8a2 2 0 0 0 2.06 0L12 19v-5.5l-5-3-4.03 2.42Z"/><path d="m7 16.5-4.74-2.85"/><path d="m7 16.5 5-3"/><path d="M7 16.5v5.17"/><path d="M12 13.5V19l3.97 2.38a2 2 0 0 0 2.06 0l3-1.8a2 2 0 0 0 .97-1.71v-3.24a2 2 0 0 0-.97-1.71L17 10.5l-5 3Z"/><path d="m17 16.5-5-3"/><path d="m17 16.5 4.74-2.85"/><path d="M17 16.5v5.17"/><path d="M7.97 4.42A2 2 0 0 0 7 6.13v4.37l5 3 5-3V6.13a2 2 0 0 0-.97-1.71l-3-1.8a2 2 0 0 0-2.06 0l-3 1.8Z"/><path d="M12 8 7.26 5.15"/><path d="m12 8 4.74-2.85"/><path d="M12 13.5V8"/></g>
+  <text x="566.0" y="152.0" class="h20" text-anchor="start">基于产物：Bazel、Buck</text>
+  <g transform="translate(530.0,176.0) scale(0.667)" fill="none" stroke="var(--diagram-primary,#0b6f5d)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="m9 12 2 2 4-4"/></g>
+  <text x="554.0" y="189.0" class="t15" text-anchor="start">你声明目标和依赖，工具决定怎么做</text>
+  <g transform="translate(530.0,206.0) scale(0.667)" fill="none" stroke="var(--diagram-primary,#0b6f5d)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="m9 12 2 2 4-4"/></g>
+  <text x="554.0" y="219.0" class="t15" text-anchor="start">工具能算出什么该重建</text>
+  <g transform="translate(530.0,236.0) scale(0.667)" fill="none" stroke="var(--diagram-primary,#0b6f5d)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="m9 12 2 2 4-4"/></g>
+  <text x="554.0" y="249.0" class="t15" text-anchor="start">可并行、可缓存、可远程执行</text>
+  <g transform="translate(530.0,266.0) scale(0.667)" fill="none" stroke="var(--diagram-primary,#0b6f5d)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="m9 12 2 2 4-4"/></g>
+  <text x="554.0" y="279.0" class="t15" text-anchor="start">构建可重复，结果可信</text>
+  <path d="M462.0 210.0 L498.0 210.0" fill="none" stroke="var(--diagram-line,#aebbad)" stroke-width="2" marker-end="url(#ch18-arrow)"/>
+  <text x="480.0" y="196.0" class="c13" text-anchor="middle">转向</text>
+  <text x="32.0" y="330.0" class="c14" text-anchor="start">模块要细：1:1:1 规则；最小化可见性；外部依赖锁定版本并校验哈希</text>
+  <rect x="32.0" y="358.0" width="896.0" height="68.0" rx="10" fill="var(--diagram-primary-soft,#d6e5dc)"/>
+  <text x="50.0" y="379.0" class="tag" text-anchor="start">一句话</text>
+  <text x="50.0" y="409.0" class="answer" text-anchor="start">只声明要什么，让工具决定怎么做，构建才可靠、可缓存、可并行</text>
+</svg>

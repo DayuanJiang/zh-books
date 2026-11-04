@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="454" viewBox="0 0 960 454" class="chapter-svg cg-ch10" data-layout="desktop" role="img" aria-labelledby="ch10-title ch10-desc">
+  <title id="ch10-title">工程师为什么不爱写文档，怎么改？</title>
+  <desc id="ch10-desc">本章概览。工程师为什么不爱写文档，怎么改？ 本章的主要部分：常见状况：没人写、没人看、过时不删；当作代码：有负责人、有评审、想清读者、一份只做一件事。一句话：把文档当作代码来写、评审和维护，动笔前先想清读者是谁</desc>
+  <style>
+    .cg-ch10[data-layout="desktop"] text {font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif;fill:var(--diagram-ink,#242424)}
+    .cg-ch10[data-layout="desktop"] .headline {font-size:30px;font-weight:600}
+    .cg-ch10[data-layout="desktop"] .headline-m {font-size:23px;font-weight:600}
+    .cg-ch10[data-layout="desktop"] .story-headline {font-size:26px;font-weight:600}
+    .cg-ch10[data-layout="desktop"] .story-headline-m {font-size:21px;font-weight:600}
+    .cg-ch10[data-layout="desktop"] .h22 {font-size:22px;font-weight:600}
+    .cg-ch10[data-layout="desktop"] .h20 {font-size:20px;font-weight:600}
+    .cg-ch10[data-layout="desktop"] .h19 {font-size:19px;font-weight:600}
+    .cg-ch10[data-layout="desktop"] .h18 {font-size:18px;font-weight:600}
+    .cg-ch10[data-layout="desktop"] .h16 {font-size:16px;font-weight:600}
+    .cg-ch10[data-layout="desktop"] .t15 {font-size:15px}
+    .cg-ch10[data-layout="desktop"] .t14 {font-size:14px}
+    .cg-ch10[data-layout="desktop"] .c15 {font-size:15px;fill:var(--diagram-muted,#686868)}
+    .cg-ch10[data-layout="desktop"] .c14 {font-size:14px;fill:var(--diagram-muted,#686868)}
+    .cg-ch10[data-layout="desktop"] .c13 {font-size:13px;fill:var(--diagram-muted,#686868)}
+    .cg-ch10[data-layout="desktop"] .tag {font-size:13px;font-weight:600;fill:var(--diagram-primary,#0b6f5d)}
+    .cg-ch10[data-layout="desktop"] .act {font-size:12px;font-weight:600;letter-spacing:1px}
+    .cg-ch10[data-layout="desktop"] .answer {font-size:21px;font-weight:600}
+    .cg-ch10[data-layout="desktop"] .answer-m {font-size:17px;font-weight:600}
+    .cg-ch10[data-layout="desktop"] .emph {font-size:20px;font-weight:600}
+    .cg-ch10[data-layout="desktop"] .emph-m {font-size:18px;font-weight:600}
+  </style>
+  <rect x="0" y="0" width="960" height="454" fill="var(--diagram-bg,#fff)"/>
+  <defs><marker id="ch10-arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="9" markerHeight="9" orient="auto" markerUnits="userSpaceOnUse"><path d="M1 1L9 5L1 9Z" fill="var(--diagram-line,#aebbad)"/></marker></defs>
+  <text x="32.0" y="52.0" class="headline" text-anchor="start">工程师为什么不爱写文档，怎么改？</text>
+  <text x="32.0" y="94.0" class="c15" text-anchor="start">文档写一次、被读很多次；受益最多的常常是几个月后的自己</text>
+  <rect x="32.0" y="114.0" width="418.0" height="192.0" rx="12" fill="var(--diagram-danger-soft,#ead9dc)"/>
+  <g transform="translate(52.0,132.0) scale(1.083)" fill="none" stroke="var(--diagram-danger,#a03946)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10.733 5.076a10.744 10.744 0 0 1 11.205 6.575 1 1 0 0 1 0 .696 10.747 10.747 0 0 1-1.444 2.49"/><path d="M14.084 14.158a3 3 0 0 1-4.242-4.242"/><path d="M17.479 17.499a10.75 10.75 0 0 1-15.417-5.151 1 1 0 0 1 0-.696 10.75 10.75 0 0 1 4.446-5.143"/><path d="m2 2 20 20"/></g>
+  <text x="88.0" y="152.0" class="h20" text-anchor="start">常见状况</text>
+  <g transform="translate(52.0,176.0) scale(0.667)" fill="none" stroke="var(--diagram-danger,#a03946)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="m15 9-6 6"/><path d="m9 9 6 6"/></g>
+  <text x="76.0" y="189.0" class="t15" text-anchor="start">没人觉得写文档是自己的活</text>
+  <g transform="translate(52.0,206.0) scale(0.667)" fill="none" stroke="var(--diagram-danger,#a03946)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="m15 9-6 6"/><path d="m9 9 6 6"/></g>
+  <text x="76.0" y="219.0" class="t15" text-anchor="start">写了没人看，也没人知道在哪</text>
+  <g transform="translate(52.0,236.0) scale(0.667)" fill="none" stroke="var(--diagram-danger,#a03946)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="m15 9-6 6"/><path d="m9 9 6 6"/></g>
+  <text x="76.0" y="249.0" class="t15" text-anchor="start">一份文档想服务所有人</text>
+  <g transform="translate(52.0,266.0) scale(0.667)" fill="none" stroke="var(--diagram-danger,#a03946)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="m15 9-6 6"/><path d="m9 9 6 6"/></g>
+  <text x="76.0" y="279.0" class="t15" text-anchor="start">过时了还挂着，误导读者</text>
+  <rect x="510.0" y="114.0" width="418.0" height="192.0" rx="12" fill="var(--diagram-primary-soft,#d6e5dc)"/>
+  <g transform="translate(530.0,132.0) scale(1.083)" fill="none" stroke="var(--diagram-primary,#0b6f5d)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V7Z"/><path d="M14 2v4a2 2 0 0 0 2 2h4"/><path d="M10 9H8"/><path d="M16 13H8"/><path d="M16 17H8"/></g>
+  <text x="566.0" y="152.0" class="h20" text-anchor="start">把文档当作代码</text>
+  <g transform="translate(530.0,176.0) scale(0.667)" fill="none" stroke="var(--diagram-primary,#0b6f5d)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="m9 12 2 2 4-4"/></g>
+  <text x="554.0" y="189.0" class="t15" text-anchor="start">放进代码库，有负责人、有评审</text>
+  <g transform="translate(530.0,206.0) scale(0.667)" fill="none" stroke="var(--diagram-primary,#0b6f5d)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="m9 12 2 2 4-4"/></g>
+  <text x="554.0" y="219.0" class="t15" text-anchor="start">先想清读者是谁，再决定写什么</text>
+  <g transform="translate(530.0,236.0) scale(0.667)" fill="none" stroke="var(--diagram-primary,#0b6f5d)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="m9 12 2 2 4-4"/></g>
+  <text x="554.0" y="249.0" class="t15" text-anchor="start">一份文档只做一件事：参考、设计、教程或概念</text>
+  <g transform="translate(530.0,266.0) scale(0.667)" fill="none" stroke="var(--diagram-primary,#0b6f5d)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="m9 12 2 2 4-4"/></g>
+  <text x="554.0" y="279.0" class="t15" text-anchor="start">跟着代码一起改，过时就删</text>
+  <path d="M462.0 210.0 L498.0 210.0" fill="none" stroke="var(--diagram-line,#aebbad)" stroke-width="2" marker-end="url(#ch10-arrow)"/>
+  <text x="480.0" y="196.0" class="c13" text-anchor="middle">改为</text>
+  <text x="32.0" y="330.0" class="c14" text-anchor="start">文档类型：参考文档、设计文档、教程、概念文档、着陆页；复杂或面向用户的场合，才需要技术撰稿人</text>
+  <rect x="32.0" y="358.0" width="896.0" height="68.0" rx="10" fill="var(--diagram-primary-soft,#d6e5dc)"/>
+  <text x="50.0" y="379.0" class="tag" text-anchor="start">一句话</text>
+  <text x="50.0" y="409.0" class="answer" text-anchor="start">把文档当作代码来写、评审和维护，动笔前先想清读者是谁</text>
+</svg>

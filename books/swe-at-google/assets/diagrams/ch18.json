@@ -1,0 +1,108 @@
+{
+  "chapter": 18,
+  "title": "构建系统到底在解决什么问题？",
+  "summary": "只声明要什么，让工具决定怎么做，构建才可靠、可缓存、可并行",
+  "enabled": true,
+  "sourceSections": [
+    "Purpose of a Build System",
+    "What Happens Without a Build System?",
+    "Modern Build Systems",
+    "Task-Based Build Systems",
+    "Artifact-Based Build Systems",
+    "Dealing with Modules and Dependencies"
+  ],
+  "kind": "contrast",
+  "desktop": "assets/diagrams/ch18.svg",
+  "mobile": "assets/diagrams/ch18-mobile.svg",
+  "storyDesktop": "assets/diagrams/ch18-story.svg",
+  "storyMobile": "assets/diagrams/ch18-story-mobile.svg",
+  "map": {
+    "form": "contrast",
+    "question": "构建系统到底在解决什么问题？",
+    "answer": "只声明要什么，让工具决定怎么做，构建才可靠、可缓存、可并行",
+    "parts": [
+      {
+        "icon": "list-checks",
+        "label": "基于任务",
+        "text": "你写步骤，工具照做，难并行难缓存"
+      },
+      {
+        "icon": "boxes",
+        "label": "基于产物",
+        "text": "你声明目标和依赖，工具决定怎么做"
+      }
+    ],
+    "figure": {
+      "header": "构建系统的目的：把源码可靠、可重复地变成产物；核心难点在依赖",
+      "left": {
+        "icon": "list-checks",
+        "title": "基于任务：Ant、Maven、Gradle",
+        "tone": "warm",
+        "items": [
+          "你写步骤，工具照做",
+          "工具看不懂步骤之间的依赖",
+          "难以并行，难以缓存",
+          "构建脚本本身越来越难维护"
+        ]
+      },
+      "right": {
+        "icon": "boxes",
+        "title": "基于产物：Bazel、Buck",
+        "tone": "pri",
+        "items": [
+          "你声明目标和依赖，工具决定怎么做",
+          "工具能算出什么该重建",
+          "可并行、可缓存、可远程执行",
+          "构建可重复，结果可信"
+        ]
+      },
+      "arrow": "转向",
+      "footer": "模块要细：1:1:1 规则；最小化可见性；外部依赖锁定版本并校验哈希"
+    }
+  },
+  "story": {
+    "headline": "从“我只需要一个编译器”，到把构建交给工具推理",
+    "acts": [
+      {
+        "act": "起点",
+        "icon": "terminal",
+        "tone": "sec",
+        "title": "“我只需要一个编译器！”",
+        "text": "一个人、几个文件，一条命令就够。文件多了写个 shell 脚本，依赖多了再加几行。直到有人在别的机器上构建失败。"
+      },
+      {
+        "act": "冲突",
+        "icon": "triangle-alert",
+        "tone": "danger",
+        "title": "基于任务的构建：步骤越写越多，工具越来越盲",
+        "text": "Ant、Maven、Gradle 让你描述做什么；但工具不知道步骤之间真正依赖什么，于是不敢并行、不敢缓存，脚本自身也成了维护负担。"
+      },
+      {
+        "act": "转折",
+        "icon": "boxes",
+        "tone": "pri",
+        "title": "基于产物的构建：声明目标，让工具算依赖",
+        "text": "Bazel 只让你说“这个目标依赖那些目标”。工具知道全部依赖图，就能判断什么该重建、什么能并行、什么能从远程缓存拿。"
+      },
+      {
+        "act": "做法",
+        "icon": "layers",
+        "tone": "pri",
+        "title": "细粒度模块、最小可见性、锁定外部依赖",
+        "text": "1:1:1 规则让模块小而清晰；限制谁能依赖谁；外部依赖锁定版本并校验哈希。约束多了，工程师反而轻松。"
+      }
+    ],
+    "emphasis": "构建系统的价值在于对依赖的理解；给它适当的约束，它就能替你推理。",
+    "emphasis2": "组织越大，越需要功能完备的构建系统；控制权和灵活性都有代价。"
+  },
+  "pedagogy": {
+    "action": "replace",
+    "readerQuestion": "构建系统到底在解决什么问题？",
+    "expectedAnswer": "只声明要什么，让工具决定怎么做，构建才可靠、可缓存、可并行",
+    "visualEncoding": "前后对比：左栏是问题做法，右栏是本章主张的做法，中间箭头表示转向；每条用叉或勾标记。 章末故事线：纵向轨道上的 4 幕，幕名为起点、冲突、转折、做法，结尾高亮块写最想强调的主张。",
+    "sourceEvidence": "## Purpose of a Build System 构建系统的目的；## What Happens Without a Build System? 没有构建系统会怎样？；## Modern Build Systems 现代构建系统；### Task-Based Build Systems 基于任务的构建系统；### Artifact-Based Build Systems 基于产物的构建系统；## Dealing with Modules and Dependencies 处理模块和依赖关系",
+    "beforeProblem": "旧图把本章结论压缩成一张示意图放在章首：读者尚未接触其中术语，看不出本章要讲什么；每章一种画法，没有可识别的固定格式；文字 300 到 650 字并带免责小字；占据首屏。",
+    "whyBetter": "章首地图只回答“本章讲什么、各部分怎么关联”，用日常语言和图标，读前即可看懂，读后可对照；章末故事线按情节重讲本章，并明确作者最想强调的主张。两张图分工不同，形式不重复。",
+    "limits": "地图列本章主线，不含各节论据、例外和例子；一句话答案和故事线是概括，细节以正文为准。故事线中的场景来自书中案例，叙述口吻为译者改写。"
+  }
+}

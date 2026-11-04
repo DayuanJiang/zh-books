@@ -1,0 +1,107 @@
+{
+  "chapter": 16,
+  "title": "为什么谷歌几乎只在主干上开发？",
+  "summary": "所有人在同一个主干上工作，改动小而频繁，合并的痛苦最少",
+  "enabled": true,
+  "sourceSections": [
+    "What Is Version Control?",
+    "Branch Management",
+    "Version Control at Google",
+    "Monorepos",
+    "Future of Version Control"
+  ],
+  "kind": "contrast",
+  "desktop": "assets/diagrams/ch16.svg",
+  "mobile": "assets/diagrams/ch16-mobile.svg",
+  "storyDesktop": "assets/diagrams/ch16-story.svg",
+  "storyMobile": "assets/diagrams/ch16-story-mobile.svg",
+  "map": {
+    "form": "contrast",
+    "question": "为什么谷歌几乎只在主干上开发？",
+    "answer": "所有人在同一个主干上工作，改动小而频繁，合并的痛苦最少",
+    "parts": [
+      {
+        "icon": "git-branch",
+        "label": "长期分支",
+        "text": "合并痛苦、多版本、修复重复打"
+      },
+      {
+        "icon": "git-commit-horizontal",
+        "label": "主干开发",
+        "text": "小步提交、单版本规则、发布分支只挑修复"
+      }
+    ],
+    "figure": {
+      "header": "版本控制记录每次改动，让多人改同一套代码；问题出在“分支怎么用”",
+      "left": {
+        "icon": "git-branch",
+        "title": "长期开发分支",
+        "tone": "danger",
+        "items": [
+          "各自埋头几周，合并时冲突成堆",
+          "同一份代码有多个版本要选",
+          "修复要往每个分支各打一遍",
+          "研究表明它拖累组织绩效"
+        ]
+      },
+      "right": {
+        "icon": "git-commit-horizontal",
+        "title": "主干开发",
+        "tone": "pri",
+        "items": [
+          "小步提交，随时集成",
+          "单版本规则：不用选“依赖哪个版本”",
+          "发布分支只挑选修复，不带新功能",
+          "单体仓库让全公司看同一份代码"
+        ]
+      },
+      "arrow": "改为",
+      "footer": "版本控制的未来：越来越多工具同时支持细粒度小仓库和整个组织的单体仓库"
+    }
+  },
+  "story": {
+    "headline": "从合并周的噩梦，到“选哪个版本”这个问题消失",
+    "acts": [
+      {
+        "act": "起点",
+        "icon": "git-branch",
+        "tone": "sec",
+        "title": "每个功能一条分支，几周后再合回来",
+        "text": "听起来自由。可合并那周成了噩梦：冲突成堆，谁也说不清哪个版本才是对的。"
+      },
+      {
+        "act": "冲突",
+        "icon": "shuffle",
+        "tone": "danger",
+        "title": "一旦要选“依赖它的哪个版本”，麻烦就开始了",
+        "text": "同一份代码有多个版本，修复要往每条分支各打一遍，有人只好用 shading 和分别编译绕开冲突。"
+      },
+      {
+        "act": "转折",
+        "icon": "git-commit-horizontal",
+        "tone": "pri",
+        "title": "单版本规则：一个提交位置，一个可依赖的版本",
+        "text": "消除这两个选择，工作简化得超乎想象。谷歌几乎只在主干上开发，发布分支只挑选修复，不带新功能。"
+      },
+      {
+        "act": "做法",
+        "icon": "building-2",
+        "tone": "pri",
+        "title": "单体仓库把全公司放在同一份代码上",
+        "text": "研究表明主干开发是高绩效组织的预测因素之一。仓库怎么分可以按组织选，关键是依赖别停留在旧版本上。"
+      }
+    ],
+    "emphasis": "只要项目超出一个人的玩具，就该用版本控制；能在主干上开发，就别留长期分支。",
+    "emphasis2": "单版本规则消除了提交位置和依赖版本的选择，这对组织效率的意义超乎想象。"
+  },
+  "pedagogy": {
+    "action": "replace",
+    "readerQuestion": "为什么谷歌几乎只在主干上开发？",
+    "expectedAnswer": "所有人在同一个主干上工作，改动小而频繁，合并的痛苦最少",
+    "visualEncoding": "前后对比：左栏是问题做法，右栏是本章主张的做法，中间箭头表示转向；每条用叉或勾标记。 章末故事线：纵向轨道上的 4 幕，幕名为起点、冲突、转折、做法，结尾高亮块写最想强调的主张。",
+    "sourceEvidence": "## What Is Version Control?  什么是版本控制？；## Branch Management  分支管理；## Version Control at Google  谷歌的版本控制；## Monorepos    单体代码仓库；## Future of Version Control  版本控制的未来",
+    "beforeProblem": "旧图把本章结论压缩成一张示意图放在章首：读者尚未接触其中术语，看不出本章要讲什么；每章一种画法，没有可识别的固定格式；文字 300 到 650 字并带免责小字；占据首屏。",
+    "whyBetter": "章首地图只回答“本章讲什么、各部分怎么关联”，用日常语言和图标，读前即可看懂，读后可对照；章末故事线按情节重讲本章，并明确作者最想强调的主张。两张图分工不同，形式不重复。",
+    "limits": "地图列本章主线，不含各节论据、例外和例子；一句话答案和故事线是概括，细节以正文为准。故事线中的场景来自书中案例，叙述口吻为译者改写。"
+  }
+}

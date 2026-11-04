@@ -1,0 +1,2861 @@
+{
+  "chapters": [
+    {
+      "id": "foreword",
+      "number": null,
+      "title": "序言",
+      "englishTitle": "Foreword",
+      "file": "zh-cn/Foreword.md",
+      "source": "en/Foreword.md",
+      "route": "/zh-cn/Foreword",
+      "content": "assets/reader-content/foreword.json"
+    },
+    {
+      "id": "preface",
+      "number": null,
+      "title": "前言",
+      "englishTitle": "Preface",
+      "file": "zh-cn/Preface.md",
+      "source": "en/Preface.md",
+      "route": "/zh-cn/Preface",
+      "content": "assets/reader-content/preface.json"
+    },
+    {
+      "id": "ch01",
+      "number": 1,
+      "title": "第一章 软件工程是什么？",
+      "englishTitle": "What Is Software Engineering?",
+      "file": "zh-cn/Chapter-1_What_Is_Software_Engineering/Chapter-1_What_Is_Software_Engineering.md",
+      "source": "en/Chapter-1_What_Is_Software_Engineering/Chapter-1_What_Is_Software_Engineering.md",
+      "route": "/zh-cn/Chapter-1_What_Is_Software_Engineering/Chapter-1_What_Is_Software_Engineering",
+      "content": "assets/reader-content/ch01.json",
+      "sectionGuides": [
+        {
+          "id": "ch01-02",
+          "chapter": 1,
+          "title": "值没变，为什么调用方会坏？",
+          "summary": "沿用原文五个元素，把 RPC 响应的前两项换位：按集合比较的调用方仍通过，假定首项固定的调用方失效。新顺序与调用方判断均为演示。",
+          "enabled": true,
+          "sourceSections": [
+            "Hyrum’s Law",
+            "Example: Hash Ordering"
+          ],
+          "afterParagraph": "例如，如果库把一组值序列化到远程过程调用（RPC）的响应中，调用方最终可能就会依赖这些值的排列顺序。",
+          "desktop": "assets/diagrams/sections/ch01-02.svg",
+          "mobile": "assets/diagrams/sections/ch01-02-mobile.svg",
+          "pedagogy": {
+            "action": "replace",
+            "readerQuestion": "RPC 返回的五个值一个都没变，为什么仍可能破坏调用方？",
+            "expectedAnswer": "调用方可能依赖契约没有承诺的排列顺序；库将顺序暴露在 RPC 中，就可能让下游建立这种隐式依赖。",
+            "visualEncoding": "两列具体响应保留相同五个值，只用交叉箭头交换 durian 与 carrot；两条调用方判断展示同一变更导致集合比较通过、首项假设失效。",
+            "sourceEvidence": "### Example: Hash Ordering 哈希遍历顺序：代码输出 'durian carrot apple eggplant banana'；'如果库把一组值序列化到远程过程调用（RPC）的响应中'；### Hyrum’s  Law 海勒姆定律：'每一种可观察行为都会被某些用户依赖'。",
+            "beforeProblem": "旧图用嵌套契约框和显式/隐式箭头说明分类，却未显示究竟哪个值改变位置、哪条具体判断因此失败。",
+            "whyBetter": "读者可直接对比五个值和首项，不必凭结论框相信破坏发生；同一输入变化对两种使用方式产生的不同结果可见。",
+            "limits": "旧顺序来自书中代码输出，新顺序及两个调用方为说明性构造，不是某语言版本的实测行为。未覆盖对随机性的反向依赖，也不承诺随机化能消除所有隐式依赖。"
+          }
+        },
+        {
+          "id": "ch01-03",
+          "chapter": 1,
+          "title": "规模与人力：重复劳动还是共享能力",
+          "summary": "对照各团队重复迁移与共享专家、自动化和统一 CI，说明如何减少重复人力投入；团队布局为概念示例。",
+          "enabled": true,
+          "sourceSections": [
+            "Scale and Efficiency",
+            "Policies That Don’t Scale",
+            "Policies That Scale Well",
+            "Example: Compiler Upgrade"
+          ],
+          "afterParagraph": "专业知识更能发挥规模效益。",
+          "desktop": "assets/diagrams/sections/ch01-03.svg",
+          "mobile": "assets/diagrams/sections/ch01-03-mobile.svg",
+          "pedagogy": {
+            "action": "keep",
+            "readerQuestion": "组件再增加一个使用团队时，为什么让每个团队自行迁移会重复学习成本？",
+            "expectedAnswer": "自行迁移让各团队重复学习与适配；维护方专家深入理解共同问题后，可用自动化及统一验证把知识用于各个使用方，减少重复人力而不消除维护投入。",
+            "visualEncoding": "三行团队各自重复学习、迁移、测试，与单个共享专家/工具中心连接同三个团队形成一对一对照；增加团队意味着左侧再复制整行，右侧复用已有共同知识。",
+            "sourceEvidence": "### Policies That Don’t Scale 难以随规模扩展的策略：'基础设施团队必须自行将内部用户迁移到新版本'、'专业知识更能发挥规模效益'；### Policies That Scale Well 适于规模扩展的策略：'统一 CI 系统'；### Example: Compiler Upgrade 示例：编译器升级：'自动化'、'整合与一致性'。",
+            "beforeProblem": "现有图并非只有主题标签：重复的三列工作和共享中心明确表示重复发生的位置，且尾注说明共享工具、测试和维护仍需投入。",
+            "whyBetter": "保留已有效的重复/共享拓扑，避免为换视觉而丢失组织扩展的核心关系；审查确认两种布局指向相同团队，没有以数量暗示实测收益。",
+            "limits": "三个团队为示意，不是规模阈值。箭头表示共享工作服务多个团队，不是依赖方向；不表示维护工作归零、保证次线性总成本或 CI 能发现所有问题。"
+          }
+        },
+        {
+          "id": "ch01-04",
+          "chapter": 1,
+          "title": "编译器升级：小步推进与长期积压",
+          "summary": "规律升级结合专业知识、自动化和一致性，让后续变更更可行；长期推迟则积累隐式依赖和集中升级的负担。",
+          "enabled": true,
+          "sourceSections": [
+            "Time and Change",
+            "Example: Compiler Upgrade"
+          ],
+          "afterParagraph": "停滞不前也是一种选择，但往往并不明智。",
+          "desktop": "assets/diagrams/sections/ch01-04.svg",
+          "mobile": "assets/diagrams/sections/ch01-04-mobile.svg",
+          "pedagogy": {
+            "action": "keep",
+            "readerQuestion": "为什么一次长期积压后的痛苦升级，不能直接证明以后都应避免升级？",
+            "expectedAnswer": "首次大升级包含多年变更、隐式依赖和缺乏经验；规律处理较小跨度并投入专业知识、自动化、一致性和 CI 策略，可让后续升级更可行，首次经历不能直接外推。",
+            "visualEncoding": "重复的小标记与长空档后的集中标记，对照变更分布在多次处理还是集中处理；位于两轨之间的持续投入区明确说明能力需要建设，而非时间自行解决问题。",
+            "sourceEvidence": "## Time and Change 时间与变化：'很容易高估下一次升级的成本'、'一次补上几年的升级'；### Example: Compiler Upgrade 示例：编译器升级：'编译器大约五年没有更新过'、'首次升级也往往比后续升级昂贵得多'。",
+            "beforeProblem": "双轨时间线已经让长时间不处理与分散处理的差别可见，并标注首次升级效应和持续投入；不是单纯罗列四项能力。",
+            "whyBetter": "保留有解释作用的时间对照，且与 ch01-03 的跨团队共享不同：此处比较跨多次升级的经验和变更跨度，不重复团队拓扑。",
+            "limits": "点的数量、间隔、菱形面积不是测量数据，不表示总成本之和、固定频率或因果效应大小。规律升级本身不保证成功；原文强调配套技术和组织投入。"
+          }
+        },
+        {
+          "id": "ch01-05",
+          "chapter": 1,
+          "title": "省下 2000 个 CPU，就值得改吗？",
+          "summary": "把原文的假设方案拆成 CPU 节省、额外 RAM 与两周工程师投入；资源数量并不足以决定净收益，还须比较相对成本与机会成本。",
+          "enabled": true,
+          "sourceSections": [
+            "Trade-offs and Costs",
+            "Inputs to Decision Making",
+            "Revisiting Decisions, Making Mistakes"
+          ],
+          "afterParagraph": "还取决于人力成本（一名软件工程师两周的投入）和机会成本（他用这两周还能完成什么）。",
+          "desktop": "assets/diagrams/sections/ch01-05.svg",
+          "mobile": "assets/diagrams/sections/ch01-05-mobile.svg",
+          "pedagogy": {
+            "action": "replace",
+            "readerQuestion": "已知一种改写能省下 2000 个 CPU，为什么还不能决定是否实施？",
+            "expectedAnswer": "同一方案还增加 5 GiB RAM、耗费两周工程师时间。必须比较 CPU/RAM 的相对成本、人力成本和其他工作的机会成本；仅凭节省的 CPU 数量不能判定净收益。",
+            "visualEncoding": "三行带单位的资源增减构成同一方案的差额账，颜色区分节省与额外投入；桌面逐行指向缺失的估值输入，移动版将三个输入接在差额账下方。",
+            "sourceEvidence": "### Inputs to Decision Making 决策依据：'生产环境会多占用5 GiB 的 RAM，但能节省两千个 CPU'、'他用这两周还能完成什么'；## Revisiting Decisions, Making Mistakes 重审决策与犯错：'新数据出现、情境改变或假设被推翻'。",
+            "beforeProblem": "旧图让数据、证据、假设、先例和论据围绕一个权衡椭圆，读者只能复述输入分类，无法看出具体决策尚缺什么。",
+            "whyBetter": "改用书中的完整假设方案，明确已有数量与缺失估值的边界，并让机会成本对应到同一段两周时间。",
+            "limits": "所有数值均为原文假设，不是实测性能或新造的收益估计。未提供单价、持续时长或其他工作估值，因此不计算盈亏、不声称方案值得实施；难量化因素仍需正文中的判断。"
+          }
+        },
+        {
+          "id": "ch01-06",
+          "chapter": 1,
+          "title": "同一漏洞，修复要经过哪些地方？",
+          "summary": "对照共享依赖与受影响分叉的修复路径：两者都要更新使用方，而分叉需要先找全受影响副本并分别处理。保留分叉的控制权收益及生命周期、范围边界。",
+          "enabled": true,
+          "sourceSections": [
+            "Example: Deciding Between Time and Scale"
+          ],
+          "afterParagraph": "只要足够审慎，自行实现往往也能获得收益。",
+          "desktop": "assets/diagrams/sections/ch01-06.svg",
+          "mobile": "assets/diagrams/sections/ch01-06-mobile.svg",
+          "pedagogy": {
+            "action": "replace",
+            "readerQuestion": "底层库出现同一个漏洞时，复用和分叉分别需要修复哪些位置？",
+            "expectedAnswer": "共享依赖要更新库及其使用方；分叉后还要识别所有受影响分叉，分别修复并更新各自使用方。分叉有局部适配和控制权收益，其风险取决于维护期和可证明的影响范围。",
+            "visualEncoding": "同样两个使用方分别连接一个共享修复节点或两个独立修复节点；分叉侧先找全副本，随后两条独立修复路径让额外维护位置可见。箭头被明确标为修复推进方向。",
+            "sourceEvidence": "### Example: Deciding Between Time and Scale 示例：在时间与规模之间取舍：'找出这个依赖所有存在漏洞的分叉，以及每个分叉的使用方'、'生命周期很短'、'影响范围有限'、'对于可能跨越时间或项目时间边界的接口'。",
+            "beforeProblem": "旧图是两列优缺点列表，虽准确但不显示一处安全问题如何扩展成多个独立修复位置；在移动端靠窄列堆叠文字。",
+            "whyBetter": "把同一事件作用于两种拓扑，读者可以逐条追踪修复要到达的位置，并看到复用也不能省掉使用方更新。",
+            "limits": "示例明确假定两个分叉都受影响，数量不是实测。箭头不是依赖方向或自动部署承诺；不把所有分叉认定为有漏洞，也不声称共享依赖总是更优。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ch02",
+      "number": 2,
+      "title": "第二章 如何在团队中有效协作",
+      "englishTitle": "How to Work Well on Teams",
+      "file": "zh-cn/Chapter-2_How_to_Work_Well_on_Teams/Chapter-2_How_to_Work_Well_on_Teams.md",
+      "source": "en/Chapter-2_How_to_Work_Well_on_Teams/Chapter-2_How_to_Work_Well_on_Teams.md",
+      "route": "/zh-cn/Chapter-2_How_to_Work_Well_on_Teams/Chapter-2_How_to_Work_Well_on_Teams",
+      "content": "assets/reader-content/ch02.json",
+      "sectionGuides": [
+        {
+          "id": "ch02-01",
+          "chapter": 2,
+          "title": "同一个设计缺陷，何时才能被看见？",
+          "summary": "把原文变速器故事与书中的早期分享反事实并列：保密使邻居的检查延后，早期展示则让相同缺陷有机会及早被指出；不把反事实当作实测工期。",
+          "sourceSections": [
+            "Hiding Considered Harmful",
+            "Early Detection",
+            "Pace of Progress"
+          ],
+          "afterParagraph": "记住那句久经检验的箴言：“尽早失败，快速失败，经常失败。”",
+          "desktop": "assets/diagrams/sections/ch02-01.svg",
+          "mobile": "assets/diagrams/sections/ch02-01-mobile.svg",
+          "enabled": true,
+          "pedagogy": {
+            "action": "replace",
+            "readerQuestion": "变速器中的简单设计缺陷，为什么拖到数月后才被邻居指出？",
+            "expectedAnswer": "不是缺陷到最后才出现，而是作者一直不展示原型，邻居无法检查。原文提出：早些展示，也许第一周就能解决；这是反事实可能性，不是保证。",
+            "visualEncoding": "两条按工作顺序排列的轨道保留同一个带缺陷原型；上轨道把外部检查放到独自试做之后，下轨道在继续打磨之前打开检查入口。虚线为未接受外部检查的工作，实线箭头为检查与可修正的路径。",
+            "sourceEvidence": "## Hiding Considered Harmful 隐藏工作的危害：自行车变速器故事，'如果早些拿给他看，也许第一周就能解决'；### Early Detection 及早发现 及脚注3：'过早获得太多反馈有时也会带来风险'。",
+            "beforeProblem": "旧图是通用的想法、打磨、反馈方框；桌面版的'才发现方向问题'容易被读成必然结果，未用原文展示检查入口为何延后。",
+            "whyBetter": "对齐同一问题的两种可见时机，使读者能指出改变的是谁能何时检查，而不是笼统记住尽早分享；保留原文的也许和反馈边界。",
+            "limits": "下轨道是原文反事实，不是另一个实测项目。轨道间距不代表工期、成本或成功概率；方向未明时过早收集太多反馈仍有风险。"
+          }
+        },
+        {
+          "id": "ch02-02",
+          "chapter": 2,
+          "title": "主负责人离开后，谁还能接手？",
+          "summary": "在两种知识分布中移除同一个主负责人，检查是否仍有理解原型的人连接到工作；文档辅助接手，不作为额外人员或独立接手者。",
+          "sourceSections": [
+            "The Bus Factor"
+          ],
+          "afterParagraph": "做成功项目中的一员，总比做失败项目中不可或缺的那个人更好。",
+          "desktop": "assets/diagrams/sections/ch02-02.svg",
+          "mobile": "assets/diagrams/sections/ch02-02-mobile.svg",
+          "enabled": true,
+          "pedagogy": {
+            "action": "replace",
+            "readerQuestion": "主负责人 A 不再可用后，为什么有的项目失去接手者，有的仍有知识路径？",
+            "expectedAnswer": "只让 A 掌握原型知识会形成单点；后备负责人 B 确实理解原型，并能查阅文档时，A 离开仍留下接手路径。关键在知识和实践经验的分布，不在职位名或文档数量。",
+            "visualEncoding": "左右或上下两个情境都划去 A，虚线断开的旧路径与 B 的实线可用路径形成对照。只在 B 已掌握知识的情境保留通向原型的实线；文档以旁注支持 B，不画作第三位负责人。",
+            "sourceEvidence": "### The Bus Factor 巴士因子：'如果只有你了解原型代码如何工作'；'主要负责人和后备负责人，并且至少有完善的文档'；成员可能离职或请假。",
+            "beforeProblem": "旧图虽然区分单点和共享，但没有真正移除人员；主负责人、后备负责人、文档并列汇入项目，可能使读者把任命后备或存放文档直接等同于可继续推进。",
+            "whyBetter": "让读者执行相同的人员不可用检验，沿仍存在的实线判断谁能接手，明确保留路径所需的知识条件。",
+            "limits": "A、B 是概念示例，不计算组织的实际巴士因子；本图只检验原型知识的可用性，不保证项目没有其他阻碍。"
+          }
+        },
+        {
+          "id": "ch02-03",
+          "chapter": 2,
+          "title": "同样建议 xyzzy，措辞改变了什么？",
+          "summary": "完整并列原文中控制流与 xyzzy 的坏反馈、较好反馈，逐项连接具体措辞与互动变化：从判错转向理解困难，从要求从众转向可拒绝的提议，从服从标准转向清晰和维护目标。",
+          "sourceSections": [
+            "The Three Pillars of Social Interaction",
+            "Learn to give and take criticism"
+          ],
+          "afterParagraph": "讨论就始终围绕代码本身，而不是任何人的价值或编程能力。",
+          "desktop": "assets/diagrams/sections/ch02-03.svg",
+          "mobile": "assets/diagrams/sections/ch02-03-mobile.svg",
+          "enabled": true,
+          "pedagogy": {
+            "action": "replace",
+            "readerQuestion": "两句话都建议采用 xyzzy 模式，为什么后一种更利于讨论代码？",
+            "expectedAnswer": "后一种先承认自己的理解困难，再以问题形式提出建议，并给出清晰性与维护性的目标；合作者有解释或拒绝的空间。前一种断言错误、要求修改并诉诸从众，容易引向反击。",
+            "visualEncoding": "完整原文引语在桌面左右对照、移动端上下对照；着重标出判错、命令从众和理解困难、会不会、维护目标。下方逐项将后一段中的真实短语对应到可解释、可拒绝、可讨论的互动空间，不用原则名代替例子。",
+            "sourceEvidence": "#### Learn to give and take criticism 学会提出和接受建设性批评：'伙计，你把那个方法的控制流完全搞错了'和'嘿，这部分的控制流我有些没看懂'；紧随解释指出合作者可以平和拒绝，讨论围绕代码。该节 Joe 的经历提醒反馈还取决于团队文化。",
+            "beforeProblem": "旧图只将谦逊、尊重、信任列入彩色盒子，并再次列举行为；缺少两段原文反馈，读者不能观察同一技术建议如何改变互动。",
+            "whyBetter": "保留同一技术对象和建议，直接比较变动的措辞，再把每个短语连接到具体互动空间；读者无需根据抽象原则自行猜测怎么说。",
+            "limits": "引语采用本章现有中文译文。xyzzy 是原文占位模式，不是技术正确性的证明；礼貌措辞不保证建议被采纳，也不能替代对团队文化的了解。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ch03",
+      "number": 3,
+      "title": "第三章 知识共享",
+      "englishTitle": "Knowledge Sharing",
+      "file": "zh-cn/Chapter-3_Knowledge_Sharing/Chapter-3_Knowledge_Sharing.md",
+      "source": "en/Chapter-3_Knowledge_Sharing/Chapter-3_Knowledge_Sharing.md",
+      "route": "/zh-cn/Chapter-3_Knowledge_Sharing/Chapter-3_Knowledge_Sharing",
+      "content": "assets/reader-content/ch03.json",
+      "sectionGuides": [
+        {
+          "id": "ch03-02",
+          "chapter": 3,
+          "title": "流程变了，旧答案怎么办？",
+          "summary": "用明确标为示意的开发流程变化，展示群聊结论需要整理、旧邮件存档不能改写、问答答案可以主动编辑的不同结果。",
+          "enabled": true,
+          "sourceSections": [
+            "Group Chats",
+            "Mailing Lists",
+            "YAQS: Question-and-Answer Platform"
+          ],
+          "afterParagraph": "另一些则演变为话题更广泛的讨论列表，不再那么侧重于解决问题。",
+          "desktop": "assets/diagrams/sections/ch03-02.svg",
+          "mobile": "assets/diagrams/sections/ch03-02-mobile.svg",
+          "pedagogy": {
+            "action": "replace",
+            "readerQuestion": "开发流程已经改变，群聊、旧邮件和问答中的答案怎样才能继续帮助后来的人？",
+            "expectedAnswer": "群聊中新结论要写成文档或邮件以便群外和后来读者引用；旧邮件存档不能改写，搜到的答案要判断时效；问答系统可以编辑已有问题和答案，但仍要有人实际更新。",
+            "visualEncoding": "固定同一项示意变化：从手工配置变为自动配置。三条横向关系分别展示新群聊结论变为可分享记录、旧邮件仍保留旧内容、问答旧答案经主动编辑变成新内容。手机端保留每条关系的起点和结果。",
+            "sourceEvidence": "### Group Chats 群聊：需要把信息分享给群外的人，或留作日后参考，就应该写成文档，或发送到邮件列表；### Mailing Lists 邮件列表：邮件存档无法修改；### YAQS: Question-and-Answer Platform YAQS：问答平台：用户也能编辑问题和答案。",
+            "beforeProblem": "旧图是媒介、交流方式、检索和维护特征的文字表；手机端退化成三个属性列表，读者看不到事实改变后哪项内容保持旧状态、哪项可以更新。",
+            "whyBetter": "相同的流程变更让三种媒介的维护差异变得可观察：旧内容被保留、被整理或被编辑，不再只依赖记住媒介标签。",
+            "limits": "手工配置到自动配置是教学示例，不是书中某系统的真实变更，也不是操作指导。不把可编辑等同于自动更新，不给媒介排名，不覆盖邮件的全部讨论优势。"
+          }
+        },
+        {
+          "id": "ch03-03",
+          "chapter": 3,
+          "title": "哪些资料需要全公司统一？",
+          "summary": "用原文的基本开发工作流与本地 Frobber 实例两个例子，展示不同团队查阅同一份权威指南和特定团队使用局部指南的区别，并标明更广泛资料的维护责任。",
+          "enabled": true,
+          "sourceSections": [
+            "Establishing Canonical Sources of Information"
+          ],
+          "afterParagraph": "你所在的产品领域？还是所有工程师？",
+          "desktop": "assets/diagrams/sections/ch03-03.svg",
+          "mobile": "assets/diagrams/sections/ch03-03-mobile.svg",
+          "pedagogy": {
+            "action": "replace",
+            "readerQuestion": "基本开发工作流与本地 Frobber 实例运行指南，都应该成为全公司统一的资料吗？",
+            "expectedAnswer": "基本开发工作流对所有工程师相关，适合集中成共同参考并由专家主动维护；本地 Frobber 实例的指南主要服务 Frobber 工程师，不必把所有局部内容都提升为组织级规范。",
+            "visualEncoding": "多个团队的查阅箭头汇聚到同一个全公司参考；Frobber 工程师的箭头指向团队指南。不同的读者集合而不是任意大小决定共享范围，权威参考上直接标明专家审核与维护。",
+            "sourceEvidence": "### Establishing Canonical Sources of Information 建立权威信息源：搭建基本开发工作流的指南应成为统一的参考依据，而在本地运行 Frobber 实例的指南，主要与从事 Frobber 开发的工程师有关；必须由相关领域的专家主动维护和审核。",
+            "beforeProblem": "旧图是写下、找到、反馈、更新的泛化循环，没有展示受众改变怎样影响权威化决策；虽列 go/links 为依据，却没有画出短链接机制。",
+            "whyBetter": "读者可以沿查阅箭头比较两份指南服务谁，直接回答何时需要统一参考。使用原文的反例限制了全组织共享并非越多越好的误读。",
+            "limits": "团队甲乙是示意标记，不代表组织人数、成本比例或访问控制。团队资料也可以被外部团队读取；图示只讨论主要受众，不表示必须限制访问。"
+          }
+        },
+        {
+          "id": "ch03-04",
+          "chapter": 3,
+          "title": "有资格后，还需代码审查吗？",
+          "summary": "对照同一语言的作者有无 Readability 资格时，本项批准由具资格审查者明确给予还是由作者资格隐含满足；两条路径都保留代码审查要求，并展示引用准则的教学反馈。",
+          "enabled": true,
+          "sourceSections": [
+            "What Is the Readability Process?",
+            "Why Have This Process?"
+          ],
+          "afterParagraph": "权威准则和语言使用建议都有全面的文档记录，这当然是好事；但资料数量太多",
+          "desktop": "assets/diagrams/sections/ch03-04.svg",
+          "mobile": "assets/diagrams/sections/ch03-04-mobile.svg",
+          "pedagogy": {
+            "action": "replace",
+            "readerQuestion": "作者取得某语言的 Readability 资格后，CL 是否不再需要代码审查？",
+            "expectedAnswer": "仍需要代码审查。没有该语言资格时，须由具资格的审查者明确给予 Readability 批准；有资格的作者隐含满足自己 CL 的这一项批准。指导过程中应引用准则并解释理由，但资格不等于全部批准。",
+            "visualEncoding": "固定 CL 与本项批准这两个端点，改变作者是否有该语言资格。无资格路径经过审查者且有解释理由的反馈回路；有资格路径直接满足本项批准。两条路径下方明确保留同一个代码审查要求。",
+            "sourceEvidence": "### What Is the Readability Process?  什么是可读性认证流程？：如果作者本人已有资格，其 CL 就隐含地满足这一项批准要求；否则，必须由一名或多名具备资格的审查者明确给予 Readability 批准；审查者会为意见提供相关出处；### Why Have This Process? 为什么需要这一流程？：脚注20和21的单体仓库范围与短期代码豁免。",
+            "beforeProblem": "旧图把提交、反馈、改进连成通用循环，未画出作者资格实际改变的批准路径；尤其手机图省略了不能等同于免除代码审查的关键边界。",
+            "whyBetter": "两种作者状态控制住其他输入，让读者能定位改变的是哪一项批准，并看到代码审查没有消失。将插入点移至流程说明末尾，紧邻规则和教学机制。",
+            "limits": "描述本书中的 Google 单体仓库制度，不声称是现行全球规则。不绘制完整提交流程或审查先后顺序；明确短期使用的代码可有豁免。取得语言资格不自动等于成为集中认证项目的专职审查者。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ch04",
+      "number": 4,
+      "title": "第四章 面向公平的工程实践",
+      "englishTitle": "Engineering for Equity",
+      "file": "zh-cn/Chapter-4_Engineering_for_Equity/Chapter-4_Engineering_for_Equity.md",
+      "source": "en/Chapter-4_Engineering_for_Equity/Chapter-4_Engineering_for_Equity.md",
+      "route": "/zh-cn/Chapter-4_Engineering_for_Equity/Chapter-4_Engineering_for_Equity",
+      "content": "assets/reader-content/ch04.json",
+      "sectionGuides": [
+        {
+          "id": "ch04-01",
+          "chapter": 4,
+          "title": "数据覆盖不足，测试也未拦截",
+          "summary": "按本章对 2015 年 Google Photos 的解释，区分未能代表人群的照片数据、实际伤害性误分类，以及测试漏检后由用户发现错误。团队视角是可能影响数据与设计的因素，不是与数据、测试并列的自动致错开关。",
+          "sourceSections": [
+            "Bias Is the Default",
+            "Case Study: Google Misses the Mark on Racial Inclusion",
+            "Building Multicultural Capacity"
+          ],
+          "afterParagraph": "让软件工程组织的人员构成，更能代表我们所服务的用户群体。",
+          "desktop": "assets/diagrams/sections/ch04-01.svg",
+          "mobile": "assets/diagrams/sections/ch04-01-mobile.svg",
+          "enabled": true,
+          "pedagogy": {
+            "action": "replace",
+            "readerQuestion": "Google Photos 案例里，照片数据的覆盖缺口与测试的缺口分别起了什么作用，错误最终由谁发现？",
+            "expectedAnswer": "本章指出照片数据未代表实际人群，图像识别把黑人朋友的照片误标为“大猩猩”，而测试没有发现此错误，最终由用户发现并承受伤害。团队代表性不足可能影响数据收集和设计判断，但即使有代表性，训练集仍可能带有偏差。",
+            "visualEncoding": "数据、具体误分类、用户发现沿处理方向排列；发布前测试画成带缺口的拦截线，错误路径穿过缺口。团队视角用标明“可能”的虚线接入数据/设计背景，避免三项因素无区别地汇入一个结果。",
+            "sourceEvidence": "Case Study: Google Misses the Mark on Racial Inclusion  案例研究：谷歌在种族包容方面的失误: “the data did not represent the population”, “classifying his black friends as ‘gorillas’”, “Google's tests did not catch these mistakes; as a result, our users did”; Building Multicultural Capacity 培养多元文化能力: “Even when we do have representation, a training set can still be biased”.",
+            "beforeProblem": "原图将数据、团队、测试三框平行汇聚到伤害，既没有展示具体识别错误，也没有区分错误产生与测试未拦截；三条箭头易被读作等价的独立因果。",
+            "whyBetter": "读者可以沿错误路径定位数据覆盖、输出和测试漏检各自的作用，也能直接回答为何有测试仍会由用户先发现问题。",
+            "limits": "这是对书中案例解释的机制示意，不重建未知的训练集、模型架构或测试流程；缺口不表示误差率、样本数或比例。并未暗示换一组开发者即可修复问题。"
+          }
+        },
+        {
+          "id": "ch04-02",
+          "chapter": 4,
+          "title": "同样改招聘，入职之后呢？",
+          "summary": "沿用书中经理希望招聘更多女性的例子，在相同的招聘改进起点下对照两种审视范围：只改入口，支持和成长机会的缺口仍未解决；同时检查心理安全、支持与机会分配，再依据留任和成长结果修正做法。",
+          "sourceSections": [
+            "Making Diversity Actionable",
+            "Reject Singular Approaches"
+          ],
+          "afterParagraph": "投入资源培养团队的多元文化能力，让新成员感到受欢迎。",
+          "desktop": "assets/diagrams/sections/ch04-02.svg",
+          "mobile": "assets/diagrams/sections/ch04-02-mobile.svg",
+          "enabled": true,
+          "pedagogy": {
+            "action": "replace",
+            "readerQuestion": "经理已经改善招聘渠道，为什么仍不能据此认为留任与晋升问题得到解决？",
+            "expectedAnswer": "招聘只涉及入口；如果入职后的支持和成长机会分配没有改变，相关问题并不会因招聘改善而消失。本章要求同时关注心理安全、多元文化能力、留任和晋升，检查实际机会与结果。",
+            "visualEncoding": "共用一个招聘改进起点，分出两条条件路径。上路明确保留支持与机会缺口，终点是未解决的风险；下路扩展审视范围，终点是跟踪结果并修正，而非保证留任或晋升成功。",
+            "sourceEvidence": "Reject Singular Approaches 摒弃单一方法: “if you are an engineering manager who wants to hire more women, don't just focus on building a pipeline”, “psychological safety”, “progression and retention”; Making Diversity Actionable 将多样性付诸行动: “what opportunities for growth have you provided, and is the distribution of opportunities equitable?”.",
+            "beforeProblem": "原图是招聘、留任、晋升三框的单向流程，暗示自然推进，却没有说明改善前一项为何不足以修复后两项；多元文化能力的横幅只是补充口号。",
+            "whyBetter": "固定招聘改进这一共同起点，只改变入职后制度是否被审视，让读者看出“入口改善”与“支持、机会问题已解决”是不同判断。",
+            "limits": "两条路径是基于书中经理例子的条件对照，不是已执行的实验或统计结果；不预测女性或其他群体的表现、去留或晋升概率，也不承诺检查这些事项即可实现公平。"
+          }
+        },
+        {
+          "id": "ch04-03",
+          "chapter": 4,
+          "title": "旧岗位低评分，能否决定新岗位资格？",
+          "summary": "把旧岗位当期评级与新团队资格分开，展示书中调查的关键比较：转组后，曾获低评级与从无低评级的候选人获得满意或卓越评级的可能性相当。该案例不支持用历史低评级筛掉新岗位候选人，但评级仍可帮助审视当前岗位和支持需求。",
+          "sourceSections": [
+            "Challenge Established Processes"
+          ],
+          "afterParagraph": "这项分析确实占用了大量项目时间，但换来了更公平的内部流动流程。",
+          "desktop": "assets/diagrams/sections/ch04-03.svg",
+          "mobile": "assets/diagrams/sections/ch04-03-mobile.svg",
+          "enabled": true,
+          "pedagogy": {
+            "action": "replace",
+            "readerQuestion": "内部流动案例中，什么调查结果推翻了用旧岗位低评级判断新团队资格的理由，评级还有什么用途？",
+            "expectedAnswer": "书中调查发现，转组后曾获低评级与从无低评级的候选人获得满意或卓越评级的可能性相当。因此该案例不支持将旧岗位特定时期的评价外推为新岗位资格；仍可用评级审视当前岗位匹配与支持需要。",
+            "visualEncoding": "旧岗位记录与新岗位决策之间画断开的推断箭头并标明不能外推；下方两组候选人以共同括线连接同一个定性比较结果，不画虚构数值或等长概率条。另列仍可使用评级的当前岗位问题。",
+            "sourceEvidence": "Challenge Established Processes 挑战既定流程: “as soon as an internal transfer expressed interest”, “just as likely to receive a satisfactory or exemplary performance rating”, “indicative only of how a person is performing in their given role at the time”, “how to better support an internal candidate”.",
+            "beforeProblem": "原图主要重排预测效力、偏见、标准化三项问题；真正改变判断的两组比较被缩成页脚，无法从视觉上理解为何不能把旧岗位评级用于新岗位资格。",
+            "whyBetter": "将错误推断的起点与目标拆开，再把调查比较作为反证置于主要位置；既说明被拒绝的用途，也保留当前岗位支持这一允许的用途。",
+            "limits": "比较只转述本章内部流动案例，原文未给样本数、概率或研究设计。两组相当不保证某个人转组后的表现，也不说明所有组织的全部绩效指标都无预测价值。三项审视问题不是公平通行证。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ch05",
+      "number": 5,
+      "title": "第五章 如何领导团队",
+      "englishTitle": "How to Lead a Team",
+      "file": "zh-cn/Chapter-5_How_to_Lead_a_Team/Chapter-5_How_to_Lead_a_Team.md",
+      "source": "en/Chapter-5_How_to_Lead_a_Team/Chapter-5_How_to_Lead_a_Team.md",
+      "route": "/zh-cn/Chapter-5_How_to_Lead_a_Team/Chapter-5_How_to_Lead_a_Team",
+      "content": "assets/reader-content/ch05.json",
+      "sectionGuides": [
+        {
+          "id": "ch05-02",
+          "chapter": 5,
+          "title": "用限期指导，让差距可见",
+          "summary": "对照放任等待与限期指导：约定期限及小而可衡量的目标，每周对照实际进展；达标后明确下一里程碑，未达标时双方尽早看清差距。两个月是原书示例，不是统一期限或自动离职条件。",
+          "enabled": true,
+          "sourceSections": [
+            "Antipattern: Ignore Low Performers"
+          ],
+          "afterParagraph": "直接与低绩效员工一起解决问题，都能推动必要而重要的改变。",
+          "desktop": "assets/diagrams/sections/ch05-02.svg",
+          "mobile": "assets/diagrams/sections/ch05-02-mobile.svg",
+          "pedagogy": {
+            "action": "revise",
+            "readerQuestion": "已发现表现未达预期时，限期指导比等待自行改善多了什么判断依据？",
+            "expectedAnswer": "约定期限和小、递进、可衡量目标，每周将实际进展与明确期望对照，让双方尽早看见是否跟得上；细致指导应是暂时的并始终尊重对方。原书提到可能改善或离开，不给出自动离职规则。",
+            "visualEncoding": "等待路径终止于问题持续及同伴补位；指导路径明确画出期限、每周目标与实际进展的比较点，再按达标或未达标分支。回线只从下一里程碑回到周检查，表示继续指导而非无限期管控。",
+            "sourceEvidence": "Antipattern: Ignore Low Performers  反模式：忽略低绩效员工：Hope is not a strategy / temporary micromanagement / say, two months / Meet with the team member every week / explicit expectations / quite obvious to both of you。",
+            "beforeProblem": "原图已有指导顺序，但“定期检查”未呈现检查频率和比较对象；“明确后续安排”的结果框可能显得像既定处置流程，且没有展示等待时由谁承担后果。",
+            "whyBetter": "把具体比较点与分支条件放进图中，读者可沿线找到每周依据什么判断、达标后怎么继续，以及为什么等待没有提供同样的信息。",
+            "limits": "两个月明确标作原书例子，不是固定人事政策；没有虚构员工任务、绩效数值或改善率。回线不表示无限期延长，未达标也不等于自动离职。"
+          }
+        },
+        {
+          "id": "ch05-04",
+          "chapter": 5,
+          "title": "不知怎么做，还是不知为何做？",
+          "summary": "并列区分方向缺口和意义缺口：前者需要把工作拆成可管理任务；后者以原书经理转发客户受益邮件的案例，展示如何让团队看见工作用途。两种帮助改变的信息不同。",
+          "enabled": true,
+          "sourceSections": [
+            "People Are Like Plants",
+            "Intrinsic Versus Extrinsic Motivation"
+          ],
+          "afterParagraph": "这不但能激励大家，也常能启发成员思考怎样进一步改进产品。",
+          "desktop": "assets/diagrams/sections/ch05-04.svg",
+          "mobile": "assets/diagrams/sections/ch05-04-mobile.svg",
+          "pedagogy": {
+            "action": "replace",
+            "readerQuestion": "成员不知道下一步怎么做，与看不到工作为何有意义，需要相同的帮助吗？",
+            "expectedAnswer": "提供方向时，领导要把工作拆成可管理任务；让工作意义可见则需要说明工作如何帮助别人，原书例子是经理把客户描述产品帮助的邮件转发给工程团队。两种信息不能相互替代，成员也可能同时需要两者。",
+            "visualEncoding": "两条对齐路径分别显示信息缺口、领导采取的动作、变得可见的信息；意义路径明确标为原书客户邮件例子。移动端按路径重排，保留两类动作与结果的对应。",
+            "sourceEvidence": "People Are Like Plants  人如植物：break it down into manageable tasks / need both motivation and direction；Intrinsic Versus Extrinsic Motivation  内在动机与外在动机：customer talking about how the company's product has helped them / forwards it to the engineering team；脚注 11：income is not a source of stress。",
+            "beforeProblem": "四格概念矩阵只有“补充激励”等类别名，未展示激励实际改变什么；下方自主、精进、意义的列表缺乏具体作用机制。",
+            "whyBetter": "把“方向”和“意义”落实为不同的信息传递：可执行任务与客户受益证据；读者可看到为何同一种管理动作无法补足每一种缺口。",
+            "limits": "是两种支持需求的选择性示意，不是完备诊断或固定人格分类，也不将意义等同于全部动机。省略自主与精进的展开，保留薪酬不构成压力的前提；不声称邮件保证提高产出。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ch06",
+      "number": 6,
+      "title": "第六章 领导大规模团队",
+      "englishTitle": "Leading at Scale",
+      "file": "zh-cn/Chapter-6_Leading_at_Scale/Chapter-6_Leading_at_Scale.md",
+      "source": "en/Chapter-6_Leading_at_Scale/Chapter-6_Leading_at_Scale.md",
+      "route": "/zh-cn/Chapter-6_Leading_at_Scale/Chapter-6_Leading_at_Scale",
+      "content": "assets/reader-content/ch06.json",
+      "sectionGuides": [
+        {
+          "id": "ch06-01",
+          "chapter": 6,
+          "title": "结果更丰富，为什么还不能直接上线？",
+          "summary": "沿一次搜索质量改动追踪短期参与度收益、延迟带来的长期损失和服务容量代价，再把收益与损失接入共同指标，显出旧决策遗漏的因素。",
+          "enabled": true,
+          "sourceSections": [
+            "Identify the Blinders",
+            "Identify the Key Trade-Offs",
+            "Decide, Then Iterate",
+            "Case Study: Addressing the “Latency” of Web Search"
+          ],
+          "afterParagraph": "我们持续判断质量、延迟和容量方面的变化是否平衡，并每月迭代这些决策。",
+          "desktop": "assets/diagrams/sections/ch06-01.svg",
+          "mobile": "assets/diagrams/sections/ch06-01-mobile.svg",
+          "pedagogy": {
+            "action": "replace",
+            "readerQuestion": "给搜索结果页增加图片和视频，即使提升了质量，为什么也不能直接据此决定上线？",
+            "expectedAnswer": "同一改动可能带来短期参与度收益，同时增加传输和渲染延迟、损害长期参与度，并增加服务器 CPU 成本。延迟原先未被同等纳入，现在要与质量和容量一起权衡，依指标判断是否发布并反复调整。",
+            "visualEncoding": "一个候选改动分出三条有明确中间机制的作用路径；括线将短期收益与长期损失连接到同一参与度指标，容量成本另列并显式保留。旧盲点条指出原来未同等对待的延迟。",
+            "sourceEvidence": "Case Study: Addressing the “Latency” of Web Search  案例研究：解决网页搜索的“延迟”问题：images, videos / more bytes / more-complex HTML；never treated latency as a full citizen；quality-driven improvements to short-term user engagement against latency-driven damage to long-term user engagement。",
+            "beforeProblem": "原图只是找盲点、看取舍、先尝试三个建议框和反馈环；没有呈现一个真实假设、代价承担者或需要改选方案的原因。",
+            "whyBetter": "读者可以从新增内容沿三条路径推导不能只看质量的原因，并看到决策新增了哪项证据；不同于原书图6-1的三个抽象指标三角形。",
+            "limits": "是原文案例的定性作用图，不是代价等量关系或收益减损失公式；没有给出权重、阈值、具体改动的实测值或上线结论。"
+          }
+        },
+        {
+          "id": "ch06-02",
+          "chapter": 6,
+          "title": "为什么只优化代码，延迟还会回来？",
+          "summary": "显示新增质量功能持续增加复杂度、抵消提速收益的路径，并把预防与优化两组工作分别连到新增成因和已有延迟，说明为何需要并行负责。",
+          "enabled": true,
+          "sourceSections": [
+            "Dividing the Problem Space",
+            "Example: Subdividing the “latency problem” of Google Search"
+          ],
+          "afterParagraph": "这些团队负责的是问题，而不是特定的解决方案！）",
+          "desktop": "assets/diagrams/sections/ch06-02.svg",
+          "mobile": "assets/diagrams/sections/ch06-02-mobile.svg",
+          "pedagogy": {
+            "action": "revise",
+            "readerQuestion": "已有团队不断优化搜索代码，为什么还需要另一组人处理延迟的成因？",
+            "expectedAnswer": "持续上线的质量功能增加代码和页面复杂度，可以抵消优化收益；需要并行降低已有延迟和预防新增延迟。成因侧补齐指标、分析工具、培训与文档，团队负责问题而非固定方案。",
+            "visualEncoding": "上部的有向路径显示新改动如何累积延迟；两组团队的回指箭头落在不同作用点，分别预防新增和降低已有延迟。括线和并行文字禁止把上下或左右位置误读为先后工序。",
+            "sourceEvidence": "Example: Subdividing the “latency problem” of Google Search  示例：拆分谷歌搜索的“延迟问题”：undoing the speed improvements as quickly as they landed；gaps in our metrics, in our latency analysis tools, and in our developer education and documentation；owned the problems, not specific solutions。",
+            "beforeProblem": "原图已准确区分症状与成因，但根节点分出两个分类框，新增复杂度为何抵消提速只藏在小字中，图形不能解释为什么两类工作不可缺一。",
+            "whyBetter": "保留有用的并行分工，但把分类树改为有作用点的因果与干预图；读者遮去成因侧箭头，就能看出新增复杂度仍在进入系统。",
+            "limits": "不表示具体团队数量、因果强度或能完全消除延迟；并行分工是书中案例，不是对每个组织都适用的固定组织边界。"
+          }
+        },
+        {
+          "id": "ch06-03",
+          "chapter": 6,
+          "title": "20 分钟能修好，为什么还要交给别人？",
+          "summary": "以书中20分钟可修好的老问题，对照亲自动手的本次效率与授权辅导带来的独立练习；明确他人能做且不刻不容缓这一前提。",
+          "enabled": true,
+          "sourceSections": [
+            "Delegating subproblems to leaders"
+          ],
+          "afterParagraph": "你持续描绘森林的全貌，再把砍树的工作交给别人。",
+          "desktop": "assets/diagrams/sections/ch06-03.svg",
+          "mobile": "assets/diagrams/sections/ch06-03-mobile.svg",
+          "pedagogy": {
+            "action": "revise",
+            "readerQuestion": "一个老问题自己20分钟就能解决、别人却会更慢，为什么书中仍建议授权？",
+            "expectedAnswer": "若并非只有自己能做、也并非刻不容缓，授权并按需辅导能让其他领导者通过失败和重试练习独立处理，减少长期依赖；亲自动手可能更快，却失去这次培养机会。",
+            "visualEncoding": "固定同一任务及前提，左右并列本次执行者和下次独立承担的机会；自己路径以虚线表示仍可能依赖的风险，授权路径连接辅导重试和独立练习。移动版保留并列，避免把两条路径画成连续步骤。",
+            "sourceEvidence": "Delegating subproblems to leaders  将子问题交给子团队领导者负责：put 20 minutes aside to fix a longstanding and nagging issue；Am I really the only one；Unless the task is truly time sensitive and on fire；Coach them on the work if need be。",
+            "beforeProblem": "原图的条件分流基本准确，却把授权的核心效率取舍藏在结尾提示中，没有呈现原文的20分钟情境以及本次和长期的不同目标。",
+            "whyBetter": "把抽象分流改为同一工作两种处理方式的对照：可以直接看出授权为何可能当下更慢仍值得做，并在醒目位置读到不能机械套用的例外条件。",
+            "limits": "20分钟是作者的设问，不是实测效率；没有编造其他领导者所需时间或成长成功率。真正紧急时原文未规定唯一执行者，图中也不推导必须亲自处理。"
+          }
+        },
+        {
+          "id": "ch06-04",
+          "chapter": 6,
+          "title": "再回一封急邮件，谁来做团队战略？",
+          "summary": "用原文中的消息、会议和战略工作，对照被动等空闲与主动预留至少两小时的注意力安排，说明哪些关键工作会被持续响应挤掉。",
+          "enabled": true,
+          "sourceSections": [
+            "Important Versus Urgent",
+            "Learn to Drop Balls"
+          ],
+          "afterParagraph": "才能让有限的时间和注意力覆盖团队不断扩大的职责范围。",
+          "desktop": "assets/diagrams/sections/ch06-04.svg",
+          "mobile": "assets/diagrams/sections/ch06-04-mobile.svg",
+          "pedagogy": {
+            "action": "replace",
+            "readerQuestion": "一直先处理眼前急消息，再等空闲做团队战略，会挤掉什么？主动保护时间改变了什么？",
+            "expectedAnswer": "不断响应会挤掉团队战略、领导者职业路径和跨团队协作等重要但不紧急的工作。原文建议预留至少两小时专注处理，可交他人的急事授权，非关键事项主动放下，而非试图完成所有工作。",
+            "visualEncoding": "同样待办下，一行被连续消息占据且战略仍在等待；另一行先保留完整的关键工作时段。实际任务名让读者识别被挤掉的工作，不借未经证实的饼图比例说明资源限制。",
+            "sourceEvidence": "Important Versus Urgent   重要和紧急：always easier to respond to that next urgent email；block out two hours or more；team strategy, career paths for your leaders, or ... neighboring teams。Learn to Drop Balls  学会放下任务：critical things that only you can do。",
+            "beforeProblem": "原图用三类任务各连一个动作，本质上是一张清单，并与授权图重复；没有显示被急事挤占的具体工作或主动放下能保护什么。",
+            "whyBetter": "在相同待办下对比两种注意力安排，让没有截止期限的重要工作是否获得时段成为可见差异；保留授权与主动放下作为腾出空间的具体动作。",
+            "limits": "时间条是教学示意，不是实际日程、任务数量或工时分布；不把原文20/60/20的整理比喻当统计，不判定所有急事都不重要，不保证被放下的事必有人接手。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ch07",
+      "number": 7,
+      "title": "第七章  度量工程生产力",
+      "englishTitle": "Measuring Engineering Productivity",
+      "file": "zh-cn/Chapter-7_Measuring_Engineering_Productivity/Chapter-7_Measuring_Engineering_Productivity.md",
+      "source": "en/Chapter-7_Measuring_Engineering_Productivity/Chapter-7_Measuring_Engineering_Productivity.md",
+      "route": "/zh-cn/Chapter-7_Measuring_Engineering_Productivity/Chapter-7_Measuring_Engineering_Productivity",
+      "content": "assets/reader-content/ch07.json",
+      "sectionGuides": [
+        {
+          "id": "ch07-01",
+          "chapter": 7,
+          "title": "哪种研究结果会改变行动？",
+          "summary": "并列 Readability 的两种结果对应不同决策，与发布工具变更的大、小收益都汇入实施决定，解释何时生产力度量能为决策增添信息。",
+          "sourceSections": [
+            "Triage: Is It Even Worth Measuring?"
+          ],
+          "afterParagraph": "最重要的是，Readability 团队有权作出这个决定。",
+          "enabled": true,
+          "desktop": "assets/diagrams/sections/ch07-01.svg",
+          "mobile": "assets/diagrams/sections/ch07-01-mobile.svg",
+          "pedagogy": {
+            "action": "replace",
+            "readerQuestion": "为什么 Readability 值得研究，而发布工具团队的生产力收益度量可能不值得做？",
+            "expectedAnswer": "Readability 团队有权按语言行动：收益足以抵偿成本就公布研究，成本超收益或收益可忽略就取消流程。发布工具变更即使只有小幅生产力收益也仍会实施，因为性能与维护负担另有收益；衡量收益大小不会改变这项实施决定。",
+            "visualEncoding": "Readability 的两个结果各连到不同动作；发布工具的大小收益路径汇到同一个实施动作。分叉与汇合编码的是预先承诺的决策差异，不是测得的收益。",
+            "sourceEvidence": "Triage: Is It Even Worth Measuring? 项目筛选：究竟是否值得度量？：'如果收益足以抵偿流程的成本'、'成本超过收益，或收益可以忽略不计，就取消这套流程'、'即使看起来不值得投入，你们仍会花资源实现这个功能吗？答案是肯定的'。",
+            "beforeProblem": "原图用通用问题方框作筛选，几乎照抄相邻列表；支路也未显示真实决策如何随结果改变。",
+            "whyBetter": "读者可以沿两组具体路径比较结果的决策价值，看清能测得收益不等于值得专门测量收益。",
+            "limits": "仅比较书中这些生产力研究请求，不主张取消发布工具的其他监测；发布案例没有负收益分支，不凭空增加。行动性不是研究的充分条件，仍需考虑成本、时效和证据适用性。"
+          }
+        },
+        {
+          "id": "ch07-02",
+          "chapter": 7,
+          "title": "指标缺位，不等于目标消失",
+          "summary": "对照 Readability 的速度和质量研究设计：速度可用按资格分组的审查耗时中位数作代理，质量则保留自评并承认客观定量代理空缺，不用不理想指标填满表格。",
+          "sourceSections": [
+            "Selecting Meaningful Metrics with Goals and Signals",
+            "Goals",
+            "Signals",
+            "Metrics",
+            "Using Data to Validate Metrics"
+          ],
+          "afterParagraph": "在谷歌，我们用定性数据验证指标，确保它们确实反映了预期的信号。",
+          "enabled": true,
+          "desktop": "assets/diagrams/sections/ch07-02.svg",
+          "mobile": "assets/diagrams/sections/ch07-02-mobile.svg",
+          "pedagogy": {
+            "action": "replace",
+            "readerQuestion": "既然可以计算审查耗时中位数，为什么 Readability 研究没有给代码质量也选一个客观分数？这是否意味着放弃质量目标？",
+            "expectedAnswer": "目标先于指标。审查更快这一信号可用按资格分组的 CL 审查耗时中位数作日志代理，但该值不等于整体生产力。研究没有采用不理想的代码质量客观定量代理，仍保留质量目标并收集工程师自评；调查比例反映看法，不直接度量客观代码质量。",
+            "visualEncoding": "桌面把速度、质量两条目标到信号到代理的路径对齐，质量路径上的虚线空框与仍保留的调查形成对照。移动版逐条重排，并在质量目标下保留同样的空框和自评。箭头表示选择度量的依据，不是因果或实测结果。",
+            "sourceEvidence": "Selecting Meaningful Metrics with Goals and Signals  根据目标和信号选择有意义的指标：'关键是保持可追溯性'；Metrics  指标：'最终，我们决定不将代码质量纳入定量度量，不过仍请工程师对自己的代码质量作了评价'；Using Data to Validate Metrics  使用数据验证指标，表7-2：'已取得和未取得 Readability 资格的作者所写 CL 的审查耗时中位数'、'对自身代码质量表示满意的工程师比例'。",
+            "beforeProblem": "原图只有一条速度 GSM 链；'取得资格后'容易被当成同人前后比较，而表7-2实际列的是按资格分组。虽写空缺警告，却未展示任何真实空缺。",
+            "whyBetter": "明确比较组，给出可测代理和不能可靠客观量化的并列实例，让读者直接看到保留目标与拒绝差代理可以同时成立。",
+            "limits": "两行是研究设计而非结果；不是完整 GSM 表或一一对应规则。自评比例本身可以计数，空缺特指客观代码质量的定量代理。日志可能受变更规模或难度影响，自评也可能有偏差。"
+          }
+        },
+        {
+          "id": "ch07-04",
+          "chapter": 7,
+          "title": "同算中位数，哪些构建不再算？",
+          "summary": "用校正前后纳入范围的对照显示：工程师等待结果的构建仍计入，自动工具发起且工程师不等待的构建被排除。改变的是代理的范围，不是目标或已知性能结果。",
+          "sourceSections": [
+            "Using Data to Validate Metrics"
+          ],
+          "afterParagraph": "并据此帮助我们判断下一步该如何改进流程。",
+          "enabled": true,
+          "desktop": "assets/diagrams/sections/ch07-04.svg",
+          "mobile": "assets/diagrams/sections/ch07-04-mobile.svg",
+          "pedagogy": {
+            "action": "revise",
+            "readerQuestion": "体验抽样后，构建延迟中位数究竟改了什么？是不是所有自动构建都应排除？",
+            "expectedAnswer": "目标仍是工程师的典型构建等待体验，指标仍是每位工程师的构建延迟中位数。体验抽样发现某些构建由工具自动发起且工程师不等结果，因此研究排除了这类构建；不能从中推出应排除所有自动构建，也不知道中位数如何变化。",
+            "visualEncoding": "同样的两类构建横跨校正前后两列：等待结果一行保持纳入，自动发起且无人等待一行从纳入变成排除。保持不变的行与唯一改变的格子明确显示指标范围修正；下方注明触发修正的体验抽样发现。",
+            "sourceEvidence": "Using Data to Validate Metrics  使用数据验证指标：'测量每位工程师的构建延迟中位数'、'他们根本没有启动构建'、'工程师并不需要等待这些构建结果'、'调整指标，排除了这类构建'。",
+            "beforeProblem": "原图案例准确，但三个步骤框只叙述校正过程，没有展示校正前后哪些观测仍在、哪些被移出，读者还可能简化成排除所有自动构建。",
+            "whyBetter": "从过程概述改成成员范围对照，显式保留自动发起且不等待两个条件。读者能区分改变代理范围与改善构建速度。",
+            "limits": "两行表示类别而非样本个数、占比或穷尽分类；不虚构延迟、过滤后数值或变化方向。不把定性证据总是正确作为普遍规则。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ch08",
+      "number": 8,
+      "title": "第八章 风格指南和规则",
+      "englishTitle": "Style Guides and Rules",
+      "file": "zh-cn/Chapter-8_Style_Guides_and_Rules/Chapter-8_Style_Guides_and_Rules.md",
+      "source": "en/Chapter-8_Style_Guides_and_Rules/Chapter-8_Style_Guides_and_Rules.md",
+      "route": "/zh-cn/Chapter-8_Style_Guides_and_Rules/Chapter-8_Style_Guides_and_Rules",
+      "content": "assets/reader-content/ch08.json",
+      "codeVariants": "assets/code-variants/ch08.json",
+      "sectionGuides": [
+        {
+          "id": "ch08-01",
+          "chapter": 8,
+          "title": "读完这一行，谁拥有 Foo？",
+          "summary": "并列原文的 Foo* 与按值 unique_ptr 参数声明、调用代码和所有权关系。普通指针调用不能单独回答所有权问题；按值 unique_ptr 参数接收 std::move(my_foo) 时，所有权由调用方转交。",
+          "enabled": true,
+          "sourceSections": [
+            "Optimize for the reader"
+          ],
+          "afterParagraph": "就能清楚地理解调用处发生了什么。",
+          "desktop": "assets/diagrams/sections/ch08-01.svg",
+          "mobile": "assets/diagrams/sections/ch08-01-mobile.svg",
+          "pedagogy": {
+            "action": "replace",
+            "readerQuestion": "看到 TakeFoo(my_foo) 或 TakeFoo(std::move(my_foo))，结合各自参数声明，读者能确定什么？",
+            "expectedAnswer": "Foo* 参数和调用表达式不能表明是否转交所有权；原文按值接收 std::unique_ptr<Foo> 的调用会转交独占所有权，my_foo 不再拥有原对象。不能由此推断整个函数契约或对象最终何时销毁。",
+            "visualEncoding": "并列可读的参数声明与调用代码，用同色代码区把 std::move 和按值参数联系起来；普通指针一侧保留带问号的两种可能，unique_ptr 一侧以单向箭头显示从 my_foo 到 arg 的所有权变化。移动端保留完整声明并纵向比较。",
+            "sourceEvidence": "#### Optimize for the reader   为读者优化：两个 TakeFoo 代码块，以及“凭 API 提供的信息推断交互方式”“就能清楚地理解调用处发生了什么”。",
+            "beforeProblem": "旧图用“传入 Foo*”“std::unique_ptr + std::move”等概括替代了真正的调用和参数声明，读者看不到支持推理的代码证据，且容易把 move 单独当作转移保证。",
+            "whyBetter": "显示推断所需的类型和表达式，并区分无法确定的所有权与明确转交的所有权；图内说明按值接收这一条件，避免把 std::move 本身等同于转移。",
+            "limits": "代码摘自原文并仅重排换行，省略对象创建。图只说明本例独占所有权的转交，不声称所有裸指针都转交或都不转交，不声称移动后的变量不能重新赋值，也不推断原对象何时销毁。"
+          }
+        },
+        {
+          "id": "ch08-02",
+          "chapter": 8,
+          "title": "局部惯例，何时优先？何时不行？",
+          "summary": "对照两类冲突：指南允许局部选择的 const 写法沿用文件惯例；头文件宏可能全局重名时，不能只为项目一致而豁免项目前缀。代码是依据书中两例构造的示意。",
+          "enabled": true,
+          "sourceSections": [
+            "Be consistent",
+            "Exceptions"
+          ],
+          "afterParagraph": "在这里，代码库整体不受破坏，比单个项目保持一致更重要。",
+          "desktop": "assets/diagrams/sections/ch08-02.svg",
+          "mobile": "assets/diagrams/sections/ch08-02-mobile.svg",
+          "pedagogy": {
+            "action": "replace",
+            "readerQuestion": "文件、团队与代码库约定冲突时，总能以“保持局部一致”为由选文件或项目惯例吗？",
+            "expectedAnswer": "不能。局部惯例先形成、全面改写不合理且指南允许局部选择时，按文件、团队、项目、代码库的顺序考虑一致性。宏命名则涉及全局冲突，仅因名称长度或项目一致性而请求省略前缀会被拒绝。",
+            "visualEncoding": "上半部比较文件和团队的 const 写法，显示新增声明沿用文件；下半部把两个头文件对 LIMIT 的不同定义（8 与16）汇入同一冲突点，再用 A_LIMIT 与 B_LIMIT 显示项目前缀所区分的名称。两个明确的条件标题区分局部选择与跨项目风险。",
+            "sourceEvidence": "#### Be consistent   保持一致性，下属“确立标准”段：“有多条规则明确要求遵循局部约定”，脚注6以 const 为例；### Exceptions   例外：“只是嫌宏名太长，或希望与项目内部命名保持一致，就会被拒绝”。",
+            "beforeProblem": "旧图只画文件到代码库的阶梯，未给出冲突输入或决策结果；尤其可能使读者误以为局部一致性永远凌驾全局规则。",
+            "whyBetter": "同一张图给出成立案例和反例，读者能用可见的条件与名称判断何时沿用局部惯例、何时必须保留全局约束。插入点移到宏豁免段之后，确保读者已读过两种情况。",
+            "limits": "const 声明、宏名、8 与16这两个宏值和头文件标签均为明确标注的示意，不是书中原始代码、实测数字或当前指南原文。前缀展示名称区分机制，不保证所有宏自动全局唯一；真正全局用途的宏仍可能由仲裁者批准例外。不展开外部社区一致性或全库迁移。"
+          }
+        },
+        {
+          "id": "ch08-04",
+          "chapter": 8,
+          "title": "格式化替代了哪一轮审查？",
+          "summary": "用同一段示意代码的两次提交展示 S 与格式化结果 F(S) 的比较：有差异拒绝并提示修正，无差异仅通过格式检查。以数百文件同一行修改与20行复杂逻辑对照，保留人工审查复杂性的职责。",
+          "enabled": true,
+          "sourceSections": [
+            "Applying the Rules",
+            "Code Formatters"
+          ],
+          "afterParagraph": "BUILD 文件则使用 buildifier。",
+          "desktop": "assets/diagrams/sections/ch08-04.svg",
+          "mobile": "assets/diagrams/sections/ch08-04-mobile.svg",
+          "pedagogy": {
+            "action": "replace",
+            "readerQuestion": "格式检查为什么第一次拒绝、修正后放行？放行究竟省去了什么，又没有替代什么？",
+            "expectedAnswer": "提交前运行格式化工具，结果与提交内容不同就拒绝并提示修正；没有差异只代表格式符合要求。统一格式省去人工发现、指出和修正格式细节的审查往返，但变更复杂性仍需人判断，不能仅按修改行数自动拒绝。",
+            "visualEncoding": "两次提交按行对齐，分别显示 x=1 与 x = 1、x = 1 与 x = 1，利用明确的不等号与等号推导拒绝和格式通过；下面对照书中的大范围重复修改与20行复杂副作用，阻止把格式通过或行数少等同于易审。",
+            "sourceEvidence": "### Code Formatters  代码格式化工具：“检查运行格式化工具后是否产生差异。如果有差异，就拒绝提交”“省去了为发现、指出和修正细小风格问题而反复审查的时间”；## Applying the Rules  应用规则：“在数百个文件中重复同一项单行修改”“只改20行”。",
+            "beforeProblem": "旧图只有“有差异吗”的抽象分支和工具/人工职责清单，没有给出比较对象；把静态检查与格式化放进同一个入口，也模糊了具体判定机制。",
+            "whyBetter": "读者可直接比较字符并独立判断两次结果，看到工具移除的是格式细节往返，而不是全部审查；行数反例让保留人工判断的理由变得具体。",
+            "limits": "赋值代码为格式比较示意，不是原书代码或某个格式化器的完整可执行测试；F(S) 仅表示同一配置下的格式化结果，不表示静态分析或语义正确性。数百文件和20行来自原文，表示反例而非实测速度或难度阈值。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ch09",
+      "number": 9,
+      "title": "第九章 代码审查",
+      "englishTitle": "Code Review",
+      "file": "zh-cn/Chapter-9_Code_Review/Chapter-9_Code_Review.md",
+      "source": "en/Chapter-9_Code_Review/Chapter-9_Code_Review.md",
+      "route": "/zh-cn/Chapter-9_Code_Review/Chapter-9_Code_Review",
+      "content": "assets/reader-content/ch09.json",
+      "sectionGuides": [
+        {
+          "id": "ch09-01",
+          "chapter": 9,
+          "title": "收到意见后，是否还要再审？",
+          "summary": "对照 FYI、尚未获 LGTM 的修改要求、不同意意见，以及约定落实意见即可的 LGTM 四种状态，显示作者下一步和是否再审的区别。",
+          "enabled": true,
+          "sourceSections": [
+            "Code Review Flow",
+            "Knowledge Sharing",
+            "Be Polite and Professional"
+          ],
+          "afterParagraph": "应把每条审查意见都当作一个 TODO 待办项：不必无条件接受，但至少要作出回应。如果不同意，就说明自己的看法和理由；在双方都有机会提出替代方案之前，不要将评论标记为已解决。作者与审查者意见不同时，一种常见的礼貌做法是提出替代方案，再请审查者 PTAL（请再看一下）。记住，代码审查是双方学习的机会，这种认识往往有助于减少分歧。",
+          "desktop": "assets/diagrams/sections/ch09-01.svg",
+          "mobile": "assets/diagrams/sections/ch09-01-mobile.svg",
+          "pedagogy": {
+            "action": "replace",
+            "readerQuestion": "收到一条评论，是否必须改代码、再审一轮，或者可以直接标记已解决？",
+            "expectedAnswer": "FYI 仅供参考而不要求行动；普通修改请求在尚无 LGTM 时应修改、上传快照并回复审查者。不同意时应解释理由并讨论替代方案，双方表达前不标已解决。本章还描述了附带约定的 LGTM：落实意见后可不再审一轮，但全部提交条件仍须满足。",
+            "visualEncoding": "四条独立、带条件的横向路径把评论状态与作者行为、后续状态一一对应；移动版保持四条路径，改为每条内部纵向排列。LGTM 未给出与已经约定改完即可形成对照，FYI 与争议意见不再被画成同一种修改循环。",
+            "sourceEvidence": "## Code Review Flow  代码审查流程：步骤3至6；### Knowledge Sharing  知识共享：'仅供参考'、'无须作者采取行动'；### Be Polite and Professional  保持礼貌和专业：'提出意见的同时给出 LGTM'、'无须再审一轮'、'双方都有机会提出替代方案之前'。",
+            "beforeProblem": "原图把所有评论串入作者修改与重新审查的同一路径，未说明 FYI 不要求修改，也未显示有争议时的处理边界或附带约定的 LGTM 可以不再审一轮。",
+            "whyBetter": "评论内容与批准状态改变时，下一步在图上也改变；这比无条件的六框循环更能回答作者当下该做什么。图移到专业沟通段落后，紧接争议处理规则。",
+            "limits": "四种情境是对原文的示例化概括，不是工具按钮操作说明，也不是全部可能状态。没有假定任何平台在每次修改后自动重置 LGTM，更不把无须再审等同于无须处理意见。"
+          }
+        },
+        {
+          "id": "ch09-03",
+          "chapter": 9,
+          "title": "审查结束后，理由留在哪里？",
+          "summary": "用空列表处理这一明确标为示例的变更，对比只写“修复缺陷”和写出改动及原因的描述，检验未来维护者能否从描述回答为什么增加分支。",
+          "enabled": true,
+          "sourceSections": [
+            "Knowledge Sharing",
+            "Write Good Change Descriptions"
+          ],
+          "afterParagraph": "变更描述并不是记录信息的唯一地方。编写公开 API 时，通常应避免暴露实现细节，但在实际实现内部，应当充分注释、说明这些细节。如果审查者不理解你为什么这样做，即使代码是正确的，也说明代码结构或注释需要改进，可能两者都要改。如果审查过程中作出了新决定，应更新变更描述，或在实现中补充适当注释。代码审查不只是处理眼前的工作，也是在为后来者记录你做过的事情。",
+          "desktop": "assets/diagrams/sections/ch09-03.svg",
+          "mobile": "assets/diagrams/sections/ch09-03-mobile.svg",
+          "pedagogy": {
+            "action": "replace",
+            "readerQuestion": "未来维护者问为什么多了一条空列表分支，哪种变更描述能留下可追溯的回答？",
+            "expectedAnswer": "只写修复缺陷没有交代改动及原因。描述应说明做了什么、为什么做；审查中形成的新决定应写回描述或实现注释。示例中的完整描述记录了先检查空列表，以避免读取不存在的首项。",
+            "visualEncoding": "同一维护者问题下并列两份实际描述；左侧只有笼统标题，右侧新增具体改动与原因，分别标出仅凭该描述无法回答和可以追溯理由。移动版上下排列同一对照。底部把审查中新决定连接到描述或实现注释。",
+            "sourceEvidence": "### Knowledge Sharing  知识共享：'调出当时的代码审查记录'；### Write Good Change Descriptions  写好变更描述：'只写修复缺陷'、'改了什么，以及为什么要改'、'更新变更描述，或在实现中补充适当注释'。",
+            "beforeProblem": "原图以作者、审查者、记录、未来维护者四个抽象框声称知识流动，却不展示究竟留下了什么信息，也没有可供读者判断的好坏对照。",
+            "whyBetter": "把可追溯性变为一个能直接检查的问题：右侧文字实际包含对分支原因的回答，左侧没有。移到变更描述小节结尾，使示例紧邻其依据。",
+            "limits": "空列表例子为教学示例，不是书中真实案例或通用 API 语义。只比较所示描述的信息，不声称左侧代码或其他历史记录必然找不到原因，也不测量知识传递效果。"
+          }
+        },
+        {
+          "id": "ch09-04",
+          "chapter": 9,
+          "title": "机器生成，不等于免审",
+          "summary": "按风险和领域知识需求选择审查者，再按问题对象区分本地变更评论与向 LSC 监督小组升级反馈；机器生成不等于低风险，也不等于免审。",
+          "enabled": true,
+          "sourceSections": [
+            "Types of Code Reviews",
+            "Refactorings and Large-Scale Changes"
+          ],
+          "afterParagraph": "也会限制此人借助工具能够有效处理的变更规模。",
+          "desktop": "assets/diagrams/sections/ch09-04.svg",
+          "mobile": "assets/diagrams/sections/ch09-04-mobile.svg",
+          "pedagogy": {
+            "action": "replace",
+            "readerQuestion": "机器生成的变更由谁审？发现本地问题和质疑底层生成流程，应走同一条反馈路径吗？",
+            "expectedAnswer": "自动生成的变更仍需审查。被认定为低风险的变更由具有全库批准权限的指定审查者处理；有风险或需本地领域知识时，可请相关工程师审查。本地正确性和适用性问题在具体变更中提出；对底层工具或 LSC 流程的疑虑应另向监督小组升级反馈，单个团队不能在单项审查中否决已审过的生成流程。",
+            "visualEncoding": "两组独立的条件到处理者路径：上组随风险和知识需求改变审查者，下组随问题对象改变反馈目的地。每条箭头两端有明确条件与结果，不把机器生成直接连向自动批准，也不把升级反馈画成审查通过。",
+            "sourceEvidence": "### Refactorings and Large-Scale Changes  重构与大规模变更：'被认定为低风险'、'可能有风险，或需要了解具体代码领域'、'另行向 LSC 监督小组升级反馈'、'避免扩大变更范围'。",
+            "beforeProblem": "原图是四类变更的彩色摘要表，与邻近小节标题和列表重复。它把缺陷修复与回滚合为补测试一行，淡化两者区别；对机器变更未显示选择审查者和反馈去向的关键条件。",
+            "whyBetter": "聚焦原表压缩过度、却真正涉及决策的自动变更场景。读者能够根据风险或疑问对象沿不同路径得到具体下一步，而不是再次阅读分类清单。",
+            "limits": "只解释本章自动重构与大规模变更的流程，不取代其他变更类型的正文。低风险并非自动生成的必然属性；本地审查并非所有变更的强制第二关，图也不赋予任何额外批准权限。"
+          }
+        },
+        {
+          "id": "ch09-05",
+          "chapter": 9,
+          "title": "三项批准，不等于三位审查者",
+          "summary": "用三种具体组合比较批准状态：合格的另一位审查者兼任三项、作者凭资格满足后两项、作者仅自审而缺少他人 LGTM。三项批准齐全且所有审查意见已处理，才满足本章的常规提交条件。",
+          "enabled": true,
+          "sourceSections": [
+            "How Code Review Works at Google"
+          ],
+          "afterParagraph": "而所有者往往也具备相应的 Readability 资格。",
+          "desktop": "assets/diagrams/sections/ch09-05.svg",
+          "mobile": "assets/diagrams/sections/ch09-05-mobile.svg",
+          "pedagogy": {
+            "action": "keep",
+            "readerQuestion": "作者已经是代码所有者且有语言资格，还需要谁批准？三项批准是否要找三个人？",
+            "expectedAnswer": "本章谷歌流程要求另一位工程师的 LGTM、相应代码所有者批准和相应语言 Readability 批准。作者以外的一位合格审查者可以兼任三项；作者可凭所有权和语言资格满足后两项，但自审不能提供他人的 LGTM。三项齐全仍须处理全部审查意见。",
+            "visualEncoding": "桌面矩阵的三列是批准要求，三行是人员资格组合；同一名字重复出现表示一人兼任，不是三人。第三行只把他人 LGTM 改为缺少，结果随之变成不可提交。移动版按同样的三个情境重排，并显式列出每项由甲或乙满足。底部另列意见处理条件。",
+            "sourceEvidence": "## How Code Review Works at Google  谷歌如何开展代码审查：'作者也可以兼任后两种角色'、'上述三个权限位可以由不同的角色组合来满足'；## Code Review Flow  代码审查流程：'处理所有审查意见'；### Keep Reviewers to a Minimum  尽量减少审查者人数：'可以由同一个人满足'。",
+            "beforeProblem": "曾作为章首总览图使用，但它讲的是读完相关小节后才能理解的具体机制，放在章首读者尚无上下文；现改为小节图，紧跟它所解释的段落。",
+            "whyBetter": "读者先读到书中的例子和规则，再看这张图把它们并排对照，能自己推出图中每个结论。",
+            "limits": "仅解释书中谷歌常规流程，不代表其他平台的自批准规则，也不声称批准证明代码无缺陷。示例假定对应目录及语言资格有效，不展开跨目录、多语言、例外流程或工具自动撤销批准的行为。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ch10",
+      "number": 10,
+      "title": "第十章 文档",
+      "englishTitle": "Documentation",
+      "file": "zh-cn/Chapter-10_Documentation/Chapter-10_Documentation.md",
+      "source": "en/Chapter-10_Documentation/Chapter-10_Documentation.md",
+      "route": "/zh-cn/Chapter-10_Documentation/Chapter-10_Documentation",
+      "content": "assets/reader-content/ch10.json",
+      "codeVariants": "assets/code-variants/ch10.json",
+      "sectionGuides": [
+        {
+          "id": "ch10-01",
+          "chapter": 10,
+          "title": "发现错误，怎样进入修复？",
+          "summary": "对照 GooWiki 中使用者与修复者错开的反馈断点，以及缺陷报告、权威来源、负责人和现有评审流程如何接通修复路径。",
+          "sourceSections": [
+            "Documentation Is Like Code"
+          ],
+          "afterParagraph": "能够沿用现有开发者工作流，无须另建一套，是这一做法的重要优势。",
+          "desktop": "assets/diagrams/sections/ch10-01.svg",
+          "mobile": "assets/diagrams/sections/ch10-01-mobile.svg",
+          "enabled": true,
+          "pedagogy": {
+            "action": "replace",
+            "readerQuestion": "新人已经发现配置教程不管用，为什么文档仍可能一直不被修好？怎样让这条失败经验进入修复？",
+            "expectedAnswer": "GooWiki 案例中，新用户可能无法确认文档错误，也缺少便捷报错方式；能修正文档的人反而不再查阅它。把问题接入缺陷跟踪，并明确权威存放位置和负责人，让读者提交变更、沿用评审流程，才形成可走通的维护路径。",
+            "visualEncoding": "断开的虚线和叉号位于新人遇错与熟悉系统者之间，标出反馈没有传递的具体位置；对照路径用连续箭头把提交缺陷、负责人接手、评审修订和同一权威来源连起来。移动端将前后对照上下排布，保留断点与连续路径的差别。",
+            "sourceEvidence": "## Documentation Is Like Code 把文档当作代码，Case Study: The Google Wiki 案例研究：谷歌维基：能修正文档的人，往往不是使用文档的人；无法确认究竟是不是文档错了；没有便捷的报错途径；负责人、权威存放位置以及发现和修复问题的流程。",
+            "beforeProblem": "原图把四个泛化维护步骤连成循环，与概览重复；没有解释既有人使用又有人懂系统时，错误为什么仍能长期存在。",
+            "whyBetter": "先标出角色错位和反馈断点，再显示工具及责任归属补上哪段关系；读者能指出修复路径缺在哪里，而不只是记住四个管理名词。",
+            "limits": "这是书中 GooWiki 案例的机制示意，不是所有维基都会失败的结论。连续箭头表示可用的修复路径，不保证每条反馈被处理或问题自动修好；不虚构修复时间或质量指标。"
+          }
+        },
+        {
+          "id": "ch10-02",
+          "chapter": 10,
+          "title": "重名时，还会返回记录 ID 吗？",
+          "summary": "从原文 AddCustomer 注释推演：没有同名记录时创建并返回 ID，已有同名记录时抛出 DuplicateEntryError；删掉条件与异常后，调用者便无法判断重名的结果。",
+          "sourceSections": [
+            "Reference Documentation",
+            "Function comments"
+          ],
+          "afterParagraph": "加入固定格式的小节，只会让注释更冗长、更重复，并不会更清楚，甚至可能更难理解。",
+          "desktop": "assets/diagrams/sections/ch10-02.svg",
+          "mobile": "assets/diagrams/sections/ch10-02-mobile.svg",
+          "enabled": true,
+          "pedagogy": {
+            "action": "replace",
+            "readerQuestion": "AddCustomer 的注释若只写创建客户，调用者能否判断同名记录已存在时会发生什么？",
+            "expectedAnswer": "不能。原文把创建记录、name 和 address 参数、返回记录 ID，以及已有同名记录时抛出 DuplicateEntryError 连在同一条注释中。保留条件与结果才能判断调用契约；这里无须解释内部如何检测重复。",
+            "visualEncoding": "保留原函数声明，左侧或上方展示明确标为删减对照的创建客户短句；右侧或下方用两个条件行分别连接返回 ID 和抛出异常。改变同名记录是否存在这个条件，就能看到结果改变；两个分支不表示先后执行。",
+            "sourceEvidence": "#### Function comments 函数注释：Creates a new record for a customer with the given name and address ... returns the record ID, or throws DuplicateEntryError if a record with that name already exists；紧随的中文段落指出参数、返回值和异常并非彼此独立。",
+            "beforeProblem": "原图只是两组受众分类及各自需求的列表，读者看不到少写一条信息会造成什么理解缺口；图旁已有同样的分类说明。",
+            "whyBetter": "用原书函数契约作条件反事实对照，读者可以直接回答重名时是否返回 ID；把信息完整性具体落实为保留必要条件，而非泛泛要求面向受众。",
+            "limits": "图只推演原文示例所述两种条件，不补充其他错误、并发行为或实现算法。删减短句是为对照而作的摘要，不冒充原书错误示例。函数声明只展示，未编译或调用。"
+          }
+        },
+        {
+          "id": "ch10-03",
+          "chapter": 10,
+          "title": "下一步，究竟轮到谁操作？",
+          "summary": "将原教程第3至7步对照改写：认证与建库是执行脚本后的系统响应，测试与输入 SQL 是同一个用户操作。只给用户动作编号，命令独立成行。",
+          "sourceSections": [
+            "Tutorials"
+          ],
+          "afterParagraph": "则应从该对象的角度组织并编号步骤，也就是列出服务器执行的动作。",
+          "desktop": "assets/diagrams/sections/ch10-03.svg",
+          "mobile": "assets/diagrams/sections/ch10-03-mobile.svg",
+          "enabled": true,
+          "pedagogy": {
+            "action": "replace",
+            "readerQuestion": "教程中的认证和建库需要读者再做两步吗？测试 baz 与输入 SQL 又是不是两个操作？",
+            "expectedAnswer": "不是。原书坏例的第4、5步由服务器自动完成，应归到第3步执行脚本后的说明中；原第6、7步是一次用户操作，应合成改后第4步。用户导向教程只给用户动作编号，并把输入或输出单独列行。",
+            "visualEncoding": "桌面保留原3至7的序号，通过合并括线把4、5映到第3步的从属系统响应，把6、7映到改后第4步。改后只用圆形序号标用户动作，系统响应缩进且不编号。移动端上下重排相同对照，保留原序号、缩进响应、独立命令和两次用户操作。",
+            "sourceEvidence": "### Tutorials 教程，Example: A bad tutorial 示例：糟糕的教程；在上述流程中，第4步和第5步都在服务器端执行；第6步和第7步实际上是同一个操作；Example: A bad tutorial made better 示例：改进后的教程。",
+            "beforeProblem": "原图只是从入口页到四种文档的分类树，没有展示完成任务时的具体障碍，也没有利用本章已给出的坏教程与好教程对照。",
+            "whyBetter": "序号的消失与合并可见地对应用户操作次数的变化，读者能指出何时自己动手、何时是系统响应，而不是只记住教程应有步骤这一原则。",
+            "limits": "只摘录原例第3至7步，下载和复制步骤省略，不是完整可执行指南。显示的 shell 和 SQL 是原书展示片段，未执行、未验证运行环境；不替原例增补程序、权限操作或成功输出。若文档写的是服务器生命周期，编号视角可以不同。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ch11",
+      "number": 11,
+      "title": "第十一章 测试概述",
+      "englishTitle": "Testing Overview",
+      "file": "zh-cn/Chapter-11_Testing_Overview/Chapter-11_Testing_Overview.md",
+      "source": "en/Chapter-11_Testing_Overview/Chapter-11_Testing_Overview.md",
+      "route": "/zh-cn/Chapter-11_Testing_Overview/Chapter-11_Testing_Overview",
+      "content": "assets/reader-content/ch11.json",
+      "codeVariants": "assets/code-variants/ch11.json",
+      "sectionGuides": [
+        {
+          "id": "ch11-01",
+          "chapter": 11,
+          "title": "同一测试：写好、失败、修复后",
+          "summary": "沿用例11-1的 subtract(2, 5) 与预期 -3，比较未运行、返回错误值 3、修复后返回 -3 三种状态。写好不等于取得反馈，发现失败也不等于处理了失败。",
+          "enabled": true,
+          "pedagogy": {
+            "action": "replace",
+            "readerQuestion": "subtract(2, 5) 的测试已写好、运行返回 3、修复后返回 -3，这三种状态分别能说明什么？",
+            "expectedAnswer": "未运行时没有本次执行证据；返回 3 与预期 -3 不符，测试失败并需要处理；本例缺陷修复后重跑返回 -3，断言通过，但以后仍须持续运行。",
+            "visualEncoding": "相同输入和预期固定在顶部，三个状态按观测值与可得结论对齐；从失败行到修复后行的连接明确标注定位和修复，不把红色结果本身当作已完成工作。",
+            "sourceEvidence": "### Write, Run, React  编写、运行、处理失败：例11-1 'calculator.subtract(2, 5)'、'expectedResult = -3'；'写好之后，还需要运行，而且要频繁运行'；'关键在于如何处理失败'。",
+            "beforeProblem": "旧图只是三个原则框和循环箭头，读者无法根据具体观测判断流程停在哪一步。",
+            "whyBetter": "固定预期并改变运行证据，显示未运行、失败未处理、修复重跑三个可区分状态；实际值 3 明确标为示意，不是书中事件。",
+            "limits": "这是基于书中计算器测试的示意状态，不是所有失败都由产品代码导致；通过这一断言不代表所有行为正确，也不代表以后无需再运行。"
+          },
+          "sourceSections": [
+            "Write, Run, React"
+          ],
+          "afterParagraph": "让大家持续信任测试流程。",
+          "desktop": "assets/diagrams/sections/ch11-01.svg",
+          "mobile": "assets/diagrams/sections/ch11-01-mobile.svg"
+        },
+        {
+          "id": "ch11-02",
+          "chapter": 11,
+          "title": "依赖搬到哪里，测试需要多大？",
+          "summary": "保持请求校验这一验证目标不变：依赖在进程内、移到本机独立进程、再移到远程机器，分别显示小型可行、中型起、大型起的运行边界。",
+          "enabled": true,
+          "pedagogy": {
+            "action": "replace",
+            "readerQuestion": "只验证请求校验结果，但依赖从进程内替身换成本机数据库或远程数据库，最小运行规模如何变化？",
+            "expectedAnswer": "进程内替身并满足其他小型限制时可以是小型；独立的本机数据库进程排除小型，但可以满足中型边界；远程数据库排除中型，需书中所称的大型。验证目标本身没有随依赖位置自动扩大。",
+            "visualEncoding": "三个执行拓扑保持测试和校验目标不变。小型将替身放在同一进程框内；中型画出独立进程与 localhost 连接；大型连接明确越过单机边界。右侧或下方给出对应规模下限。",
+            "sourceEvidence": "### Test Size  测试规模；#### Small tests  小型测试：'不能在测试中启动数据库之类的第三方程序'及脚注5；#### Medium tests  中型测试：'不能通过网络调用 localhost 以外的系统'；#### Large tests  大型测试：'允许测试和被测系统跨多台机器运行'。",
+            "beforeProblem": "旧图把资源规则列在三个彩色框中，几乎重复正文和书中图11-2，缺少条件变化后的分类推导。",
+            "whyBetter": "同一目标下移动依赖位置，读者能看到具体是哪条进程或机器边界排除了较小规模；图示不是用单元或集成名称替代资源分类。",
+            "limits": "是运行边界的示意，不保证本机测试一定中型或进程内测试一定小型；时间、内存和其他约束仍须满足。不是性能测量，也不证明替身能验证真实数据库交互。"
+          },
+          "sourceSections": [
+            "Test Size",
+            "Small tests",
+            "Medium tests",
+            "Large tests"
+          ],
+          "afterParagraph": "只在构建和发布过程中运行，以免影响开发者的工作流。",
+          "desktop": "assets/diagrams/sections/ch11-02.svg",
+          "mobile": "assets/diagrams/sections/ch11-02-mobile.svg"
+        },
+        {
+          "id": "ch11-04",
+          "chapter": 11,
+          "title": "执行过，不等于验证过",
+          "summary": "同一个错误实现把 subtract(2, 5) 算成 3：只调用方法与断言结果的测试，都执行了同一条功能代码，但只有断言 3 == -3 的测试暴露错误。",
+          "enabled": true,
+          "pedagogy": {
+            "action": "replace",
+            "readerQuestion": "两个测试都执行了 subtract 的同一行代码，为什么一个没有报错，另一个却失败？",
+            "expectedAnswer": "行覆盖率记录代码是否执行，不记录是否检查了返回结果。对于图中的错误值 3，没有结果断言的调用无法据此发现错误；检查结果必须等于 -3 的断言会失败。",
+            "visualEncoding": "同一错误实现和返回值分成两个测试分支；两个分支均标出该行已覆盖，但只有第二分支经过相等比较并显示失败。相同覆盖证据与不同检测结果直接对照。",
+            "sourceEvidence": "### A Note on Code Coverage  关于代码覆盖率的注意事项：'代码覆盖率只记录某行是否执行过，并不衡量执行结果'；### Write, Run, React  编写、运行、处理失败：例11-1 的输入 2、5 与预期 -3。",
+            "beforeProblem": "旧图用不等号连接两组抽象问题，没有展示覆盖率相同却漏检缺陷的实际反例。",
+            "whyBetter": "读者可以根据可见的错误返回值和断言预测两个测试的不同结果，而不是仅记住覆盖率不等于质量这一口号。",
+            "limits": "错误实现及无断言分支为示意，不是新增书中代码。仅比较所示功能行的行覆盖率；不是整个程序覆盖率，也不证明一个断言已覆盖所有行为。"
+          },
+          "sourceSections": [
+            "A Note on Code Coverage",
+            "Write, Run, React"
+          ],
+          "afterParagraph": "却不能代替对系统测试充分程度的审慎判断。",
+          "desktop": "assets/diagrams/sections/ch11-04.svg",
+          "mobile": "assets/diagrams/sections/ch11-04-mobile.svg"
+        },
+        {
+          "id": "ch11-05",
+          "chapter": 11,
+          "title": "识别了不稳定测试，就算完成了吗？",
+          "summary": "用书中 Test Certified 的第1级与第5级检查一个示意项目：持续构建、覆盖率跟踪、规模分类、快速测试与 flake 清单满足起步条件，但已识别而未消除的非确定性仍不满足第5级。",
+          "enabled": true,
+          "pedagogy": {
+            "action": "replace",
+            "readerQuestion": "一个项目已建立持续构建、跟踪覆盖率、分类测试规模、拥有快速测试，并识别了不稳定测试但未修复，是否已经满足 Test Certified 第5级？",
+            "expectedAnswer": "没有。这些是第1级的起步要求，其中识别不稳定测试并不要求立即修复。第5级还要求所有测试自动化、每次提交前运行快速测试、消除所有非确定性，并覆盖每种行为。",
+            "visualEncoding": "左侧或上方是同一项目的可观察证据；右侧或下方逐项映射到第5级要求，用问号表示未提供证据，用叉号表示明确不满足。没有把未知项当作失败，也没有凭单项指标评分。",
+            "sourceEvidence": "### Test Certified  测试认证：'识别不稳定测试，但不一定要修复'；'到第五级时，所有测试都已自动化'；### Testing Culture Today  当今的测试文化：pH 是替代测试认证计划的多指标工具。",
+            "beforeProblem": "旧图是培训、认证、专栏三组标题汇入日常开发，缺少可检验的具体行动，还容易让认证等级与后来的 pH 评分混在一起。",
+            "whyBetter": "把泛化的文化传播摘要换成一个能逐项判断的历史认证案例，明确识别与消除、已有快速测试与每次提交前运行、未知与不满足的差异。",
+            "limits": "仅演示书中历史 Test Certified 的第1级与第5级要求，不能推断第2至第4级，也不是当前谷歌政策或 pH 评分算法。"
+          },
+          "sourceSections": [
+            "Test Certified",
+            "Testing Culture Today"
+          ],
+          "afterParagraph": "没过多久，团队之间就开始竞相提升等级。",
+          "desktop": "assets/diagrams/sections/ch11-05.svg",
+          "mobile": "assets/diagrams/sections/ch11-05-mobile.svg"
+        },
+        {
+          "id": "ch11-06",
+          "chapter": 11,
+          "title": "测试规模与范围是两个维度",
+          "summary": "对照两个书中反例：单机浏览器只验证日期选择器的一条路径，属于中型、窄范围；服务器端点验证解析、请求校验和业务逻辑，替换全部进程外依赖后可以是小型、广范围。",
+          "enabled": true,
+          "sourceSections": [
+            "Test Size",
+            "Test Scope"
+          ],
+          "afterParagraph": "即使只验证一条代码路径，通常也要运行整个浏览器。",
+          "desktop": "assets/diagrams/sections/ch11-06.svg",
+          "mobile": "assets/diagrams/sections/ch11-06-mobile.svg",
+          "pedagogy": {
+            "action": "keep",
+            "readerQuestion": "为什么只验证日期选择器一条路径的测试可以比验证整个服务器端点的测试规模更大？",
+            "expectedAnswer": "规模按运行资源与约束分类，范围按实际验证的行为分类。单机浏览器测试可以是中型且窄范围；用进程内替身替换所有进程外依赖并遵守小型约束的端点测试，可以是小型且广范围。",
+            "visualEncoding": "保留正交的规模行和范围列，只标出书中两个反例。颜色对应下方可见的运行条件与验证目标；空白格不是不可能，格子面积不是用例数量。",
+            "sourceEvidence": "### Test Scope  测试范围：'针对服务器端点的测试，可以覆盖其全部正常解析流程、请求验证和业务逻辑'；'即使只验证一条代码路径，通常也要运行整个浏览器'。### Test Size  测试规模及#### Small tests  小型测试：单进程、禁止网络磁盘和阻塞、脚注5的隔离内存文件系统例外。",
+            "beforeProblem": "曾作为章首总览图使用，但它讲的是读完相关小节后才能理解的具体机制，放在章首读者尚无上下文；现改为小节图，紧跟它所解释的段落。",
+            "whyBetter": "读者先读到书中的例子和规则，再看这张图把它们并排对照，能自己推出图中每个结论。",
+            "limits": "不是完整分类算法、测试配比或速度保证。只绘制书中两个例子，不表示其他组合不可行；规模还可能受时间和内存等约束影响。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ch12",
+      "number": 12,
+      "title": "第十二章 单元测试",
+      "englishTitle": "Unit Testing",
+      "file": "zh-cn/Chapter-12_Unit_Testing/Chapter-12_Unit_Testing.md",
+      "source": "en/Chapter-12_Unit_Testing/Chapter-12_Unit_Testing.md",
+      "route": "/zh-cn/Chapter-12_Unit_Testing/Chapter-12_Unit_Testing",
+      "content": "assets/reader-content/ch12.json",
+      "codeVariants": "assets/code-variants/ch12.json",
+      "sectionGuides": [
+        {
+          "id": "ch12-01",
+          "chapter": 12,
+          "title": "换了存储格式，哪条测试不该失败？",
+          "summary": "沿用交易示例，把内部记录的逗号换成竖线作为纯重构示意；相同余额不变，内部字符串断言却从通过变为失败，显露测试对实现的意外依赖。",
+          "enabled": true,
+          "sourceSections": [
+            "Strive for Unchanging Tests",
+            "Preventing Brittle Tests",
+            "Test via Public APIs"
+          ],
+          "afterParagraph": "但若要让测试只在系统发生实质性变化时才失败，这是最重要的一步。",
+          "desktop": "assets/diagrams/sections/ch12-01.svg",
+          "mobile": "assets/diagrams/sections/ch12-01-mobile.svg",
+          "pedagogy": {
+            "action": "replace",
+            "readerQuestion": "交易余额没有改变，只换内部序列化格式，为什么一个测试会失败而另一个不变？",
+            "expectedAnswer": "断言内部记录恰好等于me,you,100依赖了用户不依赖的存储细节；公开余额50与120的断言表达交易契约。读写同步换格式且行为不变时，只有前者因旧格式假设失败，这叫脆弱而非不稳定。",
+            "visualEncoding": "上方并置重构前后记录，公开余额重复在对应位置以明确控制变量；下方以相同断言为行、变更前后为列显示结果，唯一变化的失败格对应内部格式断言。",
+            "sourceEvidence": "Test via Public APIs  通过公共API进行测试：例12-2的shouldSaveSerializedData及例12-3的shouldTransferFunds；定位语changing the serialization format。Preventing Brittle Tests  避免脆弱测试：脚注1区分flaky。",
+            "beforeProblem": "原图只是给四类变更加彩色行，与原文列表及概览重复；无法直接指出哪个断言隐含了脆弱依赖。",
+            "whyBetter": "同一交易、同一公开余额和同一测试构成受控对照，具体显示一个无害变更如何传播到内部断言。移动版保留该对照而不缩小桌面表格。",
+            "limits": "竖线格式为明确标注的示意，假定读写同步更新且公开行为不变；不是建议忽略真实契约变更或永不修改测试。两个余额及原逗号格式来自原文，非测量数据。"
+          }
+        },
+        {
+          "id": "ch12-02",
+          "chapter": 12,
+          "title": "同一次创建，两种断言，两类错误",
+          "summary": "固定createUser调用，对比原始写入、等价替代API和写后误删；交互断言分别产生误报与漏报，而最终状态断言区分用户存在与不存在。",
+          "enabled": true,
+          "sourceSections": [
+            "Test via Public APIs",
+            "Test State, Not Interactions"
+          ],
+          "afterParagraph": "我们就倾向于使用真实对象，而不是模拟对象。",
+          "desktop": "assets/diagrams/sections/ch12-02.svg",
+          "mobile": "assets/diagrams/sections/ch12-02-mobile.svg",
+          "pedagogy": {
+            "action": "replace",
+            "readerQuestion": "只确认put被调用，会在什么具体变更下误报失败，又会漏掉什么缺陷？",
+            "expectedAnswer": "改用另一API写入等价用户时，原put验证失败但用户仍存在；put之后误删用户时，put验证仍通过但用户已不存在。getUser非空的状态断言在这两种情况下给出与创建用户契约一致的结果。",
+            "visualEncoding": "固定公共调用，三行显示内部步骤与最终状态，两列独立显示交互和状态断言结果；失败误报、通过漏报有文字标签，颜色不是唯一编码。",
+            "sourceEvidence": "Test State, Not Interactions  测试状态，而不是交互：例12-4的verify(database).put与例12-5的getUser非空；定位语deleted from the database shortly after it was written及slightly different API to write an equivalent record。",
+            "beforeProblem": "旧图虽提到两个正确反例，但主要是公共API流程与文字框；没有对同一变更同时展示两种测试结果。",
+            "whyBetter": "读者可以逐行根据是否调用put和最终是否有用户自行核对两个判定，直接推导假阳性与假阴性的差别。",
+            "limits": "insert只是原文所说等价写入API的示意名称；这里比较的是这两条具体断言，不宣称所有交互验证错误、所有状态验证完备，亦不把测试替身种类与断言策略混同。"
+          }
+        },
+        {
+          "id": "ch12-03",
+          "chapter": 12,
+          "title": "一个方法，拆出两项行为测试",
+          "summary": "显示商品名和低余额警告虽在同一个方法内，却是两项保证；删去警告的示意变更只让警告测试失败。转账的两个余额断言则共同描述一个行为。",
+          "enabled": true,
+          "sourceSections": [
+            "Test Behaviors, Not Methods",
+            "Structure tests to emphasize behaviors"
+          ],
+          "afterParagraph": "而不是不断往已有方法里堆内容。",
+          "desktop": "assets/diagrams/sections/ch12-03.svg",
+          "mobile": "assets/diagrams/sections/ch12-03-mobile.svg",
+          "pedagogy": {
+            "action": "replace",
+            "readerQuestion": "一个方法显示两条消息，为什么应有两项行为测试，而转账的两个余额断言却可以放在一起？",
+            "expectedAnswer": "商品名显示和低余额警告是不同条件下的不同保证，分别测试可以显示删去警告时哪项保证失效。转账后付款和收款余额共同描述一次转账的结果，因此单一行为不等于单一断言。",
+            "visualEncoding": "同一方法名连接两个有具体given/then的测试栏，对同一删除警告变更给出通过与失败对照；底部以150/20转100后为50/120的双断言反例限定拆分原则。",
+            "sourceEvidence": "Test Behaviors, Not Methods  测试行为，而不是方法：例12-8的user.getBalance() < LOW_BALANCE_THRESHOLD及例12-10的两个命名测试；Structure tests to emphasize behaviors  用测试结构突出行为：例12-11的两个余额断言。",
+            "beforeProblem": "旧转账图的数值正确，也明确了多个断言可以属于一个行为；但方法与行为多对多只出现在桌面页脚，移动版根本看不到两者区别。",
+            "whyBetter": "两个布局都能从相同被测方法下不同条件、预期与变更后结果辨别行为边界，而转账小对照保留旧图最有解释力的限制条件。",
+            "limits": "例12-9/10使用阈值加2及交易3，但例12-8片段没有扣款；本图明确按片段设置余额低于阈值，不推测未展示的扣款。删除警告是示意变更；不暗示一个行为只能调用一个方法或只能有一条断言。"
+          }
+        },
+        {
+          "id": "ch12-04",
+          "chapter": 12,
+          "title": "DAMP：显露真正的预期",
+          "summary": "展开论坛通用验证helper里的布尔表达式，看到NORMAL和BANNED的注册预期都写反了；再与显式状态、动作、false断言及有意义的共享边界对照。",
+          "enabled": true,
+          "sourceSections": [
+            "Tests and Code Sharing: DAMP, Not DRY",
+            "Shared Values",
+            "Shared Helpers and Validation",
+            "Defining Test Infrastructure"
+          ],
+          "afterParagraph": "而不只是为了减少重复。",
+          "desktop": "assets/diagrams/sections/ch12-04.svg",
+          "mobile": "assets/diagrams/sections/ch12-04-mobile.svg",
+          "pedagogy": {
+            "action": "replace",
+            "readerQuestion": "论坛的通用验证helper藏了什么错误？拆开它是否意味着所有辅助方法都不该共享？",
+            "expectedAnswer": "把注册状态与state == BANNED比较，使普通用户预期未注册、被禁用户预期已注册，正好反了。直接展示BANNED、注册尝试、未注册false就能看清契约；无关默认值以及只断言能否访问账户这一概念事实的helper仍可共享。",
+            "visualEncoding": "真值对照表把两种用户、helper算出的预期和正确契约按列对齐；右侧或下方给出禁止注册的显式given/when/then。底部用具体helper的职责区分默认值、单一事实和混杂验证。",
+            "sourceEvidence": "Tests and Code Sharing: DAMP, Not DRY  测试和代码共享：DAMP，而不是DRY：例12-19中isEqualTo(user.getState() == State.BANNED)与例12-20的isFalse；Shared  Helpers  and  Validation  共享辅助方法和验证：例12-25的assertUserHasAccessToAccount；Defining Test Infrastructure  定义测试基础设施：must always have its own tests。",
+            "beforeProblem": "旧图只有相关细节留在主体、无关细节放helper的二分框；没有展示原文helper中的真实逻辑错误，而且不足以解释有循环的聚焦断言helper为何仍有意义。",
+            "whyBetter": "两行真值表能直接复算并发现反向预期，显式测试展示修正后的契约；共享边界以具体概念职责判断，而不是把增加重复本身说成学习益处。",
+            "limits": "图中注册步骤为语义简写，省略原例对BannedUserException的捕获；false指未注册而非没有异常。权限helper只表达单一访问事实，并非证明全部权限系统正确；跨套件基础设施仍须独立测试。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ch13",
+      "number": 13,
+      "title": "第十三章 测试替身",
+      "englishTitle": "Test Doubles",
+      "file": "zh-cn/Chapter-13_Test_Doubles/Chapter-13_Test_Doubles.md",
+      "source": "en/Chapter-13_Test_Doubles/Chapter-13_Test_Doubles.md",
+      "route": "/zh-cn/Chapter-13_Test_Doubles/Chapter-13_Test_Doubles",
+      "content": "assets/reader-content/ch13.json",
+      "codeVariants": "assets/code-variants/ch13.json",
+      "sectionGuides": [
+        {
+          "id": "ch13-01",
+          "chapter": 13,
+          "title": "替身返回 true，过期卡为什么仍返回 false？",
+          "summary": "由构造函数传入同一 CreditCardService 接口的替身，再跟踪 makePayment 的过期判断：过期卡直接返回 false，未调用扣款；有效卡才调用始终返回 true 的替身。",
+          "enabled": true,
+          "sourceSections": [
+            "Seams",
+            "An Example Test Double"
+          ],
+          "afterParagraph": "通常需要先重构或重写，才能补上适当的测试。",
+          "desktop": "assets/diagrams/sections/ch13-01.svg",
+          "mobile": "assets/diagrams/sections/ch13-01-mobile.svg",
+          "pedagogy": {
+            "action": "replace",
+            "readerQuestion": "传入始终返回 true 的扣款替身后，为什么过期卡测试仍能断言 makePayment 返回 false？",
+            "expectedAnswer": "PaymentProcessor 的构造函数接收 CreditCardService；测试换掉服务实现，不改 makePayment。过期卡在 isExpired 判断后直接返回 false，因此 chargeCreditCard 不会执行。有效卡才执行替身并返回 true；这不能证明真实扣款成功。",
+            "visualEncoding": "在构造函数接收依赖的标注下，过期与有效两条输入轨迹分别终止于 false 和经过 chargeCreditCard 到 true；明确标记过期路径的服务调用次数为 0，有效路径为 1。手机改为两条上下排列的独立轨迹。",
+            "sourceEvidence": "### An Example Test Double 测试替身示例，例13-1 if (creditCard.isExpired()) { return false; }，例13-2 return true，例13-3 assertThat(success).isFalse()；### Seams，例13-4和例13-5构造函数接收替身。",
+            "beforeProblem": "原图只是生产/测试实现汇合到接口的框图，真正解释过期分支的内容藏在脚注中；汇合箭头还可能被误解为同时注入两个实现。",
+            "whyBetter": "两条具体执行路径解释为什么粗糙替身仍能支持某个测试，并让读者看见未执行的依赖和没有得到验证的扣款行为。",
+            "limits": "0次和1次由例13-1的单次调用路径推导，不是书中另加的 verify 断言。有效卡 true 是该替身的响应，不是真实扣款证据；图不推荐把此替身用于所有支付测试。"
+          }
+        },
+        {
+          "id": "ch13-03",
+          "chapter": 13,
+          "title": "数据库不可用于测试时，替换哪一层？",
+          "summary": "示意保留真实的两个调用者，只在无法用于测试的数据库 API 边界提供共享 fake；写入调用改变 fake 状态，另一调用者读回该状态，而非为每个调用者分别写 fake。",
+          "enabled": true,
+          "sourceSections": [
+            "When Should Fakes Be Written?",
+            "Prefer Realism Over Isolation",
+            "Tests become less effective",
+            "Conclusion"
+          ],
+          "afterParagraph": "而不是为每个调用该 API 的类都写一个。",
+          "desktop": "assets/diagrams/sections/ch13-03.svg",
+          "mobile": "assets/diagrams/sections/ch13-03-mobile.svg",
+          "pedagogy": {
+            "action": "replace",
+            "readerQuestion": "数据库本身无法用于测试时，fake 放在哪里，才能继续执行调用者的真实逻辑并检查写后读？",
+            "expectedAnswer": "通常只在无法用于测试的代码根部，也就是数据库 API 处提供 fake，而不是为每个调用者单独提供 fake。真实调用者对共享 fake 执行 save(item) 后，另一个调用者可以通过 get(id) 读回记录，因为两者访问相同状态。仍须另有运行真实数据库的测试。",
+            "visualEncoding": "上方两个真实调用者保持不变，带编号的 save/get 箭头都指向同一数据库 API 边界。边界内空集合经保存变为含 id 的集合，读回箭头返回 item 并对齐结果断言。只高亮被替换的数据库层，避免把真实调用者也画成替身。",
+            "sourceEvidence": "### When Should Fakes Be Written? 何时应该编写伪实现？，只应在无法用于测试的那部分代码的根部提供伪实现，数据库 API 而不是每个调用该 API 的类；#### Tests become less effective 测试有效性降低，database.save(item) 后 database.get(item.id()) 访问内部状态。",
+            "beforeProblem": "原通用决策树把速度、确定性、构造依赖压成单一是/否条件，缺少具体约束变化；无 fake 分支也容易被读成只能打桩或交互验证，遗漏继续使用真实实现或请 API 维护者提供 fake 等选择。",
+            "whyBetter": "聚焦书中一个明确的替换边界，读者可以沿两次调用推导保存与读取如何共享状态，同时看见哪些真实代码仍在测试中执行。移到源文明确讨论数据库 API fake 的段落，避免泛化为机械决策规则。",
+            "limits": "A/B 是说明替换边界的示意调用者，不是书中新增的类；假定先保存再读取、同一实例、支持该契约，不暗示并发、持久性或事务保证。图不是所有依赖选择的完整决策树。"
+          }
+        },
+        {
+          "id": "ch13-04",
+          "chapter": 13,
+          "title": "同一 ID 保存两次，fake 也必须报错",
+          "summary": "将书中的重复 ID 契约变为并排执行轨迹：从空库开始，首次 save(id) 成功并改变状态，第二次必须报错；只测首次成功会漏掉允许重复保存的 fake。",
+          "enabled": true,
+          "sourceSections": [
+            "The Fidelity of Fakes",
+            "Fakes Should Be Tested",
+            "When Should Fakes Be Written?"
+          ],
+          "afterParagraph": "但只需由伪实现的维护者运行，因此额外负担可以控制在较小范围内。",
+          "desktop": "assets/diagrams/sections/ch13-04.svg",
+          "mobile": "assets/diagrams/sections/ch13-04-mobile.svg",
+          "pedagogy": {
+            "action": "replace",
+            "readerQuestion": "只测试新 ID 能保存，为什么还不能证明 fake 遵守真实数据库的契约？",
+            "expectedAnswer": "在书中给定的契约下，新 ID 首次保存成功，而重复 ID 必须报错。同一套公开接口测试应分别运行于真实实现与 fake。一个重复保存也成功的 fake 会通过首次保存测试，但在重复保存断言上失败。",
+            "visualEncoding": "真实实现与 fake 使用对齐的空集合、第一次 save(id)、含 id 状态、第二次 save(id)、报错五步轨迹。下方反例高亮第二次错误地成功的 fake 与 expect error 的冲突，明确哪条新增断言能揭示偏离。",
+            "sourceEvidence": "### The Fidelity of Fakes 伪实现的保真度，database.save(itemId) 在 ID 不存在时成功，在已存在时报错；### Fakes Should Be Tested  伪实现也需要测试，针对公开接口的同一套测试分别运行于真实实现和伪实现。",
+            "beforeProblem": "原图只把抽象契约测试分叉到磁盘与内存实现，未显示输入序列、状态变化和导致失败的具体差异。",
+            "whyBetter": "通过第二次保存这一最小变化，显示单次成功测试遗漏的契约分支；读者能指出偏离发生在哪一步，而非只记住 fake 也要测试。",
+            "limits": "重复 ID 报错是书中此数据库的示例契约，不是所有数据库 save/upsert API 的通用规则。示意未指定异常类，不证明持久化、并发或性能；真实性能应使用真实实现测试。"
+          }
+        },
+        {
+          "id": "ch13-05",
+          "chapter": 13,
+          "title": "只改版本号，姓名测试为什么会失败？",
+          "summary": "对照例13-18和13-19的 setText 验证：版本号从2.1改为2.2时，锁定全部参数的旧测试失败，只锁定姓名的测试仍通过；姓名真变错时，后者仍会失败。",
+          "enabled": true,
+          "sourceSections": [
+            "When Is Interaction Testing Appropriate?",
+            "Avoid overspecification"
+          ],
+          "afterParagraph": "每个测试只检查确认相应行为正确所必需的最少内容。",
+          "desktop": "assets/diagrams/sections/ch13-05.svg",
+          "mobile": "assets/diagrams/sections/ch13-05-mobile.svg",
+          "pedagogy": {
+            "action": "replace",
+            "readerQuestion": "问候语只升级版本号时，怎样让姓名测试不失败，又仍能发现姓名错误？",
+            "expectedAnswer": "姓名测试将 setText 第一参数限定为 eq(\"Fake User\")，其余参数用 any()。版本由2.1变2.2时不失败，但姓名变成其他值时仍失败。晨间问候与图标由独立晨间测试约束；减少限定并不是删除必要断言。",
+            "visualEncoding": "将旧的三参数精确验证与新的姓名参数验证对照，再用两行实际调用变动组成通过/失败矩阵：只改版本号、只改姓名。高亮变化参数及相应失败单元格，下方单列晨间测试仍要检查的参数与图标。",
+            "sourceEvidence": "#### Avoid overspecification 避免过度限定，例13-18 verify(userPrompt).setText(\"Fake User\", \"Good morning!\", \"Version 2.1\") 和 setIcon；例13-19 setText(eq(\"Fake User\"), any(), any()) 以及独立的晨间设置测试。",
+            "beforeProblem": "原图只有锁定所有字段到分开测试的文字框，没有真实的参数变化和断言结果，读者无法检查为什么重构后的测试既更聚焦又未放过姓名错误。",
+            "whyBetter": "一个无关变化与一个真实缺陷作为对照，展示两个测试的不同结果，解释 any() 放宽的范围以及仍保留的约束。",
+            "limits": "版本2.2和错误姓名 Other 是基于书中代码构造的明确示意变动，不是生产数据。图仅讨论必要交互测试的断言范围，不证明 UI 最终显示正确；优先状态测试的原则仍然适用。"
+          }
+        },
+        {
+          "id": "ch13-06",
+          "chapter": 13,
+          "title": "同一权限检查：改状态、改响应、查调用",
+          "summary": "沿用例13-7至13-9，对照添加授权用户、预设 lookupUser 返回值与验证 lookupUser 调用，直接展示权限断言如何改变；同一个 mock 可以同时用于打桩和交互验证。",
+          "enabled": true,
+          "sourceSections": [
+            "Techniques for Using Test Doubles",
+            "Faking",
+            "Stubbing",
+            "Interaction Testing"
+          ],
+          "afterParagraph": "但应尽可能避免，因为过度使用很容易让测试变得脆弱。",
+          "desktop": "assets/diagrams/sections/ch13-06.svg",
+          "mobile": "assets/diagrams/sections/ch13-06-mobile.svg",
+          "pedagogy": {
+            "action": "keep",
+            "readerQuestion": "同样调用 userHasAccess，添加用户、预设 lookupUser 响应和验证 lookupUser 调用分别能说明什么？",
+            "expectedAnswer": "fake 执行添加用户的状态变化，权限断言由 false 变为 true；打桩把 lookupUser 的响应由 null 改为 USER，也使权限断言由 false 变为 true，但不证明实际添加或查询用户的实现。交互验证只检查 lookupUser 是否按参数调用，不检查权限返回值。mock 是可用于后两种技术的对象，不是与它们并列的互斥类别。优先使用可行的真实实现，不能使用时通常优先 fake。",
+            "visualEncoding": "同一权限检查的三条横向轨迹在手机上改为纵向分段。fake 轨迹将空授权集合变成含 u 的集合，并对齐 false/true 断言；打桩轨迹将 null/USER 响应对齐相同断言；交互轨迹把 verify 调用和未断言的返回值并列。同一 mock 的标注连接打桩与交互两种用途，而非划分对象分类树。",
+            "sourceEvidence": "## Techniques for Using Test Doubles 测试替身的使用技术；### Faking 使用伪实现，例13-7 addAuthorizedUser；### Stubbing 打桩，例13-8 thenReturn(null)/thenReturn(USER)；### Interaction Testing 交互测试，例13-9 verify(mockAuthorizationService).lookupUser(USER_ID)；### Mocking Frameworks 模拟框架；#### Prefer to perform interaction testing only for state-changing functions  尽量只对改变状态的函数进行交互测试，不改变状态的函数通常不需要额外验证交互。",
+            "beforeProblem": "曾作为章首总览图使用，但它讲的是读完相关小节后才能理解的具体机制，放在章首读者尚无上下文；现改为小节图，紧跟它所解释的段落。",
+            "whyBetter": "读者先读到书中的例子和规则，再看这张图把它们并排对照，能自己推出图中每个结论。",
+            "limits": "u 表示 USER_ID，USER 表示同一用户。图中是书中测试示意，不是可直接编译的完整代码；lookupUser 交互验证用于说明证据边界，不推荐对普通只读调用重复验证。例子不证明真实授权服务的正确性，也不把三种技术定义为通用互斥分类。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ch14",
+      "number": 14,
+      "title": "第十四章 较大规模测试",
+      "englishTitle": "Larger Testing",
+      "file": "zh-cn/Chapter-14_Larger_Testing/Chapter-14_Larger_Testing.md",
+      "source": "en/Chapter-14_Larger_Testing/Chapter-14_Larger_Testing.md",
+      "route": "/zh-cn/Chapter-14_Larger_Testing/Chapter-14_Larger_Testing",
+      "content": "assets/reader-content/ch14.json",
+      "codeVariants": "assets/code-variants/ch14.json",
+      "sectionGuides": [
+        {
+          "id": "ch14-01",
+          "chapter": 14,
+          "title": "复用生产环境省了什么，又暴露了什么？",
+          "summary": "Webdriver Torso 在 YouTube 生产环境上传测试视频；复用环境省去另建 SUT 的维护，但公开频道让测试数据被用户发现。成本按类别权衡，不画单调增长阶梯。",
+          "enabled": true,
+          "sourceSections": [
+            "Fidelity",
+            "The System Under Test",
+            "The benefits of hermetic SUTs",
+            "Authoring Large Tests"
+          ],
+          "afterParagraph": "不过，这件事提醒我们：放在生产环境中的任何测试数据，都可能被最终用户发现，我们必须考虑这种可能性并做好准备。",
+          "desktop": "assets/diagrams/sections/ch14-01.svg",
+          "mobile": "assets/diagrams/sections/ch14-01-mobile.svg",
+          "pedagogy": {
+            "action": "replace",
+            "readerQuestion": "既然生产环境仿真度最高，为什么复用它可能省钱却仍然需要安全保障？",
+            "expectedAnswer": "复用已有生产 SUT 无需另建环境且维护成本较低，但测试写入会进入真实系统。Webdriver Torso 的公开频道与视频被公众发现；这说明节省环境维护不等于消除用户可见副作用或降低总成本。",
+            "visualEncoding": "脚本上传沿实线进入 YouTube，再由公开频道分成质量验证与公众发现两条路径；并列成本账目把少掉的另建维护与增加的安全保障分开，未使用统一成本刻度。",
+            "sourceEvidence": "The benefits of hermetic SUTs 封闭式 SUT 的好处，下方案例研究：生产环境测试的风险与 Webdriver Torso：这个频道是公开的，其中大多数视频也一样；Authoring Large Tests 编写大型测试：生产环境中的 SUT，也比维护隔离、封闭的 SUT 成本低，必须从整体上评估成本。",
+            "beforeProblem": "原图近似重画图14-1的阶梯，移动版遗漏生产环境的维护节省；框内罗列特点，没有展示风险如何发生。",
+            "whyBetter": "实际案例把真实视频上传与公众发现连接起来，并将环境维护和安全保障拆成两个账目，避免将所有成本与仿真度画成单调关系。",
+            "limits": "案例说明测试数据可被发现，不表示视频造成服务中断或必然伤害用户；不提供成本量化或声称生产测试总成本更低。"
+          }
+        },
+        {
+          "id": "ch14-03",
+          "chapter": 14,
+          "title": "日志没有这个请求，重放怎么办？",
+          "summary": "以地图请求为示意：提交后录制通过才保存请求/响应；开发时匹配东京请求才能返回已录制响应，大阪请求未匹配则不能通过，需运行录制模式。",
+          "enabled": true,
+          "sourceSections": [
+            "What Are Larger Tests?",
+            "Record/replay proxies"
+          ],
+          "afterParagraph": "因此，让录制模式测试易于运行、速度快且稳定，非常重要。",
+          "desktop": "assets/diagrams/sections/ch14-03.svg",
+          "mobile": "assets/diagrams/sections/ch14-03-mobile.svg",
+          "pedagogy": {
+            "action": "revise",
+            "readerQuestion": "日志只有东京的地图响应，客户端改为请求大阪时，重放测试为什么不能直接通过？",
+            "expectedAnswer": "重放用匹配器按请求选择已录制响应，不能凭日志覆盖之外的新请求生成正确响应。新增测试或客户端显著变化导致未匹配时，需要工程师运行录制模式；只有录制测试通过才生成新日志。",
+            "visualEncoding": "保留录制到日志到重放的主结构，用实际文字请求/响应对替换抽象日志框；匹配和未匹配分支分别到已录制响应与录制反馈路径，并明确重放不实时调用依赖。",
+            "sourceEvidence": "Record/replay proxies 录制/重放代理：只有测试通过，才会生成日志；通过匹配器匹配请求；请求可能无法再与已录制流量文件中的内容匹配。What Are Larger Tests? 什么是较大规模测试？：网站使用了谷歌地图 API。",
+            "beforeProblem": "原图的通过门槛和反馈环有价值，但没有可追踪的请求/响应对；移动版只有重新录制文字，没有回到录制模式的路径。",
+            "whyBetter": "只改变请求城市就能沿分支推导重放结果；两版都能看到新日志从何而来，以及保存前必须通过的门槛。",
+            "limits": "东京、大阪和响应 T 是教学示例，不是本书记录的真实请求或 Google Maps API 格式。匹配到日志不证明实时依赖的契约仍然正确；未匹配不自动证明客户端有缺陷。"
+          }
+        },
+        {
+          "id": "ch14-04",
+          "chapter": 14,
+          "title": "响应不同，何时才能说 B 错了？",
+          "summary": "将本章 xyzzy 搜索断言作为对照：A 含 Colossal Cave、B 不含，仅比较只能发现差异；明确要求结果必须包含它，才能据该断言判 B 失败。A-A 对照帮助识别噪声。",
+          "enabled": true,
+          "sourceSections": [
+            "Verification",
+            "A/B Diff Regression Testing A/B",
+            "Limitations"
+          ],
+          "afterParagraph": "让人一眼就能看出当前变更的影响，以及下一个待发布版本的累积影响。",
+          "desktop": "assets/diagrams/sections/ch14-04.svg",
+          "mobile": "assets/diagrams/sections/ch14-04-mobile.svg",
+          "pedagogy": {
+            "action": "revise",
+            "readerQuestion": "同搜 xyzzy，A 含 Colossal Cave 而 B 不含，比较器能据此自动认定 B 错吗？",
+            "expectedAnswer": "不能，A/B 只揭示响应变化，基准也可能不正确。若另有本章示例的显式断言，规定结果必须包含 Colossal Cave，则 B 不满足该断言；实际差异仍需人结合预期核对，A-A 比较可辅助识别噪声。",
+            "visualEncoding": "保留相同输入分叉至两个真实版本的拓扑，在响应中显示唯一被比较的内容。随后并列无断言与有显式断言的判定，A-A 示例显示同版本两次也可能不同。",
+            "sourceEvidence": "Verification 验证：搜索 xyzzy，assertThat(response.Contains(\"Colossal Cave\"))；A/B Diff Regression Testing  A/B 差异回归测试：A-A 测试识别非确定性；Limitations  局限性：差异本身无法说明结果是好是坏，甚至基线版本是否有效也不明确。",
+            "beforeProblem": "原图的输入分叉与结果汇合准确、有价值，但响应只有 A/B 字母，读者看不到为什么比较和正确性判断是两件事。",
+            "whyBetter": "同一组具体输出，在缺少和加入预期条件时结论不同，直接展示正确性判断所依赖的信息，而不是只加免责声明。",
+            "limits": "响应有无及 A-A 变化都是用本章查询构造的教学示例，不是 Google 实测结果。A-A 有差异是噪声调查线索，不是自动过滤所有差异的许可；满足单条断言不证明版本整体正确。"
+          }
+        },
+        {
+          "id": "ch14-05",
+          "chapter": 14,
+          "title": "没显示广告：代码坏了，还是超时了？",
+          "summary": "本章广告服务在内部超时后不展示广告而非返回500；这种降级可能看似业务缺陷。区分内部服务期限与测试等待，展示重跑加重过载的循环及事件等待的退出条件。",
+          "enabled": true,
+          "sourceSections": [
+            "Speeding up tests",
+            "Driving out flakiness"
+          ],
+          "afterParagraph": "因此，必须清楚地呈现这种失败原因，并让内部超时时间易于针对测试场景调整。",
+          "desktop": "assets/diagrams/sections/ch14-05.svg",
+          "mobile": "assets/diagrams/sections/ch14-05-mobile.svg",
+          "pedagogy": {
+            "action": "replace",
+            "readerQuestion": "广告未显示为什么可能是内部超时，为什么盲目重跑或统一缩短超时不能解决？",
+            "expectedAnswer": "本章广告服务在截止时间内无法供给广告时会省略广告而不是返回500，测试可能误认为代码损坏。过载会让固定等待和超时失败增多，重跑再增加负载。测试应响应完成状态并保留最大等待期限，内部期限应可配置且诊断可见，调整时权衡用户可接受时限与执行不确定性。",
+            "visualEncoding": "先把内部超时和无广告输出因果连接，再把失败后的重跑路径闭合回负载；单独的测试等待状态具有完成和到期两个出口，避免把服务内部超时与测试休眠混为一谈。",
+            "sourceEvidence": "Driving out flakiness  消除测试不稳定性：无法在规定时间内提供广告，不会返回500错误，而是不展示广告；延长系统内部超时时间可以减少不稳定性。Speeding up tests  加快测试运行：更频繁的重跑又会进一步加重负载；轮询状态变化并设置超时。",
+            "beforeProblem": "原图的负载反馈环有效，但右侧只是措施清单；等待超时没有区分测试等待和服务内部期限，也未说明为什么生产降级会误导测试。",
+            "whyBetter": "缺失广告这一具体症状可追踪到隐藏的内部超时；等待状态的两个出口展示如何及时结束又不无限等待，同时保留重跑放大的机制。",
+            "limits": "重跑指失败测试的重新执行，不是服务 RPC 的自动重试策略。事件等待不保证治愈内部超时；不设虚构时长，不假定所有缺失广告均由超时导致。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ch15",
+      "number": 15,
+      "title": "第十五章 弃用",
+      "englishTitle": "Deprecation",
+      "file": "zh-cn/Chapter-15_Deprecation/Chapter-15_Deprecation.md",
+      "source": "en/Chapter-15_Deprecation/Chapter-15_Deprecation.md",
+      "route": "/zh-cn/Chapter-15_Deprecation/Chapter-15_Deprecation",
+      "content": "assets/reader-content/ch15.json",
+      "sectionGuides": [
+        {
+          "id": "ch15-01",
+          "chapter": 15,
+          "title": "存在已久，不等于已经过时",
+          "summary": "LaTeX 是年龄不构成弃用理由的原文反例；新系统用户仍经组件依赖旧系统，则揭示为什么发布替代品没有自动消除旧系统成本。",
+          "sourceSections": [
+            "Why Deprecate?",
+            "Why Is Deprecation So Hard?"
+          ],
+          "afterParagraph": "用户可能需要使用新系统，却仍然依赖某些使用旧系统的组件。",
+          "desktop": "assets/diagrams/sections/ch15-01.svg",
+          "mobile": "assets/diagrams/sections/ch15-01-mobile.svg",
+          "enabled": true,
+          "pedagogy": {
+            "action": "replace",
+            "readerQuestion": "LaTeX 已改进几十年，为什么不能据此弃用；已有新系统时，又为什么旧系统仍有成本？",
+            "expectedAnswer": "年龄本身不代表过时。用户可以直接使用新系统，却通过组件继续依赖旧系统。确实过时且有功能相当替代品时，仍需权衡持续维护和兼容负担与迁移、移除投入；原地演进通常更容易。",
+            "visualEncoding": "一侧明确呈现 LaTeX 的多年改进反例；另一侧让同一用户的依赖分叉为新系统与组件到旧系统两条路径。路径共存显示采用新系统不等于旧依赖消失，下方并列两侧成本而不使用虚构的金额或大小。",
+            "sourceEvidence": "Why Deprecate? 为什么要弃用？：'LaTeX 排版系统，已经改进了几十年'、'用户可能需要使用新系统，却仍然依赖某些使用旧系统的组件'；为什么弃用这么难？ (Why Is Deprecation So Hard?)：'让系统原地演进通常比彻底替换更容易'。",
+            "beforeProblem": "旧图只有确认前提、比较成本、保留或弃用几个框，分支没有让读者看到输入条件如何改变判断，也漏掉原文 LaTeX 反例与并存依赖。",
+            "whyBetter": "用年龄反例排除错误理由，再沿具体双路径说明旧成本为何尚未消失；不把新替代品的存在当作删除旧系统的充分条件。",
+            "limits": "依赖图是原文情境的示意，不声称 LaTeX 有某个新替代品，也不把原地演进说成始终更便宜。成本未量化，弃用价值仍需组织自行评估。"
+          }
+        },
+        {
+          "id": "ch15-02",
+          "chapter": 15,
+          "title": "静态清单之外，谁还在用？",
+          "summary": "对照静态引用和计划停服揭示的运行依赖，说明代码搜索、日志采样与停服演练提供的证据如何互补，并可能改变迁移计划。",
+          "sourceSections": [
+            "Compulsory Deprecation",
+            "Discovery"
+          ],
+          "afterParagraph": "不过静态分析工具提供的语义信息，通常已经足以发现对过时系统的所有依赖。",
+          "desktop": "assets/diagrams/sections/ch15-02.svg",
+          "mobile": "assets/diagrams/sections/ch15-02-mobile.svg",
+          "enabled": true,
+          "pedagogy": {
+            "action": "replace",
+            "readerQuestion": "静态清单中没有识别服务甲，为什么预告的临时停服仍可能发现它依赖旧系统？",
+            "expectedAnswer": "Code Search 和 Kythe 能发现库或瘦客户端的静态引用；日志和运行采样补充动态依赖信息。提前公布并逐渐延长的计划停服通过观察失效发现未知依赖，依赖方随后迁移或协商调整时间表。",
+            "visualEncoding": "左侧实线连接已知库引用，问号标记尚未识别的服务关系；右侧同一个服务与旧系统之间出现标明运行依赖的虚线，并标出临时停服与服务失效。下方明确把新证据接到迁移或调整时间表，而不是接到立即删除。",
+            "sourceEvidence": "Compulsory Deprecation  强制性弃用：'公布一系列时长逐步增加的计划停服安排'、'发现运行中的系统之间尚未识别的依赖'、'共同调整时间表'；Discovery  发现使用者：'Code Search'、'日志记录和运行时采样'、'客户有责任提供充分的测试'。",
+            "beforeProblem": "旧图的建议性与强制性属性表易用短列表表达；它把依赖发现压在页脚，且与总览重复组织承诺，没有解释发现新依赖后判断如何变化。",
+            "whyBetter": "同一服务从关系未知到运行依赖被识别，读者可以看到不同证据分别补足什么，以及为什么原时间表可能需要改变。",
+            "limits": "服务甲是明确标注的示意，不是事故复盘。问号表示尚未识别，不表示静态分析不可能发现运行依赖。停服需预告和规划；测试与采样不能证明不存在所有未知依赖。"
+          }
+        },
+        {
+          "id": "ch15-03",
+          "chapter": 15,
+          "title": "同一条弃用警告，何时才有用？",
+          "summary": "区分 A 到 B 到 C 的依赖方向和 C 的警告传到 A 的方向；对照泛报与新修改行上的替代调用提示，并以数据迁移邮件说明准备时间。",
+          "sourceSections": [
+            "Deprecation Warnings",
+            "Preventing backsliding"
+          ],
+          "afterParagraph": "让我们在增加警告的同时，避免用户产生警报疲劳。",
+          "desktop": "assets/diagrams/sections/ch15-03.svg",
+          "mobile": "assets/diagrams/sections/ch15-03-mobile.svg",
+          "enabled": true,
+          "pedagogy": {
+            "action": "replace",
+            "readerQuestion": "为什么构建 A 时看到 C 已弃用可能只是噪声，而编辑调用时得到替代建议更有用？",
+            "expectedAnswer": "A 依赖 B，B 依赖 C，C 的警告可以在构建 A 时出现；累积的传递性警告可能造成警报疲劳。有效警告要给出实际可执行的替代调用或迁移步骤，并在编写相关代码或迁移准备期出现；谷歌针对新修改行显示函数弃用警告。",
+            "visualEncoding": "实线箭头 A 到 B 到 C 表示依赖，单独的反向虚线路径表示警告到达 A。下方把不含下一步的 C 已弃用消息，与明确限定新修改行、oldCall() 改为 newCall() 的示意提示对照；数据邮件对照停用前数月和最后一个周末。",
+            "sourceEvidence": "Deprecation Warnings  弃用警告：'库 A 依赖库 B，库 B 又依赖库 C'、'可操作性和相关性'、'只在新修改的代码行上显示这些警告'、'移除旧系统前几个月'；Preventing backsliding  防止新增旧系统依赖：'在代码审查时提示'。",
+            "beforeProblem": "旧图虽有 A/B/C，却没有画出反向警告传播；又断言用户无法直接处理、最终忽略全部警告，强于原文。右侧两个原则框没有展示一条实际可操作提示。",
+            "whyBetter": "同一依赖情境对照消息内容和出现时机两项变化，读者能从可见提示中读出下一步；使用可能而非必然描述警报疲劳。",
+            "limits": "oldCall()/newCall() 是示意名称，不是真实 API 或普遍可一对一替换的承诺。新旧功能仍须逐项评估；警告并不自动迁移存量调用。图未展开强制性弃用中更强的目标级警告。"
+          }
+        },
+        {
+          "id": "ch15-04",
+          "chapter": 15,
+          "title": "迁移与收紧许可，缺一不可",
+          "summary": "甲迁到新系统后，从旧系统可见性白名单中删去甲，保留尚未迁出的乙；新增丙和甲的回退都不再获准依赖旧目标。",
+          "sourceSections": [
+            "Milestones",
+            "Discovery",
+            "Migration",
+            "Preventing backsliding"
+          ],
+          "afterParagraph": "自动化工具会定期检查白名单，随着各个依赖方迁出旧系统，逐步删减相应条目。",
+          "desktop": "assets/diagrams/sections/ch15-04.svg",
+          "mobile": "assets/diagrams/sections/ch15-04-mobile.svg",
+          "enabled": true,
+          "pedagogy": {
+            "action": "replace",
+            "readerQuestion": "甲已经迁出、乙仍在使用时，旧系统的依赖和可见性白名单应如何变化？",
+            "expectedAnswer": "迁移工具更新甲的引用并通过审查与测试核对行为；白名单在甲迁出后定期删去甲，留下乙。构建规则阻止名单外用户新增旧目标依赖；Tricorder 在符号级提醒新增旧调用。乙仍在使用意味着甲的迁出不等于整个旧系统已可移除。",
+            "visualEncoding": "前后两个拓扑保持甲乙身份不变：甲的边由旧系统转向新系统，乙的边仍指向旧系统。白名单从 {甲,乙} 变为 {乙}，并明确显示甲与新增丙再接旧系统会被拒绝。变更边和集合成员共同表达迁移及防倒退。",
+            "sourceEvidence": "Preventing backsliding  防止新增旧系统依赖：'随着各个依赖方迁出旧系统，逐步删减相应条目'、'Tricorder 会在代码审查时提示'；Migration  迁移：'将代码库中的引用实际改为新的库或运行时服务'；Discovery  发现使用者：'充分的测试'；Milestones  制定里程碑：'具体的阶段性里程碑'。",
+            "beforeProblem": "旧图重复总览的发现、迁移、防倒退流程；箭头还容易暗示防倒退必须等迁移结束才开始。没有显示白名单究竟删谁、为什么尚不能删旧系统。",
+            "whyBetter": "前后边与集合差异让读者可直接判定迁移成果、剩余工作和新依赖的准入结果，展示防倒退与迁移并行发生。",
+            "limits": "甲乙丙和集合是示意，不是谷歌实际名单或构建语法。白名单控制构建目标依赖，不等于自动发现所有运行时使用或自动迁移用户；删许可发生在迁出之后。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ch16",
+      "number": 16,
+      "title": "第十六章 版本控制和分支管理",
+      "englishTitle": "Version Control and Branch Management",
+      "file": "zh-cn/Chapter-16_Version_Control_and_Branch_Management/Chapter-16_Version_Control_and_Branch_Management.md",
+      "source": "en/Chapter-16_Version_Control_and_Branch_Management/Chapter-16_Version_Control_and_Branch_Management.md",
+      "route": "/zh-cn/Chapter-16_Version_Control_and_Branch_Management/Chapter-16_Version_Control_and_Branch_Management",
+      "content": "assets/reader-content/ch16.json",
+      "sectionGuides": [
+        {
+          "id": "ch16-01",
+          "chapter": 16,
+          "title": "本地已有提交，同事为何拿不到",
+          "summary": "在 DVCS 示例中，本地已有搜索提交 B 时，组织指定的 origin/main 仍只有 A；B 合入该主干后，从主干同步的同事才得到 B。",
+          "enabled": true,
+          "sourceSections": [
+            "Centralized VCS Versus Distributed VCS",
+            "Source of Truth"
+          ],
+          "afterParagraph": "工作进入该仓库的主干分支，才算“完成”。",
+          "desktop": "assets/diagrams/sections/ch16-01.svg",
+          "mobile": "assets/diagrams/sections/ch16-01-mobile.svg",
+          "pedagogy": {
+            "action": "replace",
+            "readerQuestion": "我已经在本地提交搜索功能 B，为什么从组织主干同步的同事还拿不到它？",
+            "expectedAnswer": "DVCS 允许本地仓库独立提交，不能因此推断组织主干已经包含该变更。组织以指定仓库的指定分支为权威；B 合入那里后，同事从该分支同步才得到 B。不同组织可以认定不同权威来源。",
+            "visualEncoding": "两个仓库的可见内容分别写为 A 与 A+B，前后状态保持对应；新增 B 首先只出现在本地，合入箭头才把它带到指定主干。明确写出同事同步的来源，避免把本地提交能力画成权威身份。",
+            "sourceEvidence": "#### Distributed VCS 分布式 VCS：修改后在本地提交，再把一组提交推送到另一个仓库；### Source of Truth 权威来源：明确指定某个仓库中的某个分支作为权威来源；不同组织可以认定不同的权威来源。",
+            "beforeProblem": "原图把集中式和分布式两个类别连接到权威来源，再列出新人起点等抽象用途，没有展示技术上成功提交但共享基线未变化的状态差异。",
+            "whyBetter": "可以直接比较两处内容，回答 B 在哪里、为什么同事还没有、哪个动作改变共享版本，而不只记忆 VCS 分类。",
+            "limits": "A、B、搜索功能和 origin/main 是说明性命名；origin/main 在这里指组织所指定的远端主干，不声称名为 origin 的仓库天然权威。省略具体 PR、审查和同步命令；合入不保证构建正确。"
+          }
+        },
+        {
+          "id": "ch16-03",
+          "chapter": 16,
+          "title": "只新增库 B，为何拉入两版 Abseil",
+          "summary": "保留原有 A 到 Abseil 原版的依赖路径，用虚线标出新增 B 后引入未改名分叉的第二条路径，显示同一程序的传递依赖如何改变。",
+          "enabled": true,
+          "sourceSections": [
+            "Scenario: Multiple Available Versions"
+          ],
+          "afterParagraph": "这既昂贵又令人遗憾，也不利于规模扩展。",
+          "desktop": "assets/diagrams/sections/ch16-03.svg",
+          "mobile": "assets/diagrams/sections/ch16-03-mobile.svg",
+          "pedagogy": {
+            "action": "revise",
+            "readerQuestion": "应用只添加了对库 B 的依赖，为什么可能出现构建失败或运行时缺陷？",
+            "expectedAnswer": "原来应用经库 A 只引入 Abseil 原版。库 B 依赖未改名且实现不匹配的 Abseil 分叉；新添到 B 的边使同一程序同时拉入两版同名库和符号，因而可能产生构建或运行时问题。",
+            "visualEncoding": "实线表示原有依赖，带新增文字的虚线单独标出应用到 B 的新边；箭头始终从使用方指向依赖。两条路径尽头均写明 Abseil，同名符号与不同实现并列；新增前后结论明确对应新边。",
+            "sourceEvidence": "### Scenario: Multiple Available Versions  场景：多个可用版本：却没有重命名库或其中的符号；同时依赖 Abseil 原版和分叉版；添加一项新依赖也可能需要运行整个代码库的全部测试。",
+            "beforeProblem": "原图的传递依赖方向与同名分叉关系有价值，但所有边同等呈现，看不出到底新增了哪条边以及新增前为何没有这项混用风险。",
+            "whyBetter": "保留有效的依赖拓扑，并把触发变化的输入单独标记；读者可沿新增路径找到第二版，而不是只接受图下的风险断言。",
+            "limits": "应用及库 A、B 是说明性名称，不是实测项目。这里只讨论未改名且不匹配的分叉，不声称所有多版本都会失败，也不把仓库暂时存放两版等同于同一程序混用两版。"
+          }
+        },
+        {
+          "id": "ch16-04",
+          "chapter": 16,
+          "title": "仓库有两版，新应用能任选吗",
+          "summary": "对照 v1、v2 升级前后的仓库存放状态与应用 A、B、C 的依赖。迁移中 A 暂留 v1、B 已用 v2，但新应用 C 不准再依赖 v1。",
+          "enabled": true,
+          "sourceSections": [
+            "One Version",
+            "The “One-Version” Rule"
+          ],
+          "afterParagraph": "能够更准确地传达这条规则的重要含义。",
+          "desktop": "assets/diagrams/sections/ch16-04.svg",
+          "mobile": "assets/diagrams/sections/ch16-04-mobile.svg",
+          "pedagogy": {
+            "action": "replace",
+            "readerQuestion": "迁移中仓库同时存放 v1 和 v2，新应用 C 是否可以像尚未迁出的 A 一样选择 v1？",
+            "expectedAnswer": "不可以。无法一次原子升级所有使用方时，旧版可暂供未迁出的存量使用方，新依赖只准选择指定新版，存量逐步迁完后回到稳定单版本状态。",
+            "visualEncoding": "以应用为行、升级阶段为列，实际填入 v1 或 v2；迁移列中 A 仍用 v1、B 已用 v2，C 的 v2 单元格配有禁止新增 v1 的明确标记。仓库保留行独立于应用依赖行，区分代码共存和选择规则。",
+            "sourceEvidence": "### One Version  单版本：在稳定状态下，仓库中只能检入该包的一个版本；脚注9：升级期间可能同时检入两个版本，新添依赖时只有一个版本可选；### The “One-Version” Rule  “单版本”规则：添加新依赖时限制可选版本；脚注11：禁止新使用方依赖旧版本，再逐步迁移。",
+            "beforeProblem": "原图只是三个阶段名称与段落摘要，无法追踪某个使用方的依赖，也未在视觉上分开仓库存放两版与新使用方拥有两个选项。",
+            "whyBetter": "可以逐行跟踪 A 和 B 何时改变版本，并用迁移列同时回答仓库中有什么、谁还在用旧版、谁被禁止新增旧依赖。",
+            "limits": "A、B、C、v1、v2 是说明性例子，不表示真实应用数量、版本号或固定迁移周期。C 在迁移中首次加入，完成后仍依赖 v2。仓库共存不保证同一程序能安全链接两版。"
+          }
+        },
+        {
+          "id": "ch16-05",
+          "chapter": 16,
+          "title": "拆开仓库不必拆成多个依赖版本",
+          "summary": "同一张 A、B 依赖公共库 L 的图，分别放在一个物理仓库和三个独立仓库内。仓库边界改变，指定依赖仍唯一；多仓库需要额外协调主干、先后和依赖关系。",
+          "enabled": true,
+          "sourceSections": [
+            "Monorepos",
+            "Future of Version Control"
+          ],
+          "afterParagraph": "以某种方式构建类似 VMR 的体系，可能更能兼得两者之长。",
+          "desktop": "assets/diagrams/sections/ch16-05.svg",
+          "mobile": "assets/diagrams/sections/ch16-05-mobile.svg",
+          "pedagogy": {
+            "action": "replace",
+            "readerQuestion": "为了分别管理应用 A、B 的权限而拆分仓库，是否必然让它们各自选择公共库 L 的不同版本？",
+            "expectedAnswer": "不必。物理仓库可以分开，只要仍有一致的逻辑主干、提交先后和明确依赖关系，并保持新增依赖版本唯一。单个物理仓库也不能自动阻止同名分叉违反规则。",
+            "visualEncoding": "上下或左右复用同一张 A 指向 L、B 指向 L 的依赖拓扑，只改变围住节点的仓库边界；独立仓库仍共同指向一个 L，而不是复制 L。文字将权限隔离与跨仓库协调的要求分别落到这两个布局。",
+            "sourceEvidence": "## Monorepos    单体代码仓库：关键不在于是否采用单体代码仓库；对提交顺序达成一致，并能掌握依赖关系图；使用分离的仓库也能遵守单版本规则；## Future of Version Control  版本控制的未来：对什么是主干、哪项变更先发生有一致认识，并有机制描述依赖关系。",
+            "beforeProblem": "原图主要是两列优缺点加共同目标，没有画出仓库边界或实际依赖；移动版只有分离仓库连向共同约束，还可能让人误以为单仓库不受约束。",
+            "whyBetter": "保持依赖图不变而只移动物理边界，使读者能直接观察仓库数改变而版本选择不必增加；不再依赖抽象的共同目标箭头。",
+            "limits": "这是策略与结构示意，不声称跨仓库提交天然原子、所有工具自动实现虚拟单仓库、或隔离完全没有成本。A、B、L 不是实际仓库；互不依赖的独立工作可采用独立仓库策略。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ch17",
+      "number": 17,
+      "title": "第十七章 代码搜索",
+      "englishTitle": "Code Search",
+      "file": "zh-cn/Chapter-17_Code_Search/Chapter-17_Code_Search.md",
+      "source": "en/Chapter-17_Code_Search/Chapter-17_Code_Search.md",
+      "route": "/zh-cn/Chapter-17_Code_Search/Chapter-17_Code_Search",
+      "content": "assets/reader-content/ch17.json",
+      "sectionGuides": [
+        {
+          "id": "ch17-01",
+          "chapter": 17,
+          "title": "搜得到，为什么引用列表还没变？",
+          "summary": "新增 worker.cc 中的 Send 调用后，文本查询已显示它，旧交叉引用图却还未包含这次调用；两种结果使用的索引状态不同。",
+          "enabled": true,
+          "sourceSections": [
+            "Scale",
+            "Index Latency"
+          ],
+          "afterParagraph": "两者不同步，会引发一些虽不常见、却反复出现的用户问题。",
+          "desktop": "assets/diagrams/sections/ch17-01.svg",
+          "mobile": "assets/diagrams/sections/ch17-01-mobile.svg",
+          "pedagogy": {
+            "action": "replace",
+            "readerQuestion": "刚提交的 worker.cc: Send() 能搜到，为什么 Send 的使用位置列表仍可能没有它？",
+            "expectedAnswer": "文本搜索可以按改动文件增量更新；书中交叉引用图需要构建分析且每日生成，所以在文本已更新而语义图尚未更新的示例时刻，新调用可能尚未进入使用位置列表。",
+            "visualEncoding": "同一新增调用位于顶部；并列或上下排列的索引状态分别明确标记已含新提交和上次构建，输出中 worker.cc 的出现与缺席可以直接对照；后续状态注明语义图纳入该提交才可出现。",
+            "sourceEvidence": "Scale 规模：搜索索引即时更新，交叉引用索引却每日更新；脚注8：局部交叉引用图合并为全局图；Index Latency 索引延迟：只能保留一个版本的交叉引用索引。",
+            "beforeProblem": "原图展示两条构建流水线，虽写明更新节奏不同，却没有一处新代码或两种矛盾的可见结果。",
+            "whyBetter": "具体指出哪个调用已经能搜到、在哪个列表中仍缺席，以及索引包含该提交后结果如何改变。",
+            "limits": "示例只说明可能的过渡状态，不保证每次提交都出现此问题；每日构建是书中历史实现，不代表当前服务，也不承诺精确等待时间。"
+          }
+        },
+        {
+          "id": "ch17-02",
+          "chapter": 17,
+          "title": "没进候选，定义再相关也排不上",
+          "summary": "查询 Point 时，假设常规检索只取到 a.cc、b.cc 中的使用处；补充检索把 point.h 的定义加入，才有机会参与评分。",
+          "enabled": true,
+          "sourceSections": [
+            "Query independent signals",
+            "Query dependent signals",
+            "Retrieval"
+          ],
+          "afterParagraph": "只对检索阶段最有希望的文档作完整评估。",
+          "desktop": "assets/diagrams/sections/ch17-02.svg",
+          "mobile": "assets/diagrams/sections/ch17-02-mobile.svg",
+          "pedagogy": {
+            "action": "replace",
+            "readerQuestion": "Point 的定义明明更相关，为什么改进排序仍可能找不到 point.h？",
+            "expectedAnswer": "只有检索到的文件才能评分；常规检索若在使用处停止，定义就不在候选集中。专查定义和文件名的补充检索可加入遗漏文件，但并不保证其最终排名。",
+            "visualEncoding": "固定三份源码，逐行对照常规候选与补充后候选的成员关系；point.h 的未入选与新加入形成唯一改变，使候选变化而非评分变化成为可见原因。",
+            "sourceEvidence": "Retrieval 检索：只有检索到的文档才能参与评分；取得固定数量的结果后停止可能漏掉定义；补充查询只搜索定义和文件名。Query dependent signals 查询相关信号：符号和文件名匹配获加分。Query independent signals 查询无关信号：文档优先级。",
+            "beforeProblem": "原图用类名、常规检索、补充检索和评分的流程框重复正文，未列出候选集合或遗漏的具体文件。",
+            "whyBetter": "同一行文件在前后两个候选集合中的状态变化证明了补充检索的作用；读者能指出任何排序都无法挽救的那一个漏项。",
+            "limits": "三份文件和提前停止是明确标注的示例，不是固定候选数量；不提供虚构评分、固定权重或定义必排第一的保证。"
+          }
+        },
+        {
+          "id": "ch17-03",
+          "chapter": 17,
+          "title": "首屏没显示，就不用改吗？",
+          "summary": "同一 OldApi 查询在两分片中有四个示例匹配：首屏仅列 a.cc、b.cc 并不排除 y.cc、z.cc；重构须明确请求各片全部结果。",
+          "enabled": true,
+          "sourceSections": [
+            "Completeness: All Versus Most-Relevant Results",
+            "Completeness: Repository at Head"
+          ],
+          "afterParagraph": "结果还可以按字母顺序返回，而不是按相关性排序，这对某些工具很有用。",
+          "desktop": "assets/diagrams/sections/ch17-03.svg",
+          "mobile": "assets/diagrams/sections/ch17-03-mobile.svg",
+          "pedagogy": {
+            "action": "replace",
+            "readerQuestion": "首屏只显示 a.cc 和 b.cc，能否据此断言 OldApi 的所有调用都已修改？",
+            "expectedAnswer": "不能。日常排序搜索通常优先考虑各片高优先级匹配，首屏不代表全集；重构或工具处理需要明确请求所有分片的全部匹配，完整性仍限于所选版本的已索引内容。",
+            "visualEncoding": "两个分片各以高、低优先级排列具体文件；同一文件行分别标出在示例首屏和全部结果中的出现情况，低优先级 y.cc、z.cc 仍保留 OldApi 的事实可直接读出。",
+            "sourceEvidence": "Completeness: All Versus Most-Relevant Results 完整性：所有结果与最相关结果：分片内文件按优先级排列，可以从每个分片获取全部结果；脚注16：避免响应过于庞大并保护系统。Completeness: Repository at Head 完整性：代码仓库的最新版本：未索引内容可能遗漏。",
+            "beforeProblem": "原图的分片只有匿名线条和圆点；所谓全部与高优先级没有对应到可检查的同一组结果。",
+            "whyBetter": "读者能准确点名只按首屏重构会漏掉哪些文件，并区分低优先级与不匹配。",
+            "limits": "两个分片、四个文件与首屏条目数仅为示例，不是实际分片或配额；全集不是不受资源约束，也不是未索引内容或其他版本的全集，文本匹配本身不授权机械替换。"
+          }
+        },
+        {
+          "id": "ch17-04",
+          "chapter": 17,
+          "title": "工作区结果不是基线与改动的并集",
+          "summary": "查询 OldApi 的示例中，基线中的 a.cc 被修改、d.cc 被删除，只有未修改的 b.cc 和新增的 c.cc 命中；更新的 head 也不能替代同步快照。",
+          "enabled": true,
+          "sourceSections": [
+            "Search Index",
+            "Completeness: Head Versus Branches Versus All History Versus Workspaces"
+          ],
+          "afterParagraph": "工作区索引必须准确反映工作区的当前状态，才有价值。",
+          "desktop": "assets/diagrams/sections/ch17-04.svg",
+          "mobile": "assets/diagrams/sections/ch17-04-mobile.svg",
+          "pedagogy": {
+            "action": "replace",
+            "readerQuestion": "工作区把 a.cc 改成 NewApi、删除 d.cc、增加 c.cc 后，为什么搜索 OldApi 只该返回 b.cc 和 c.cc？",
+            "expectedAnswer": "历史索引只负责工作区同步快照中未修改的文件；本地改动按当前状态搜索。修改替代基线内容，删除不再命中，新增可命中，更新的 head 不能混入该工作区。",
+            "visualEncoding": "每个文件逐行对照同步快照、工作区覆盖状态和最终命中；a.cc、d.cc 的旧命中被排除，b.cc 保留、c.cc 加入；独立提示 head 新增 h.cc 不在同步快照中。",
+            "sourceEvidence": "搜索索引：未修改的文档通过历史索引搜索，范围隐式限定在工作区所同步的代码仓库状态；修改通过监听文件变更保持同步并采用暴力搜索。Completeness: Head Versus Branches Versus All History Versus Workspaces 完整性：最新版本、分支、完整历史与工作区：工作区索引必须准确反映当前状态。",
+            "beforeProblem": "原图以加号或两条合流箭头表示基线加改动，却没有说明修改和删除应遮蔽旧匹配，容易让人误以为结果直接求并集。",
+            "whyBetter": "四种文件状态给出能手工验证的结果集合，并用 head 独有文件作为混错版本的反例。",
+            "limits": "文件名、API 名及快照 S 为示例；覆盖规则是从只查未修改基线及当前工作区状态推导的行为，不声称某种内部合并算法；未承诺语义交叉引用也与工作区同步。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ch18",
+      "number": 18,
+      "title": "第十八章 构建系统与构建理念",
+      "englishTitle": "Build Systems and Build Philosophy",
+      "file": "zh-cn/Chapter-18_Build_Systems_and_Build_Philosophy/Chapter-18_Build_Systems_and_Build_Philosophy.md",
+      "source": "en/Chapter-18_Build_Systems_and_Build_Philosophy/Chapter-18_Build_Systems_and_Build_Philosophy.md",
+      "route": "/zh-cn/Chapter-18_Build_Systems_and_Build_Philosophy/Chapter-18_Build_Systems_and_Build_Philosophy",
+      "content": "assets/reader-content/ch18.json",
+      "sectionGuides": [
+        {
+          "id": "ch18-01",
+          "chapter": 18,
+          "title": "互不依赖，就能安全并行吗？",
+          "summary": "B 与 C 虽无依赖边，却可能写同一状态文件；交换最后写入者即可得到不同结果。对照声明并隔离输出的两个动作，说明安全并行需要掌握资源读写，而不只是任务依赖图。",
+          "sourceSections": [
+            "The dark side of task-based build systems",
+            "Artifact-Based Build Systems",
+            "Other nifty Bazel tricks"
+          ],
+          "afterParagraph": "系统完全掌握何时运行哪些工具，因此能够作出更强的保证，在确保正确性的同时大幅提高效率。",
+          "desktop": "assets/diagrams/sections/ch18-01.svg",
+          "mobile": "assets/diagrams/sections/ch18-01-mobile.svg",
+          "enabled": true,
+          "pedagogy": {
+            "action": "replace",
+            "readerQuestion": "A 依赖 B 和 C，B 与 C 没有依赖边，为什么仍不能据此认定两者可以安全并行？",
+            "expectedAnswer": "任务可能访问图中未声明的共享资源。B、C 都写同一个状态文件时，最后写入者改变，结果也会改变；声明输入输出并隔离动作可以避免图示的共享文件冲突，但不能证明任意自定义动作都确定。",
+            "visualEncoding": "两行保留同样的 B、C 写入操作，只交换顺序，得到状态值 C 与 B。对照区让 B 只产出 b.jar、C 只产出 c.jar，两个输出不相连，显示移除的是共享写入冲突而非任务本身。",
+            "sourceEvidence": "The dark side of task-based build systems 基于任务的构建系统的缺陷：B 和 C 用同一个文件记录状态、结果依赖谁先完成；Other nifty Bazel tricks 其他巧妙的 Bazel 做法：隔离环境、无法阻止动作开发人员引入非确定性过程。",
+            "beforeProblem": "原图把两种模型分别排成三个结论框，箭头仅复述抽象论证，未展示隐藏资源，也无法从可见证据推导并行风险。",
+            "whyBetter": "只改变操作顺序便显示两个不同结果，提供了无依赖边不足以证明安全并行的具体反例；独立输出的对照明确展示约束解决了什么问题。",
+            "limits": "status.txt、B/C 写入值和 b.jar/c.jar 是对原文共享文件反例的示意实例，不是原文代码。时间行不表示耗时；隔离不保证任意动作确定。放置点保留，隔离机制是后文的具象预告。"
+          }
+        },
+        {
+          "id": "ch18-02",
+          "chapter": 18,
+          "title": "改 common，为什么不重建 otherlib？",
+          "summary": "保留原文的 common 变更传播图，补上 Guava，并同时显示使用方指向依赖的声明和反向的产物流。common、mylib、MyBinary 重建，otherlib 与 Guava 复用；只改 MyBinary.java 则只重建 MyBinary。",
+          "sourceSections": [
+            "A functional perspective"
+          ],
+          "afterParagraph": "并行执行与结果复用，还将成为后文所述分布式、高可扩展性构建系统的基础。",
+          "desktop": "assets/diagrams/sections/ch18-02.svg",
+          "mobile": "assets/diagrams/sections/ch18-02-mobile.svg",
+          "enabled": true,
+          "pedagogy": {
+            "action": "revise",
+            "readerQuestion": "common 源码变化后，为什么要重建 mylib 和 MyBinary，却可以复用 otherlib；若只改 MyBinary.java 呢？",
+            "expectedAnswer": "mylib 使用 common 的产物，MyBinary 又使用 mylib，变更影响沿使用方方向传播；otherlib 和 Guava 的输入未变，可复用已有产物。只改 MyBinary.java 时其他目标的输入不变。",
+            "visualEncoding": "顶部明确写出 MyBinary → mylib 与 mylib → common/otherlib/Guava 的依赖声明；主图反向绘制依赖产物到使用方的供给路径，暖色节点明确标为重建、绿色节点标为复用。对照文字给出仅改 MyBinary.java 的重建集合。",
+            "sourceEvidence": "A functional perspective 函数式视角：BUILD 示例的 mylib deps，以及英文段落 'if MyBinary.java changes'、'If a source file for ... common changes'、'but reuse ... otherlib'。",
+            "beforeProblem": "现有 common 传播图有实质解释价值，值得保留；但缺少 Guava，主图方向只以图例交代，未与实际 deps 声明比较，也没有源文件改动位置不同的对照。",
+            "whyBetter": "补齐原 BUILD 示例的第三方输入；同时展示两种相反方向，降低把影响传播箭头误读为依赖声明的风险，并能比较根部与叶部变更的不同结果。",
+            "limits": "依原文进行目标级简化，省略源文件节点、工具链及动作级优化；假定其他输入不变且旧产物可用。重建不是输出字节必然变化的断言，也不是所有 Bazel 配置的精确调度轨迹。"
+          }
+        },
+        {
+          "id": "ch18-03",
+          "chapter": 18,
+          "title": "哈希能拒绝错文件，不能找回文件",
+          "summary": "固定 S1 清单中的 Guava 哈希 H1，对比三种获取结果：H2 被拒绝，镜像中的 H1 可接受，所有副本缺失则失败。升级须批准并提交新清单，不能为了构建成功自动改用新版。",
+          "sourceSections": [
+            "Other nifty Bazel tricks"
+          ],
+          "afterParagraph": "否则，即使已提交的哈希值能保证安全，构建系统的可用性仍将受制于第三方。",
+          "desktop": "assets/diagrams/sections/ch18-03.svg",
+          "mobile": "assets/diagrams/sections/ch18-03-mobile.svg",
+          "enabled": true,
+          "pedagogy": {
+            "action": "replace",
+            "readerQuestion": "上周提交要求 H1，但第三方给 H2 或已宕机时，构建应接受什么，镜像又能解决哪一种问题？",
+            "expectedAnswer": "清单不变则只接受哈希匹配的 H1；H2 必须拒绝。第三方不可用时可校验并使用镜像中的 H1，若没有任何副本仍会失败。批准并提交新清单才能有意接受 H2，旧提交仍要求 H1。",
+            "visualEncoding": "固定顶行 S1/H1，把三种获取结果逐行与同一预期值比较：H2 ≠ H1、H1 = H1、无文件可比较；对应拒绝、接受、失败。更新 S2 的独立说明与当前 S1 情景分开。",
+            "sourceEvidence": "Other nifty Bazel tricks 其他巧妙的 Bazel 做法：让外部依赖具有确定性；下载产物哈希不符则失败、批准并提交清单、旧依赖无法获取则失败、镜像到自己控制的服务器。",
+            "beforeProblem": "原图只有一般性的哈希相等决策，镜像只出现在脚注，却在副标题中写成决定可用性；没有展示内容改变和副本消失是两个不同故障。原图几何检查通过，问题在解释证据而非溢出。",
+            "whyBetter": "同一预期哈希下并列三个具体结果，让读者看到镜像可以保留可获取的旧内容，却不会使错误内容合法，也不会保证依赖永远可用。",
+            "limits": "S1/S2、H1/H2 是示意提交与哈希，不是真实值。哈希匹配仅核对内容身份，不证明依赖无漏洞；镜像也可能不可用。未展示真实下载器的缓存重试协议。"
+          }
+        },
+        {
+          "id": "ch18-05",
+          "chapter": 18,
+          "title": "直接使用，就直接声明依赖",
+          "summary": "固定 A 调用 C.f() 的示例，只比较是否声明 A → C。两侧都移除 B → C 后，借用传递依赖的一侧失去 C，而显式声明的一侧仍保有 C；严格模式能在移除前就发现缺少的直接依赖。",
+          "sourceSections": [
+            "Internal dependencies"
+          ],
+          "afterParagraph": "工程师可以移除不再需要的依赖项，无需担心破坏依赖自己目标的其他目标。",
+          "desktop": "assets/diagrams/sections/ch18-05.svg",
+          "mobile": "assets/diagrams/sections/ch18-05-mobile.svg",
+          "enabled": true,
+          "pedagogy": {
+            "action": "revise",
+            "readerQuestion": "A 的代码没改，为什么移除 B → C 仍会使 A 失败；补哪一条声明可以避免这种破坏？",
+            "expectedAnswer": "若 A 直接使用 C 的符号却仅经 B 获得 C，删除 B → C 就会切断这种偶然可用性。A 必须直接声明 A → C；严格模式会在使用未直接声明的符号时报告错误。",
+            "visualEncoding": "保留两侧同构的 A/B/C 图和右侧新增的 A → C 边。顶部把 A 的实际使用具体化为 C.f()；两侧 B → C 边都画删除叉，使读者可沿剩余依赖边判断 A 能否继续获得 C。",
+            "sourceEvidence": "Internal dependencies 内部依赖：A 使用 C 中定义的类；B 重构并移除对 C 的依赖会破坏 A；严格传递依赖模式报错并给出补依赖命令。",
+            "beforeProblem": "原图已经把删除依赖的反例与显式声明对照画出，明显超出原书图18-5的单纯传递链，值得保留。缺点是实际使用只写成抽象短语，虚线移除边容易被误读为仍存在的边。",
+            "whyBetter": "具体的符号使用和删除标记补足原图的推理前提，剩余的直接边足以说明为什么 A 在右侧不再受此次依赖删除影响。",
+            "limits": "C.f() 是原文类/符号使用的示意写法，不是原文代码。不保证 B 的任意重构都不会影响 A；只讨论删除 B → C 这条依赖。严格模式先报错的时间点已明确，不把左侧当成严格模式下的合法构建。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ch19",
+      "number": 19,
+      "title": "第十九章 Critique：谷歌的代码审查工具",
+      "englishTitle": "Critique: Google’s Code Review Tool",
+      "file": "zh-cn/Chapter-19_Critique_Googles_Code_Review_Tool/Chapter-19_Critique_Googles_Code_Review_Tool.md",
+      "source": "en/Chapter-19_Critique_Googles_Code_Review_Tool/Chapter-19_Critique_Googles_Code_Review_Tool.md",
+      "route": "/zh-cn/Chapter-19_Critique_Googles_Code_Review_Tool/Chapter-19_Critique_Googles_Code_Review_Tool",
+      "content": "assets/reader-content/ch19.json",
+      "sectionGuides": [
+        {
+          "id": "ch19-01",
+          "chapter": 19,
+          "title": "新快照清除哪些已审查标记？",
+          "summary": "示例中甲、乙都看过 v1，v2 只把 a.cc 的 n 改为 count：a.cc 对两人的已审查勾选都被清除，未变的 b.cc 保留勾选。文件已审查标记不同于 LGTM。",
+          "sourceSections": [
+            "Diffing",
+            "Commenting",
+            "Stage 5: Change Approvals (Scoring a Change)"
+          ],
+          "afterParagraph": "当作者修改文件、更新最新快照后，系统会清除所有审查者对该文件的“已审查”勾选。",
+          "enabled": true,
+          "pedagogy": {
+            "action": "replace",
+            "readerQuestion": "v2 只修改 a.cc，甲和乙对 a.cc、b.cc 的已审查勾选各会怎样？",
+            "expectedAnswer": "被修改的 a.cc 对所有审查者都清除已审查勾选；本例未修改的 b.cc 保持原有勾选。读者可以比较 v1、v2 查看修改；已审查勾选不是 LGTM，工具不要求每次修改都重获 LGTM。",
+            "visualEncoding": "实际的 n 到 count 的代码变化与 v1/v2 标题对应。按文件和审查者排列的前后矩阵显示 a.cc 的两枚勾变成空框，而 b.cc 的两枚勾保持；着色只突出发生变化的单元格。",
+            "sourceEvidence": "Diffing 差异比较：拖放选择要比较的版本；Commenting 提出审查意见：清除所有审查者对该文件的“已审查”勾选；Stage 5: Change Approvals (Scoring a Change) 阶段5：变更批准（对变更进行评分）：工具都不要求反复给出 LGTM。",
+            "beforeProblem": "原六步流程几乎复述原书图19-1和编号列表；快照只是框内名词，没有展示快照变化怎样影响审查者。",
+            "whyBetter": "同一文件跨版本、同一版本跨审查者的比较同时可见，能推导重新检查的范围，而不是误以为整项变更的所有勾选或 LGTM 都重置。",
+            "limits": "文件名、代码与两位审查者的初始勾选为教学示例。不展示差异算法、是否真正读过代码的证明或批准覆盖范围。"
+          },
+          "desktop": "assets/diagrams/sections/ch19-01.svg",
+          "mobile": "assets/diagrams/sections/ch19-01-mobile.svg"
+        },
+        {
+          "id": "ch19-03",
+          "chapter": 19,
+          "title": "甲已发意见，为什么还在等乙？",
+          "summary": "同一参与者名单的三次交接：先等甲乙审查；甲发布意见后，等作者处理且仍等乙；作者回复甲后，等甲复看且仍等乙。示例通过手动设置关注集明确等待关系，不假定具体自动更新算法。",
+          "sourceSections": [
+            "Commenting",
+            "“Whose turn” feature"
+          ],
+          "afterParagraph": "Critique 通过加粗相关用户名来标示关注集成员。",
+          "enabled": true,
+          "pedagogy": {
+            "action": "replace",
+            "readerQuestion": "甲已发布意见、乙还没审查时，是否就只该等作者？作者回复甲后又该等谁？",
+            "expectedAnswer": "本例甲发意见后仍需乙首次审查，关注集可同时包含作者和乙。作者处理并回复甲后，本例改为等待甲复看与乙首次审查。参与者名单未改变，当前等待的人改变了。",
+            "visualEncoding": "三列（手机三行）始终保留作者、甲、乙三个名字；仅当前需要回应者加粗并加底色。乙在三次状态中始终突出，甲和作者的强调交替；每一状态写明具体事件和下一步工作。",
+            "sourceEvidence": "“Whose turn” feature “轮到谁”功能：关注集包含当前需要作出回应、变更才能继续推进的人员；用户也可以自行管理；加粗相关用户名。Commenting 提出审查意见：意见完成后一次性整体发布。",
+            "beforeProblem": "旧图只有静态圈出的作者与甲，没有解释为何他们在集合里，也没有显示发布意见后谁进入、谁退出；每文件勾选的附注又混入另一种状态。",
+            "whyBetter": "读者能够追踪同一组三人的集合变化，并看出甲完成动作不能替代乙的工作；不再把关注集误当单人轮班或固定参与者名单。",
+            "limits": "这是明确手动设置的示例等待关系，不是对 Critique 自动更新算法的规范。关注集不等于批准名单，图中没有推断任何人的 LGTM、批准或文件已读状态。"
+          },
+          "desktop": "assets/diagrams/sections/ch19-03.svg",
+          "mobile": "assets/diagrams/sections/ch19-03-mobile.svg"
+        },
+        {
+          "id": "ch19-04",
+          "chapter": 19,
+          "title": "四种评分状态，下一步各找谁？",
+          "summary": "四个独立评分案例每次只缺一项：缺 LGTM、缺所需批准、尚有未解决意见，分别对应不同的下一步；只有三项都满足时可启动提交，提交前检查失败仍不能入库。",
+          "sourceSections": [
+            "Stage 5: Change Approvals (Scoring a Change)",
+            "Stage 6: Commiting a Change",
+            "Code Review Flow",
+            "Conclusion"
+          ],
+          "afterParagraph": "主动信任他人，也有助于建立信任、增强团队凝聚力。",
+          "enabled": true,
+          "pedagogy": {
+            "action": "replace",
+            "readerQuestion": "批准齐全却没有 LGTM、已有 LGTM 却缺批准、尚有意见未解决，下一步分别由谁处理？全满足就已提交了吗？",
+            "expectedAnswer": "基本规则要求至少一个 LGTM、所需批准齐全、没有未解决意见。缺前两项要由审查者给出，意见可由作者处理并解决。全满足只能启动提交，提交前检查仍可能阻止提交；团队可追加要求。",
+            "visualEncoding": "A/B/C 三个独立案例分别只缺一项，突出该单元格并在同一行给出负责人的下一步；D 三项满足标为可启动提交。手机按案例重排成横条，保留全部具体值和结论，不把表缩小。",
+            "sourceEvidence": "Stage 5: Change Approvals (Scoring a Change) 阶段5：变更批准（对变更进行评分）：每项变更都需要一个 LGTM；LGTM 和批准只能由审查者给出；作者可以在回复时自行标记已解决。Code Review Flow 代码审查流程：提交前检查未发现问题才提交。Conclusion 总结：团队可要求多位审查者给出 LGTM。",
+            "beforeProblem": "旧图把三个条件接到一个且门，只说明都需要，却不能让读者从一组具体状态判断还缺什么、由谁处理；手机汇合线也容易退化成泛化工作流。",
+            "whyBetter": "通过只改变一项输入的反例，直接检验 LGTM 与批准不可互换、软性意见仍需处理，以及审查就绪和实际入库之间的区别。",
+            "limits": "四行是独立教学案例而非按序发生的阶段；不指定批准者人数、所有权或语言政策，不引入 GitHub/Gerrit 规则；展示基本正常流程，未展开紧急强制提交和团队特有检查。"
+          },
+          "desktop": "assets/diagrams/sections/ch19-04.svg",
+          "mobile": "assets/diagrams/sections/ch19-04-mobile.svg"
+        }
+      ]
+    },
+    {
+      "id": "ch20",
+      "number": 20,
+      "title": "第二十章 静态分析",
+      "englishTitle": "Static Analysis",
+      "file": "zh-cn/Chapter-20_Static_Analysis/Chapter-20_Static_Analysis.md",
+      "source": "en/Chapter-20_Static_Analysis/Chapter-20_Static_Analysis.md",
+      "route": "/zh-cn/Chapter-20_Static_Analysis/Chapter-20_Static_Analysis",
+      "content": "assets/reader-content/ch20.json",
+      "codeVariants": "assets/code-variants/ch20.json",
+      "sectionGuides": [
+        {
+          "id": "ch20-01",
+          "chapter": 20,
+          "title": "两种误报，要用两类证据判断",
+          "summary": "保留技术正确性与积极行动的二维矩阵，并用原文 Hashtable.contains 示例提供意图、方法语义和实际修改三项证据，定位技术误报但非感知误报的格子。",
+          "enabled": true,
+          "sourceSections": [
+            "Focus on Developer Happiness"
+          ],
+          "afterParagraph": "反过来，如果分析报告了真实缺陷，开发者却没有理解，因此未采取行动，这也算感知误报。",
+          "desktop": "assets/diagrams/sections/ch20-01.svg",
+          "mobile": "assets/diagrams/sections/ch20-01-mobile.svg",
+          "pedagogy": {
+            "action": "revise",
+            "readerQuestion": "怎样证明一条报告在技术上误报，却不算感知误报？",
+            "expectedAnswer": "如果开发者本来就想查值，Hashtable.contains 与 containsValue 等价，怀疑其本应查键的报告便是技术误报。但开发者仍改用 containsValue 来改善可读性，属于积极行动，因此不算感知误报。反之，真实缺陷若未被理解、没有促成积极行动，也算感知误报。",
+            "visualEncoding": "矩阵的行是技术判断、列是是否采取积极行动。例 A 先展示意图、方法语义和修改证据，再在技术误报且有积极行动的格子标出 A。移动版也保留二维行列，而不是把矩阵退化为四项列表。",
+            "sourceEvidence": "### Focus on Developer Happiness  关注开发者的幸福感：'即使开发者本来就想检查值，改用 containsValue 也更清楚'；'开发者却没有理解，因此未采取行动，这也算感知误报'。",
+            "beforeProblem": "原矩阵准确地区分了两条轴，值得保留，但只有分类结论，未展示据何判定技术正确性及积极行动；移动版失去了行列关系。",
+            "whyBetter": "读者可先用意图与 API 语义判断行，再用实际有益修改判断列，独立复核例 A 的位置。颜色仅辅助，文字完整保留两种不同判断。",
+            "limits": "例 A 按原文构造，不是额外实测案例。矩阵仅讨论已经发出的报告，不表示漏报率，也不把点击次数等同于积极行动。"
+          }
+        },
+        {
+          "id": "ch20-03",
+          "chapter": 20,
+          "title": "诊断正确，为什么仍被认为无用？",
+          "summary": "用 Guava 只支持 %s 的原文案例，对照用户和分析器对占位符的不同计数，再展示无用反馈如何促成诊断改写，并与请修复的处理对象区分。",
+          "enabled": true,
+          "sourceSections": [
+            "Integrated Feedback Channels"
+          ],
+          "afterParagraph": "这可能决定开发者能否在阅读提示时学到东西。",
+          "desktop": "assets/diagrams/sections/ch20-03.svg",
+          "mobile": "assets/diagrams/sections/ch20-03-mobile.svg",
+          "pedagogy": {
+            "action": "replace",
+            "readerQuestion": "用户觉得占位符和参数一样多，为何分析器仍正确地报告参数过多，应该改谁的什么内容？",
+            "expectedAnswer": "原文中的 Guava 函数只识别 %s，用户却按 printf 的习惯使用其他说明符。无用反馈可直接提交给分析器作者，促使提示明确写出仅支持 %s；请修复则是审查者要求变更作者处理代码。原文观察到改写提示后，这类缺陷报告不再涌入；不解决高无用率问题的分析器可被禁用。",
+            "visualEncoding": "同一示意输入 'n=%d' 和一个参数，对齐展示用户数到一个占位符、函数实际识别零个 %s 的差异。随后用前后诊断和明确收件人展示反馈改变的是提示文字，并给出本例可据此改成 %s 的具体行动。",
+            "sourceEvidence": "### Integrated Feedback Channels  集成反馈渠道：'原因都是用户试图使用 %s 以外的说明符'、'直接说明该函数只接受 %s 占位符后，这类报告便不再涌入'；'直接向分析器作者'、'要求变更作者处理'、'团队就会禁用这些分析器'。",
+            "beforeProblem": "旧图重复总览的反馈分流框图，Guava 案例仅在底部一句话出现；移动版还将观察结果写成了消除误解的强因果断言。",
+            "whyBetter": "读者能重算两种计数、理解诊断为什么技术上正确，并看到提示改写如何提供可执行的修改依据。图中区分原文观察与示意调用，不声称每个用户都已理解。",
+            "limits": "格式串、参数和简短提示均为按原文构造或意译，不是精确 API 调用或诊断原文；不推广到所有 Guava 函数。点击无用本身既不证明技术误报，也不表示必然禁用分析器。"
+          }
+        },
+        {
+          "id": "ch20-04",
+          "chapter": 20,
+          "title": "跳过清理，会让谁的构建失败？",
+          "summary": "对照先开错误导致旧项目失败与先扫描、自动修复、测试提交清理后再启用错误的推广顺序，同时保留严格准入条件和提交前后发现失败的区别。",
+          "enabled": true,
+          "sourceSections": [
+            "Compiler Integration"
+          ],
+          "afterParagraph": "构建失败会在提交后由持续集成（CI）系统发现，或在提交前由预提交检查发现，参见前文。",
+          "desktop": "assets/diagrams/sections/ch20-04.svg",
+          "mobile": "assets/diagrams/sections/ch20-04-mobile.svg",
+          "pedagogy": {
+            "action": "revise",
+            "readerQuestion": "为什么不能直接把一个有价值的检查设为编译错误，跳过全库清理会造成什么后果？",
+            "expectedAnswer": "编译器检查须快、易修复、无感知误报且只查正确性，收益还要值得全库清理。若旧实例仍在，启用错误会让既有项目因编译器更新而失败。应先扫描并生成修复，测试和提交全库清理，然后启用错误；再次出现该问题会导致构建失败，由预提交检查或提交后的 CI 发现。",
+            "visualEncoding": "上方反事实路径把旧问题仍在与提前启用错误连接到旧项目失败；下方有序步骤显示清理如何改变启用时的代码库状态，并把再次引入同类问题作为触发新失败的条件。",
+            "sourceEvidence": "### Compiler Integration 编译器集成：'避免现有项目仅仅因为编译器更新就构建失败'、'先准备并测试一个覆盖整个代码库的修复变更，再提交它'、'提交后由持续集成（CI）系统发现，或在提交前由预提交检查发现'。",
+            "beforeProblem": "原图顺序正确，但只是四个步骤名称；没有说明跳过清理具体损害谁，且缺少提交前检查与提交后 CI 的发现边界。",
+            "whyBetter": "相同的启用动作在清理前后产生不同结果，反事实路径让顺序成为可以解释的工程约束，而非需要记忆的清单。",
+            "limits": "不声称启用后所有问题都在提交前发现，也不保证其他原因不会令旧项目构建失败。图不规定扫描时长；不满足准入的检查可在审查中展示或被屏蔽，不能自动升级为构建错误。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ch21",
+      "number": 21,
+      "title": "第二十一章 依赖管理",
+      "englishTitle": "Dependency Management",
+      "file": "zh-cn/Chapter-21_Dependency_Management/Chapter-21_Dependency_Management.md",
+      "source": "en/Chapter-21_Dependency_Management/Chapter-21_Dependency_Management.md",
+      "route": "/zh-cn/Chapter-21_Dependency_Management/Chapter-21_Dependency_Management",
+      "content": "assets/reader-content/ch21.json",
+      "sectionGuides": [
+        {
+          "id": "ch21-01",
+          "chapter": 21,
+          "title": "菱形冲突：哪个版本能同时满足？",
+          "summary": "将两条路径的声明范围逐一代入候选版本，显示迁移前无共同解；完成 libb 迁移并更新要求后才出现共同候选，不把约束通过当作 API 兼容证明。",
+          "enabled": true,
+          "sourceSections": [
+            "Conflicting Requirements and Diamond Dependencies",
+            "Semantic Versioning"
+          ],
+          "afterParagraph": "只要某个上层节点通过两条路径，要求同一个底层节点同时使用两个不兼容的版本，就会出问题。",
+          "desktop": "assets/diagrams/sections/ch21-01.svg",
+          "mobile": "assets/diagrams/sections/ch21-01-mobile.svg",
+          "pedagogy": {
+            "action": "replace",
+            "readerQuestion": "为什么 1.7 和 2.0 各能满足一条路径，却都不能同时满足 libuser 的两个依赖？libb 迁移后什么变了？",
+            "expectedAnswer": "示意中的 liba 要求 2≤v<3，旧 libb 要求 1≤v<2，交集为空；单一 libbase 版本无法满足两者。若 libb 完成迁移且把要求更新到 2≤v<3，2.0 才满足所有展示的约束，仍需验证实际用法。",
+            "visualEncoding": "迁移前后两个候选矩阵按相同的列排列 1.7 与 2.0，按行显示 liba、libb 及同时满足。只有 libb 的要求改变，2.0 列的最后一格才从否变可；颜色辅助文字而不是独立表达真假。",
+            "sourceEvidence": "### Conflicting Requirements and Diamond Dependencies  要求冲突与菱形依赖：'要求同一个底层节点同时使用两个不兼容的版本'、'尝试这些依赖的较新或较旧版本，找到兼容的组合'；### Semantic Versioning  语义化版本管理：'使所有版本约束都得到满足'。",
+            "beforeProblem": "旧图重复原书菱形结构，只标已更新与未更新，没有实际约束，读者不能验证为何没有共同候选。",
+            "whyBetter": "候选逐项代入范围即可推导无解与改变一条要求后的有解；相比原书拓扑图，增加可操作的约束计算，而非再画组件名称。",
+            "limits": "范围及候选为明确标注的教学示意，假定构建只用一个 libbase 版本。可仅指满足声明，不代表行为测试通过；迁移不等于只修改版本范围。未展开多版本隔离与跨版本类型传递问题。"
+          }
+        },
+        {
+          "id": "ch21-02",
+          "chapter": 21,
+          "title": "OWNERS 没变，使用范围变了",
+          "summary": "以同一个 third_party 包的前后使用路径对比：从演示引入到搜索的传递依赖，登记未更新而人员已转岗；删除会破坏构建，升级又缺乏维护经验。",
+          "enabled": true,
+          "sourceSections": [
+            "How Google Handles Importing Dependencies"
+          ],
+          "afterParagraph": "结果就是，Alice 和这个包的其他使用方将面临一次昂贵而艰难的升级",
+          "desktop": "assets/diagrams/sections/ch21-02.svg",
+          "mobile": "assets/diagrams/sections/ch21-02-mobile.svg",
+          "pedagogy": {
+            "action": "replace",
+            "readerQuestion": "既然 Alice 和 Bob 已登记为 OWNERS，为什么安全升级时仍可能无人具备维护能力，也不能直接删包？",
+            "expectedAnswer": "原文引入流程只要求登记两位维护者，不要求实现或升级经验。随后搜索经 Charlie 的模块传递依赖同一个包，人员转岗但登记未变；删包会破坏搜索构建，升级则需不熟悉实现的人跨过许多发布。",
+            "visualEncoding": "引入时的演示到包的短路径，与后来搜索到 Charlie 模块再到同一包的路径相对照；前后 OWNERS 的姓名相同但人员状态改变。箭头从使用方指向依赖，删除包的影响可沿路径回查。",
+            "sourceEvidence": "### How Google Handles Importing Dependencies  Google如何引入依赖：'两人都不必有维护 third_party 包的经验'、'Charlie 却在搜索基础设施的内部深处引入了它'、'OWNERS 文件却一直没人更新'、'直接删除就会破坏搜索团队'。",
+            "beforeProblem": "旧图把四段事件装入编号文字框，既看不到新增的传递路径，也不能从图中推导为什么删除不可行；时间箭头还可能被读成必然生命周期。",
+            "whyBetter": "把实际使用范围变化与静止的登记文件放在一起，具体显示名义责任、维护能力与删除影响为何脱节；没有虚构阶段时长或成本量级。",
+            "limits": "沿用原文假想场景，不声称所有外部包必然经历相同过程。图中省略其他使用方，不以节点个数代表使用量，也不主张登记两名 OWNERS 是充分或普适的维护政策。"
+          }
+        },
+        {
+          "id": "ch21-03",
+          "chapter": 21,
+          "title": "版本允许，不等于用法兼容",
+          "summary": "通过 Foo / Bar 的签名对照与无序流首项断言，展示声明版本范围和真实使用结果可向两个方向偏离；示意签名、数组和补丁编号均不冒充原文代码。",
+          "enabled": true,
+          "sourceSections": [
+            "SemVer Might Overconstrain",
+            "SemVer Might Overpromise"
+          ],
+          "afterParagraph": "这时可能出现构建错误或运行时缺陷，其严重程度理论上没有上限。",
+          "desktop": "assets/diagrams/sections/ch21-03.svg",
+          "mobile": "assets/diagrams/sections/ch21-03-mobile.svg",
+          "pedagogy": {
+            "action": "revise",
+            "readerQuestion": "同样是更新 libbase，为什么可以出现版本范围拒绝实际可用组合，也可以允许会破坏调用方的组合？",
+            "expectedAnswer": "只有未被 liba/libb 使用的 Bar 变化时，1.x 约束排除 2.x，但 Foo 用法未变；无序流虽不承诺顺序，调用方仍可能依赖首项，补丁改变顺序会使断言失败，即使范围允许更新。",
+            "visualEncoding": "相同位置的 Foo 签名与被强调的 Bar 签名区分已用和未用接口；A/B 方块只交换顺序，首项高亮直接对应 assert(out[0] == 'A') 的通过与失败。显式写出两个版本范围，将解算结果与调用方结果分开。",
+            "sourceEvidence": "### SemVer Might Overconstrain  SemVer可能过度约束：'liba 和 libb 都只使用 Foo'、'变化的只有它们并未使用的 Bar'；### SemVer Might Overpromise  SemVer可能过度承诺：'改变某个“无序”结果生成方的输出顺序'、'只有结合具体用法才能判断'。",
+            "beforeProblem": "旧版选对了两类反例，但只是用三条文字说明各自结论；没有可比的 API 改动或实际顺序，失效用法仍需读者自行想象。",
+            "whyBetter": "读者可检查是否调用被改函数，并执行简单的首项断言，分别推导约束的过度限制与保护不足，而不依赖图内断言结论。",
+            "limits": "函数参数、数组与补丁编号是明确标注的具体化示意，不是原文代码或真实包版本。只改 Bar 的前提是本例假设，不说明所有主版本更新可忽略；断言依赖未承诺行为，也不暗示 SemVer 只关注语法。"
+          }
+        },
+        {
+          "id": "ch21-04",
+          "chapter": 21,
+          "title": "为什么 MVS 有时也要选 1.8？",
+          "summary": "沿用 liba≥1.7，补充另一使用方的最低要求，逐列核对所有要求；libb 下限从1.6升至1.8后，共同最低候选必须由1.7变成1.8，仍须纳入传递要求和组合测试。",
+          "enabled": true,
+          "sourceSections": [
+            "Minimum Version Selection"
+          ],
+          "afterParagraph": "现在运行一些测试，看看是否正常吧。",
+          "desktop": "assets/diagrams/sections/ch21-04.svg",
+          "mobile": "assets/diagrams/sections/ch21-04-mobile.svg",
+          "pedagogy": {
+            "action": "revise",
+            "readerQuestion": "已有 1.8 时 MVS 为什么先选 1.7，而另一依赖提高最低要求后又必须改选 1.8？",
+            "expectedAnswer": "同一主版本、仅最低要求的示例中，liba≥1.7 且 libb≥1.6 时，1.7 是同时满足要求的最低候选；若 libb 改为≥1.8，1.7 不再合格，必须至少选择1.8。MVS 不能忽略任何传递要求，也不证明所选用法兼容。",
+            "visualEncoding": "前后矩阵使用相同的1.6、1.7、1.8列，逐行列出liba、libb和全部满足，框出全部满足行中最左的可选列。只改变libb下限，选择框便由1.7移到1.8。",
+            "sourceEvidence": "### Minimum Version Selection  最小版本选择：'当 liba 声明要求 libbase≥1.7时，即使已有1.8，也直接尝试 libbase 1.7'、'只把每个受影响的依赖推进到满足要求的最低版本'、'现在运行一些测试，看看是否正常吧'。",
+            "beforeProblem": "旧版用两个版本圆点强调选择1.7，把其他依赖的更高要求放在文字脚注中，读者容易记成永远选单个依赖声明的最低版本。",
+            "whyBetter": "更高的另一要求成为会实际改变输出的输入，而非附带警告；所有行必须通过这一条件直接决定选择框的位置。",
+            "limits": "liba≥1.7及可用1.8来自原文，libb与候选1.6为明确标注的补充示意。限定同一主版本且只含最低要求，不把MVS表述为任意上限冲突的SAT求解器；未展开完整图的迭代过程，也不声称最低或最新适用于所有项目。"
+          }
+        },
+        {
+          "id": "ch21-05",
+          "chapter": 21,
+          "title": "gflags：等效假设怎样约束内部优化？",
+          "summary": "同一份代码按环境选择不同 flags 分叉，并依赖观察到的等效行为；只改内部实现后这一假设失效，跨环境构建与发布出错，从而推迟内部优化。",
+          "enabled": true,
+          "sourceSections": [
+            "Example: open sourcing gflags"
+          ],
+          "afterParagraph": "海勒姆定律又一次影响了软件变更，这次甚至涉及由不同组织维护的分叉 API。",
+          "desktop": "assets/diagrams/sections/ch21-05.svg",
+          "mobile": "assets/diagrams/sections/ch21-05-mobile.svg",
+          "pedagogy": {
+            "action": "replace",
+            "readerQuestion": "外部分叉没有随内部优化一起改变，为什么仍会约束谷歌自己的 flags 优化？",
+            "expectedAnswer": "有些项目按构建环境切换内外分叉，使用共有API子集并依赖两处未承诺的行为等效。内部实现改变这类可观察行为后，跨环境用法的假设不再成立，相关构建与发布失败，优化因而被推迟。",
+            "visualEncoding": "同一份跨环境代码的两条使用路径指向内部flags与外部gflags列。前后两行只将内部b改为b′，外部b保持不变，相等关系变为不等；由此暴露项目继续要求两处等效时的矛盾。",
+            "sourceEvidence": "#### Example: open sourcing gflags  示例：开源 gflags：'根据环境选用 flags 库的不同分叉'、'可观察、却没有文档说明的部分'、'构建和发布突然失败'、'优化，被大幅推迟'。",
+            "beforeProblem": "旧图从库向使用方画箭头且未说明方向含义，容易误读为依赖方向；只显示分叉与共同API名称，内部优化前后到底哪项关系改变不直观。",
+            "whyBetter": "用固定外部状态、改变内部状态的对照呈现约束如何产生；不会误以为修改内部库自动改变外部库，也不再只凭组件名推出影响。",
+            "limits": "b/b′只是原文未具体指明的无文档可观察行为的符号，不编造gflags函数、返回值或故障机制；相等只指被依赖的这一行为，不表示整个分叉等同。此案例不说明开源必然拖慢优化。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ch22",
+      "number": 22,
+      "title": "第二十二章 大规模变更",
+      "englishTitle": "Large-Scale Changes",
+      "file": "zh-cn/Chapter-22_Large-Scale_Changes/Chapter-22_Large-Scale_Changes.md",
+      "source": "en/Chapter-22_Large-Scale_Changes/Chapter-22_Large-Scale_Changes.md",
+      "route": "/zh-cn/Chapter-22_Large-Scale_Changes/Chapter-22_Large-Scale_Changes",
+      "content": "assets/reader-content/ch22.json",
+      "sectionGuides": [
+        {
+          "id": "ch22-01",
+          "chapter": 22,
+          "title": "分片边界不能切断配套修改",
+          "summary": "示意把函数返回类型从 int 改为 long：若先提交头文件，声明与旧实现不一致；把头文件与实现放进同一分片，才能形成可独立提交的变更。另一项目的独立修改不必捆绑提交。",
+          "enabled": true,
+          "sourceSections": [
+            "What Is a Large-Scale Change?",
+            "Sharding and Submitting",
+            "Testing"
+          ],
+          "afterParagraph": "本章后面会详细讨论原子变更可能遇到的障碍。",
+          "desktop": "assets/diagrams/sections/ch22-01.svg",
+          "mobile": "assets/diagrams/sections/ch22-01-mobile.svg",
+          "pedagogy": {
+            "action": "replace",
+            "readerQuestion": "为什么不能把同一函数的头文件和实现分开提交，却可以把另一个项目的独立修改另分一片？",
+            "expectedAnswer": "按项目和所有权分片还必须满足可独立提交。示例中头文件先改为 long 而实现仍为 int，会产生声明与定义不一致；两处修改必须同片。没有其他同步依赖时，另一项目可以独立分片，并分别接受测试、审查和项目检查。",
+            "visualEncoding": "左右或上下对照同一函数：错误边界穿过头文件与实现，显示 long/int 混合状态和不一致结果；正确边界包围 long/long 两处修改。另一个项目置于边界外，表明它不是该原子提交的必要成员。",
+            "sourceEvidence": "### Sharding and Submitting  分片与提交: 根据项目边界和代码所有权规则。#### Testing 测试: 分片机制能够把存在依赖的修改归到同一分片，例如对头文件及其实现的修改。## What Is a Large-Scale Change? 什么是大规模变更？: 逻辑上相互关联。",
+            "beforeProblem": "原图仅把头文件与实现写进一个方框，再接通用的测试审查提交方框，没有展示拆错时实际破坏什么；也与概览重复。",
+            "whyBetter": "long/int 与 long/long 的可见差异让读者从声明和实现的对应关系推导分片边界，而不是只记住有依赖就合并的口号。",
+            "limits": "函数 f、文件 api.h/api.cc 和项目名均为教学示例。假设 api.cc 包含 api.h，且没有其他必须同步修改的调用方；现实中若有更多依赖，应继续合并或先建立兼容路径。这里只比较声明与定义，不证明完整程序的行为正确性。"
+          }
+        },
+        {
+          "id": "ch22-02",
+          "chapter": 22,
+          "title": "合测的失败，如何归到分片？",
+          "summary": "以三个分片和四个测试为示例，先跑受影响测试的并集；若 b 失败，甲、乙分别重跑 b，丙与失败集的交集为空。甲通过、乙失败的示例说明合测失败不能直接归罪于整批分片。",
+          "enabled": true,
+          "sourceSections": [
+            "Testing",
+            "Case Study: Testing LSCs"
+          ],
+          "afterParagraph": "因此再向这批分片加入变更，几乎不会增加成本。",
+          "desktop": "assets/diagrams/sections/ch22-02.svg",
+          "mobile": "assets/diagrams/sections/ch22-02-mobile.svg",
+          "pedagogy": {
+            "action": "replace",
+            "readerQuestion": "甲影响 a、b，乙影响 b、c，丙影响 c、d；合测只有 b 失败时，哪些分片要重跑什么，能否判整批都有错？",
+            "expectedAnswer": "先运行并集 a、b、c、d。按后文分片测试规则，各片重跑受影响集合与首轮失败集合的交集，因此甲、乙重跑 b，丙无需这一轮失败复跑。示例甲通过而乙失败，证据应分别归入分片；分组测试不合并提交，也不能从首轮失败直接认定每片有错。",
+            "visualEncoding": "关联矩阵显示每片影响哪些测试，底行显示并集的一次首轮结果；b 列突出失败。右侧或下方逐片列出与失败集的交集及不同复跑结果，读者可从矩阵自行算出重跑对象。",
+            "sourceEvidence": "#### Testing 测试: 先运行这些分片所影响的全部测试的并集，再针对每个分片，只重跑其受影响测试与首轮失败测试的交集。##### Case Study: Testing LSCs  案例研究：测试大规模变更: TAP 为每项上车的变更生成一份报告。",
+            "beforeProblem": "原图只是抽样、合测、定位、报告的流水线，没有实际重叠的测试集或不同的复跑结果，无法解释并集为何减少重复、为什么还需逐片取证。",
+            "whyBetter": "四列测试中的重叠项和 b 的分片复跑结果同时可见；读者能算出并集、交集，并识别合测结果与单片证据的区别。",
+            "limits": "集合和结果为教学示例，不是性能测量；没有给出提速或总耗时。使用后文的分片交集规则，不将其冒充为前文 TAP 列车的完整五步流程；后者先随机抽样1000个测试，再对每个非 flaky 失败测试逐项复跑。图中假设分片独立、测试均非 flaky；不把忽略 flaky 的经验推广为通用规则。"
+          }
+        },
+        {
+          "id": "ch22-03",
+          "chapter": 22,
+          "title": "别名怎样解开 API 与调用方的绑定？",
+          "summary": "用新旧类型的兼容矩阵比较别名前后：没有转换适配时，新旧类型不同会卡住混合迁移；旧名成为新类型别名后，API 和调用方即使分批改名，也指向同一类型。行为准备仍是前提，旧引用清完才删除别名。",
+          "enabled": true,
+          "sourceSections": [
+            "Case Study: scoped_ptr to std::unique_ptr",
+            "Language Support"
+          ],
+          "afterParagraph": "最后删除旧的 scoped_ptr 别名，完成了迁移。",
+          "desktop": "assets/diagrams/sections/ch22-03.svg",
+          "mobile": "assets/diagrams/sections/ch22-03-mobile.svg",
+          "pedagogy": {
+            "action": "replace",
+            "readerQuestion": "API 参数先改新名、调用方暂留旧名，为什么建立类型别名之后可以分开改名？",
+            "expectedAnswer": "原案例的 API 参数使用 scoped_ptr，沿调用图一次修改可能过大。完成行为准备后，让 scoped_ptr 成为 std::unique_ptr 的别名，使两个拼写指向同一类型，从而允许 API 和调用方渐进替换名称；旧引用消除后再删除别名。",
+            "visualEncoding": "两张相同坐标的二乘二矩阵，列是 API 参数类型名，行是调用方类型名。别名前无转换适配时混合格标不同，建立别名后四格均标同型；变化只在混合格，明确展示新增的兼容中间态。",
+            "sourceEvidence": "##### Case Study: scoped_ptr to std::unique_ptr  案例研究：从 scoped_ptr 到 std::unique_ptr: 一些广泛使用的 API 还将 scoped_ptr 用作参数类型；先将 scoped_ptr 改为 std::unique_ptr 的类型别名。### Language Support  编程语言支持: 类型别名和转发函数等语言特性。",
+            "beforeProblem": "原图把行为准备、桥接、迁移、清理列成四行或四个方框，没有显示 API 与调用方为何无法分开改，也没有显示别名实际改变了哪些兼容组合。",
+            "whyBetter": "固定 API 和调用方两个维度，只改变是否建立别名，使读者能比较混合状态从类型不同到同型的变化；保留行为准备和删除条件，避免把文本替换当作整个迁移。",
+            "limits": "S/U 为图中缩写，均指同一模板参数 T；不是可直接复制的 C++ 语法。图仅比较类型一致性，假设别名前无额外转换适配，不展示移动语义、细微行为依赖或所有长尾修复；同型不等于完整程序已被证明正确。"
+          }
+        },
+        {
+          "id": "ch22-04",
+          "chapter": 22,
+          "title": "谁审查，取决于缺什么证据",
+          "summary": "以类型改名为例：符合既定替换模式的分片可由全局审批人的工具批准；冲突后出现额外行为修改时需人工核查；依赖项目特有行为时需本地所有者提供背景。迁移授权并不等于每个分片已获批准。",
+          "enabled": true,
+          "sourceSections": [
+            "Authorization",
+            "Mailing reviewers",
+            "Reviewing",
+            "Submitting"
+          ],
+          "afterParagraph": "审查流程也就能够有效地随规模扩展。",
+          "desktop": "assets/diagrams/sections/ch22-04.svg",
+          "mobile": "assets/diagrams/sections/ch22-04-mobile.svg",
+          "pedagogy": {
+            "action": "replace",
+            "readerQuestion": "同一类型迁移中，纯改名、冲突后多出的 reset()、项目特有的析构时机依赖，分别需要谁核查什么？",
+            "expectedAnswer": "全局审批人具有批准权限及相关语言或库知识，与作者确定预期模式，工具只自动批准符合预期的修改。模式外的冲突或工具异常要人工检查。只有需要本地项目背景时才把变更交本地所有者，不只是为取得权限。作者回应意见，本地所有者负责既有检查失败，提交前仍需项目检查。",
+            "visualEncoding": "三个并列案例各自连接对应的审查责任：纯名称差异对应模式核对，额外 reset() 对应人工查异常，析构时机问题对应本地行为背景。箭头表示证据路由，不是必经的三级审批流水线。",
+            "sourceEvidence": "### Authorization  授权: 领域审查；单一全局审批人。#### Reviewing 审查: 需要项目背景知识；自动批准符合预期的部分；手动检查因合并冲突或工具故障而出现异常的少量变更。#### Mailing reviewers  邮件送审: 代码所有者有责任保证代码库中没有这类既有失败。#### Submitting 提交: 通过各项项目提交前检查。",
+            "beforeProblem": "原图重复概览的授权、生成、测试、送审、提交、清理，只用专家审查或人工异常等泛称描述责任，没有能区分全局审批人与本地所有者的实例。",
+            "whyBetter": "改变分片中的具体证据需求就改变审查路由，读者能判断为什么拥有权限、匹配模式、了解本地语义是不同条件。",
+            "limits": "reset() 与析构时机依赖是根据原文异常和行为依赖概念构造的教学案例，不是原书报告的具体缺陷。图示并非穷尽所有审查路径，也不授权跳过测试或任意项目检查；全局审批人机制依赖原文的权限与专业知识条件。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ch23",
+      "number": 23,
+      "title": "第二十三章 持续集成",
+      "englishTitle": "Continuous Integration",
+      "file": "zh-cn/Chapter-23_Continuous_Integration/Chapter-23_Continuous_Integration.md",
+      "source": "en/Chapter-23_Continuous_Integration/Chapter-23_Continuous_Integration.md",
+      "route": "/zh-cn/Chapter-23_Continuous_Integration/Chapter-23_Continuous_Integration",
+      "content": "assets/reader-content/ch23.json",
+      "sectionGuides": [
+        {
+          "id": "ch23-01",
+          "chapter": 23,
+          "title": "head 与 RC：测试证据属于哪个版本？",
+          "summary": "同一仓库快照中，最新提交可领先于 CB 最新验证通过的提交。CD 通常取 green head 组装候选，候选本身仍需测试；拣选修复形成新候选后，必须取得与新候选关联的测试证据。",
+          "sourceSections": [
+            "Continuous Build",
+            "Continuous Delivery",
+            "Release candidate testing"
+          ],
+          "afterParagraph": "减少生产环境中的意外。",
+          "desktop": "assets/diagrams/sections/ch23-01.svg",
+          "mobile": "assets/diagrams/sections/ch23-01-mobile.svg",
+          "enabled": true,
+          "pedagogy": {
+            "action": "replace",
+            "readerQuestion": "最新提交、最新验证通过的提交和拣选修复后的候选版本，可以共用一份通过证据吗？",
+            "expectedAnswer": "不能。true head 与 green head 是不同含义的版本指针；CD 通常取 green head，但 RC 仍需自己的测试。拣选修复使候选偏离 CB 已测试的代码，必须获取对应候选的证据。",
+            "visualEncoding": "并列的 r40/r41/r42 快照分别给出通过、失败、运行中及 head 指针；下方 RC-A 到 RC-B 的唯一变动是拣选修复 F，显示产物变化如何使原证据不足。",
+            "sourceEvidence": "#### Continuous Build 持续构建：true head，即已提交的最新变更；green head，即 CB 已验证通过的最新变更。#### Release candidate testing 候选发布版本测试：支持拣选提交；为了便于审计。#### Continuous Delivery 持续交付：理想情况下，不应重新编译或重建其中的产物。",
+            "beforeProblem": "原图用 true head 指向 green head 的单线流程，可能误示两者总是前后阶段，且将 true head 固定标为验证中；没有解释 RC 为什么还需要自己的结果。",
+            "whyBetter": "同一时刻的三版本状态可解释 green head 落后于 true head；拣选前后对照让证据与版本的绑定成为可检查的关系，而不只是术语定义。",
+            "limits": "提交号、修复 F、候选号与测试结果均为示意。通常取 green head 并非普遍硬规则，正文还允许紧急推送取 true head；图不展示该例外的详细策略。配置可随环境略有差异。"
+          }
+        },
+        {
+          "id": "ch23-02",
+          "chapter": 23,
+          "title": "两个提交前通过，为什么组合后失败？",
+          "summary": "假设配置变更 A 改用 v2，客户端变更 B 只保留 v1；两者在同一旧基线上各自通过同一测试，组合却失败。不同文件无文本冲突，不代表没有语义冲突；提交后必须检查实际组合并处置失败。",
+          "sourceSections": [
+            "Why presubmit isn’t enough",
+            "Presubmit versus post-submit"
+          ],
+          "afterParagraph": "只要有适当的处理机制，提交后测试就可以耗时更长，也可以容忍一定的不稳定性。",
+          "desktop": "assets/diagrams/sections/ch23-02.svg",
+          "mobile": "assets/diagrams/sections/ch23-02-mobile.svg",
+          "enabled": true,
+          "pedagogy": {
+            "action": "replace",
+            "readerQuestion": "改动不同文件且各自提交前通过的 A 和 B，为什么合在一起仍会失败？",
+            "expectedAnswer": "它们在同一旧基线上分别测试，实际提交的 A+B 未被这两次运行测试。配置改用 v2 与客户端删除 v2 支持单独均可通过，组合却要求客户端处理已删除的协议。",
+            "visualEncoding": "二维组合矩阵用配置版本作行、客户端支持集作列；旧基线、仅 A、仅 B 三格通过，A+B 一格失败。读者按行列交点可自行推导兼容性，而不必接受未解释的失败箭头。",
+            "sourceEvidence": "#### Why presubmit isn’t enough 为什么仅靠提交前测试还不够：两项变更修改的是完全不同的文件，组合起来也可能导致测试失败；较小代码仓库或项目的 CI 系统可以将提交串行化。#### Presubmit versus post-submit 提交前测试与提交后测试：只运行快速、可靠的测试。",
+            "beforeProblem": "原图只标记文件 A、文件 B 和语义不兼容，没有给出任何实际不兼容条件，读者无法从图中推导组合为何失败。",
+            "whyBetter": "使用同一个明确测试断言排除了以测试覆盖不同来解释结果的含混；矩阵显示未测组合，而不是暗示两个绿色结论可以相加。",
+            "limits": "协议及文件角色是解释空中碰撞的假设例子，不是 Google 的历史事故。例子假设两项测试针对同一旧基线且未串行复验。提交后也不自动证明根因，需要定位和处置。"
+          }
+        },
+        {
+          "id": "ch23-03",
+          "chapter": 23,
+          "title": "录制／重放：什么变化应让缓存失配？",
+          "summary": "假设 ZIP 解码器面对请求变化：忽略格式变动会重放旧响应并漏报；只因追踪字段变化就失配会引入无关维护；识别实质变化、刷新响应后仍失败，才获得有用信号。封闭性仍不消除所有非确定性。",
+          "sourceSections": [
+            "Hermetic Testing"
+          ],
+          "afterParagraph": "要判断请求是否发生了实质变化，可能极其困难。",
+          "desktop": "assets/diagrams/sections/ch23-03.svg",
+          "mobile": "assets/diagrams/sections/ch23-03-mobile.svg",
+          "enabled": true,
+          "pedagogy": {
+            "action": "replace",
+            "readerQuestion": "为什么同一个录制响应，既可能掩盖真实缺陷，也可能导致无关的测试阻塞？",
+            "expectedAnswer": "匹配过宽会让有实质变化的请求复用旧响应，遗漏真实新响应暴露的错误；匹配过严会让无业务意义的变化失配。理想情况下，实质变化触发更新，确有问题时用新响应重跑仍失败。",
+            "visualEncoding": "固定旧录制 ZIP 与仅支持 ZIP 的解码器，用三行请求/匹配/结果对照改变 format 或 trace。第一和第三行使用相同 format 变化，只改变匹配与响应更新，显示漏报如何变成可行动的失败。",
+            "sourceEvidence": "### Hermetic Testing  封闭测试：缓存命中过多，遗漏了获取新响应时才会暴露的问题；缓存命中太少，需要更新响应；作者用更新后的响应重跑测试时，仍会看到失败。",
+            "beforeProblem": "原图是封闭方案清单加宽严匹配风险标签，没有录制内容、请求变化或刷新后结果，未说明何为有实质意义的变化。",
+            "whyBetter": "固定解码器和录制值后，读者可以对比缓存返回 ZIP 与真实响应 TAR，自己推出为什么绿色可能漏报、为什么失配不总是产品缺陷。",
+            "limits": "format、trace、ZIP/TAR 与仅支持 ZIP 的解码器是假设例子，不是 Takeout 的实现。trace 无业务语义是例子前提，不是普遍事实。图聚焦录制重放，未穷举伪实现与整栈沙盒；封闭性不消除时间、随机数和竞态。"
+          }
+        },
+        {
+          "id": "ch23-04",
+          "chapter": 23,
+          "title": "Takeout：用成对结果缩小排查范围",
+          "summary": "新二进制与生产二进制运行相同测试、连接相同真实后端。四种假设结果组合给出不同排查方向；结果对照不是根因证明。录制／重放在 Takeout 案例中仍是未来改进。",
+          "sourceSections": [
+            "Scenario #3: Debugging “all of Google”"
+          ],
+          "afterParagraph": "提交后 CI 使用新构建的二进制文件，但与生产环境连接相同的真实后端。",
+          "desktop": "assets/diagrams/sections/ch23-04.svg",
+          "mobile": "assets/diagrams/sections/ch23-04-mobile.svg",
+          "enabled": true,
+          "pedagogy": {
+            "action": "revise",
+            "readerQuestion": "同一项归档测试在新构建和生产上的成对结果，分别支持从哪里开始排查？",
+            "expectedAnswer": "仅 CI 失败可优先查新构建及环境差异；双方失败说明生产也有问题，可查共享因素；仅生产失败应查生产侧差异；双方通过只说明此项本次通过。任何一组红绿结果都不能自动证明根因。",
+            "visualEncoding": "保留两个二进制汇向相同真实后端的真实拓扑，在其下增加四行具体归档测试的成对状态；CI 与生产列固定，最右列与每种观察直接对应。红绿同时以文字标明，不靠颜色独立表达。",
+            "sourceEvidence": "#### Scenario #3: Debugging “all of Google” 场景3：调试“整个谷歌”：在生产环境中持续运行与提交后 CI 完全相同的测试套件；提交后 CI 使用新构建的二进制文件，但与生产环境连接相同的真实后端。Future improvement: try hermetic testing with record/replay。",
+            "beforeProblem": "原拓扑有价值，但结果只是一组没有具体测试对象的两条文字，且桌面可见图漏掉移动端的录制重放未来状态说明。",
+            "whyBetter": "成对结果表让读者比较四种实际可观察状态，补足仅生产失败与双通过的边界；两种布局都明确假设结果与未实施的未来改进，避免把线索误读为责任证明。",
+            "limits": "四项测试的具体红绿组合是解释用假设，不是案例运行记录；生产失败不能单凭此对照归责上游。同后端不代表账户、配置、时刻完全受控，仍需日志、历史和进一步复验；原文未给出完整四格决策算法。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ch24",
+      "number": 24,
+      "title": "第二十四章 持续交付",
+      "englishTitle": "Continuous Delivery",
+      "file": "zh-cn/Chapter-24_Continuous_Delivery/Chapter-24_Continuous_Delivery.md",
+      "source": "en/Chapter-24_Continuous_Delivery/Chapter-24_Continuous_Delivery.md",
+      "route": "/zh-cn/Chapter-24_Continuous_Delivery/Chapter-24_Continuous_Delivery",
+      "content": "assets/reader-content/ch24.json",
+      "sectionGuides": [
+        {
+          "id": "ch24-02",
+          "chapter": 24,
+          "title": "关掉功能，不等于移除代码",
+          "summary": "对照同一 v2 的运行时关闭与开启状态，以及构建时剔除新代码的另一产物。关闭只改变所走路径；不存在的代码不能仅靠配置启用。动态配置仍需谨慎发布，已部署的关闭代码仍可能被提取。",
+          "sourceSections": [
+            "Evaluating Changes in Isolation: Flag-Guarding Features"
+          ],
+          "afterParagraph": "仍是实现应用长期可持续性的重要手段。",
+          "desktop": "assets/diagrams/sections/ch24-02.svg",
+          "mobile": "assets/diagrams/sections/ch24-02-mobile.svg",
+          "enabled": true,
+          "pedagogy": {
+            "action": "replace",
+            "readerQuestion": "关闭运行时标志后，新代码还在吗？如果构建时已经剔除代码，改配置能启用它吗？",
+            "expectedAnswer": "运行时关闭时，新旧代码仍共存于同一产物，请求走旧路径；开启后走新路径。若语言与工具支持构建时剔除，新代码不在产物内，单改配置无法启用。保留旧路径时可通过关闭标志切回旧行为，但不意味着移除代码、保密或消除配置风险。",
+            "visualEncoding": "前两列或两行的同一个 v2 容器保留相同的旧、新两个模块，只改变实线请求箭头和选中模块。第三个产物以虚线空位和'缺失'字样表示新代码不存在；移动版逐行展示而非缩小桌面三列。",
+            "sourceEvidence": "Evaluating Changes in Isolation: Flag-Guarding Features 单独评估变更：用标志保护功能：'只要编程语言支持，构建工具就应能从构建产物中剔除该功能'、'两者都能运行，但新代码受标志控制'、'代码如果没有充分混淆，仍可能被提取和分析'、'即使只是修改标志配置，也必须谨慎发布'。",
+            "beforeProblem": "原图从二进制到动态配置再分叉，虽命名新旧路径，却没有画出关闭后新代码仍存在；也没有区分运行时关闭和构建时移除。",
+            "whyBetter": "读者能从模块是否存在和请求到底指向哪里，推导出关闭、开启、代码缺失三种不同后果，而非将任何禁用都理解为同一种安全状态。",
+            "limits": "v2 和产物 R 是示例。构建剔除依赖语言与工具，动态切回依赖旧路径仍可用；关闭标志不能撤销已产生的影响，也不保证所有功能都能用标志隔离。"
+          }
+        },
+        {
+          "id": "ch24-03",
+          "chapter": 24,
+          "title": "功能迟到，与质量阻塞不同",
+          "summary": "用按时就绪的 A 和迟到的 B 示意常规发车选择，再与书中因罕见方言搜索返回空白而延迟整个发布的实际案例对照。功能截止保护节奏，质量判断仍保护用户。",
+          "sourceSections": [
+            "No Binary Is Perfect",
+            "Meet Your Release Deadline",
+            "Changing Team Culture: Building Discipline into Deployment"
+          ],
+          "afterParagraph": "这能减轻开发者的焦虑，也能大大改善发布工程师的工作与生活平衡。",
+          "desktop": "assets/diagrams/sections/ch24-03.svg",
+          "mobile": "assets/diagrams/sections/ch24-03-mobile.svg",
+          "enabled": true,
+          "pedagogy": {
+            "action": "replace",
+            "readerQuestion": "赶不上截止的新功能，与让少数用户搜索得到空白页的缺陷，应当怎样影响当前发布？",
+            "expectedAnswer": "常规情况下迟到的新功能等下一班，不拖累已就绪功能。书中搜索团队对罕见方言空白页缺陷则决定延迟整个发布并修复，即使受影响群体很小。截止时间不替代用户影响与明确指标阈值的质量判断。",
+            "visualEncoding": "上半部用两个有名的功能 A/B 和当前、下一班的落点表现纳入与延期的范围；下半部以书中案例和停止标记把后果改成整个发布延期。相同的发布压力，因为问题类型不同而得到不同决策。",
+            "sourceEvidence": "Meet Your Release Deadline 遵守发布截止时间：'错过截止时间后，无论开发者怎样恳求，也不能把功能加进当天的版本'；No Binary Is Perfect 没有完美的二进制包：'只会看到空白网页'、'于是，我们推迟了发布，修复了这个缺陷'；Changing Team Culture: Building Discipline into Deployment 改变团队文化：严格遵守部署流程：'绝不能凌驾于现有产品的用户体验之上'。",
+            "beforeProblem": "原图只画已就绪和迟到两类功能，质量门槛留在图底的抽象提醒中。读者看不到质量问题真的阻止当前发车的反例。",
+            "whyBetter": "对照通常只延期一个功能与实际延期整个发布，明确决策影响范围。用源文真实案例防止把按时发车误解为无条件发车。",
+            "limits": "A/B 是示意功能名，不是 A/B 实验。方言案例不推出所有缺陷都必须延期的规则；原文允许罕见截止例外，具体阈值、排期长度和例外审批机制未指定。"
+          }
+        },
+        {
+          "id": "ch24-04",
+          "chapter": 24,
+          "title": "更新后指标变了，原因是什么？",
+          "summary": "旧版重发与新版同时经历更新，用对照区分更新本身与版本差异。以非实测的同向变化说明为什么不能仅凭更新前后归因，并区分证据充分且护栏达标、证据不足、护栏恶化三种发布后果。",
+          "sourceSections": [
+            "Shifting Left: Making Data-Driven Decisions Earlier"
+          ],
+          "afterParagraph": "这样在逐步发布时，需要检验的就只有部署本身的稳定性。",
+          "desktop": "assets/diagrams/sections/ch24-04.svg",
+          "mobile": "assets/diagrams/sections/ch24-04-mobile.svg",
+          "enabled": true,
+          "pedagogy": {
+            "action": "replace",
+            "readerQuestion": "如果旧版重发和新版更新后指标都变化，为什么还不能断言新代码更好？什么证据允许扩大流量？",
+            "expectedAnswer": "推送更新本身可能改变指标，所以需要同时向足够多的相似用户重发旧版与发布新版，比较组间差异。两组同向变化本身不能将原因归于新代码；数据充分且护栏达标才扩大，证据不足继续观察，护栏恶化时不应自动扩大。用户量不够时，可关闭新功能，先检验部署稳定性。",
+            "visualEncoding": "A/B 并列矩阵使'经历更新'一行相同、'代码版本'一行不同，明确控制项与比较项。标明崩溃率的无刻度上箭头只是示意两组同向变化，随后的三个条件到行动的对应行编码扩大、等待、暂停调查，而非把比较自动连接到扩大。",
+            "sourceEvidence": "Shifting Left: Making Data-Driven Decisions Earlier 左移：提前做出数据驱动的决策：'单是推送一次更新'、'作为基线的“安慰剂”，也就是把旧版重新发布一次'、'同时推向足够多、特征相似的用户'、'收集到足够的数据，确认护栏指标不会受到影响'、'尽量让发布不改变功能行为'。",
+            "beforeProblem": "原图虽然有正确的旧版安慰剂，但两支箭头汇入'比较护栏指标，再扩大范围'，未显示不充分或负面证据的分支。桌面图也遗漏了小用户群的替代做法。",
+            "whyBetter": "读者能指出两组共同经历的更新、真正要比较的版本差异，并依据不同证据预测扩大、等待或暂停，而不是把 A/B 比较误读为发布许可。",
+            "limits": "箭头是定性示意，非测量结果、相等效应或自动因果抵消模型。本图未规定样本量、显著性检验、指标阈值或固定观察时长；护栏达标也不等于证明全部用户价值。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ch25",
+      "number": 25,
+      "title": "第二十五章 计算即服务",
+      "englishTitle": "Compute as a Service",
+      "file": "zh-cn/Chapter-25_Compute_as_a_Service/Chapter-25_Compute_as_a_Service.md",
+      "source": "en/Chapter-25_Compute_as_a_Service/Chapter-25_Compute_as_a_Service.md",
+      "route": "/zh-cn/Chapter-25_Compute_as_a_Service/Chapter-25_Compute_as_a_Service",
+      "content": "assets/reader-content/ch25.json",
+      "sectionGuides": [
+        {
+          "id": "ch25-01",
+          "chapter": 25,
+          "title": "装箱解决放置，隔离约束越界",
+          "summary": "日志分析与搜索服务共用健康机器时，仅声明 CPU、RAM 不能约束实际超用。调度排除故障机器，隔离机制执行资源边界；CPU 争抢会影响邻居延迟，整机 RAM 耗尽可能终止进程或引起交换延迟。",
+          "enabled": true,
+          "sourceSections": [
+            "Automated scheduling",
+            "Containerization and Multitenancy",
+            "My neighbor’s dog barks in my RAM"
+          ],
+          "afterParagraph": "这是一种轻量级机制，基于 cgroups",
+          "desktop": "assets/diagrams/sections/ch25-01.svg",
+          "mobile": "assets/diagrams/sections/ch25-01-mobile.svg",
+          "pedagogy": {
+            "action": "replace",
+            "readerQuestion": "把日志分析和搜索服务成功放到同一台健康机器后，为什么只声明资源还不够？",
+            "expectedAnswer": "调度按需求和健康状况放置作业，却不能仅凭声明阻止作业超用。CPU 争抢会影响同机搜索延迟；RAM 耗尽还可能使进程被终止或因磁盘交换变慢。需要实际执行隔离边界。",
+            "visualEncoding": "上方分开故障甲被排除与健康乙被选中；下方保持相同的日志分析和搜索端点，红色越界箭头直达搜索变慢，对照下一行被资源边界截住的箭头。位置不代表资源比例。",
+            "sourceEvidence": "Automated scheduling 自动调度：避免将任何任务调度到这些机器上。Containerization and Multitenancy 容器化和多租户：指定 CPU、RAM 和磁盘空间需求。My neighbor’s dog barks in my RAM 邻居家的狗在我的内存中吠叫：CPU 不足会使同机服务作业的延迟出现短时波动；RAM 不足则会触发内核因内存耗尽而终止进程。",
+            "beforeProblem": "原图画两台机器和若干无差别副本，只在页脚声称共享需边界，没有画出超用者、受害者或任何越界后果。",
+            "whyBetter": "同一对工作负载的有无约束对照，使读者能从箭头是否跨越资源边界解释调度与隔离为什么不是同一职责。",
+            "limits": "示例不规定 cgroups 的配置、限额、隔离强度或容器安全保证；资源边界只是需要实际执行的约束，不能推导出完全零干扰。"
+          }
+        },
+        {
+          "id": "ch25-02",
+          "chapter": 25,
+          "title": "实例重建之后，还要补哪一步？",
+          "summary": "甲在 K2 未上报时终止，乙重领 K2，不重做已上报的 K1。另一个计划维护示例中，甲停止接受新请求并完成在途 Q1，负载均衡把新请求 Q2 转给乙。突然故障不一定有排空机会，实例重建不提供幂等效果。",
+          "enabled": true,
+          "sourceSections": [
+            "Architecting for Failure",
+            "Batch Versus Serving",
+            "Multitenancy for serving jobs"
+          ],
+          "afterParagraph": "但要在故障率适中的情况下仍然平稳运行，还需要额外的设计和投入。",
+          "desktop": "assets/diagrams/sections/ch25-02.svg",
+          "mobile": "assets/diagrams/sections/ch25-02-mobile.svg",
+          "pedagogy": {
+            "action": "replace",
+            "readerQuestion": "worker 甲终止后该重做哪个块？计划迁移甲时，旧请求 Q1 与新请求 Q2 应分别去哪里？",
+            "expectedAnswer": "动态分块且逐块上报时，乙重做尚未上报的 K2，已上报 K1 不需要重做，K3 仍待领取。计划维护时提前通知甲拒接新请求、完成在途 Q1，负载均衡识别该状态并把新请求 Q2 送往其他副本。突然故障未必能排空。",
+            "visualEncoding": "K1、K2、K3 明示已上报、未上报、待领取，只有 K2 连向替代 worker；下方是独立的维护场景，甲拒接状态经负载均衡传递到乙承接新 Q2，旧 Q1 则留在甲完成。移动版分别重新排布两条因果链。",
+            "sourceEvidence": "Architecting for Failure 为应对故障设计架构：处理完一块，就上报结果，再领取下一块；停止接受新请求，同时利用剩余时间完成正在处理的请求。Multitenancy for serving jobs 服务作业的多租户支持：服务作业若被突然终止，一些用户请求可能收到错误。",
+            "beforeProblem": "原图只是批处理和服务两个文字容器，且描述写自动替换只保证能够恢复；没有给出故障发生点、实际重做范围或请求分流结果。",
+            "whyBetter": "读者能直接指认 K2 而非 K1 被重做，也能追踪旧 Q1 与新 Q2 的不同去向；明确计划排空不是突然故障或重建实例的自动保证。",
+            "limits": "K1 至 K3、Q1/Q2 是示意标识，不表示块数量、吞吐量或持续时间。省略任务领取协议、维护速率限制与负载容量；重复块的副作用另需幂等设计。"
+          }
+        },
+        {
+          "id": "ch25-03",
+          "chapter": 25,
+          "title": "答复丢了，为什么不能重下单？",
+          "summary": "比萨订单 P7 已写入，答复却丢失。客户端向新实例重试同一 P7，接口查到已有订单并返回成功，而不是再创建一份。退避与抖动控制重试压力，按同一订单标识查重控制业务效果，两者不相互替代。",
+          "enabled": true,
+          "sourceSections": [
+            "Managing State",
+            "Connecting to a Service"
+          ],
+          "afterParagraph": "两个执行相同工作、承担相同角色的副本，也是产生重复请求的潜在原因。",
+          "desktop": "assets/diagrams/sections/ch25-03.svg",
+          "mobile": "assets/diagrams/sections/ch25-03-mobile.svg",
+          "pedagogy": {
+            "action": "replace",
+            "readerQuestion": "比萨订单已经写入但答复丢了，重试到新实例时怎样避免再创建一份订单？",
+            "expectedAnswer": "客户端重用自己为同一订单分配的 P7；服务接口查询持久记录，若已存在相同订单则返回成功，可核对参数，而非再次创建。更换实例本身没有去重能力。退避与抖动缓解重试压力，不保证幂等效果。",
+            "visualEncoding": "首次请求在甲写入 P7 后发生答复丢失；重试路径保留 P7 并改由乙处理。两实例连接同一外部订单记录，乙显示查到 P7、返回成功、不再创建。移动布局以时间顺序与向已有记录查询的箭头保持相同因果。",
+            "sourceEvidence": "Connecting to a Service 连接到服务：例如，创建一个将比萨饼送到指定地址的订单时，由客户端为订单分配标识符；如果服务器已经记录了相同标识符的订单，就将其视为重复请求并返回成功。脚注14：退避、平稳降级，以及抖动等避免级联故障的手段。Managing State 管理状态：真正需要保存的数据则必须存放在别处。",
+            "beforeProblem": "原图只有客户端、服务发现、当前实例和存储的静态链；同一请求可能重复仅以旁注陈述，移动图甚至没有重试路径。",
+            "whyBetter": "在具体的已写入但答复未知的窗口引入失败，使重复发生的原因与同一 P7 的作用可沿两次请求推导；明确区分流量层面的重试控制与业务层面的去重。",
+            "limits": "P7 是示例标识。图假定订单记录与订单写入保持一致，不设计并发、事务、去重记录保留时间或外部送餐副作用，也不承诺端到端恰好一次。"
+          }
+        },
+        {
+          "id": "ch25-04",
+          "chapter": 25,
+          "title": "服务要收回资源，批处理会怎样？",
+          "summary": "搜索服务预留但未使用的资源可被日志分析借用。需要收回 CPU 时暂停批处理，计算停止推进但内存仍占用；需要 RAM 时终止批处理，释放内存而丢失进程状态，重启后重做未上报块。余量不能再当作不可抢占服务的另一份承诺。",
+          "enabled": true,
+          "sourceSections": [
+            "One Service to Rule Them All",
+            "Multitenancy for serving jobs",
+            "Architecting for Failure"
+          ],
+          "afterParagraph": "都能从牛群式管理中受益。",
+          "desktop": "assets/diagrams/sections/ch25-04.svg",
+          "mobile": "assets/diagrams/sections/ch25-04-mobile.svg",
+          "pedagogy": {
+            "action": "replace",
+            "readerQuestion": "搜索流量上涨、需要收回日志分析借用的资源时，为什么 CPU 和 RAM 对应不同处理？",
+            "expectedAnswer": "书中 Borg 策略在需要 CPU 时暂停批处理，让出执行资源，但内存仍占用；在需要 RAM 时终止批处理来释放内存，因而失去进程状态，需要重做未上报的工作。批处理接受抢占，不能把该余量再承诺给不可抢占的服务。",
+            "visualEncoding": "先标明同一份服务预留余量被借用，再由搜索请求增加触发按资源类型分叉。CPU 分支保留内存，RAM 分支明确内存释放与进度丢失，使动作和后果可以逐一对应。无面积或比例编码。",
+            "sourceEvidence": "One Service to Rule Them All 用一个服务统一管理：收回 CPU 时暂停它们，收回 RAM 时终止它们；即使实际利用率只有30%，也不能再放入更多服务作业。Architecting for Failure 为应对故障设计架构：尚未上报结果时终止，最多也只损失一个数据块的工作量。",
+            "beforeProblem": "原图用不等宽容量块加两句处理规则，容易让宽度成为无来源的比例；与旧总览重复，且没有解释暂停和终止对内存与工作进度的不同后果。",
+            "whyBetter": "删除容量面积比较，把图形用于输入条件变化与资源状态转移；读者可以回答暂停为什么不能替代释放 RAM，以及为何借来的资源不是第二份服务保障。",
+            "limits": "仅解释书中 Borg 的策略，不声称现代产品通用行为、即时回收、具体收益或免费资源。作业与需求变化是示例，未给容量、速度、费用、资源比值或时间轴。"
+          }
+        },
+        {
+          "id": "ch25-05",
+          "chapter": 25,
+          "title": "Bash 换成 ash，为何反而告警？",
+          "summary": "书中团队曾在文件系统覆盖层里把 Bash 路径换成极简执行程序。平台改用 ash 后，绕开既有定制，开始承担真正 shell 的开销，内存反而增加并触发告警、回滚。平台迁移必须检查实际依赖，不仅是新二进制是否存在。",
+          "enabled": true,
+          "sourceSections": [
+            "Choosing a Compute Service"
+          ],
+          "afterParagraph": "迫使团队回滚变更，也引起了一些不满。",
+          "desktop": "assets/diagrams/sections/ch25-05.svg",
+          "mobile": "assets/diagrams/sections/ch25-05-mobile.svg",
+          "pedagogy": {
+            "action": "replace",
+            "readerQuestion": "平台本想把 Bash 换成更轻的 ash，为什么有些团队的内存却增加并迫使回滚？",
+            "expectedAnswer": "那些团队早已用覆盖层将 Bash 路径替换为极简执行程序；改调用 ash 绕开该定制，反而开始承担 shell 开销。实际依赖的是路径与覆盖层行为，而不是表面上的 Bash。更换计算服务还涉及外围工具与隐式依赖。",
+            "visualEncoding": "变更前后分别展开调用路径到实际执行程序，左边命中自定义覆盖层，右边绕开它启动真正 ash；只有后者接到新增开销、告警、回滚链。移动版按同一变更的先后顺序重排。",
+            "sourceEvidence": "Choosing a Compute Service 选择计算服务：在自定义的文件系统覆盖层中，用一段自行编写的执行第二个参数的代码替换 Bash 命令；内存使用反而增加，触发了告警，迫使团队回滚变更。其后：围绕它最终会形成庞大的辅助服务生态。",
+            "beforeProblem": "原图把常驻容器和无服务器的相邻文字改写成表格，选择结论仍只是按需求选择；迁移路径没有实例，而且会诱发把书中模型读成当前云产品能力表。",
+            "whyBetter": "用书中实际反例代替通用类别清单，将平台意图、真实运行路径与失败结果连接起来。它解释为什么抽象背后的隐式依赖会提高迁移难度，而不仅提醒要考虑迁移。",
+            "limits": "这是书中历史案例，不是 Bash 与 ash 的实测性能比较，也不是当前 Borg 或云提供商保证。保留相邻正文对抽象选择的讨论，不将单个失败例子推广成禁止更换基础设施。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "afterword",
+      "number": null,
+      "title": "后记",
+      "englishTitle": "Afterword",
+      "file": "zh-cn/Afterword.md",
+      "source": "en/Afterword.md",
+      "route": "/zh-cn/Afterword",
+      "content": "assets/reader-content/afterword.json"
+    }
+  ],
+  "guides": {
+    "ch10": {
+      "chapter": 10,
+      "title": "工程师为什么不爱写文档，怎么改？",
+      "summary": "把文档当作代码来写、评审和维护，动笔前先想清读者是谁",
+      "desktop": "assets/diagrams/ch10.svg",
+      "mobile": "assets/diagrams/ch10-mobile.svg",
+      "storyDesktop": "assets/diagrams/ch10-story.svg",
+      "storyMobile": "assets/diagrams/ch10-story-mobile.svg",
+      "storyTitle": "从人人抱怨却没人写的文档，到和代码一起维护的文档"
+    },
+    "ch11": {
+      "chapter": 11,
+      "title": "为什么要写测试，写多大的测试？",
+      "summary": "测试让代码改得放心；大部分测试应该小、快、确定",
+      "desktop": "assets/diagrams/ch11.svg",
+      "mobile": "assets/diagrams/ch11-mobile.svg",
+      "storyDesktop": "assets/diagrams/ch11-story.svg",
+      "storyMobile": "assets/diagrams/ch11-story-mobile.svg",
+      "storyTitle": "从 GWS 的救火，到测试成为谷歌的文化"
+    },
+    "ch12": {
+      "chapter": 12,
+      "title": "什么样的单元测试值得长期维护？",
+      "summary": "好的单元测试：重构不坏、读起来完整、失败时说得清原因",
+      "desktop": "assets/diagrams/ch12.svg",
+      "mobile": "assets/diagrams/ch12-mobile.svg",
+      "storyDesktop": "assets/diagrams/ch12-story.svg",
+      "storyMobile": "assets/diagrams/ch12-story-mobile.svg",
+      "storyTitle": "从一改代码就大片变红的测试，到读得懂、改不坏的测试"
+    },
+    "ch13": {
+      "chapter": 13,
+      "title": "测试里怎么替换掉不好用的真实依赖？",
+      "summary": "优先真实实现；用替身时首选伪实现，打桩和交互验证要克制",
+      "desktop": "assets/diagrams/ch13.svg",
+      "mobile": "assets/diagrams/ch13-mobile.svg",
+      "storyDesktop": "assets/diagrams/ch13-story.svg",
+      "storyMobile": "assets/diagrams/ch13-story-mobile.svg",
+      "storyTitle": "从不能真扣钱的测试，到对替身的克制"
+    },
+    "ch14": {
+      "chapter": 14,
+      "title": "单元测试都过了，系统为什么还会坏？",
+      "summary": "单元测试看不到组件之间的配合，需要少量有目标的大型测试补上",
+      "desktop": "assets/diagrams/ch14.svg",
+      "mobile": "assets/diagrams/ch14-mobile.svg",
+      "storyDesktop": "assets/diagrams/ch14-story.svg",
+      "storyMobile": "assets/diagrams/ch14-story-mobile.svg",
+      "storyTitle": "从全绿的单元测试和挂掉的系统，到有策略的大型测试"
+    },
+    "ch15": {
+      "chapter": 15,
+      "title": "老系统还有人用，怎么才能下线？",
+      "summary": "弃用是个正式项目：有人负责、有期限、有工具，从设计时就该考虑",
+      "desktop": "assets/diagrams/ch15.svg",
+      "mobile": "assets/diagrams/ch15-mobile.svg",
+      "storyDesktop": "assets/diagrams/ch15-story.svg",
+      "storyMobile": "assets/diagrams/ch15-story-mobile.svg",
+      "storyTitle": "从“只剩一个用户了”的旧系统，到有人负责的弃用项目"
+    },
+    "ch16": {
+      "chapter": 16,
+      "title": "为什么谷歌几乎只在主干上开发？",
+      "summary": "所有人在同一个主干上工作，改动小而频繁，合并的痛苦最少",
+      "desktop": "assets/diagrams/ch16.svg",
+      "mobile": "assets/diagrams/ch16-mobile.svg",
+      "storyDesktop": "assets/diagrams/ch16-story.svg",
+      "storyMobile": "assets/diagrams/ch16-story-mobile.svg",
+      "storyTitle": "从合并周的噩梦，到“选哪个版本”这个问题消失"
+    },
+    "ch17": {
+      "chapter": 17,
+      "title": "为什么要专门做一个代码搜索工具？",
+      "summary": "读代码比写代码花的时间多，让全公司代码可秒查值得专门投入",
+      "desktop": "assets/diagrams/ch17.svg",
+      "mobile": "assets/diagrams/ch17-mobile.svg",
+      "storyDesktop": "assets/diagrams/ch17-story.svg",
+      "storyMobile": "assets/diagrams/ch17-story-mobile.svg",
+      "storyTitle": "从 grep 一行行翻代码，到全公司代码秒级可查"
+    },
+    "ch18": {
+      "chapter": 18,
+      "title": "构建系统到底在解决什么问题？",
+      "summary": "只声明要什么，让工具决定怎么做，构建才可靠、可缓存、可并行",
+      "desktop": "assets/diagrams/ch18.svg",
+      "mobile": "assets/diagrams/ch18-mobile.svg",
+      "storyDesktop": "assets/diagrams/ch18-story.svg",
+      "storyMobile": "assets/diagrams/ch18-story-mobile.svg",
+      "storyTitle": "从“我只需要一个编译器”，到把构建交给工具推理"
+    },
+    "ch19": {
+      "chapter": 19,
+      "title": "一个代码审查工具要做好哪些事？",
+      "summary": "把审查的每一步放在一个界面里，让审查快、透明、有记录",
+      "desktop": "assets/diagrams/ch19.svg",
+      "mobile": "assets/diagrams/ch19-mobile.svg",
+      "storyDesktop": "assets/diagrams/ch19-story.svg",
+      "storyMobile": "assets/diagrams/ch19-story-mobile.svg",
+      "storyTitle": "从一封邮件里的 diff，到一条改动在 Critique 里走完全程"
+    },
+    "ch01": {
+      "chapter": 1,
+      "title": "软件工程和编程差在哪？",
+      "summary": "软件工程是把编程放进时间里：多人、多年、随时改得动",
+      "desktop": "assets/diagrams/ch01.svg",
+      "mobile": "assets/diagrams/ch01-mobile.svg",
+      "storyDesktop": "assets/diagrams/ch01-story.svg",
+      "storyMobile": "assets/diagrams/ch01-story-mobile.svg",
+      "storyTitle": "从一个脚本到十年的服务：编程怎样变成软件工程"
+    },
+    "ch20": {
+      "chapter": 20,
+      "title": "编译能过，代码就没问题了吗？",
+      "summary": "编译只查语法和类型；静态分析在审查时自动抓出更多问题",
+      "desktop": "assets/diagrams/ch20.svg",
+      "mobile": "assets/diagrams/ch20-mobile.svg",
+      "storyDesktop": "assets/diagrams/ch20-story.svg",
+      "storyMobile": "assets/diagrams/ch20-story-mobile.svg",
+      "storyTitle": "从一个编译通过却算错哈希的改动，到审查时自动出现的修复建议"
+    },
+    "ch21": {
+      "chapter": 21,
+      "title": "用别人的代码，版本该怎么跟？",
+      "summary": "依赖问题的根源是时间和信任，版本号替代不了实际测试",
+      "desktop": "assets/diagrams/ch21.svg",
+      "mobile": "assets/diagrams/ch21-mobile.svg",
+      "storyDesktop": "assets/diagrams/ch21-story.svg",
+      "storyMobile": "assets/diagrams/ch21-story-mobile.svg",
+      "storyTitle": "从一个随手 import 的库，到“谁来为兼容负责”"
+    },
+    "ch22": {
+      "chapter": 22,
+      "title": "一处改动牵动几千个文件，怎么做？",
+      "summary": "把一个大改动拆成很多小提交，靠工具和流程批量推进",
+      "desktop": "assets/diagrams/ch22.svg",
+      "mobile": "assets/diagrams/ch22-mobile.svg",
+      "storyDesktop": "assets/diagrams/ch22-story.svg",
+      "storyMobile": "assets/diagrams/ch22-story-mobile.svg",
+      "storyTitle": "从“这个 API 永远改不了”，到每天都在发生的大规模变更"
+    },
+    "ch23": {
+      "chapter": 23,
+      "title": "集成问题为什么越早发现越便宜？",
+      "summary": "持续集成就是把发现问题的时间不断往前挪，让反馈快而可信",
+      "desktop": "assets/diagrams/ch23.svg",
+      "mobile": "assets/diagrams/ch23-mobile.svg",
+      "storyDesktop": "assets/diagrams/ch23-story.svg",
+      "storyMobile": "assets/diagrams/ch23-story-mobile.svg",
+      "storyTitle": "从每两小时才知道坏没坏，到提交前几分钟就有答案"
+    },
+    "ch24": {
+      "chapter": 24,
+      "title": "怎么做到又快又稳地发布？",
+      "summary": "发布越小越频繁，风险越低；开关和数据让决策提前",
+      "desktop": "assets/diagrams/ch24.svg",
+      "mobile": "assets/diagrams/ch24-mobile.svg",
+      "storyDesktop": "assets/diagrams/ch24-story.svg",
+      "storyMobile": "assets/diagrams/ch24-story-mobile.svg",
+      "storyTitle": "从一年几次的大发布，到每一次都小到不可怕"
+    },
+    "ch25": {
+      "chapter": 25,
+      "title": "程序跑在哪台机器上，还需要关心吗？",
+      "summary": "把机器交给平台管理，代价是程序必须随时能被搬走和重启",
+      "desktop": "assets/diagrams/ch25.svg",
+      "mobile": "assets/diagrams/ch25-mobile.svg",
+      "storyDesktop": "assets/diagrams/ch25-story.svg",
+      "storyMobile": "assets/diagrams/ch25-story-mobile.svg",
+      "storyTitle": "从半夜起来重启机器，到不知道程序跑在哪台机器上"
+    },
+    "ch02": {
+      "chapter": 2,
+      "title": "为什么独自闷头干，反而更慢？",
+      "summary": "软件是团队做出来的：早点把工作亮出来，靠谦逊、尊重、信任协作",
+      "desktop": "assets/diagrams/ch02.svg",
+      "mobile": "assets/diagrams/ch02-mobile.svg",
+      "storyDesktop": "assets/diagrams/ch02-story.svg",
+      "storyMobile": "assets/diagrams/ch02-story-mobile.svg",
+      "storyTitle": "从想藏起代码的请求，到没人能独自完成软件"
+    },
+    "ch03": {
+      "chapter": 3,
+      "title": "组织里的知识，怎样才不随人走？",
+      "summary": "让人敢问、愿教，再用文档和制度把知识沉淀成组织的资产",
+      "desktop": "assets/diagrams/ch03.svg",
+      "mobile": "assets/diagrams/ch03-mobile.svg",
+      "storyDesktop": "assets/diagrams/ch03-story.svg",
+      "storyMobile": "assets/diagrams/ch03-story-mobile.svg",
+      "storyTitle": "从只有一个人会修的故障，到人人都能查的文档"
+    },
+    "ch04": {
+      "chapter": 4,
+      "title": "软件会不会伤害它没想到的用户？",
+      "summary": "为所有人做工程，先承认自己有盲点，再把公平当作工程目标去验证",
+      "desktop": "assets/diagrams/ch04.svg",
+      "mobile": "assets/diagrams/ch04-mobile.svg",
+      "storyDesktop": "assets/diagrams/ch04-story.svg",
+      "storyMobile": "assets/diagrams/ch04-story-mobile.svg",
+      "storyTitle": "从一次照片误分类，到把公平当作工程目标"
+    },
+    "ch05": {
+      "chapter": 5,
+      "title": "从写代码到带团队，要换什么脑子？",
+      "summary": "领导者的产出是团队的产出：少插手，多清障，让人成长",
+      "desktop": "assets/diagrams/ch05.svg",
+      "mobile": "assets/diagrams/ch05-mobile.svg",
+      "storyDesktop": "assets/diagrams/ch05-story.svg",
+      "storyMobile": "assets/diagrams/ch05-story-mobile.svg",
+      "storyTitle": "从最会写代码的人，到让团队写出好代码的人"
+    },
+    "ch06": {
+      "chapter": 6,
+      "title": "管的团队大了，还能事事亲力亲为吗？",
+      "summary": "规模一大，领导要从做事转向决策、放权和守住自己的注意力",
+      "desktop": "assets/diagrams/ch06.svg",
+      "mobile": "assets/diagrams/ch06-mobile.svg",
+      "storyDesktop": "assets/diagrams/ch06-story.svg",
+      "storyMobile": "assets/diagrams/ch06-story-mobile.svg",
+      "storyTitle": "从每个问题都等你拍板，到你休假一周团队照常推进"
+    },
+    "ch07": {
+      "chapter": 7,
+      "title": "工程效率能度量吗？该怎么度量？",
+      "summary": "可以度量：从目标出发选指标，用访谈等定性数据校验，再据此行动",
+      "desktop": "assets/diagrams/ch07.svg",
+      "mobile": "assets/diagrams/ch07-mobile.svg",
+      "storyDesktop": "assets/diagrams/ch07-story.svg",
+      "storyMobile": "assets/diagrams/ch07-story-mobile.svg",
+      "storyTitle": "从“审查更快就是更好”的假设，到追溯到目标的指标"
+    },
+    "ch08": {
+      "chapter": 8,
+      "title": "代码规范为什么要定，怎么定？",
+      "summary": "规则服务于长期协作：少而精，能自动执行，随时代更新",
+      "desktop": "assets/diagrams/ch08.svg",
+      "mobile": "assets/diagrams/ch08-mobile.svg",
+      "storyDesktop": "assets/diagrams/ch08-story.svg",
+      "storyMobile": "assets/diagrams/ch08-story-mobile.svg",
+      "storyTitle": "从一个被禁用的 unique_ptr，到会自己更新的规则"
+    },
+    "ch09": {
+      "chapter": 9,
+      "title": "每次改动都要别人看过，值不值？",
+      "summary": "值：代码审查是团队共同拥有代码库的方式，收益远超找错",
+      "desktop": "assets/diagrams/ch09.svg",
+      "mobile": "assets/diagrams/ch09-mobile.svg",
+      "storyDesktop": "assets/diagrams/ch09-story.svg",
+      "storyMobile": "assets/diagrams/ch09-story-mobile.svg",
+      "storyTitle": "从“这只是找 bug”的误解，到审查成为代码库的共同所有权"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch16",
+  "file": "zh-cn/Chapter-16_Version_Control_and_Branch_Management/Chapter-16_Version_Control_and_Branch_Management.md",
+  "status": "verified",
+  "after_sha256": "59b9dc82d52c1fb4e5c0a1fb0d5e086daab283992bd758eb56f23ff36a089d35",
+  "reviewed_chinese_lines": 147,
+  "changed_lines": 129,
+  "english_lines": 126,
+  "english_segments": 148,
+  "code_items": 2,
+  "links": 8,
+  "footnote_markers": 34,
+  "structural_items": 56,
+  "holds": {},
+  "held_line_count": 0,
+  "prose_code_exceptions": [
+    {
+      "code_index": 1,
+      "lines": [
+        359
+      ],
+      "before": "Developers must never have a choice of “What version of this component should I depend upon?”\n决不能让开发人员选择\"我应该依赖这个组件的哪个版本？\"\n",
+      "after": "Developers must never have a choice of “What version of this component should I depend upon?”\n绝不能让开发者面对“我应该依赖这个组件的哪个版本？”这样的选择。\n",
+      "reason": "Parent reviewed natural-language quotation, not executable code."
+    }
+  ],
+  "link_syntax_exceptions": [],
+  "structure_exceptions": [],
+  "english_format_exceptions": []
+}

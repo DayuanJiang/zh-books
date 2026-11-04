@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="444" viewBox="0 0 960 444" class="chapter-svg cg-ch14" data-layout="desktop" role="img" aria-labelledby="ch14-title ch14-desc">
+  <title id="ch14-title">单元测试都过了，系统为什么还会坏？</title>
+  <desc id="ch14-desc">本章概览。单元测试都过了，系统为什么还会坏？ 本章的主要部分：搭起被测系统：决定 SUT 的范围：封闭的单机环境、多机部署，还是接近生产的环境；准备测试数据：种子数据、录制的真实流量或人工构造；数据越真实越可信，也越难维护；执行操作：用公开 API 驱动，别贴着界面写：界面一改样式，测试就断；验证结果：人工检查、断言、A/B 差异比较；明确这轮测试要回答什么风险。一句话：单元测试看不到组件之间的配合，需要少量有目标的大型测试补上</desc>
+  <style>
+    .cg-ch14[data-layout="desktop"] text {font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif;fill:var(--diagram-ink,#242424)}
+    .cg-ch14[data-layout="desktop"] .headline {font-size:30px;font-weight:600}
+    .cg-ch14[data-layout="desktop"] .headline-m {font-size:23px;font-weight:600}
+    .cg-ch14[data-layout="desktop"] .story-headline {font-size:26px;font-weight:600}
+    .cg-ch14[data-layout="desktop"] .story-headline-m {font-size:21px;font-weight:600}
+    .cg-ch14[data-layout="desktop"] .h22 {font-size:22px;font-weight:600}
+    .cg-ch14[data-layout="desktop"] .h20 {font-size:20px;font-weight:600}
+    .cg-ch14[data-layout="desktop"] .h19 {font-size:19px;font-weight:600}
+    .cg-ch14[data-layout="desktop"] .h18 {font-size:18px;font-weight:600}
+    .cg-ch14[data-layout="desktop"] .h16 {font-size:16px;font-weight:600}
+    .cg-ch14[data-layout="desktop"] .t15 {font-size:15px}
+    .cg-ch14[data-layout="desktop"] .t14 {font-size:14px}
+    .cg-ch14[data-layout="desktop"] .c15 {font-size:15px;fill:var(--diagram-muted,#686868)}
+    .cg-ch14[data-layout="desktop"] .c14 {font-size:14px;fill:var(--diagram-muted,#686868)}
+    .cg-ch14[data-layout="desktop"] .c13 {font-size:13px;fill:var(--diagram-muted,#686868)}
+    .cg-ch14[data-layout="desktop"] .tag {font-size:13px;font-weight:600;fill:var(--diagram-primary,#0b6f5d)}
+    .cg-ch14[data-layout="desktop"] .act {font-size:12px;font-weight:600;letter-spacing:1px}
+    .cg-ch14[data-layout="desktop"] .answer {font-size:21px;font-weight:600}
+    .cg-ch14[data-layout="desktop"] .answer-m {font-size:17px;font-weight:600}
+    .cg-ch14[data-layout="desktop"] .emph {font-size:20px;font-weight:600}
+    .cg-ch14[data-layout="desktop"] .emph-m {font-size:18px;font-weight:600}
+  </style>
+  <rect x="0" y="0" width="960" height="444" fill="var(--diagram-bg,#fff)"/>
+  <defs><marker id="ch14-arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="9" markerHeight="9" orient="auto" markerUnits="userSpaceOnUse"><path d="M1 1L9 5L1 9Z" fill="var(--diagram-line,#aebbad)"/></marker></defs>
+  <text x="32.0" y="52.0" class="headline" text-anchor="start">单元测试都过了，系统为什么还会坏？</text>
+  <text x="32.0" y="94.0" class="c15" text-anchor="start">大型测试跨多个单元、更慢也更真实；它的结构可以拆成四步</text>
+  <circle cx="134.2" cy="150.0" r="30" fill="var(--diagram-primary-soft,#d6e5dc)" stroke="var(--diagram-primary,#0b6f5d)" stroke-width="2"/><g transform="translate(119.2,135.0) scale(1.250)" fill="none" stroke="var(--diagram-primary,#0b6f5d)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect width="20" height="8" x="2" y="2" rx="2" ry="2"/><rect width="20" height="8" x="2" y="14" rx="2" ry="2"/><line x1="6" x2="6.01" y1="6" y2="6"/><line x1="6" x2="6.01" y1="18" y2="18"/></g>
+  <text x="134.2" y="210.0" class="h18" text-anchor="middle">搭起被测系统</text>
+  <text x="134.2" y="236.0" class="c15" text-anchor="middle">决定 SUT 的范围：封闭的单</text>
+  <text x="134.2" y="258.0" class="c15" text-anchor="middle">机环境、多机部署，还是接</text>
+  <text x="134.2" y="280.0" class="c15" text-anchor="middle">近生产的环境</text>
+  <path d="M240.5 150.0 L258.5 150.0" fill="none" stroke="var(--diagram-line,#aebbad)" stroke-width="2" marker-end="url(#ch14-arrow)"/>
+  <circle cx="364.8" cy="150.0" r="30" fill="var(--diagram-primary-soft,#d6e5dc)" stroke="var(--diagram-primary,#0b6f5d)" stroke-width="2"/><g transform="translate(349.8,135.0) scale(1.250)" fill="none" stroke="var(--diagram-primary,#0b6f5d)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><ellipse cx="12" cy="5" rx="9" ry="3"/><path d="M3 5V19A9 3 0 0 0 21 19V5"/><path d="M3 12A9 3 0 0 0 21 12"/></g>
+  <text x="364.8" y="210.0" class="h18" text-anchor="middle">准备测试数据</text>
+  <text x="364.8" y="236.0" class="c15" text-anchor="middle">种子数据、录制的真实流量</text>
+  <text x="364.8" y="258.0" class="c15" text-anchor="middle">或人工构造；数据越真实越</text>
+  <text x="364.8" y="280.0" class="c15" text-anchor="middle">可信，也越难维护</text>
+  <path d="M471.0 150.0 L489.0 150.0" fill="none" stroke="var(--diagram-line,#aebbad)" stroke-width="2" marker-end="url(#ch14-arrow)"/>
+  <circle cx="595.2" cy="150.0" r="30" fill="var(--diagram-primary-soft,#d6e5dc)" stroke="var(--diagram-primary,#0b6f5d)" stroke-width="2"/><g transform="translate(580.2,135.0) scale(1.250)" fill="none" stroke="var(--diagram-primary,#0b6f5d)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m15 12-8.373 8.373a1 1 0 1 1-3-3L12 9"/><path d="m18 15 4-4"/><path d="m21.5 11.5-1.914-1.914A2 2 0 0 1 19 8.172V7l-2.26-2.26a6 6 0 0 0-4.202-1.756L9 2.96l.92.82A6.18 6.18 0 0 1 12 8.4V10l2 2h1.172a2 2 0 0 1 1.414.586L18.5 14.5"/></g>
+  <text x="595.2" y="210.0" class="h18" text-anchor="middle">执行操作</text>
+  <text x="595.2" y="236.0" class="c15" text-anchor="middle">用公开 API 驱动，别贴着界</text>
+  <text x="595.2" y="258.0" class="c15" text-anchor="middle">面写：界面一改样式，测试</text>
+  <text x="595.2" y="280.0" class="c15" text-anchor="middle">就断</text>
+  <path d="M701.5 150.0 L719.5 150.0" fill="none" stroke="var(--diagram-line,#aebbad)" stroke-width="2" marker-end="url(#ch14-arrow)"/>
+  <circle cx="825.8" cy="150.0" r="30" fill="var(--diagram-primary-soft,#d6e5dc)" stroke="var(--diagram-primary,#0b6f5d)" stroke-width="2"/><g transform="translate(810.8,135.0) scale(1.250)" fill="none" stroke="var(--diagram-primary,#0b6f5d)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m3 17 2 2 4-4"/><path d="m3 7 2 2 4-4"/><path d="M13 6h8"/><path d="M13 12h8"/><path d="M13 18h8"/></g>
+  <text x="825.8" y="210.0" class="h18" text-anchor="middle">验证结果</text>
+  <text x="825.8" y="236.0" class="c15" text-anchor="middle">人工检查、断言、A/B 差异</text>
+  <text x="825.8" y="258.0" class="c15" text-anchor="middle">比较；明确这轮测试要回答</text>
+  <text x="825.8" y="280.0" class="c15" text-anchor="middle">什么风险</text>
+  <text x="32.0" y="316.0" class="c14" text-anchor="start">类型：功能、浏览器与设备、性能与负载、部署配置、探索性、A/B 差异、用户验收、探针与金丝雀、灾难恢复</text>
+  <rect x="32.0" y="348.0" width="896.0" height="68.0" rx="10" fill="var(--diagram-primary-soft,#d6e5dc)"/>
+  <text x="50.0" y="369.0" class="tag" text-anchor="start">一句话</text>
+  <text x="50.0" y="399.0" class="answer" text-anchor="start">单元测试看不到组件之间的配合，需要少量有目标的大型测试补上</text>
+</svg>

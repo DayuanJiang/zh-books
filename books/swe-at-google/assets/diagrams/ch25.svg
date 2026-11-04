@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="472" viewBox="0 0 960 472" class="chapter-svg cg-ch25" data-layout="desktop" role="img" aria-labelledby="ch25-title ch25-desc">
+  <title id="ch25-title">程序跑在哪台机器上，还需要关心吗？</title>
+  <desc id="ch25-desc">本章概览。程序跑在哪台机器上，还需要关心吗？ 本章的主要部分：物理机器：曾经要人手管每一台：装软件、盯故障、半夜重启；容器与调度：打包成容器，调度器决定放哪台机器，坏了自动换一台；服务：稳定的服务名，状态放在机器之外；程序要接受随时被迁移和重启。一句话：把机器交给平台管理，代价是程序必须随时能被搬走和重启</desc>
+  <style>
+    .cg-ch25[data-layout="desktop"] text {font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif;fill:var(--diagram-ink,#242424)}
+    .cg-ch25[data-layout="desktop"] .headline {font-size:30px;font-weight:600}
+    .cg-ch25[data-layout="desktop"] .headline-m {font-size:23px;font-weight:600}
+    .cg-ch25[data-layout="desktop"] .story-headline {font-size:26px;font-weight:600}
+    .cg-ch25[data-layout="desktop"] .story-headline-m {font-size:21px;font-weight:600}
+    .cg-ch25[data-layout="desktop"] .h22 {font-size:22px;font-weight:600}
+    .cg-ch25[data-layout="desktop"] .h20 {font-size:20px;font-weight:600}
+    .cg-ch25[data-layout="desktop"] .h19 {font-size:19px;font-weight:600}
+    .cg-ch25[data-layout="desktop"] .h18 {font-size:18px;font-weight:600}
+    .cg-ch25[data-layout="desktop"] .h16 {font-size:16px;font-weight:600}
+    .cg-ch25[data-layout="desktop"] .t15 {font-size:15px}
+    .cg-ch25[data-layout="desktop"] .t14 {font-size:14px}
+    .cg-ch25[data-layout="desktop"] .c15 {font-size:15px;fill:var(--diagram-muted,#686868)}
+    .cg-ch25[data-layout="desktop"] .c14 {font-size:14px;fill:var(--diagram-muted,#686868)}
+    .cg-ch25[data-layout="desktop"] .c13 {font-size:13px;fill:var(--diagram-muted,#686868)}
+    .cg-ch25[data-layout="desktop"] .tag {font-size:13px;font-weight:600;fill:var(--diagram-primary,#0b6f5d)}
+    .cg-ch25[data-layout="desktop"] .act {font-size:12px;font-weight:600;letter-spacing:1px}
+    .cg-ch25[data-layout="desktop"] .answer {font-size:21px;font-weight:600}
+    .cg-ch25[data-layout="desktop"] .answer-m {font-size:17px;font-weight:600}
+    .cg-ch25[data-layout="desktop"] .emph {font-size:20px;font-weight:600}
+    .cg-ch25[data-layout="desktop"] .emph-m {font-size:18px;font-weight:600}
+  </style>
+  <rect x="0" y="0" width="960" height="472" fill="var(--diagram-bg,#fff)"/>
+  <defs><marker id="ch25-arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="9" markerHeight="9" orient="auto" markerUnits="userSpaceOnUse"><path d="M1 1L9 5L1 9Z" fill="var(--diagram-line,#aebbad)"/></marker></defs>
+  <text x="32.0" y="52.0" class="headline" text-anchor="start">程序跑在哪台机器上，还需要关心吗？</text>
+  <text x="32.0" y="94.0" class="c15" text-anchor="start">计算即服务：一层层把“哪台机器”这个问题抽象掉</text>
+  <rect x="32.0" y="114.0" width="896.0" height="64.0" rx="10" fill="var(--diagram-secondary-soft,#dce4ed)"/>
+  <g transform="translate(50.0,132.0) scale(1.167)" fill="none" stroke="var(--diagram-secondary,#2c6096)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M17.5 19H9a7 7 0 1 1 6.71-9h1.79a4.5 4.5 0 1 1 0 9Z"/></g>
+  <text x="92.0" y="142.0" class="h18" text-anchor="start">服务</text>
+  <text x="92.0" y="164.0" class="c15" text-anchor="start">稳定的服务名，状态放在机器之外；程序要接受随时被迁移和重启</text>
+  <rect x="32.0" y="186.0" width="896.0" height="64.0" rx="10" fill="var(--diagram-secondary-soft,#dce4ed)"/>
+  <g transform="translate(50.0,204.0) scale(1.167)" fill="none" stroke="var(--diagram-secondary,#2c6096)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 7.7c0-.6-.4-1.2-.8-1.5l-6.3-3.9a1.72 1.72 0 0 0-1.7 0l-10.3 6c-.5.2-.9.8-.9 1.4v6.6c0 .5.4 1.2.8 1.5l6.3 3.9a1.72 1.72 0 0 0 1.7 0l10.3-6c.5-.3.9-1 .9-1.5Z"/><path d="M10 21.9V14L2.1 9.1"/><path d="m10 14 11.9-6.9"/><path d="M14 19.8v-8.1"/><path d="M18 17.5V9.4"/></g>
+  <text x="92.0" y="214.0" class="h18" text-anchor="start">容器与调度</text>
+  <text x="92.0" y="236.0" class="c15" text-anchor="start">打包成容器，调度器决定放哪台机器，坏了自动换一台</text>
+  <rect x="32.0" y="258.0" width="896.0" height="64.0" rx="10" fill="var(--diagram-secondary-soft,#dce4ed)"/>
+  <g transform="translate(50.0,276.0) scale(1.167)" fill="none" stroke="var(--diagram-secondary,#2c6096)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect width="20" height="8" x="2" y="2" rx="2" ry="2"/><rect width="20" height="8" x="2" y="14" rx="2" ry="2"/><line x1="6" x2="6.01" y1="6" y2="6"/><line x1="6" x2="6.01" y1="18" y2="18"/></g>
+  <text x="92.0" y="286.0" class="h18" text-anchor="start">物理机器</text>
+  <text x="92.0" y="308.0" class="c15" text-anchor="start">曾经要人手管每一台：装软件、盯故障、半夜重启</text>
+  <text x="32.0" y="348.0" class="c14" text-anchor="start">怎么选：集中托管还是自建，无服务器还是容器；抽象层次要恰当，太低太高都有代价</text>
+  <rect x="32.0" y="376.0" width="896.0" height="68.0" rx="10" fill="var(--diagram-primary-soft,#d6e5dc)"/>
+  <text x="50.0" y="397.0" class="tag" text-anchor="start">一句话</text>
+  <text x="50.0" y="427.0" class="answer" text-anchor="start">把机器交给平台管理，代价是程序必须随时能被搬走和重启</text>
+</svg>
