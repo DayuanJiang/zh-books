@@ -75,3 +75,4 @@ uv run --project framework/tools python books/thinking-fast-and-slow/tools/curat
 | 第 26 章 | as obvious a flow as | 应为 flaw |
 | 附录 A | often men、2 = k= 8、X0l | 应为 of ten men、2 ≤ k ≤ 8、X01；保留正确写法 |
 | 注释 | Alexander Rotliman | 应为 Rothman；照原文保留 |
+| 第 24 章 | and do invest sufficient effort to find out what the odds are | 和前后文矛盾，很可能漏了 not；中文按上下文译作“没有下足功夫”，加译者注说明 |

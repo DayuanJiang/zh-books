@@ -52,7 +52,7 @@
 
 快速闪现的字母：Daniel Kahneman, Jackson Beatty, and Irwin Pollack, “Perceptual Deficit During a Mental Task,” Science 15 (1967): 218–19. 我们用了一面半透明的镜子，这样，观察者面对摄像机时，字母就出现在他们的正前方。在一个对照条件下，参与者透过一个窄孔看字母，以免瞳孔大小的变化影响他们的视敏度。他们的检测结果呈现出在其他受试者身上观察到的倒 V 形模式。
 
-就像电表一样：同时执行几项任务，可能会遇到好几种困难。例如，在同一时刻说出两句不同的话，在生理上是不可能的；把一项听觉任务和一项视觉任务结合起来，可能比把两项视觉任务或两项听觉任务结合起来容易。一些著名的心理学理论试图把任务之间的所有相互干扰，都归因于对各个独立机制的争夺。参见 Alan D. Baddeley, Working Memory (New York: Oxford University Press, 1986). 经过练习，人们以特定方式同时处理多项任务的能力可能会提高。不过，大量截然不同的任务会相互干扰，这说明确实存在一种许多任务都需要的、通用的注意资源或努力资源。
+就像电表一样：同时执行几项任务，可能会遇到好几种困难。例如，在同一时刻说出两句不同的话，在生理上是不可能的；把一项听觉任务和一项视觉任务结合起来，可能比把两项视觉任务或两项听觉任务结合起来容易。一些著名的心理学理论试图把任务之间的所有相互干扰，都归因于对各个独立机制的争夺。参见 Alan D. Baddeley, Working Memory (New York: Oxford University Press, 1986). 经过练习，人们以特定方式同时处理多项任务的能力可能会提高。不过，大量截然不同的任务会相互干扰，这支持了这样一种看法：存在一种许多任务都需要的、通用的注意资源或努力资源。
 
 对大脑的研究：Michael E. Smith, Linda K. McEvoy, and Alan Gevins, “Neurophysiological Indices of Strategy Development and Skill Acquisition,” Cognitive Brain Research 7 (1999): 389–404. Alan Gevins et al., “High-Resolution EEG Mapping of Cortical Activation Related to Working Memory: Effects of Task Difficulty, Type of Processing and Practice,” Cerebral Cortex 7 (1997): 374–85.
 
@@ -394,7 +394,7 @@ The Far Side 漫画：Fritz Strack, Leonard L. Martin, and Sabine Stepper, “In
 
 ## 第 18 章 驯服直觉预测
 
-温和得多：要证明标准回归是预测问题的最优解，需要假定误差按它与正确值之差的平方来加权。这就是普遍接受的最小二乘准则。采用其他损失函数，会得到不同的解。
+温和得多：要证明标准回归是预测问题的最优解，需要假定误差按预测值偏离正确值的平方来加权。这就是普遍接受的最小二乘准则。采用其他损失函数，会得到不同的解。
 
 ## 第 19 章 理解的错觉
 
@@ -616,7 +616,7 @@ The Far Side 漫画：Fritz Strack, Leonard L. Martin, and Sabine Stepper, “In
 
 杰克·克内奇也：Jack L. Knetsch, “The Endowment Effect and Evidence of Nonreversible Indifference Curves,” American Economic Review 79 (1989): 1277–84.
 
-关于禀赋效应的持续争论：Charles R. Plott and Kathryn Zeiler, “The Willingness to Pay–Willingness to Accept Gap, the ‘Endowment Effect,’ Subject Misconceptions, and Experimental Procedures for Eliciting Valuations,” American Economic Review 95 (2005): 530–45. 查尔斯·普洛特是一位顶尖的实验经济学家，他一直非常怀疑禀赋效应，并试图证明它只是技术欠佳的产物，算不上“人类偏好的一个基本方面”。普洛特和蔡勒认为，表现出禀赋效应的参与者对自己的真实价值抱有某种误解，于是他们修改了原始实验的程序，以消除这些误解。他们设计了一套精心的训练程序，让参与者既体验买方的角色，也体验卖方的角色，并明确地教他们评估自己的真实价值。不出所料，禀赋效应消失了。普洛特和蔡勒认为他们的方法是技术上的一项重要改进。心理学家则会认为这种方法有严重缺陷，因为它向参与者传达了一个信息：实验者认为什么样的行为是恰当的，而这恰好与实验者的理论一致。普洛特和蔡勒偏爱的那个版本的克内奇交换实验，也同样有偏差：它不让物品的主人实际拿着物品，而这一点对这种效应至关重要。参见 Charles R. Plott and Kathryn Zeiler, “Exchange Asymmetries Incorrectly Interpreted as Evidence of Endowment Effect Theory and Prospect Theory?” American Economic Review 97 (2007): 1449–66. 这里也许陷入了僵局，双方都拒绝接受对方所要求的方法。
+关于禀赋效应的持续争论：Charles R. Plott and Kathryn Zeiler, “The Willingness to Pay–Willingness to Accept Gap, the ‘Endowment Effect,’ Subject Misconceptions, and Experimental Procedures for Eliciting Valuations,” American Economic Review 95 (2005): 530–45. 查尔斯·普洛特是一位顶尖的实验经济学家，他一直非常怀疑禀赋效应，并试图证明它只是技术欠佳的产物，算不上“人类偏好的一个基本方面”。普洛特和蔡勒认为，表现出禀赋效应的参与者在自己对物品的真实估值上抱有某种误解，于是他们修改了原始实验的程序，以消除这些误解。他们设计了一套精心的训练程序，让参与者既体验买方的角色，也体验卖方的角色，并明确地教他们如何判断自己的真实估值。不出所料，禀赋效应消失了。普洛特和蔡勒认为他们的方法是技术上的一项重要改进。心理学家则会认为这种方法有严重缺陷，因为它向参与者传达了一个信息：实验者认为什么样的行为是恰当的，而这恰好与实验者的理论一致。普洛特和蔡勒偏爱的那个版本的克内奇交换实验，也同样有偏差：它不让物品的主人实际拿着物品，而这一点对这种效应至关重要。参见 Charles R. Plott and Kathryn Zeiler, “Exchange Asymmetries Incorrectly Interpreted as Evidence of Endowment Effect Theory and Prospect Theory?” American Economic Review 97 (2007): 1449–66. 这里也许陷入了僵局，双方都拒绝接受对方所要求的方法。
 
 穷人：埃尔达·沙菲尔、塞德希尔·穆来纳森和他们的同事在研究贫困状态下的决策时，还观察到另外一些例子：贫困促使人们做出的经济行为，在某些方面比境况较好的人的行为更现实、更理性。比起结果的描述，穷人更可能对真实的结果作出反应。Marianne Bertrand, Sendhil Mullainathan, and Eldar Shafir, “Behavioral Economics and Marketing in Aid of Decision Making Among the Poor,” Journal of Public Policy & Marketing 25 (2006): 8–23.
 
@@ -662,7 +662,7 @@ The Far Side 漫画：Fritz Strack, Leonard L. Martin, and Sabine Stepper, “In
 
 以及其他灾难：包括面临“荷兰赌”（Dutch book）的风险。荷兰赌是一组赌局，你错误的偏好让你必须接受它们，而它们最终注定让你亏损。
 
-阿莱构造的难题：熟悉阿莱悖论的读者会认出，这个版本是新的。它比原来的悖论简单得多，实际上也是对理性规则更强烈的违背。在第一个问题中，人们偏好左边的选项。第二个问题是在第一个问题的基础上，给左边加上一个比右边更有价值的前景得到的，但现在人们偏好的却是右边的选项。
+阿莱构造的难题：熟悉阿莱悖论的读者会认出，这个版本是新的。它比原来的悖论简单得多，实际上也是对理性规则更强烈的违背。在第一个问题中，人们偏好左边的选项。第二个问题是在第一个问题的基础上，给左右两边各加上一个前景得到的，加在左边的前景比加在右边的更有价值，但现在人们偏好的却是右边的选项。
 
 大失所望：据杰出的经济学家肯尼斯·阿罗最近的描述，与会者没怎么注意他所说的“阿莱的小实验”。私下交谈，2011 年 3 月 16 日。
 
@@ -812,7 +812,7 @@ The Far Side 漫画：Fritz Strack, Leonard L. Martin, and Sabine Stepper, “In
 
 ## 第 37 章 体验幸福感
 
-对自己近来的整体生活有多满意：另一个常用的问题是：“综合来看，你觉得这些天过得怎么样？你会说你很幸福、相当幸福，还是不太幸福？”美国的综合社会调查就包含这个问题，从它与其他变量的相关来看，它测到的似乎是满意度和体验到的幸福的混合。盖洛普调查使用的一种纯粹的生活评价测量，是坎特里尔自我锚定奋斗量表：受访者在一个阶梯式的量表上给自己当前的生活打分，0 代表“对你来说最糟糕的生活”，10 代表“对你来说最好的生活”。这种措辞暗示，人们应该以自己认为对自己来说可能的生活为锚，但证据表明，全世界的人对什么是好生活有一个共同的标准，正因如此，各国的 GDP 与其国民的平均阶梯得分之间才有极高的相关（r = 0.84）。Angus Deaton, “Income, Health, and Well-Being Around the World: Evidence from the Gallup World Poll,” Journal of Economic Perspectives 22 (2008): 53–72.
+对自己近来的整体生活有多满意：另一个常用的问题是：“综合来看，你觉得这些天过得怎么样？你会说你很幸福、相当幸福，还是不太幸福？”美国的综合社会调查就包含这个问题，从它与其他变量的相关来看，它测到的似乎是满意度和体验到的幸福的混合。盖洛普调查使用的一种纯粹的生活评价测量，是坎特里尔自我锚定奋斗量表：受访者在一个阶梯式的量表上给自己当前的生活打分，0 代表“你可能过上的最差的生活”，10 代表“你可能过上的最好的生活”。这种措辞暗示，人们应该以自己认为对自己来说可能的生活为锚，但证据表明，全世界的人对什么是好生活有一个共同的标准，正因如此，各国的 GDP 与其国民的平均阶梯得分之间才有极高的相关（r = 0.84）。Angus Deaton, “Income, Health, and Well-Being Around the World: Evidence from the Gallup World Poll,” Journal of Economic Perspectives 22 (2008): 53–72.
 
 “梦之队”：那位经济学家是普林斯顿大学的艾伦·克鲁格，他以对不寻常的数据作出创新性分析而闻名。几位心理学家是：戴维·施卡德，他有方法论方面的专长；阿瑟·斯通，健康心理学、经验取样和生态瞬时评估方面的专家；诺伯特·施瓦茨，一位社会心理学家，他也是调查方法方面的专家，曾对幸福感研究作过一些实验性的批评，其中包括那个复印机上留下一枚 10 美分硬币就影响了随后生活满意度报告的实验。
 
@@ -854,7 +854,7 @@ U 指数：Alan B. Krueger, ed., Measuring the Subjective Well-Being of Nations:
 
 加州人的幸福：今天的人能多准确地预测自己的后代在一百年后会有什么感受，这个问题显然与应对气候变化的政策有关，但它只能间接地研究，这正是我们打算做的。
 
-生活的各个方面：提出这个问题时，我犯了一个我现在会尽量避免的混淆：幸福和生活满意度并不是同义词。生活满意度指的是你思考自己的生活时的想法和感受，这种情况只是偶尔发生，包括在幸福感调查中。幸福描述的是人们过日常生活时的感受。
+生活的各个方面：提出这个问题时，我混淆了两个概念，这种混淆我现在会尽量避免：幸福和生活满意度并不是同义词。生活满意度指的是你思考自己的生活时的想法和感受，这种情况只是偶尔发生，包括在幸福感调查中。幸福描述的是人们过日常生活时的感受。
 
 我赢了这场家庭争论：不过，我妻子从来没有认输。她坚称，只有北加州的居民更幸福。
 

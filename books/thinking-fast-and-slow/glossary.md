@@ -68,7 +68,7 @@
 | denominator neglect | 忽视分母 |  |  | ch30 | 6 | 初定 |
 | narrow framing / broad framing | 窄框架 / 宽框架 | 把决策一个个单独看，或放在一起看 |  | ch31 | 24 | 初定 |
 | framing effect / frame | 框架效应 / 框架 |  |  | introduction | 14 | 初定 |
-| risk policy | 风险策略 |  |  | ch13 | 14 | 初定 |
+| risk policy | 风险策略；监管语境作“风险政策” | 第 31 章：个人或机构作风险决策时遵循的规则；第 13 章说的是政府对风险的监管政策，译“风险政策” | 两个义项不要混用 | ch13 | 14 | 初定 |
 | mental account / mental accounting | 心理账户 |  |  | ch32 | 28 | 初定 |
 | sunk cost | 沉没成本 |  |  | ch32 | 4 | 初定 |
 | disposition effect | 处置效应 |  |  | ch32 | 3 | 初定 |

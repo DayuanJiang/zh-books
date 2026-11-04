@@ -102,3 +102,15 @@ EPUB 里这一章有 8 处乱码，译者按上下文修复后再翻译：
   4. 第 2 块 effortful：保留“费力而较慢的系统 2”。这里已经用了术语表的“费力”，只是和“较慢”并列，共用一个“的”；拆成“费力的、较慢的系统 2”反而不顺。本章另外两处 effortful（第 16 块“更费力的斟酌”、第 23 块“费力的系统 2”）也都符合术语表。
 - 其他第二批术语：按时长加权、快乐计、参照类别预测、行为经济学都已符合术语表。第 4 块的 cold-hand study 译作“冷手研究”，保留：英文这里用的是 study，前面紧挨着“早期的一项实验”，第 35 章同样把 The cold-hand study 译作“冷手研究”；cold-hand experiment 在本章没有出现。
 - 改动后运行 `python3 scripts/site.py status thinking-fast-and-slow`，conclusions 一行显示 33/33。
+
+## 第三轮：GPT-6 Astra 独立审校
+
+- 审校者：GPT-6 Astra，通过 Codex 运行，只读，和译者、前两轮审校者不属于同一个模型家族。
+- 发现：2 条，采纳并修改 1 条，驳回 1 条。
+- 采纳：
+  1. 第 28 块 `System 1 registers the cognitive ease with which it processes information`：register 在这里是察觉、感知的意思，原译“记下”读起来像是把放松程度记录、存储下来，意思走了样。改为“系统 1 能察觉自己处理信息时的认知放松程度，但在它变得不可靠时，并不会发出警告信号”，同时去掉了后半句重复的“它”。
+- 驳回：
+  1. 第 11 块 `not whether a person’s beliefs and preferences are reasonable`：审校者认为“信念和偏好是否通情达理”搭配不当，建议改为“合理”。保留原译。这一段讨论的正是 reasonable 这个词：作者先用信念符合现实、偏好符合利益来定义“通情达理的人”，并括注了英文，随后拿它和经济学里的 rational 对照，同一段的“是否通情达理都不要紧”和下一段的“通情达理的人不可能是理性的”也都用这个译法。这里改成“合理”，读者就看不出作者是在沿用刚给出的定义；“信念是否通情达理”读者能读懂，也不算病句，属于措辞取舍。
+- 原文疑点：无。
+- 核实者：agent（Opus 5.5），逐条对照英文、术语表（cognitive ease 译作“认知放松”）和第 5 章的用法核实。
+- 改动后运行 `python3 scripts/site.py status thinking-fast-and-slow`，conclusions 一行显示 33/33。
