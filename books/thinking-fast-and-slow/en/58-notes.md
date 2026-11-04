@@ -312,7 +312,7 @@ role of fluency: Sabine Stepper and Fritz Strack, “Proprioceptive Determinants
 
 experimenters dreamed up: For a review of this area of research, see Rainer Greifeneder, Herbert Bless, and Michel T. Pham, “When Do People Rely on Affective and Cognitive Feelings in Judgment? A Review,” Personality and Social Psychology Review 15 (2011): 107–41.
 
-affect their cardiac health: Alexander Rothman and Norbert Schwarz, “Constructing Perceptions of Vulnerability: Personal Relevance and the Use of Experimental Information in Health Judgments,” Personality and Social Psychology Bulletin 24 (1998): 1053–64.
+affect their cardiac health: Alexander Rotliman and Norbert Schwarz, “Constructing Perceptions of Vulnerability: Personal Relevance and the Use of Experimental Information in Health Judgments,” Personality and Social Psychology Bulletin 24 (1998): 1053–64.
 
 effortful task at the same time: Rainer Greifeneder and Herbert Bless, “Relying on Accessible Content Versus Accessibility Experiences: The Case of Processing Capacity,” Social Cognition 25 (2007): 853–81.
 
@@ -442,7 +442,7 @@ this startling conclusion: Brad M. Barber and Terrance Odean, “Trading Is Haza
 
 men acted on their useless ideas: Brad M. Barber and Terrance Odean, “Boys Will Be Boys: Gender, Overconfidence, and Common Stock Investment,” Quarterly Journal of Economics 116 (2006): 261–92.
 
-selling “winners”: This “disposition effect” is discussed further in chapter 32.
+selling “winners”: This “disposition effect” is discussed further.
 
 responding to news: Brad M. Barber and Terrance Odean, “All That Glitters: The Effect of Attention and News on the Buying Behavior of Individual and Institutional Investors,” Review of Financial Studies 21 (2008): 785–818.
 

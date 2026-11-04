@@ -96,7 +96,7 @@
 
 在许多情境中，人们作估计时，会从一个初始值出发，再加以调整，得出最终答案。这个初始值（或者说起点）可能来自问题的表述，也可能是部分计算的结果。无论哪种情况，调整通常都是不充分的。[^18]也就是说，不同的起点会产生不同的估计，而这些估计都偏向各自的初始值。我们把这种现象称为锚定。
 
-调整不充分。在一项演示锚定效应的实验中，被试要估计各种以百分比表示的量（例如，联合国成员国中非洲国家所占的百分比）。对每个量，都当着被试的面转动一个幸运转盘，得出一个 0 到 100 之间的数字。被试先要指出这个数字比该量的值高还是低，然后从这个数字出发向上或向下调整，估计该量的值。对于每个量，不同的组拿到的数字不同，而这些任意的数字对估计产生了显著的影响。例如，对于联合国成员国中非洲国家所占的百分比，拿到 10 和 65 作为起点的两组，估计的中位数分别为 25 和 45。为估计准确提供奖金，并没有减弱锚定效应。
+调整不充分。在一项演示锚定效应的实验中，被试要估计各种以百分比表示的量（例如，联合国成员国中非洲国家所占的百分比）。对每个量，都当着被试的面转动一个幸运轮盘，得出一个 0 到 100 之间的数字。被试先要指出这个数字比该量的值高还是低，然后从这个数字出发向上或向下调整，估计该量的值。对于每个量，不同的组拿到的数字不同，而这些任意的数字对估计产生了显著的影响。例如，对于联合国成员国中非洲国家所占的百分比，拿到 10 和 65 作为起点的两组，估计的中位数分别为 25 和 45。为估计准确提供奖金，并没有减弱锚定效应。
 
 锚定不仅发生在起点直接提供给被试时，也发生在被试根据某个不完整计算的结果作估计时。一项关于直觉数值估计的研究说明了这种效应。两组高中生要在 5 秒内估计写在黑板上的一个算式的值。一组估计的乘积是
 
@@ -164,7 +164,7 @@
 [^18]: P. Slovic and S. Lichtenstein, “Comparison of Bayesian and Regression Approaches to the Study of Information Processing in Judgment,” Organizational Behavior & Human Performance 6 (1971): 649–744.
 [^19]: M. Bar-Hillel, “On the Subjective Probability of Compound Events,” Organizational Behavior & Human Performance 9 (1973): 396–406.
 [^20]: J. Cohen, E. I. Chesnick, and D. Haran, “A Confirmation of the Inertial-ψ Effect in Sequential Choice and Decision,” British Journal of Psychology 63 (1972): 41–46.
-[^21]: M. Alpert and H. Raiffa, unpublished manuscript; C. A. S. von Holstein, “Two Techniques for Assessment of Subjective Probability Distributions: An Experimental Study,” Acta Psychologica 35 (1971): 478–94; R. L. Winkler, “The Assessment of Prior Distributions in Bayesian Analysis,” Journal of the American Statistical Association 62 (1967): 776–800.
+[^21]: M. Alpert and H. Raiffa, unpublished manuscript; C. A. Stael von Holstein, “Two Techniques for Assessment of Subjective Probability Distributions: An Experimental Study,” Acta Psychologica 35 (1971): 478–94; R. L. Winkler, “The Assessment of Prior Distributions in Bayesian Analysis,” Journal of the American Statistical Association 62 (1967): 776–800.
 [^22]: Kahneman and Tversky, “Subjective Probability”; Tversky and Kahneman, “Availability.”
 [^23]: Kahneman and Tversky, “On the Psychology of Prediction”; Tversky and Kahneman, “Belief in the Law of Small Numbers.”
 [^24]: L. J. Savage, The Foundations of Statistics (New York: Wiley, 1954).

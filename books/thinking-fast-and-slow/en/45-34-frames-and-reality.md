@@ -30,7 +30,7 @@ The subject is then asked to choose between a sure outcome and a gamble on a whe
 
 As shown, the same sure outcome can be framed in two different ways: as KEEP £20 or as LOSE £30. The objective outcomes are precisely identical in the two frames, and a reality-bound Econ would respond to both in the same way—selecting either the sure thing or the gamble regardless of the frame—but we already know that the Human mind is not bound to reality. Tendencies to approach or avoid are evoked by the words, and we expect System 1 to be biased in favor of the sure option when it is designated as KEEP and against that same option when it is designated as LOSE.
 
-The experiment consisted of many trials, and each participant encountered several choice problems in both the KEEP and the LOSE frames.
+The experiment consisted of many trials, and each participant encountered several choice problems in both the KEEP and the LOSE frames. As expected, every one of the 20 subjects showed a framing effect: they were more likely to choose the sure thing in the KEEP frame and more likely to accept the gamble in the LOSE frame. But the subjects were not all alike. Some were highly susceptible to the framing of the problem. Others mostly made the same choice regardless of the frame—as a reality-bound individual should do. The authors ranked the 20 subjects accordingly and gave the ranking a striking label: the rationality index.
 
 The activity of the brain was recorded as the subjects made each decision. Later, the trials were separated into two categories:
 

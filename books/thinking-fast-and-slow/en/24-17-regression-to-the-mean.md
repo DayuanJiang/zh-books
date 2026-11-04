@@ -103,14 +103,13 @@ One of my favorite examples of the errors of intuitive prediction is adapted fro
 
 > You are the sales forecaster for a department store chain. All stores are similar in size and merchandise selection, but their sales differ because of location, competition, and random factors. You are given the results for 2011 and asked to forecast sales for 2012. You have been instructed to accept the overall forecast of economists that sales will increase overall by 10%. How would you complete the following table?
 
-|  |  |  |  |  |
-| --- | --- | --- | --- | --- |
-| Store |  | 2011 |  | 2012 |
-| 1 |  | $11,000,000 |  | \_\_\_\_\_\_\_\_ |
-| 2 |  | $23,000,000 |  | \_\_\_\_\_\_\_\_ |
-| 3 |  | $18,000,000 |  | \_\_\_\_\_\_\_\_ |
-| 4 |  | $29,000,000 |  | \_\_\_\_\_\_\_\_ |
-| Total |  | $61,000,000 |  | $67,100,000 |
+| Store | 2011 | 2012 |
+| --- | --- | --- |
+| 1 | $11,000,000 | \_\_\_\_\_\_\_\_ |
+| 2 | $23,000,000 | \_\_\_\_\_\_\_\_ |
+| 3 | $18,000,000 | \_\_\_\_\_\_\_\_ |
+| 4 | $29,000,000 | \_\_\_\_\_\_\_\_ |
+| Total | $61,000,000 | $67,100,000 |
 
 Having read this chapter, you know that the obvious solution of adding 10% to the sales of each store is wrong. You want your forecasts to be regressive, which requires adding more than 10% to the low-performing branches and adding less (or even subtracting) to others. But if you ask other people, you are likely to encounter puzzlement: Why do you bother them with an obvious question? As Galton painfully discovered, the concept of regression is far from obvious.
 

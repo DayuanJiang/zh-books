@@ -76,7 +76,7 @@
 
 ## 第 3 章 懒惰的控制者
 
-“最优体验”：Mihaly Csikszentmihalyi, Flow: The Psychology of Optimal Experience (New York: Harper, 1990).
+“最佳体验”：Mihaly Csikszentmihalyi, Flow: The Psychology of Optimal Experience (New York: Harper, 1990).
 
 爱吃甜食：Baba Shiv and Alexander Fedorikhin, “Heart and Mind in Conflict: The Interplay of Affect and Cognition in Consumer Decision Making,” Journal of Consumer Research 26 (1999): 278–92. Malte Friese, Wilhelm Hofmann, and Michaela Wänke, “When Impulses Take Over: Moderated Predictive Validity of Implicit and Explicit Attitude Measures in Predicting Food Choice and Consumption Behaviour,” British Journal of Social Psychology 47 (2008): 397–419.
 
@@ -310,7 +310,7 @@ The Far Side 漫画：Fritz Strack, Leonard L. Martin, and Sabine Stepper, “In
 
 实验者想出来的：关于这一研究领域的综述，参见 Rainer Greifeneder, Herbert Bless, and Michel T. Pham, “When Do People Rely on Affective and Cognitive Feelings in Judgment? A Review,” Personality and Social Psychology Review 15 (2011): 107–41.
 
-影响心脏健康：Alexander Rothman and Norbert Schwarz, “Constructing Perceptions of Vulnerability: Personal Relevance and the Use of Experimental Information in Health Judgments,” Personality and Social Psychology Bulletin 24 (1998): 1053–64.
+影响心脏健康：Alexander Rotliman and Norbert Schwarz, “Constructing Perceptions of Vulnerability: Personal Relevance and the Use of Experimental Information in Health Judgments,” Personality and Social Psychology Bulletin 24 (1998): 1053–64.
 
 同时在做另一项费力的任务：Rainer Greifeneder and Herbert Bless, “Relying on Accessible Content Versus Accessibility Experiences: The Case of Processing Capacity,” Social Cognition 25 (2007): 853–81.
 
@@ -440,7 +440,7 @@ The Far Side 漫画：Fritz Strack, Leonard L. Martin, and Sabine Stepper, “In
 
 男性按自己那些无用的想法行事：Brad M. Barber and Terrance Odean, “Boys Will Be Boys: Gender, Overconfidence, and Common Stock Investment,” Quarterly Journal of Economics 116 (2006): 261–92.
 
-卖出“赢家”：这种“处置效应”在第 32 章还会进一步讨论。
+卖出“赢家”：这种“处置效应”后面还会进一步讨论。[^t6]
 
 对新闻作出反应：Brad M. Barber and Terrance Odean, “All That Glitters: The Effect of Attention and News on the Buying Behavior of Individual and Institutional Investors,” Review of Financial Studies 21 (2008): 785–818.
 
@@ -708,7 +708,7 @@ The Far Side 漫画：Fritz Strack, Leonard L. Martin, and Sabine Stepper, “In
 
 ## 第 31 章 风险策略
 
-较差的选项 BC[^t6]：计算很简单。两种组合都由一个确定的事和一个赌局构成。把确定的事加到赌局的两个结果上，就会得到 AD 和 BC。
+较差的选项 BC[^t7]：计算很简单。两种组合都由一个确定的事和一个赌局构成。把确定的事加到赌局的两个结果上，就会得到 AD 和 BC。
 
 相当于“锁定”：Thomas Langer and Martin Weber, “Myopic Prospect Theory vs. Myopic Loss Aversion: How General Is the Phenomenon?” Journal of Economic Behavior & Organization 56 (2005): 25–38.
 
@@ -740,7 +740,7 @@ The Far Side 漫画：Fritz Strack, Leonard L. Martin, and Sabine Stepper, “In
 
 清理投资组合：Lilian Ng and Qinghai Wang, “Institutional Trading and the Turn-of-the-Year Effect,” Journal of Financial Economics 74 (2004): 343–66.
 
-对生活的某些方面更厌恶损失：Tversky and Kahneman, “Loss Aversion in Riskless Choice.” Eric J. Johnson, Simon Gächter, and Andreas Herrmann, “Exploring the Nature of Loss Aversion,” Centre for Decision Research and Experimental Economics, University of Nottingham, Discussion Paper Series, 2006. Edward J. McCaffery, Daniel Kahneman, and Matthew L. Spitzer, “Framing the Jury: Cognitive Perspectives on Pain and Suffering,” Virginia Law Review 81 (1995): 1341–420.
+对于生活的某些方面，损失厌恶更强：Tversky and Kahneman, “Loss Aversion in Riskless Choice.” Eric J. Johnson, Simon Gächter, and Andreas Herrmann, “Exploring the Nature of Loss Aversion,” Centre for Decision Research and Experimental Economics, University of Nottingham, Discussion Paper Series, 2006. Edward J. McCaffery, Daniel Kahneman, and Matthew L. Spitzer, “Framing the Jury: Cognitive Perspectives on Pain and Suffering,” Virginia Law Review 81 (1995): 1341–420.
 
 关于消费者行为的经典论文：Richard H. Thaler, “Toward a Positive Theory of Consumer Choice,” Journal of Economic Behavior and Organization 39 (1980): 36–90.
 
@@ -754,7 +754,7 @@ The Far Side 漫画：Fritz Strack, Leonard L. Martin, and Sabine Stepper, “In
 
 在这个人常去的那家商店：Dale T. Miller and Cathy McFarland, “Counterfactual Thinking and Victim Compensation: A Test of Norm Theory,” Personality and Social Psychology Bulletin 12 (1986): 513–19.
 
-判断和选择的逆转：朝目前这种解释迈出第一步的，是 Max H. Bazerman, George F. Loewenstein, and Sally B. White, “Reversals of Preference in Allocation Decisions: Judging Alternatives Versus Judging Among Alternatives,” Administrative Science Quarterly 37 (1992): 220–40. 奚恺元（Christopher Hsee）提出了联合评估和单独评估这两个术语，并提出了重要的可评估性假说。这个假说用这样一个观点来解释逆转：有些属性只有在联合评估中才变得可以评估：“Attribute Evaluability: Its Implications for Joint-Separate Evaluation Reversals and Beyond,” in Kahneman and Tversky, Choices, Values, and Frames.
+判断与选择的逆转：朝目前这种解释迈出第一步的，是 Max H. Bazerman, George F. Loewenstein, and Sally B. White, “Reversals of Preference in Allocation Decisions: Judging Alternatives Versus Judging Among Alternatives,” Administrative Science Quarterly 37 (1992): 220–40. 奚恺元（Christopher Hsee）提出了联合评估和单独评估这两个术语，并提出了重要的可评估性假说。这个假说用这样一个观点来解释逆转：有些属性只有在联合评估中才变得可以评估：“Attribute Evaluability: Its Implications for Joint-Separate Evaluation Reversals and Beyond,” in Kahneman and Tversky, Choices, Values, and Frames.
 
 心理学家与经济学家之间的对话：Sarah Lichtenstein and Paul Slovic, “Reversals of Preference Between Bids and Choices in Gambling Decisions,” Journal of Experimental Psychology 89 (1971): 46–55. 哈罗德·R. 林德曼（Harold R. Lindman）也独立得到了类似的结果：“Inconsistent Preferences Among Gambles,” Journal of Experimental Psychology 89 (1971): 390–97.
 
@@ -894,4 +894,6 @@ U 指数：Alan B. Krueger, ed., Measuring the Subjective Well-Being of Nations:
 
 [^t5]: 英文版的这条注释只有提示语，没有正文。在英文电子版里，这句提示语链接到第 7 章 急于下结论的机器，光环效应在那一章讨论。
 
-[^t6]: 原文这里写作 BC。按第 31 章的上下文，选项 BC 占优于选项 AD，较差的应为 AD；第 31 章正文已按 AD 翻译，并在那一章的译者注里作了说明。
+[^t6]: 在英文电子版里，“is discussed further”是一个链接，指向第 32 章 记分，处置效应在那一章讨论。
+
+[^t7]: 原文这里写作 BC。按第 31 章的上下文，选项 BC 占优于选项 AD，较差的应为 AD；第 31 章正文已按 AD 翻译，并在那一章的译者注里作了说明。

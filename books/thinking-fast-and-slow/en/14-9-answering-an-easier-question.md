@@ -18,20 +18,14 @@ Substituting one question for another can be a good strategy for solving difficu
 
 Consider the questions listed in the left-hand column of table 1. These are difficult questions, and before you can produce a reasoned answer to any of them you must deal with other difficult issues. What is the meaning of happiness? What are the likely political developments in the next six months? What are the standard sentences for other financial crimes? How strong is the competition that the candidate faces? What other environmental or other causes should be considered? Dealing with these questions seriously is completely impractical. But you are not limited to perfectly reasoned answers to questions. There is a heuristic alternative to careful reasoning, which sometimes works fairly well and sometimes leads to serious errors.
 
-|  |  |  |
-| --- | --- | --- |
-| Target Question |  | Heuristic Question |
-|  |  |  |
-| How much would you contribute to save an endangered species? |  | How much emotion do I feel when I think of dying dolphins? |
-|  |  |  |
-| How happy are you with your life these days? |  | What is my mood right now? |
-|  |  |  |
-| How popular will the president be six months from now? |  | How popular is the president right now? |
-|  |  |  |
-| How should financial advisers who prey on the elderly be punished? |  | How much anger do I feel when I think of financial predators? |
-|  |  |  |
-| This woman is running for the primary. How far will she go in politics? |  | Does this woman look like a political winner? |
-| Table 1 |  |  |
+| Target Question | Heuristic Question |
+| --- | --- |
+| How much would you contribute to save an endangered species? | How much emotion do I feel when I think of dying dolphins? |
+| How happy are you with your life these days? | What is my mood right now? |
+| How popular will the president be six months from now? | How popular is the president right now? |
+| How should financial advisers who prey on the elderly be punished? | How much anger do I feel when I think of financial predators? |
+| This woman is running for the primary. How far will she go in politics? | Does this woman look like a political winner? |
+| Table 1 |  |
 
 The mental shotgun makes it easy to generate quick answers to difficult questions without imposing much hard work on your lazy System 2. The right-hand counterpart of each of the left-hand questions is very likely to be evoked and very easily answered. Your feelings about dolphins and financial crooks, your current mood, your impressions of the political skill of the primary candidate, or the current standing of the president will readily come to mind. The heuristic questions provide an off-the-shelf answer to each of the difficult target questions.
 

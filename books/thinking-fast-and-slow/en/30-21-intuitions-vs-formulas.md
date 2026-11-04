@@ -1,4 +1,4 @@
-# 21. Intuitions Vs. Formulas
+# 21. Intuitions vs. Formulas
 
 Paul Meehl was a strange and wonderful character, and one of the most versatile psychologists of the twentieth century. Among the departments in which he had faculty appointments at the University of Minnesota were psychology, law, psychiatry, neurology, and philosophy. He also wrote on religion, political science, and learning in rats. A statistically sophisticated researcher and a fierce critic of empty claims in clinical psychology, Meehl was also a practicing psychoanalyst. He wrote thoughtful essays on the philosophical foundations of psychological research that I almost memorized while I was a graduate student. I never met Meehl, but he was one of my heroes from the time I read his Clinical vs. Statistical Prediction: A Theoretical Analysis and a Review of the Evidence.
 

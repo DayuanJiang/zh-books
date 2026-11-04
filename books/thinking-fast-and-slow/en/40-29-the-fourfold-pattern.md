@@ -120,7 +120,7 @@ The decisions described by the fourfold pattern are not obviously unreasonable. 
 
 When you take the long view of many similar decisions, you can see that paying a premium to avoid a small risk of a large loss is costly. A similar analysis applies to each of the cells of the fourfold pattern: systematic deviations from expected value are costly in the long run—and this rule applies to both risk aversion and risk seeking. Consistent overweighting of improbable outcomes—a feature of intuitive decision making—eventually leads to inferior outcomes.
 
-## Speaking Of The Fourfold Pattern
+## Speaking of the Fourfold Pattern
 
 > “He is tempted to settle this frivolous claim to avoid a freak loss, however unlikely. That’s overweighting of small probabilities. Since he is likely to face many similar problems, he would be better off not yielding.”
 

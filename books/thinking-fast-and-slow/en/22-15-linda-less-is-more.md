@@ -1,4 +1,4 @@
-# 15. Linda: Less is More
+# 15. Linda: Less Is More
 
 The best-known and most controversial of our experiments involved a fictitious lady called Linda. Amos and I made up the Linda problem to provide conclusive evidence of the role of heuristics in judgment and of their incompatibility with logic. This is how we described Linda:
 
@@ -78,15 +78,14 @@ and
 
 > Jane is a teacher and walks to work.
 
-The two questions have the same logical structure as the Linda problem, but they cause no fallacy, because the more detailed outcome is only more detailed—it is not more plausible, or more coherent, or a better story. The evaluation of plausibility and coherence does not suggest an answer to the probability question. In the absence of a competing intuition, logic prevails.
+The two questions have the same logical structure as the Linda problem, but they cause no fallacy, because the more detailed outcome is only more detailed—it is not more plausible, or more coherent, or a better story. The evaluation of plausibility and coherence does not suggest and answer to the probability question. In the absence of a competing intuition, logic prevails.
 
 ## Less Is More, Sometimes Even In Joint Evaluation
 
 Christopher Hsee, of the University of Chicago, asked people to price sets of dinnerware offered in a clearance sale in a local store, where dinnerware regularly runs between $30 and $60. There were three groups in his experiment. The display below was shown to one group; Hsee labels that joint evaluation, because it allows a comparison of the two sets. The other two groups were shown only one of the two sets; this is single evaluation. Joint evaluation is a within-subject experiment, and single evaluation is between-subjects.
 
-|  |  |  |
-| --- | --- | --- |
 |  | Set A: 40 pieces | Set B: 24 pieces |
+| --- | --- | --- |
 | Dinner plates | 8, all in good condition | 8, all in good condition |
 | Soup/salad bowls | 8, all in good condition | 8, all in good condition |
 | Dessert plates | 8, all in good condition | 8, all in good condition |

@@ -164,7 +164,7 @@ This article described three heuristics that are employed in making judgments un
 [^18]: P. Slovic and S. Lichtenstein, “Comparison of Bayesian and Regression Approaches to the Study of Information Processing in Judgment,” Organizational Behavior & Human Performance 6 (1971): 649–744.
 [^19]: M. Bar-Hillel, “On the Subjective Probability of Compound Events,” Organizational Behavior & Human Performance 9 (1973): 396–406.
 [^20]: J. Cohen, E. I. Chesnick, and D. Haran, “A Confirmation of the Inertial-ψ Effect in Sequential Choice and Decision,” British Journal of Psychology 63 (1972): 41–46.
-[^21]: M. Alpert and H. Raiffa, unpublished manuscript; C. A. S. von Holstein, “Two Techniques for Assessment of Subjective Probability Distributions: An Experimental Study,” Acta Psychologica 35 (1971): 478–94; R. L. Winkler, “The Assessment of Prior Distributions in Bayesian Analysis,” Journal of the American Statistical Association 62 (1967): 776–800.
+[^21]: M. Alpert and H. Raiffa, unpublished manuscript; C. A. Stael von Holstein, “Two Techniques for Assessment of Subjective Probability Distributions: An Experimental Study,” Acta Psychologica 35 (1971): 478–94; R. L. Winkler, “The Assessment of Prior Distributions in Bayesian Analysis,” Journal of the American Statistical Association 62 (1967): 776–800.
 [^22]: Kahneman and Tversky, “Subjective Probability”; Tversky and Kahneman, “Availability.”
 [^23]: Kahneman and Tversky, “On the Psychology of Prediction”; Tversky and Kahneman, “Belief in the Law of Small Numbers.”
 [^24]: L. J. Savage, The Foundations of Statistics (New York: Wiley, 1954).

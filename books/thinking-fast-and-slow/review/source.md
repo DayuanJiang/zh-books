@@ -45,3 +45,33 @@ uv run --project framework/tools python books/thinking-fast-and-slow/tools/curat
 - 五个部分的标题（Two Systems、Heuristics and Biases、Overconfidence、Choices、Two Selves）没有保留成单独的页面；阅读器的侧边栏目前只有一层章节列表。
 - 插图是原书的图片，图里的英文没有翻译，图题在正文里翻译。
 - 书末注释按页码和引文对应，正文里没有标记，作为单独一节保留。
+
+## 对照干净原文（第二轮）
+
+后来用户提供了同一版本的 AZW3 文件。它没有 DRM，解包后全书只有 56 个词表里没有的词，逐个核对过，都是书中真有的专业词（如 associatively、debiasing、hedonimeter）。这个文件作为原文的依据，按章转成文本后，逐块和我们的英文比较：
+
+- 第一轮各章 agent 按上下文修复了 361 处乱码，引言的 7 处和第 1 章的 7 处与干净原文一字不差。
+- 第二轮对照干净原文，又改了 30 处英文，其中 15 处的中文同步修改。例如：
+  - 第 25 章补回漏掉的半句 “he said he would coach me”。
+  - 第 31 章改正被修反的组合选项 AD 和 BC。
+  - 第 6 章 “much less” 改为 “no more”。
+  - 第 30 章 “999,999” 改为 “99,999”。
+  - 第 5 章去掉一个指向书内锚点的链接。
+- 71 处只是排版不同，保留我们的写法。例如：
+  - 图里的文字在一份里是图片，在另一份里是正文。
+  - 干净版里 “Fischhoff” 被拆成 “Fischh off”。
+  - 列表编号的写法不同。
+- 剩下 17 个块，比较脚本仍标为不同，逐个看过，都属于上面这几类，或者是比较脚本错位。
+
+## 原文疑点
+
+以下地方，干净原文本身看起来有误。英文照原文保留，中文按正确的意思译出，必要时加译者注：
+
+| 位置 | 原文 | 疑点 |
+| --- | --- | --- |
+| 第 7 章 | Stumbling to Happiness | 吉尔伯特的书名实为 Stumbling on Happiness |
+| 第 9 章 | 目标问题与启发式问题对照表 | 干净版把“总统支持率”一行的两格排反了；我们的顺序是对的，予以保留 |
+| 第 15 章 | does not suggest and answer | 应为 an answer |
+| 第 26 章 | as obvious a flow as | 应为 flaw |
+| 附录 A | often men、2 = k= 8、X0l | 应为 of ten men、2 ≤ k ≤ 8、X01；保留正确写法 |
+| 注释 | Alexander Rotliman | 应为 Rothman；照原文保留 |

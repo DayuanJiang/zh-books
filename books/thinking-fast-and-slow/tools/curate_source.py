@@ -37,8 +37,27 @@ DROP = {
 }
 # The importer names the Appendix A reference list "notes"; it moves into Appendix A as footnotes.
 REFERENCES = "notes"
-CROSS_LINK = re.compile(r"\[([^\]]+)\]\(index_split_\d+\.html#filepos\d+\)")
+CROSS_LINK = re.compile(r"\[([^\]]+)\]\((?:index_split_\d+\.html)?#filepos\d+\)")
 STAR = re.compile(r"\[\\\*\]\(index_split_\d+\.html#filepos\d+\)")
+
+
+def clean_table(lines, drop_cols=None, drop_rows=None, promote=True):
+    """Tidy a Markdown table from the Kindle conversion: no empty rows or columns, the first row as the header.
+
+    Returns (new_lines, drop_cols, drop_rows) so a translated table can get exactly the same treatment.
+    """
+    rows = [[c.strip() for c in line.strip().strip("|").split("|")] for line in lines]
+    body = [r for i, r in enumerate(rows) if i != 1]  # without the --- separator
+    if drop_cols is None:
+        drop_cols = {j for j in range(len(body[0])) if all(not r[j] for r in body if j < len(r))}
+    if drop_rows is None:
+        drop_rows = {i for i, r in enumerate(body) if not any(r)}
+    kept = [[c for j, c in enumerate(r) if j not in drop_cols] for i, r in enumerate(body) if i not in drop_rows]
+    header = kept[0] if promote and kept and body[0] and not any(body[0]) else [""] * len(kept[0])
+    data = kept[1:] if header is kept[0] else kept
+    out = ["| " + " | ".join(header) + " |", "| " + " | ".join("---" for _ in header) + " |"]
+    out += ["| " + " | ".join(r) + " |" for r in data]
+    return out, drop_cols, drop_rows
 
 
 def note_text(key, chapters):
@@ -100,6 +119,17 @@ def main():
         text = path.read_text()
         text = CROSS_LINK.sub(r"\1", text)             # links between sections of the EPUB: keep the words
         text = re.sub(r"^> > ", "> ", text, flags=re.M)  # the conversion nests every indented block twice
+        lines, out, table = text.split("\n"), [], []
+        for line in lines + [""]:
+            if line.startswith("|"):
+                table.append(line)
+                continue
+            if table:
+                # The chapter 27 table has no header row in the book; its first row is data.
+                out += clean_table(table, promote=entry["id"] != "ch27")[0]
+                table = []
+            out.append(line)
+        text = "\n".join(out[:-1])
         path.write_text(text)
     config["chapters"] = kept
 

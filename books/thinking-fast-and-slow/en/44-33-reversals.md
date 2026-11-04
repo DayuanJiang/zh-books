@@ -84,9 +84,8 @@ Next, consider the two causes in joint evaluation. Which of the two, dolphins or
 
 Christopher Hsee, of the University of Chicago, has contributed the following example of preference reversal, among many others of the same type. The objects to be evaluated are secondhand music dictionaries.
 
-|  |  |  |
-| --- | --- | --- |
 |  | Dictionary A | Dictionary B |
+| --- | --- | --- |
 | Year of publication | 1993 | 1993 |
 | Number of entries | 10,000 | 20,000 |
 | Condition | Like new | Cover torn, otherwise like new |

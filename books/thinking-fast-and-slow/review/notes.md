@@ -170,3 +170,45 @@
 ## 状态
 
 前三项已完成，没有未解决的意义问题；原书本身的疑点照原文保留，已在上面列出。四项审校要等主会话在阅读器里校样之后才算全部完成；`book.json` 里的状态由主会话在校样之后修改。
+
+## 第二轮：对照干净原文与术语统一
+
+- 执行者：agent（Opus 5.5）。
+- 干净原文：用户提供的同一版本的 AZW3 文件，解开后的注释全文。文件开头的 25 条是附录 A 的注释，属于附录 A 那一节，这里没有比较。
+- 范围和做法：比较脚本有 436 块没能对上，所以全节重新逐块比较。两边的英文都按空行切成块，忽略引号样式、斜体、链接地址和空白，再逐词比较。两边都是 443 块，一一对应；有差异的块共 12 个。
+
+### 英文的改动
+
+| 原文 | 改为 | 中文是否更新 |
+| --- | --- | --- |
+| `This “disposition effect” is discussed further in chapter 32.` | `This “disposition effect” is discussed further.` | 已更新：正文改为“这种‘处置效应’后面还会进一步讨论”，加译者注 t6，说明英文电子版里 is discussed further 是一个链接，指向第 32 章 记分；原来的 t6（较差的选项 BC）顺延为 t7 |
+| `Alexander Rothman` | `Alexander Rotliman` | 已更新：中文里的英文引文同样改为 Rotliman |
+
+- 处置效应一条：in chapter 32 是第一轮编辑按链接目标补进英文的，干净原文里没有这几个词。这一轮英文恢复原文的措辞，链接指向哪一章改由译者注说明，读者仍然能找到第 32 章。
+- Rotliman：第一轮把它当作文字识别错误，保留了修复。干净原文也写作 Rotliman，这一轮按原文恢复，和 Lucus、Schmimmack、Bidwel 这几个人名拼写的处理办法一致，英文和中文的引文都照原文。正确的拼写是 Rothman（Alexander J. Rothman），补入上面的原文疑点。
+
+### 忽略的排版差异
+
+共 12 处，分布在 10 块里，英文保持现状：
+
+- `Mc Glone`（McGlone）、`Shortand`（Short- and）、`Mean-while`（Meanwhile）、`Stalk-fleet`（Stalkfleet）：干净原文里断词或丢了连字符。
+- `4, 000`、`.03/. 97`、`. 031`、`112. 4`、`1. 706`、`1. 5`：干净原文的数字里多了空格，共 6 处。
+- `v (1–r2)`：干净原文丢了根号和上标，我们写作 `√(1–r²)`。
+- `95–96 sentence was literally true`：句首的 `95–96` 是纸质版注释按页码分组时留下的页码，我们的英文不带页码。
+
+### 术语
+
+- 任务文件标出 151 条，统一 3 条，保留 148 条。
+- 统一的 3 条：
+  - 第 3 章“optimal experience”的提示语，“最优体验”改为术语表的“最佳体验”，和第 3 章正文这一轮的改法一致。
+  - 第 33 章“reversals of judgment and choice”的提示语，“判断和选择的逆转”改为“判断与选择的逆转”，和第 33 章正文的“判断与选择逆转”一致。
+  - 第 32 章“loss averse for aspects of your life”的提示语，“对生活的某些方面更厌恶损失”改为“对于生活的某些方面，损失厌恶更强”，用术语表的“损失厌恶”，也和第 32 章正文的“你的损失厌恶可能更强”对得上。
+- 保留的 148 条：
+  - 147 条里，这个词只出现在保留英文的引文中，例如论文和书的标题、刊名（Journal of Behavioral Decision Making、Heuristics and Biases、Choices, Values, and Frames 等）和作者名（Amos Tversky 15 条），中文照英文原样保留。
+  - 1 条是第 24 章 eBay 一条里的 prime time，意思是“黄金时段”，和启动效应无关。
+- 另外用第二批术语逐条扫描了全节的英文和中文，除上面的“最佳体验”以外，没有发现其他译法不一致的地方。
+
+### 结果
+
+- `python3 scripts/site.py status thinking-fast-and-slow` 显示 notes 一行为 443/443，全部已译。
+- 译者注现在共 7 条，按出现顺序编号为 t1 到 t7，引用和定义一一对应。

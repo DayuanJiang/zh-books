@@ -1,30 +1,41 @@
 # 思考，快与慢
 
-《Thinking, Fast and Slow》（Daniel Kahneman）的中英对照译本。
+丹尼尔·卡尼曼《Thinking, Fast and Slow》（Farrar, Straus and Giroux，2011）的中英对照译本，从英文原文直接翻译，没有参考已出版的中文版。
 
 ## 来源与许可
 
-- 原书：Thinking, Fast and Slow，Daniel Kahneman。
-- 英文原文的来源和版本：待填写（EPUB 文件名、出版社、版次）。
-- 原书版权与本译文的许可：待填写。公开发布之前必须确认有权发布原文和译文。
+- 原书版权归 Daniel Kahneman 及出版社所有，中文版权另有授权。**这份译文没有获得授权，不对外发布**：所有章节的状态都是 `review`，公开构建会跳过这本书，书架上也不显示。
+- 英文原文来自用户提供的电子书：先用一份 EPUB 导入，再用同一版本的 AZW3 文件逐段核对。过程和发现的原文疑点见 [review/source.md](review/source.md)。电子书文件本身不放进仓库。
 
-## 翻译进度
+## 内容
+
+献辞、引言、第 1 到 38 章、结论、附录 A 和 B、致谢、书末注释，共 45 节、2611 个块，中英逐块对应。
+
+## 怎样译的
+
+1. **原文**：EPUB 导入后，用 `tools/curate_source.py` 整理结构，乱码先按上下文修复（`tools/source_fixes.json`），再用 AZW3 干净原文逐段核对（`tools/verify_against_clean.py`）。
+2. **术语**：翻译前抽取术语候选，后来又用纸质版索引、定义句补全，数据在 [review/terms/](review/terms/)。[术语表](glossary.md) 共 150 条，状态都是“初定”，等用户确认。全书译完后，逐个术语检查了各章的译法（`tools/term_consistency.py`）。
+3. **样章**：先由主会话翻译引言，做完四项审校，作为全书的风格依据。
+4. **其余各章**：每章依次经过三个独立的 agent：
+   - 翻译 agent 先修复原文乱码，再翻译并自检。
+   - 审校 agent 对照原文做双语审校，只报告问题，不改文件。
+   - 编辑 agent 核实审校意见并修改，然后通读中文。
+5. **第二轮**：每章再由一个 agent 对照干净原文核对英文，同步修正受影响的中文，并按补全后的术语表统一术语。
+6. **阅读器校样**：主会话在阅读器里逐章打开，检查报错、脚注、图片、待译段落和手机版式。
+
+每章的四项审校和第二轮核对记录在 `review/<章节 id>.md`。这些审校都由模型完成，没有经过专业人工审校。
+
+## 已知限制
+
+- 五个部分的标题没有保留成单独的页面。
+- 插图用原书图片，图里的英文没有翻译；依赖英文字面的地方加了括注或译者注。
+- 书末注释按页码和引文对应，正文里没有标记，作为单独一节。
+
+## 常用命令
 
 在仓库根目录运行：
 
 ```bash
+python3 scripts/site.py serve --drafts          # 预览，包括 review 状态的章节
 python3 scripts/site.py status thinking-fast-and-slow
 ```
-
-## 目录
-
-```text
-book.json          书的信息和章节列表，每章的状态：todo（只有英文）、draft、review、done（发布）
-en/                英文原文，每章一个 Markdown 文件，图片在 en/images/
-zh-cn/             中文译文，与 en/ 同名同结构，逐块对应
-glossary.md        术语表
-review/            审校记录：source.md 记原文核对，每章一份 <章节 id>.md 记四项审校
-assets/            封面、字体、章首章末图的数据（diagrams/）、代码示例的改写（code-variants/）
-```
-
-翻译和审校的流程见 [framework/README.md](../../framework/README.md)。

@@ -6,7 +6,7 @@ I was astonished. My economist colleagues worked in the building next door, but 
 
 Unlike Econs, the Humans that psychologists know have a System 1. Their view of the world is limited by the information that is available at a given moment (WYSIATI), and therefore they cannot be as consistent and logical as Econs. They are sometimes generous and often willing to contribute to the group to which they are attached. And they often have little idea of what they will like next year or even tomorrow. Here was an opportunity for an interesting conversation across the boundaries of the disciplines. I did not anticipate that my career would be defined by that conversation.
 
-Soon after he showed me Frey’s article, Amos suggested that we make the study of decision making our next project. I knew next to nothing about the topic, but Amos was an expert and a star of the field, and he had coauthored a textbook, Mathematical Psychology, and he directed me to a few chapters that he thought would be a good introduction.
+Soon after he showed me Frey’s article, Amos suggested that we make the study of decision making our next project. I knew next to nothing about the topic, but Amos was an expert and a star of the field, and he said he would coach me. While still a graduate student he had coauthored a textbook, Mathematical Psychology, and he directed me to a few chapters that he thought would be a good introduction.
 
 I soon learned that our subject matter would be people’s attitudes to risky options and that we would seek to answer a specific question: What rules govern people’s choices between different simple gambles and between gambles and sure things?
 

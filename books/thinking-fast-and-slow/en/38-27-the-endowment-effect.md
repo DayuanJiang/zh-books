@@ -98,7 +98,7 @@ People who are poor think like traders, but the dynamics are quite different. Un
 
 We all know people for whom spending is painful, although they are objectively quite well-off. There may also be cultural differences in the attitude toward money, and especially toward the spending of money on whims and minor luxuries, such as the purchase of a decorated mug. Such a difference may explain the large discrepancy between the results of the “mugs study” in the United States and in the UK. Buying and selling prices diverge substantially in experiments conducted in samples of students of the United States, but the differences are much smaller among English students. Much remains to be learned about the endowment effect.
 
-## Speaking Of The Endowment Effect
+## Speaking of the Endowment Effect
 
 > “She didn’t care which of the two offices she would get, but a day after the announcement was made, she was no longer willing to trade. Endowment effect!”
 

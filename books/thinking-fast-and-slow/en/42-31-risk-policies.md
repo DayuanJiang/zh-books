@@ -22,7 +22,7 @@ You were asked to examine both options before making your first choice, and you 
 
 > BC. 25% chance to win $250 and 75% chance to lose $750
 
-This choice is easy! Option BC actually dominates option AD (the technical term for one option being unequivocally better than another). You already know what comes next. The dominant option in AD is the combination of the two rejected options in the first pair of decision problems, the one that only 3% of respondents favored in our original study. The inferior option BC was preferred by 73% of respondents.
+This choice is easy! Option BC actually dominates option AD (the technical term for one option being unequivocally better than another). You already know what comes next. The dominant option in BC is the combination of the two rejected options in the first pair of decision problems, the one that only 3% of respondents favored in our original study. The inferior option AD was preferred by 73% of respondents.
 
 ## Broad or Narrow?
 
@@ -45,7 +45,7 @@ The great Paul Samuelson—a giant among the economists of the twentieth century
 
 Remarkably, Samuelson did not seem to mind the fact that his proof, which is of course valid, led to a conclusion that violates common sense, if not rationality: the offer of a hundred gambles is so attractive that no sane person would reject it. Matthew Rabin and Richard Thaler pointed out that “the aggregated gamble of one hundred 50–50 lose $100/gain $200 bets has an expected return of $5,000, with only a 1/2,300 chance of losing any money and merely a 1/62,000 chance of losing more than $1,000.” Their point, of course, is that if utility theory can be consistent with such a foolish preference under any circumstances, then something must be wrong with it as a model of rational choice. Samuelson had not seen Rabin’s proof of the absurd consequences of severe loss aversion for small bets, but he would surely not have been surprised by it. His willingness even to consider the possibility that it could be rational to reject the package testifies to the powerful hold of the rational model.
 
-Let us assume that a very simple value function describes the preferences of Samuelson’s friend (call him Sam). To express his aversion to losses Sam first rewrites the bet, after multiplying each loss by a factor of 2. He then computes the expected value of the rewritten bet. Here are the results, for one, two, or three tosses. They are sufficiently instructive to deserve some attention.
+Let us assume that a very simple value function describes the preferences of Samuelson’s friend (call him Sam). To express his aversion to losses Sam first rewrites the bet, after multiplying each loss by a factor of 2. He then computes the expected value of the rewritten bet. Here are the results, for one, two, or three tosses. They are sufficiently instructive to deserve some pupil-dilating effort.
 
 ![](images/00020.jpg)
 
