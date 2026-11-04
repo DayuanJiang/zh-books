@@ -9,6 +9,7 @@
     python3 scripts/site.py import-epub <book> <file.epub> [--force]
     python3 scripts/site.py status <book>              translation progress per chapter
     python3 scripts/site.py fonts <book>               rebuild the book's Chinese font subset
+    python3 scripts/site.py sync-skill [--check]       copy your personal en-zh-translation-polish skill into the repo
 
 A book is a folder books/<id>/ with a book.json. Books with "reader": "bilingual" use the shared reader in
 framework/; books with "reader": "custom" bring their own build ("build", "output" and "checks" in book.json).
@@ -33,6 +34,12 @@ BOOKS = REPO / "books"
 SITE = json.loads((REPO / "site.json").read_text())
 PREFIX = urlsplit(SITE["url"]).path  # "/zh-books/"
 TOOLS = ["uv", "run", "--quiet", "--project", str(REPO / "framework" / "tools")]
+# The translation skill lives in the user's personal skills folder (the main copy) and is mirrored into the repo,
+# where Codex reads .agents/skills/ and Claude Code reads .claude/skills/ (a link to the same folder).
+SKILL = "en-zh-translation-polish"
+SKILL_COPY = REPO / ".agents" / "skills" / SKILL
+SKILL_SOURCES = [Path.home() / ".claude" / "skills" / SKILL, Path.home() / ".agents" / "skills" / SKILL]
+SKILL_SKIP = {"__pycache__", ".pytest_cache", ".DS_Store"}
 
 
 def books():
@@ -87,6 +94,41 @@ def check(key):
         run(TOOLS + ["--with", "pytest", "pytest", "-q", str(folder / "tools")])
     for command in config.get("checks", []):
         run(command, cwd=folder)
+
+
+def skill_files(folder):
+    """{relative path: bytes} of a skill folder, without caches and macOS metadata files."""
+    files = {}
+    for path in sorted(folder.rglob("*")):
+        relative = path.relative_to(folder)
+        if path.is_file() and not (set(relative.parts) & SKILL_SKIP) and not path.name.startswith("._"):
+            files[relative.as_posix()] = path.read_bytes()
+    return files
+
+
+def sync_skill(check_only):
+    source = next((s for s in SKILL_SOURCES if (s / "SKILL.md").exists()), None)
+    if source is None:
+        raise SystemExit(f"error: no personal copy of {SKILL} in {' or '.join(map(str, SKILL_SOURCES))}")
+    new, old = skill_files(source.resolve()), skill_files(SKILL_COPY) if SKILL_COPY.exists() else {}
+    changed = sorted(name for name in new if old.get(name) != new[name])
+    removed = sorted(set(old) - set(new))
+    for name in changed:
+        print(f"{'update' if name in old else 'add'}: {name}")
+    for name in removed:
+        print(f"remove: {name}")
+    if not changed and not removed:
+        print(f"{SKILL_COPY.relative_to(REPO)} matches {source}")
+        return
+    if check_only:
+        raise SystemExit(f"error: the repo copy differs from {source}; run: python3 scripts/site.py sync-skill")
+    for name in changed:
+        target = SKILL_COPY / name
+        target.parent.mkdir(parents=True, exist_ok=True)
+        target.write_bytes(new[name])
+    for name in removed:
+        (SKILL_COPY / name).unlink()
+    print(f"Copied {len(changed)} files and removed {len(removed)} from {source}")
 
 
 def card(key, config):
@@ -184,6 +226,7 @@ def main():
     p.add_argument("--force", action="store_true")
     sub.add_parser("status").add_argument("book")
     sub.add_parser("fonts").add_argument("book")
+    sub.add_parser("sync-skill").add_argument("--check", action="store_true", help="only report differences")
     args = parser.parse_args()
 
     if args.command == "list":
@@ -208,6 +251,8 @@ def main():
     elif args.command == "status":
         book_or_exit(args.book)
         tool("status.py", BOOKS / args.book)
+    elif args.command == "sync-skill":
+        sync_skill(args.check)
     elif args.command == "fonts":
         book_or_exit(args.book)
         run(TOOLS + ["--with", "fonttools", "--with", "brotli", "python", str(REPO / "framework" / "tools" / "fonts.py"), str(BOOKS / args.book)])

@@ -36,6 +36,7 @@ book.json          书的信息和章节列表，每章的状态：todo（只有
 en/                英文原文，每章一个 Markdown 文件，图片在 en/images/
 zh-cn/             中文译文，与 en/ 同名同结构，逐块对应
 glossary.md        术语表
+review/            审校记录：source.md 记原文核对，每章一份 <章节 id>.md 记四项审校
 assets/            封面、字体、章首章末图的数据（diagrams/）、代码示例的改写（code-variants/）
 ```
 
@@ -58,7 +59,7 @@ def create(root, title, original, authors, summary=""):
         raise ValueError(f"Use lowercase letters, digits and hyphens for the folder name: {key}")
     if root.exists():
         raise ValueError(f"{root} already exists")
-    for folder in ("en", "zh-cn", "assets/images", "assets/diagrams/sections"):
+    for folder in ("en", "zh-cn", "review", "assets/images", "assets/diagrams/sections"):
         (root / folder).mkdir(parents=True)
         (root / folder / ".gitkeep").write_text("")
     config = {"title": title, "originalTitle": original, "authors": authors, "reader": "bilingual",

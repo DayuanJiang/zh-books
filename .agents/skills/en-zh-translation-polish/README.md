@@ -1,0 +1,173 @@
+<div align="center">
+
+# en-zh-translation-polish · 英译汉翻译润色
+
+### 把英文译成地道、无翻译腔的中文，并产出逐段“英中对照”
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-f5c542.svg)](./LICENSE)
+[![Version](https://img.shields.io/badge/version-1.7.0--local-2ea44f.svg)](./SKILL.md)
+[![Agent Skills](https://img.shields.io/badge/agent-skills-black.svg)](https://github.com/vercel-labs/skills)
+
+**[English](./README.en.md) | 中文**
+
+</div>
+
+---
+
+## 翻译理念
+
+本 skill 把叶子南《高级英汉翻译理论与实践》（第4版）的英译汉方法论，工程化为一条英译中流水线。核心信条如下：
+
+> 英译汉最致命的错误，是把英语的“形合”结构迁移进汉语，造成翻译腔。
+
+据此，地道的译文应当做到四点：
+
+- **以读者为中心**——交际翻译优先，让中文读者读到顺畅、自然的中文；
+- **按文本软硬调节归化尺度**——硬文本（法律／科技／合同）求准为先、克制介入；软文本（散文／评论／广告）放手发挥意合与汉语之美；
+- **按需改善表达**——只有意义与作者焦点不变时才调整连接词、语态和句型，保留正确合适的译法；
+- **兼顾音韵节奏**——善用双音节／四字结构与对偶排比，点到为止，以自然为度。
+
+本 skill 以文本定档、意义理解、中文重构、润色诊断、准确质检和标点规范支持翻译。按文本类型选择相关检查；短文本无需展示完整诊断过程或通读全部参考表，准确性与保真要求继续适用。
+
+## 适用场景
+
+- **消除机翻与直译的翻译腔**——形合迁移、的的不休、抽象名词作主语、被动滥用、习语硬译等顽疾，逐条识别并修正；
+- **统一改稿标准**——三张可查证的参考表，把“改哪里、怎么改、改到多狠”固定为可复用的判据；
+- **维护中英对照**——保留已有项目结构，中文版按已确认的段落映射派生，避免两版漂移；
+- **规范中文标点**——只检查可编辑中文，保护代码、英文、链接与技术例外，不对整文件做正则替换；
+- **整书协作与验收**——语料驱动术语表、分章任务、只读基线和可追溯的完成状态；图解与阅读样式仅按需启用。
+
+## 润色边界
+
+方法服务于译文。把握两条来自叶子南的告诫：
+
+- **归化有度**——保留原文应有的风格、术语精度与文化标记；西化是一个连续体，硬文本与永久价值文本能容纳更多异化；
+- **辞藻克制**——音韵节奏只是手段，四字结构适可而止；
+- 拿不准“改到多狠”时，回到任务约定与原文语境，档位不能代替语义判断。
+
+底线：放松准确性 ≠ 理解错误。**理解错误没有原谅的余地。**
+
+## 工作流
+
+短段落直接交付，不套用整书管理流程。已有项目保留结构；已有译稿先诊断，再选择修订、完整译后编辑或局部重译。只审阅时交付发现，不改正文。
+
+| 环节 | 整书任务中的作用 |
+|---|---|
+| 任务约定与源文验收 | 明确用途和质量，核对版本、正文与附属内容，区分提取完整性与文件保护 |
+| 全书概览与语言资源 | 建立概念关系、术语义项、风格和审定译例，保留相关原文回查入口 |
+| 样章选路 | 方法未定时比较最终质量与总修订成本，不默认机翻或重译最好 |
+| 分批翻译与自检 | 先核意义和完整性，再修中文，实质改动回查原文 |
+| 双语审校与中文通读 | 分开职责、执行者和覆盖，检查跨章概念及作者声音，不冒充人工审核 |
+| 最终格式校样 | 按实际 HTML／EPUB／PDF 等交付物检查内容和引用，不要求重设计 |
+| 定稿与变更回查 | 处理待决问题，保留正确译法，停止无依据润色，变更后定向复核 |
+
+支撑工作流的三张参考表（位于 `reference/`，均带原文引用与英汉译例）：
+
+- **`text-analysis-and-qa.md`**——文本定档（7 维度 → 自由度、纽马克 XYZ 系数、软硬总开关）、隐喻翻译决策、准确性质检清单；
+- **`translationese-symptoms.md`**——9 类翻译腔病症的识别信号与修法、音韵节奏规则、西化可接受度边界；
+- **`techniques.md`**——14 个可操作技巧（解包袱法、词性转换、增／减词、分句／合句、语序移位、定语从句转化、正反译、被动转化）。
+
+项目级任务另读 [`repository-workflow.md`](reference/repository-workflow.md)；明确要求图解或阅读改造时再读 [`reader-visualization.md`](reference/reader-visualization.md)，普通翻译无需加载。
+
+## 安装
+
+**方式一 · 一行命令（推荐）**
+
+```bash
+npx skills add -g HoraceLuBFA/en-zh-translation-polish
+```
+
+> [`npx skills`](https://github.com/vercel-labs/skills) 会把 skill 安装到 `~/.agents/skills/`——多个 agent 共用的 skill 目录，并自动建好各 agent 所需的软链。
+
+**方式二 · 交给 agent 安装**
+
+把仓库链接发给你的编码 agent（Claude Code / Codex / Gemini CLI 等），一句"帮我安装这个 skill"即可：
+
+> 帮我安装这个 skill：https://github.com/HoraceLuBFA/en-zh-translation-polish
+
+**方式三 · 手动 clone**
+
+```bash
+git clone https://github.com/HoraceLuBFA/en-zh-translation-polish.git ~/.agents/skills/en-zh-translation-polish
+```
+
+安装后验证：
+
+```bash
+test -f ~/.agents/skills/en-zh-translation-polish/SKILL.md && echo OK
+```
+
+## 使用方式
+
+**自然语言**——直接提出需求即可，支持自动触发的 agent 会据 `SKILL.md` 的 `description` 字段加载本 skill。常见说法：
+
+- “把这段英文翻译成中文，要地道一点：……”
+- “翻译这篇英文短文，我要中英对照的版本。”
+- “请帮我翻译这段技术说明／新闻稿／小说片段。”
+
+本技能用于英文文本翻译，以及对照英文原文润色已有中文译稿。本技能可独立安装使用，无需额外安装其他翻译技能。输入为 PDF 或其他文档时，先使用当前宿主可用的读取工具获取原文；保留用户要求的正文、图表说明、公式、引文和参考文献。无法可靠提取的内容应说明缺口，不将翻译任务转交给用户未安装的技能。
+
+**命令显式调用**——直接点名本 skill，把文件或文本作为参数传入：
+
+```text
+# Claude Code：斜杠命令
+/en-zh-translation-polish path/to/article.md
+
+# Codex：用 $ 显式调用（或先 /skills 从列表选择）
+$en-zh-translation-polish path/to/article.md
+```
+
+> ⚠️ **想要纯中文输出**：本 skill **默认产出英中对照**。若只要中文译文，请在 prompt 里显式强调，例如“只要中文，不要英文对照”“仅输出译文”——否则会默认给对照版。
+
+## 交付物
+
+以下为新建独立译稿的默认文件交付。聊天短段落直接回复；已有项目结构和用户指定格式优先。
+
+1. **`<名称> 翻译(中英对照).md`**——审定译文主稿：每段英文原文作为 blockquote，其下紧接中文译文；原始英文文件另存；
+2. **`<名称> 翻译(全中文).md`**（按需）——按段落映射派生，不删除所有引用行；未译内容保留并报告；
+3. 按需说明主要取舍、实际覆盖及未完成验证；短译文不必宣读档位或过程。
+
+## 输出预览
+
+> The confidence that the West would remain a dominant force in the 21st century is giving way to a sense of foreboding.
+
+西方曾笃信自己将在 21 世纪稳居主导地位，如今这份自信，正让位于一种隐隐的不祥之感。
+
+## 姊妹 skill
+
+反方向（中→英）请用 **[zh-en-translation-polish](https://github.com/HoraceLuBFA/zh-en-translation-polish)**——蒸馏自 Joan Pinkham《中式英语之鉴》与陆国强《汉译英常用表达式经典惯例》，把中文译成地道、无中式英语的英文，并产出汉英对照。两个 skill 结构对称、互为镜像，各管一个方向。
+
+## 仓库结构
+
+```text
+en-zh-translation-polish/
+├── SKILL.md                       # 主入口（翻译流程 + 按需路由）
+├── README.md                      # 项目说明（面向人）
+├── reference/
+│   ├── text-analysis-and-qa.md    # 文本定档 + 隐喻 + 准确性质检
+│   ├── translationese-symptoms.md # 翻译腔病症 + 音韵 + 西化边界
+│   ├── techniques.md              # 14 个可操作技巧
+│   ├── repository-workflow.md     # 整书润色、术语证据与保护校验
+│   └── reader-visualization.md    # 可选图解与浏览器验收
+├── test-prompts.json              # 触发／诱饵／边界测试用例
+├── LICENSE
+└── .gitignore
+```
+
+## 致谢与许可
+
+本 skill 的代码、提示词与组织方式以 **MIT 许可**发布，可自由使用、修改、再分发，详见 [LICENSE](./LICENSE)。
+
+方法论与判例蒸馏、转述自 **叶子南《高级英汉翻译理论与实践》（第4版，清华大学出版社，2020）**，在此谨致谢忱。`reference/` 中的少量引文系评注与教学目的的简短摘引，著作权归原作者与出版社所有；本 skill 仅为方法工具，不能替代原著，建议系统学习者购买正版。
+
+本 skill 借助 [cangjie-skill](https://github.com/kangarooking/cangjie-skill)（将书籍方法论蒸馏为可调用 AI skill 的开源拆书流水线）生成，一并致谢。
+
+## Star History
+
+[![Star History Chart](./assets/star-history.svg)](https://github.com/HoraceLuBFA/en-zh-translation-polish/stargazers)
+
+## 版本历史
+
+当前 `1.7.0-local` 在 1.6.x 的整书翻译、审阅与交付流程上，补充章首、章中、章末三类图解的分工、数据生成与浏览器几何检查，尚未发布到上游。实际规则以 [SKILL.md](./SKILL.md) 和 [项目流程](reference/repository-workflow.md) 为准；早期版本记录见 [CHANGELOG.md](./CHANGELOG.md)。
+
+[v1.1.0](https://github.com/HoraceLuBFA/en-zh-translation-polish/releases/tag/v1.1.0) 明确触发与交付范围，减少短文本任务中的无必要流程；详见 [CHANGELOG.md](./CHANGELOG.md)。首个公开版本 [v1.0.0](https://github.com/HoraceLuBFA/en-zh-translation-polish/releases/tag/v1.0.0) 的标签、发布说明与源码历史保留。
