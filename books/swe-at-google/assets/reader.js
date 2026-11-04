@@ -255,7 +255,7 @@
       if (event.key === "Escape" && !settings.hidden) closeSettings(true);
     });
     const repo = document.createElement("a");
-    repo.className = "icon-button"; repo.href = "https://github.com/DayuanJiang/Software-Engineering-at-Google";
+    repo.className = "icon-button"; repo.href = "https://github.com/DayuanJiang/zh-books/tree/main/books/swe-at-google";
     repo.target = "_blank"; repo.rel = "noopener noreferrer";
     repo.title = "GitHub 仓库"; repo.setAttribute("aria-label", "GitHub 仓库");
     repo.innerHTML = icon("github");

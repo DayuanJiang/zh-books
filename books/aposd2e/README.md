@@ -8,14 +8,14 @@
 
 对照原文修订的译文，每章配有译者图解、章首概览与章末回顾，代码示例一键切换为 Python，简体与繁体双版。
 
-[![在线阅读](https://img.shields.io/badge/在线阅读-dayuanjiang.github.io-a33e36?style=flat-square)](https://dayuanjiang.github.io/aposd2e-zh/)
+[![在线阅读](https://img.shields.io/badge/在线阅读-dayuanjiang.github.io-a33e36?style=flat-square)](https://dayuanjiang.github.io/zh-books/aposd2e/)
 [![全书修订](https://img.shields.io/badge/22%20章-全部对照原文修订-0b6f5d?style=flat-square)](#目录)
 [![CC BY 4.0](https://img.shields.io/badge/译文-CC%20BY%204.0-555?style=flat-square)](#来源与许可)
-[![CI](https://github.com/DayuanJiang/aposd2e-zh/actions/workflows/CI.yml/badge.svg)](https://github.com/DayuanJiang/aposd2e-zh/actions/workflows/CI.yml)
+[![CI](https://github.com/DayuanJiang/zh-books/actions/workflows/ci.yml/badge.svg)](https://github.com/DayuanJiang/zh-books/actions/workflows/ci.yml)
 
 <br>
 
-<a href="https://dayuanjiang.github.io/aposd2e-zh/ch04.html">
+<a href="https://dayuanjiang.github.io/zh-books/aposd2e/ch04.html">
   <img src=".github/readme/reader-light.png" alt="阅读器：第 4 章开头的本章概览，浅色主题" width="900">
 </a>
 
@@ -52,13 +52,13 @@
 
 ## 开始阅读
 
-在线版本：<https://dayuanjiang.github.io/aposd2e-zh/>（繁体：<https://dayuanjiang.github.io/aposd2e-zh/zh-tw/>）
+在线版本：<https://dayuanjiang.github.io/zh-books/aposd2e/>（繁体：<https://dayuanjiang.github.io/zh-books/aposd2e/zh-tw/>）
 
 本地运行：
 
 ```bash
-git clone https://github.com/DayuanJiang/aposd2e-zh.git
-cd aposd2e-zh
+git clone https://github.com/DayuanJiang/zh-books.git
+cd zh-books/books/aposd2e
 npm ci
 npm run dev      # 启动本地预览
 npm run build    # 构建静态站点到 docs/.vuepress/dist
@@ -127,7 +127,7 @@ docs/figures/                    原书插图
 bin/                             生成脚本：繁体转换、章首章末图、术语表
 tools/                           内容契约测试、静态校验、浏览器验收脚本
 review/                          翻译审校记录、术语数据、阅读器验收结论
-.github/workflows/CI.yml         每次推送运行全部检查并构建；main 分支构建后部署到 GitHub Pages
+../../.github/workflows/ci.yml   整个仓库共用的 CI：每次推送运行这本书的全部检查并构建；main 分支构建后和其他书一起部署到 GitHub Pages
 ```
 
 ## 翻译是怎么审校的
@@ -167,14 +167,14 @@ npm run build
 
 - 中文译文源自 [yingang/aposd2e-zh](https://github.com/yingang/aposd2e-zh) 的社区译稿，感谢原译者与所有贡献者。本仓库在此基础上对照原文修订全书，并新增了阅读器、图解、Python 对照和审校工具。
 - 原书版权归 John Ousterhout 所有。本仓库的译文与补充材料以 [CC BY 4.0](./LICENSE) 许可发布。
-- 发现翻译问题或有改进建议，欢迎提交 [Issue](https://github.com/DayuanJiang/aposd2e-zh/issues) 或 Pull Request。
+- 发现翻译问题或有改进建议，欢迎提交 [Issue](https://github.com/DayuanJiang/zh-books/issues) 或 Pull Request。
 
 ## Star History
 
-<a href="https://www.star-history.com/#DayuanJiang/aposd2e-zh&Date">
+<a href="https://www.star-history.com/#DayuanJiang/zh-books&Date">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=DayuanJiang/aposd2e-zh&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=DayuanJiang/aposd2e-zh&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=DayuanJiang/aposd2e-zh&type=Date" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=DayuanJiang/zh-books&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=DayuanJiang/zh-books&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=DayuanJiang/zh-books&type=Date" />
  </picture>
 </a>

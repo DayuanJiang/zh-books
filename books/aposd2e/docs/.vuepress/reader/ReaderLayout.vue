@@ -220,7 +220,7 @@ onBeforeUnmount(() => {
             <p v-else-if="!results.length">{{ text('没有找到匹配内容', 'No matches found', '沒有找到符合內容') }}</p>
             <RouterLink v-for="result in results" :key="result.id" :to="result.path" @click="sidebarOpen = false"><strong>{{ result.title }}</strong><span>{{ result.excerpt }}</span></RouterLink>
           </div>
-          <a class="reader-repo" href="https://github.com/DayuanJiang/aposd2e-zh" target="_blank" rel="noopener noreferrer"><GitBranch /> GitHub</a>
+          <a class="reader-repo" href="https://github.com/DayuanJiang/zh-books/tree/main/books/aposd2e" target="_blank" rel="noopener noreferrer"><GitBranch /> GitHub</a>
         </aside>
       </template>
     </DefaultLayout>

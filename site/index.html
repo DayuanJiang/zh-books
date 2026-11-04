@@ -1,0 +1,122 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>中文译本书架</title>
+  <meta name="description" content="对照原文修订的中文译本，每本书配有专门的阅读器、章节图解、术语表和审校记录。">
+  <link rel="icon" type="image/png" href="aposd2e/favicon.png">
+  <style>
+    :root {
+      color-scheme: light dark;
+      --page: #e7eae6;
+      --card: #eff1ee;
+      --ink: #1c201d;
+      --muted: #4a524b;
+      --line: #c6cdc6;
+      --accent: #a33e36;
+      --accent-soft: #e9dad6;
+      --ui-font: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Microsoft YaHei", sans-serif;
+      --book-font: "Noto Serif SC", "Songti SC", "STSong", "Noto Serif CJK SC", "Source Han Serif SC", Georgia, serif;
+    }
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --page: #191919;
+        --card: #222222;
+        --ink: #e5e5e5;
+        --muted: #a6a6a6;
+        --line: #363636;
+        --accent: #e5a29a;
+        --accent-soft: #3b2826;
+      }
+    }
+    * { box-sizing: border-box; }
+    body { margin: 0; background: var(--page); color: var(--ink); font-family: var(--ui-font); line-height: 1.7; }
+    main { max-width: 960px; margin: 0 auto; padding: 56px 24px 40px; }
+    header { margin-bottom: 36px; }
+    h1 { margin: 0 0 8px; font-family: var(--book-font); font-size: 32px; font-weight: 600; letter-spacing: 0.02em; }
+    .lead { margin: 0; max-width: 720px; color: var(--muted); font-size: 16px; }
+    .shelf { display: grid; grid-template-columns: repeat(auto-fit, minmax(400px, 1fr)); gap: 20px; }
+    .book { display: flex; gap: 20px; padding: 20px; background: var(--card); border: 1px solid var(--line); border-radius: 10px; }
+    .cover { flex: 0 0 112px; }
+    .cover img { display: block; width: 112px; height: auto; border-radius: 3px; box-shadow: 0 2px 8px rgb(0 0 0 / 0.18); }
+    .info { display: flex; flex-direction: column; min-width: 0; }
+    h2 { margin: 0; font-family: var(--book-font); font-size: 21px; font-weight: 600; line-height: 1.45; }
+    h2 a { color: inherit; text-decoration: none; }
+    h2 a:hover { color: var(--accent); }
+    .original { margin: 2px 0 10px; color: var(--muted); font-size: 13px; }
+    .summary { margin: 0 0 12px; font-size: 14.5px; }
+    .facts { display: flex; flex-wrap: wrap; gap: 6px; margin: 0 0 16px; padding: 0; list-style: none; }
+    .facts li { padding: 1px 9px; border: 1px solid var(--line); border-radius: 999px; color: var(--muted); font-size: 12.5px; }
+    .actions { display: flex; flex-wrap: wrap; gap: 8px; margin-top: auto; }
+    .actions a { padding: 5px 14px; border: 1px solid var(--line); border-radius: 6px; color: var(--ink); font-size: 14px; text-decoration: none; }
+    .actions a:hover { border-color: var(--accent); color: var(--accent); }
+    .actions a.primary { background: var(--accent); border-color: var(--accent); color: var(--page); }
+    .actions a.primary:hover { background: var(--accent-soft); color: var(--accent); }
+    footer { margin-top: 40px; padding-top: 16px; border-top: 1px solid var(--line); color: var(--muted); font-size: 13px; }
+    footer a { color: inherit; }
+    @media (max-width: 560px) {
+      main { padding: 32px 16px 28px; }
+      h1 { font-size: 26px; }
+      .shelf { grid-template-columns: 1fr; }
+      .book { gap: 14px; padding: 16px; }
+      .cover { flex-basis: 84px; }
+      .cover img { width: 84px; }
+      h2 { font-size: 18px; }
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <header>
+      <h1>中文译本书架</h1>
+      <p class="lead">对照原文修订的中文译本。每本书配有专门的阅读器，有章节图解、术语表和完整的审校记录。</p>
+    </header>
+
+    <section class="shelf" aria-label="书目">
+      <article class="book">
+        <a class="cover" href="aposd2e/" tabindex="-1" aria-hidden="true"><img src="aposd2e/cover.jpeg" alt="" width="112" height="142"></a>
+        <div class="info">
+          <h2><a href="aposd2e/">软件设计的哲学（第二版）</a></h2>
+          <p class="original">A Philosophy of Software Design, 2nd Edition · John Ousterhout</p>
+          <p class="summary">软件设计的核心任务是控制复杂性。书里讨论模块该切多大，接口怎样才算好，注释该写什么，名字怎么取，异常怎样处理。</p>
+          <ul class="facts">
+            <li>22 章</li>
+            <li>50 幅译者图解</li>
+            <li>代码可切换为 Python</li>
+            <li>简体与繁体</li>
+          </ul>
+          <div class="actions">
+            <a class="primary" href="aposd2e/">开始阅读</a>
+            <a href="aposd2e/zh-tw/" lang="zh-TW">繁體版</a>
+            <a href="https://github.com/DayuanJiang/zh-books/tree/main/books/aposd2e">源文件</a>
+          </div>
+        </div>
+      </article>
+
+      <article class="book">
+        <a class="cover" href="swe-at-google/" tabindex="-1" aria-hidden="true"><img src="swe-at-google/assets/images/swe_at_google.2.cover.jpg" alt="" width="112" height="147"></a>
+        <div class="info">
+          <h2><a href="swe-at-google/">谷歌的软件工程</a></h2>
+          <p class="original">Software Engineering at Google · Titus Winters, Tom Manshreck, Hyrum Wright</p>
+          <p class="summary">Google 怎样让几万名工程师和几十亿行代码持续演进：代码审查、测试分级、依赖管理、大规模变更、持续集成与持续交付。</p>
+          <ul class="facts">
+            <li>25 章</li>
+            <li>中英逐段对照</li>
+            <li>144 张章节图解</li>
+            <li>代码可切换为 Python</li>
+          </ul>
+          <div class="actions">
+            <a class="primary" href="swe-at-google/">开始阅读</a>
+            <a href="https://github.com/DayuanJiang/zh-books/tree/main/books/swe-at-google">源文件</a>
+          </div>
+        </div>
+      </article>
+    </section>
+
+    <footer>
+      各书的译文来源、原书版权和许可写在各自目录的 README 里。发现翻译问题，欢迎到 <a href="https://github.com/DayuanJiang/zh-books">GitHub 仓库</a> 提交 Issue 或 Pull Request。
+    </footer>
+  </main>
+</body>
+</html>

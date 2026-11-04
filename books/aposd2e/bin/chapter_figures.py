@@ -15,7 +15,7 @@ Usage:
   python3 bin/chapter_figures.py --only ch05     # validate and regenerate one chapter
   python3 bin/chapter_figures.py --check         # fail if generated files are stale (CI)
 
-Layout code adapted from DayuanJiang/Software-Engineering-at-Google (tools/build_chapter_figures.py).
+Layout code adapted from books/swe-at-google/tools/build_chapter_figures.py.
 """
 
 import argparse

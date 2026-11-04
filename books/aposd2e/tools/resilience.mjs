@@ -3,7 +3,7 @@ import fs from 'node:fs'
 import { chromium, expect } from '@playwright/test'
 import { readCollection } from '../docs/.vuepress/reader/content.mjs'
 
-const base = process.env.READER_URL || 'http://127.0.0.1:8084/aposd2e-zh'
+const base = process.env.READER_URL || 'http://127.0.0.1:8084/zh-books/aposd2e'
 const output = process.env.READER_SHOTS || '/tmp/aposd2e-reader-resilience'
 const key = 'aposd-reader-preferences-v1'
 const browser = await chromium.launch({ headless: true, executablePath: '/Applications/Google Chrome.app/Contents/MacOS/Google Chrome' })

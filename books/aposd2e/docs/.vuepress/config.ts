@@ -4,9 +4,9 @@ import { defineUserConfig } from 'vuepress'
 import { createSidebar } from './sidebar'
 import { readerPlugin } from './reader/plugin'
 
-const base = '/aposd2e-zh/'
+const base = '/zh-books/aposd2e/'
 const favicon = { rel: 'icon', type: 'image/png', href: `${base}favicon.png` }
-const site = 'https://dayuanjiang.github.io/aposd2e-zh/'
+const site = 'https://dayuanjiang.github.io/zh-books/aposd2e/'
 const description = '《软件设计的哲学（第二版）》中文版：对照原文修订的译文，每章配有译者图解、章首概览与章末回顾，代码示例可切换为 Python，支持简体与繁体。'
 
 export default defineUserConfig({
@@ -58,10 +58,10 @@ export default defineUserConfig({
   theme: defaultTheme({
     colorMode: 'light',
     colorModeSwitch: false,
-    repo: "DayuanJiang/aposd2e-zh",
-    docsRepo: "DayuanJiang/aposd2e-zh",
+    repo: "DayuanJiang/zh-books",
+    docsRepo: "DayuanJiang/zh-books",
     docsBranch: "main",
-    docsDir: "docs",
+    docsDir: "books/aposd2e/docs",
     contributors: false,
     sidebarDepth: 2,
     locales: {

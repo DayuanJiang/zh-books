@@ -1,0 +1,3 @@
+# Output of scripts/build-site.sh
+_site/
+.DS_Store

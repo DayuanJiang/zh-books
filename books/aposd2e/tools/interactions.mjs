@@ -2,7 +2,7 @@ import assert from 'node:assert/strict'
 import fs from 'node:fs'
 import { chromium, expect } from '@playwright/test'
 
-const base = process.env.READER_URL || 'http://127.0.0.1:8084/aposd2e-zh'
+const base = process.env.READER_URL || 'http://127.0.0.1:8084/zh-books/aposd2e'
 const output = process.env.READER_SHOTS || '/tmp/aposd2e-reader-interactions'
 fs.mkdirSync(output, { recursive: true })
 const browser = await chromium.launch({

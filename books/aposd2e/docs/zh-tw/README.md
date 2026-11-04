@@ -10,7 +10,7 @@
 
 這個版本在社群譯稿的基礎上，對照第二版英文原文逐段修訂，也為中文讀者補充了圖解與程式碼對照。
 
-- **譯文重新修訂。** 理順生硬句式的同時，逐句核對條件、否定、因果與適用範圍，保留作者的論證與分歧。核心術語全書統一，並區分容易混淆的含義：例如“深模組”的“深”與軟體層級無關，“複雜性”也不等於演算法的時間複雜度。裁定過的譯法見[術語表](https://github.com/DayuanJiang/aposd2e-zh/blob/main/review/translation/glossary.md)。
+- **譯文重新修訂。** 理順生硬句式的同時，逐句核對條件、否定、因果與適用範圍，保留作者的論證與分歧。核心術語全書統一，並區分容易混淆的含義：例如“深模組”的“深”與軟體層級無關，“複雜性”也不等於演算法的時間複雜度。裁定過的譯法見[術語表](https://github.com/DayuanJiang/zh-books/blob/main/books/aposd2e/review/translation/glossary.md)。
 - **每章開頭一張概覽，結尾一張回顧。** 概覽回答“這章講什麼、幾塊內容怎麼關聯”，回顧用幾幕故事重講這章想強調什麼，都可以收起。
 - **50 幅譯者圖解穿插正文。** 用模組邊界、狀態變化和呼叫關係，把抽象原則畫出來：為什麼這個介面更深，為什麼那個特殊情況可以消失，一次內部修改會波及多遠。
 - **原書插圖的向量重繪。** 12 幅原書低解析度插圖都有可放大的 SVG 版本，也可以一鍵切回原圖對照。
@@ -61,4 +61,4 @@
 
 ## 反饋
 
-發現翻譯問題或有改進建議，歡迎到 [GitHub 儲存庫](https://github.com/DayuanJiang/aposd2e-zh) 提交 Issue 或 Pull Request。譯文基於 [yingang/aposd2e-zh](https://github.com/yingang/aposd2e-zh) 的社群譯稿修訂而來，感謝原譯者與所有貢獻者。原書版權歸作者所有；譯文與補充材料採用 [CC BY 4.0](https://github.com/DayuanJiang/aposd2e-zh/blob/main/LICENSE) 許可。
+發現翻譯問題或有改進建議，歡迎到 [GitHub 儲存庫](https://github.com/DayuanJiang/zh-books/tree/main/books/aposd2e) 提交 Issue 或 Pull Request。譯文基於 [yingang/aposd2e-zh](https://github.com/yingang/aposd2e-zh) 的社群譯稿修訂而來，感謝原譯者與所有貢獻者。原書版權歸作者所有；譯文與補充材料採用 [CC BY 4.0](https://github.com/DayuanJiang/zh-books/blob/main/books/aposd2e/LICENSE) 許可。

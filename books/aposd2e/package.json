@@ -1,6 +1,6 @@
 {
   "name": "aposd2e-zh",
-  "repository": "https://github.com/DayuanJiang/aposd2e-zh.git",
+  "repository": "https://github.com/DayuanJiang/zh-books.git",
   "license": "CC-BY-4.0",
   "scripts": {
     "dev": "vuepress dev docs --open --host 127.0.0.1",

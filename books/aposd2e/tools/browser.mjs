@@ -5,7 +5,7 @@ import { chromium, expect } from '@playwright/test'
 import MarkdownIt from 'markdown-it'
 import { readCollection, sourceHash } from '../docs/.vuepress/reader/content.mjs'
 
-const base = process.env.READER_URL || 'http://127.0.0.1:8084/aposd2e-zh'
+const base = process.env.READER_URL || 'http://127.0.0.1:8084/zh-books/aposd2e'
 const output = process.argv.find((arg) => arg.startsWith('--output='))?.slice(9) || process.env.READER_SHOTS || '/tmp/aposd2e-reader-qa'
 const gallery = process.argv.includes('--gallery')
 const originalsOnly = process.argv.includes('--originals')

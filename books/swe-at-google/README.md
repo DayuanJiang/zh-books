@@ -8,14 +8,14 @@
 
 在浏览器里逐段对照原文和译文，配有 144 张章节图解、就地展开的脚注和译者注。
 
-[![在线阅读](https://img.shields.io/badge/在线阅读-dayuanjiang.github.io-b4423a?style=flat-square)](https://dayuanjiang.github.io/Software-Engineering-at-Google/)
+[![在线阅读](https://img.shields.io/badge/在线阅读-dayuanjiang.github.io-b4423a?style=flat-square)](https://dayuanjiang.github.io/zh-books/swe-at-google/)
 [![全书完成](https://img.shields.io/badge/25%20章-全部完成并润色-2e7d32?style=flat-square)](#章节导览)
 [![CC BY-SA 3.0](https://img.shields.io/badge/内容-CC%20BY--SA%203.0-555?style=flat-square)](#来源与许可)
-[![CI](https://github.com/DayuanJiang/Software-Engineering-at-Google/actions/workflows/ci.yml/badge.svg)](https://github.com/DayuanJiang/Software-Engineering-at-Google/actions/workflows/ci.yml)
+[![CI](https://github.com/DayuanJiang/zh-books/actions/workflows/ci.yml/badge.svg)](https://github.com/DayuanJiang/zh-books/actions/workflows/ci.yml)
 
 <br>
 
-<a href="https://dayuanjiang.github.io/Software-Engineering-at-Google/">
+<a href="https://dayuanjiang.github.io/zh-books/swe-at-google/">
   <img src="assets/images/reader-light.png" alt="阅读器：第十四章，中英对照，章首的本章概览已展开" width="900">
 </a>
 
@@ -49,13 +49,13 @@ Google 用二十多年时间，把几万名工程师和几十亿行代码组织�
 
 ## 开始阅读
 
-在线版本：<https://dayuanjiang.github.io/Software-Engineering-at-Google/>
+在线版本：<https://dayuanjiang.github.io/zh-books/swe-at-google/>
 
 本地运行：
 
 ```bash
-git clone https://github.com/DayuanJiang/Software-Engineering-at-Google.git
-cd Software-Engineering-at-Google
+git clone https://github.com/DayuanJiang/zh-books.git
+cd zh-books/books/swe-at-google
 python3 -m http.server 8000
 # 打开 http://localhost:8000
 ```
@@ -106,7 +106,7 @@ assets/diagrams/             144 张图解的 SVG 与元数据；章首概览和
 assets/vendor/               本地化的 Docsify 与图标依赖
 tools/                       审校、校验和构建脚本，用 uv 管理
 translation-review/          全书润色的审校记录、术语表与验收数据
-.github/workflows/ci.yml     每次推送运行测试，并检查生成文件是否同步
+../../.github/workflows/ci.yml 整个仓库共用的 CI：每次推送运行这本书的测试，并检查生成文件是否同步
 ```
 
 原文与译文分开存放，按块一一对应：`en/` 里的每个标题、段落、列表、引文和表格，在 `zh-cn/` 同名文件的同一位置都有且只有一个中文块；代码、图片和分隔线只出现在 `en/`。脚注在两边都是 `[^n]:` 定义，按编号对应；`zh-cn/` 里以 `[^tN]:` 定义的是译者注。`tools/book.py` 负责解析、对齐并生成阅读器数据，两边结构对不上时构建会直接报错，指出出问题的块。阅读器只负责渲染这些单元，不再猜测哪段是原文、哪段是译文。

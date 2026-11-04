@@ -26,8 +26,8 @@ class ReaderAssetsTests(unittest.TestCase):
         for folder in ("en", "zh-cn"):
             for path in (reader.ROOT / folder).rglob("*.md"):
                 relative = path.relative_to(reader.ROOT).as_posix()
-                # The translation-polish tag marks the latest approved book text; move it when the text changes deliberately.
-                before = subprocess.check_output(["git", "-C", str(reader.ROOT), "show", "translation-polish:" + relative])
+                # The swe-at-google/translation-polish tag marks the latest approved book text; move it when the text changes deliberately.
+                before = subprocess.check_output(["git", "-C", str(reader.ROOT), "show", "swe-at-google/translation-polish:./" + relative])
                 self.assertEqual(path.read_bytes(), before, relative)
 
     def test_every_chapter_compiles_from_aligned_files(self):
