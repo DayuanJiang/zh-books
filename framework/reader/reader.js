@@ -382,6 +382,11 @@
       html.push(withAttributes(unit.sourceHtml, "english-prose translated-source " + role, "en"));
       html.push(withAttributes(unit.targetHtml, role, "zh-CN"));
     }
+    if (chapter.recap) {
+      // Translator-written summary and takeaways, after the chapter text.
+      html.push('<section class="chapter-recap"><h2 id="chapter-recap">本章小结与要点</h2>' +
+        '<p class="chapter-recap-note">译者整理</p>' + chapter.recap.html + "</section>");
+    }
     return html.join("\n");
   }
 

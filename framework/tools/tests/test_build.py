@@ -53,6 +53,16 @@ class BuildTests(unittest.TestCase):
         for name in ("assets/reader.js", "assets/reader.css", "assets/vendor/docsify.min.js", "assets/search-index.json"):
             self.assertTrue((self.out / name).exists(), name)
 
+    def test_recap_is_added_to_the_chapter_and_the_search_index(self):
+        (self.root / "recaps").mkdir()
+        (self.root / "recaps" / "ch01.md").write_text("本章讲了一件事。\n\n- 第一条要点\n- 第二条要点\n")
+        build.build(self.root, self.out)
+        chapter = json.loads((self.out / "assets/reader-content/ch01.json").read_text())
+        self.assertIn("<li>第一条要点</li>", chapter["recap"]["html"])
+        index = json.loads((self.out / "assets/search-index.json").read_text())
+        self.assertIn({"route": "/zh-cn/01-one", "chapter": "第一章", "title": "本章小结与要点", "anchor": "chapter-recap",
+                       "text": "本章讲了一件事。 - 第一条要点 - 第二条要点"}, index)
+
     def test_draft_build_marks_untranslated_blocks(self):
         build.build(self.root, self.out, drafts=True)
         manifest = json.loads((self.out / "assets/reader-manifest.json").read_text())

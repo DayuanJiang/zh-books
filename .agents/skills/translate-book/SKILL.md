@@ -54,6 +54,10 @@ description: Translate or polish a whole book in the zh-books repository, chapte
 
 四节都完成、没有未解决的意义问题时，才把状态改成 `done`。模型之间互相审校，不能写成专业人工审校；记录里要写明审校者是哪个模型或哪个人。
 
+## 每章的小结与要点
+
+译文定稿后，为每章写 `books/<id>/recaps/<章节 id>.md`：一两段小结（问题、关键实验和数字、作者的解释），加 4 到 5 条要点，不写标题，不加原书以外的内容。写完后由另一个 agent 对照英文逐句核实，改掉错误、夸大或遗漏。格式见 `framework/README.md` 的“每章的小结与要点”。
+
 ## 分给多个 agent 并行
 
 按章节分配，每个 agent 只写自己负责的 `zh-cn/` 文件和 `review/` 文件，`book.json`、`glossary.md` 和共用文件由主会话统一修改。交给 agent 的说明里要写清楚：

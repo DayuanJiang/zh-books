@@ -35,5 +35,8 @@ def build_index(out, manifest):
         chapter = json.loads((out / page["content"]).read_text())
         for title, anchor, body in sections(chapter):
             entries.append({"route": page["route"], "chapter": page["title"], "title": title or page["title"], "anchor": anchor, "text": body})
+        if chapter.get("recap"):
+            entries.append({"route": page["route"], "chapter": page["title"], "title": "本章小结与要点", "anchor": "chapter-recap",
+                            "text": chapter["recap"]["text"]})
     (out / "assets" / "search-index.json").write_text(json.dumps(entries, ensure_ascii=False, separators=(",", ":")) + "\n")
     return len(entries)

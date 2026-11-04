@@ -125,6 +125,11 @@ def compile_book(root, config, out, drafts=False):
         parent = Path(file).parent.as_posix()
         image_root = "en/" + parent if parent != "." else "en"
         chapter = book.compile_chapter(key, text, translation.read_text(), image_root, partial=partial)
+        recap = root / "recaps" / f"{key}.md"
+        if recap.exists():
+            # A summary and takeaways written by the translator, shown after the chapter and marked as such.
+            recap_text = recap.read_text()
+            chapter["recap"] = {"html": book.RENDER.render(recap_text).strip(), "text": " ".join(recap_text.split())}
         (content / f"{key}.json").write_text(json.dumps(chapter, ensure_ascii=False) + "\n")
         page = {"id": key, "number": n, "title": chapter["title"], "englishTitle": chapter["englishTitle"],
                 "file": f"zh-cn/{file}", "source": f"en/{file}", "route": "/zh-cn/" + file.removesuffix(".md"),

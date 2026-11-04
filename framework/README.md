@@ -129,6 +129,12 @@
 - **代码改写**：书里的 Java、C++、Go 示例要配 Python 写法时，在 `assets/code-variants/<章节 id>/` 下放 `NN.java` 和 `NN.py`；没有对应写法的放 `NN.skip`，写明原因。
 - **字体**：阅读器的正文用思源宋体，按每本书用到的字符裁剪，放在这本书的 `assets/fonts/` 里并提交。译文新增了字符而字体没有重新生成时，严格构建会失败，并提示运行 `site.py fonts`。
 
+## 每章的小结与要点
+
+在书的目录下放 `recaps/<章节 id>.md`，构建时会把它显示在这一章正文之后、翻页导航之前，标题是“本章小结与要点”，并标明“译者整理”。它也会收进全书搜索，右侧的本章目录里可以跳过去。
+
+文件里不写标题：先写一两段话概括这一章，再空一行，列 4 到 5 条要点。内容只能来自这一章本身，写完后由另一个 agent 对照原文核实每个事实和数字。示例见 `books/thinking-fast-and-slow/recaps/ch11.md`。
+
 ## 翻译和审校的做法
 
 在这个仓库里用 Codex 或 Claude Code 工作时，会自动加载两个技能（放在仓库根目录的 `.agents/skills/` 下）：`translate-book` 讲在这个仓库里译书的步骤，`en-zh-translation-polish` 讲怎样把英文译成准确、自然的中文。
@@ -156,7 +162,7 @@ framework/tools/            构建和检查工具，用 uv 管理（pyproject.to
   config.py                 读取、检查和写回 book.json
   new_book.py               建新书的目录
   import_epub.py            从 EPUB 导入英文原文
-  status.py                 翻译进度
+  status.py                 翻译进度（章末小结由 reader_data.py 读取 recaps/）
   tests/                    框架自己的测试
 ```
 

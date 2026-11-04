@@ -426,3 +426,9 @@ body.diagram-open { overflow: hidden; }
 /* Draft chapters only: blocks that are not translated yet. */
 .markdown-section .pending-translation { background: var(--accent-soft); border-radius: 4px; padding: 2px 8px; }
 .markdown-section .pending-translation::before { content: "待译"; display: block; color: var(--accent); font-family: var(--ui-font); font-size: 12px; font-weight: 600; }
+
+/* Translator-written chapter summary and takeaways, after the chapter text. */
+.markdown-section .chapter-recap { margin: 2.6em 0 1.4em; padding: 18px 24px 8px; border: 1px solid var(--line); border-radius: 10px; background: var(--rail); }
+.markdown-section .chapter-recap h2 { margin: 0 0 4px; padding: 0; border: 0; color: var(--accent); font-size: 1.15em; }
+.markdown-section .chapter-recap .chapter-recap-note { margin: 0 0 10px; color: var(--muted); font-family: var(--ui-font); font-size: 12.5px; }
+.markdown-section .chapter-recap ul { margin-top: .6em; }
