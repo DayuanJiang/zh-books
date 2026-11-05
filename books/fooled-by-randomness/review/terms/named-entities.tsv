@@ -1,0 +1,602 @@
+entity	NER label	mentions	chapters	first
+Nero	ORG	28	5	ch01
+Russian	NORP	27	7	preface
+New York	GPE	24	12	ch01
+Shiller	ORG	17	4	ch02
+Monte Carlo	PRODUCT	15	7	summaries
+Popper	ORG	14	3	ch07
+Solon	ORG	14	6	prologue
+French	NORP	13	11	preface
+London	GPE	13	8	ch01
+Greek	NORP	11	7	part1
+European	NORP	10	6	prologue
+New Jersey	GPE	10	5	ch01
+Park Avenue	FAC	10	4	summaries
+Chapter 11	LAW	9	6	preface
+Chapter 3	LAW	9	6	ch06
+Paris	GPE	9	7	summaries
+Russia	GPE	9	4	ch03
+Keynes	ORG	8	3	ch03
+the United States	GPE	8	6	ch01
+Chicago	GPE	7	2	ch01
+Jean-Patrice	ORG	7	2	ch02
+Kahneman	ORG	7	2	ch11
+Buridan	GPE	6	2	ch10
+Harvard	ORG	6	4	ch05
+Rome	GPE	6	4	ch02
+Treasury	ORG	6	5	ch01
+U.S	GPE	6	4	ch05
+American	NORP	5	5	ch01
+Brooklyn	GPE	5	4	summaries
+Darwinian	NORP	5	2	ch05
+France	GPE	5	4	ch07
+Hume	ORG	5	4	ch02
+Iliad	GPE	5	2	ch02
+Mexican	NORP	5	2	ch05
+New York City	GPE	5	3	ch08
+Ph.D	WORK_OF_ART	5	4	ch01
+Alps	LOC	4	3	summaries
+Cato	ORG	4	3	summaries
+Chapter 1	LAW	4	4	ch03
+Chapter 10	LAW	4	4	ch06
+Chapter 5	LAW	4	3	ch01
+Kenny	GPE	4	1	ch02
+MBA	WORK_OF_ART	4	2	ch02
+Manhattan	GPE	4	2	ch08
+Mediterranean	LOC	4	4	ch03
+Napoleon	ORG	4	2	summaries
+Nassim	NORP	4	3	preface
+Popperian	NORP	4	2	ch07
+Rozan	GPE	4	2	ch13
+Sharpe	NORP	4	1	notes
+Western	NORP	4	4	ch11
+Argentina	GPE	3	2	ch05
+Australia	GPE	3	3	ch04
+Bel Air	GPE	3	2	summaries
+Bloomberg	GPE	3	1	ch11
+Bloomberg	ORG	3	1	ch11
+California	GPE	3	2	ch02
+Chapter 2	LAW	3	3	preface
+Christian	NORP	3	3	prologue
+Darwinism	NORP	3	2	ch03
+Descartes	GPE	3	2	preface
+Eighteenth Street	FAC	3	2	summaries
+Europe	LOC	3	3	preface
+Fifth Avenue	FAC	3	2	summaries
+Frenchman	NORP	3	2	summaries
+Israeli	NORP	3	2	ch09
+Las Vegas	GPE	3	3	preface
+Latin-American	NORP	3	1	ch05
+Lebanese	NORP	3	3	prologue
+Los Angeles	GPE	3	1	ch11
+Microsoft	ORG	3	2	summaries
+Mongolia	GPE	3	3	ch02
+Monsieur de Norpois	ORG	3	1	ch13
+Montaigne	ORG	3	1	preface
+Sornette	ORG	3	1	notes
+Syria	GPE	3	3	ch04
+Tribeca	GPE	3	3	ch02
+Turkish	NORP	3	3	prologue
+United States	GPE	3	3	ch01
+Wittgenstein	ORG	3	2	part3
+African	NORP	2	1	ch11
+Aristotle	ORG	2	2	preface
+Athens	GPE	2	2	ch03
+B.C	GPE	2	1	ch13
+Bacon	ORG	2	1	ch07
+Bahamas	GPE	2	2	summaries
+Bible	WORK_OF_ART	2	1	ch09
+Borders Books	ORG	2	2	ch11
+Brazilian	NORP	2	2	ch05
+C	ORG	2	1	ch09
+CNBC	ORG	2	2	ch11
+Caribbean	LOC	2	1	ch11
+Carnap	ORG	2	2	ch04
+Carnegie Hall	ORG	2	1	ch09
+Cavafy	ORG	2	1	ch14
+Chapter 7	LAW	2	2	ch02
+Chapter 8	LAW	2	2	preface
+Cicero	ORG	2	1	ch13
+Connecticut	GPE	2	2	ch13
+Croesus	PRODUCT	2	1	part1
+Derrida	GPE	2	2	ch01
+Diener	ORG	2	1	notes
+Eastern European	NORP	2	2	ch03
+Eastern Mediterranean	LOC	2	2	ch03
+Econometricians	NORP	2	1	ch06
+Ferrari	ORG	2	2	ch01
+Finucane	GPE	2	1	notes
+Fodor	GPE	2	1	notes
+German	NORP	2	2	ch01
+Greenwich	GPE	2	2	ch13
+Hilton	GPE	2	1	notes
+Hollywood	GPE	2	2	acknowledgments-second
+Imperial Russia	ORG	2	1	ch09
+Islam	ORG	2	2	ch03
+Italian	NORP	2	2	ch03
+Italy	GPE	2	2	ch03
+Japanese	NORP	2	2	ch05
+Julius Caesar	ORG	2	2	ch02
+Latin	NORP	2	2	ch05
+LeDoux	ORG	2	1	notes
+Leibniz	ORG	2	2	ch02
+MacGregor	ORG	2	1	notes
+Mars	LOC	2	2	ch07
+Martignon	GPE	2	1	notes
+Marxist	NORP	2	2	ch04
+Mathematicians	NORP	2	2	ch03
+McDonald	ORG	2	2	ch03
+Mexico	GPE	2	2	ch05
+Mongolian	NORP	2	1	ch06
+Monsieur de Norpois	FAC	2	1	ch13
+NASDAQ	ORG	2	2	ch09
+Newtonian	NORP	2	1	ch07
+Nobel	WORK_OF_ART	2	2	ch02
+Nobel Prize	WORK_OF_ART	2	1	ch09
+North America	LOC	2	2	preface
+Nozik	GPE	2	2	ch06
+Odeon	ORG	2	1	acknowledgments-first
+Parisian	NORP	2	1	ch11
+Pascal	ORG	2	2	summaries
+Phoenician	NORP	2	2	ch02
+Ramachandran	GPE	2	1	notes
+Sartre	ORG	2	2	ch04
+Semitic	ORG	2	1	ch04
+Spartan	NORP	2	2	ch03
+Swann	ORG	2	1	ch01
+Taleb	ORG	2	2	preface
+The Bible Code	LAW	2	1	ch09
+The Wall Street Journal	ORG	2	1	ch03
+Turing	ORG	2	1	ch04
+Turkey	GPE	2	2	ch04
+Ulan Bator	ORG	2	2	ch09
+Ultimate	ORG	2	1	notes
+Universe	ORG	2	2	ch01
+Wilson	ORG	2	1	notes
+Yale	ORG	2	1	ch08
+a Nobel Prize	WORK_OF_ART	2	2	ch09
+the Chicago Mercantile Exchange	ORG	2	1	ch01
+the Lebanese war	EVENT	2	2	ch02
+the Middle Ages	LOC	2	1	ch13
+the New York Stock Exchange	ORG	2	2	postscript
+the Nobel committee	WORK_OF_ART	2	1	ch13
+the Santa Fe Institute	ORG	2	1	ch10
+the United Kingdom	GPE	2	1	ch09
+the University of Chicago	ORG	2	2	ch01
+Abyssinia	ORG	1	1	prologue
+Academy	ORG	1	1	ch13
+Adaptive Behavior and Cognition	ORG	1	1	ch11
+Afghanistan	GPE	1	1	ch11
+Africa	LOC	1	1	ch02
+Akerlof	ORG	1	1	ch07
+Alain Robbe-Grillet	ORG	1	1	ch03
+Alexander the Great	ORG	1	1	ch02
+Alexandrian Greek	NORP	1	1	ch14
+Alhakami	GPE	1	1	notes
+All City Hotshots are Lucky Fools	WORK_OF_ART	1	1	preface
+Ambarish	NORP	1	1	notes
+Antioch	GPE	1	1	ch04
+Antony	GPE	1	1	ch14
+Antony	ORG	1	1	ch14
+Apoleipein o Theos Antonion	ORG	1	1	ch14
+Arab	NORP	1	1	ch13
+Arabic	NORP	1	1	notes
+Arabs	NORP	1	1	ch13
+Argentine	NORP	1	1	ch08
+Arizona	GPE	1	1	ch11
+Arnheim	GPE	1	1	notes
+Arrow	ORG	1	1	notes
+Arthur Conan Doyle’s The Sign of Four	ORG	1	1	notes
+Artificial Intelligence	ORG	1	1	acknowledgments-second
+Asia Minor	LOC	1	1	ch04
+Asian	NORP	1	1	ch09
+Athenian	NORP	1	1	ch13
+Attic Greek	NORP	1	1	part1
+Avital Pilpel	ORG	1	1	acknowledgments-second
+B. Odds	ORG	1	1	ch06
+BBC	ORG	1	1	preface
+Baal	LOC	1	1	ch11
+Babylonian	NORP	1	1	ch10
+Bacchus	ORG	1	1	ch14
+Banateanu	ORG	1	1	notes
+Barnes and Noble on	ORG	1	1	ch07
+Battersea Park	FAC	1	1	epilogue
+Baudelaire	GPE	1	1	ch04
+Bayes	ORG	1	1	notes
+Becker	ORG	1	1	notes
+Bocconi	GPE	1	1	acknowledgments-first
+Bordeaux	ORG	1	1	ch08
+Borel	ORG	1	1	notes
+Brain	ORG	1	1	notes
+Brazil	GPE	1	1	ch05
+British	NORP	1	1	ch04
+Brock	GPE	1	1	notes
+Brockman	ORG	1	1	notes
+Brownian	NORP	1	1	ch03
+Brownie	ORG	1	1	ch08
+C. P. Cavafy	ORG	1	1	ch14
+CNN	ORG	1	1	ch04
+Cadillac	ORG	1	1	ch11
+Cambridge Union Debate	ORG	1	1	preface
+Cambridge University	ORG	1	1	ch01
+Cambridgeshire	GPE	1	1	epilogue
+Camp Empirica	FAC	1	1	acknowledgments-first
+Canova	ORG	1	1	ch09
+Carnegie-Mellon University	ORG	1	1	ch11
+Cartesian	NORP	1	1	notes
+Carybde	ORG	1	1	ch11
+Casanova	ORG	1	1	part2
+Catholic	NORP	1	1	ch04
+Catskills	ORG	1	1	ch01
+Centerbar	ORG	1	1	notes
+Chapter 4	LAW	1	1	ch07
+Chapter 9	LAW	1	1	ch11
+Charybdis	GPE	1	1	part3
+Chekhovian	NORP	1	1	ch08
+Chinese	NORP	1	1	ch02
+Christianity	NORP	1	1	ch04
+Church Greek	ORG	1	1	ch04
+Circe	ORG	1	1	part3
+Cisco	GPE	1	1	preface
+Claparède	PRODUCT	1	1	ch11
+Coke	ORG	1	1	notes
+Complex Boundaries	WORK_OF_ART	1	1	ch03
+Computational Finance	ORG	1	1	ch05
+Concorde	PRODUCT	1	1	ch06
+Constantinople	ORG	1	1	ch03
+Copacabana	GPE	1	1	ch10
+Cosmides	PRODUCT	1	1	notes
+Cotswolds	ORG	1	1	epilogue
+Cover	ORG	1	1	notes
+Credit Suisse First Boston	ORG	1	1	ch12
+Cyclist A	ORG	1	1	ch11
+Cyril de Lambilly	ORG	1	1	acknowledgments-first
+Dada Engine	ORG	1	1	ch04
+Damasio, Damasion	ORG	1	1	notes
+Darwinist	ORG	1	1	ch05
+De Finetti	GPE	1	1	notes
+De Moivre	GPE	1	1	notes
+DeWitt	ORG	1	1	notes
+Demiurgus	ORG	1	1	ch03
+Dos Passos	ORG	1	1	ch09
+Earth	LOC	1	1	part2
+East Africa	GPE	1	1	prologue
+Eastern European	LOC	1	1	ch09
+Eastern Roman	NORP	1	1	ch03
+Econometrics	ORG	1	1	ch06
+Economics Schmeconomics	WORK_OF_ART	1	1	ch05
+Edmonds and Eidinow	ORG	1	1	notes
+Egon Pearson	ORG	1	1	ch09
+Empirica	ORG	1	1	acknowledgments-second
+English	NORP	1	1	ch09
+Europlayboy	GPE	1	1	ch03
+Evans	ORG	1	1	notes
+FASB	ORG	1	1	ch02
+Fed	ORG	1	1	ch04
+Ferragamo	FAC	1	1	ch05
+Fertile Crescent	ORG	1	1	ch11
+Fields	ORG	1	1	notes
+Flatland	GPE	1	1	acknowledgments-second
+Fleetwood Robbins	PRODUCT	1	1	acknowledgments-second
+Florence Nightingale David	FAC	1	1	notes
+Florida Atlantic University	ORG	1	1	notes
+Fooled by Randomness	WORK_OF_ART	1	1	ch08
+Foreign Affairs	ORG	1	1	ch11
+Fry an Egg	WORK_OF_ART	1	1	part2
+Fukuyama	GPE	1	1	notes
+Gambler	WORK_OF_ART	1	1	ch12
+Gates	ORG	1	1	ch10
+Gaussian	NORP	1	1	notes
+Germany	GPE	1	1	ch13
+Gigerenzer	PRODUCT	1	1	ch11
+Gigerenzer	GPE	1	1	notes
+Goodman	ORG	1	1	notes
+Google	ORG	1	1	acknowledgments-second
+Gould	ORG	1	1	ch06
+Grace	ORG	1	1	ch14
+Grecosyrian	NORP	1	1	ch14
+Grecosyrians	NORP	1	1	ch04
+Greek Orthodox	NORP	1	1	ch04
+Griffin	GPE	1	1	notes
+Guermantes	GPE	1	1	ch01
+Guy Riviere	GPE	1	1	acknowledgments-second
+Gödel	WORK_OF_ART	1	1	ch04
+Hannibal	GPE	1	1	ch02
+Harsanyi	LOC	1	1	ch07
+Harvard College	ORG	1	1	ch08
+Hedonic	PRODUCT	1	1	notes
+Hegelian	NORP	1	1	ch04
+Hegelianism	NORP	1	1	ch03
+Hellenistic	NORP	1	1	acknowledgments-second
+Henry	FAC	1	1	ch05
+Herculean	NORP	1	1	ch13
+Hermès	WORK_OF_ART	1	1	ch02
+Hillel	GPE	1	1	postscript
+Hirshleifer and Riley	ORG	1	1	notes
+History of Probabilistic Thinking	ORG	1	1	ch01
+Homerian	ORG	1	1	part3
+Homeric	PRODUCT	1	1	ch11
+Hume’s Problem of Induction	ORG	1	1	preface
+Hungarian	NORP	1	1	ch07
+Iliad	ORG	1	1	preface
+Illusion of Knowledge	WORK_OF_ART	1	1	notes
+India	GPE	1	1	ch10
+Indian	NORP	1	1	ch02
+Indonesia	GPE	1	1	ch06
+Ingersoll	ORG	1	1	notes
+Iranians	NORP	1	1	ch05
+Irma	GPE	1	1	prologue
+Irrational Exuberance	WORK_OF_ART	1	1	ch02
+Irrational Exuberance	ORG	1	1	acknowledgments-second
+Islamic	NORP	1	1	ch03
+J. Wiley & Sons	ORG	1	1	acknowledgments-first
+Japan	GPE	1	1	ch03
+Jaynes	PRODUCT	1	1	notes
+Jerusalem	GPE	1	1	ch11
+Judaism	ORG	1	1	ch04
+Jupiter	LOC	1	1	part1
+Kahneman	NORP	1	1	ch11
+Kahneman	GPE	1	1	notes
+Kahneman and Lovallo	ORG	1	1	notes
+Kahneman, Slovic and Tversky (1982	ORG	1	1	notes
+Kantian	NORP	1	1	ch07
+Kasser	ORG	1	1	notes
+Kazakhstan	GPE	1	1	preface
+Kensington	GPE	1	1	epilogue
+Kingdom	GPE	1	1	ch03
+Knetch	ORG	1	1	notes
+Knight	ORG	1	1	ch11
+Koranic Arabic	PRODUCT	1	1	ch04
+Kreps and Davies	ORG	1	1	notes
+Kyburg	GPE	1	1	notes
+LTCM	ORG	1	1	ch13
+Lannon	ORG	1	1	notes
+LeDoux (2002	ORG	1	1	notes
+LeDoux’s Emotional Brain	ORG	1	1	ch11
+Left Bank Parisian	ORG	1	1	ch04
+Leninist Russia	LOC	1	1	notes
+Less Developed Countries	ORG	1	1	ch05
+Levant	GPE	1	1	ch09
+Levantine	ORG	1	1	ch12
+Levantine	GPE	1	1	acknowledgments-second
+Levy-Stable	LAW	1	1	notes
+Lichtenstein	GPE	1	1	notes
+Linus Pauling	ORG	1	1	ch09
+Long Term Capital Management	ORG	1	1	ch13
+Los Alamos	GPE	1	1	ch03
+Loser Takes All	WORK_OF_ART	1	1	part2
+Louie	ORG	1	1	ch05
+Lourdes	GPE	1	1	ch09
+Lucas	GPE	1	1	ch06
+Lucas	ORG	1	1	notes
+MBA	ORG	1	1	ch02
+MS	GPE	1	1	acknowledgments-first
+Magee	ORG	1	1	notes
+Malaysia	GPE	1	1	ch06
+Manos Vourkoutiotis	GPE	1	1	acknowledgments-first
+Marie-Christine Riachi	ORG	1	1	acknowledgments-first
+Marseilles	NORP	1	1	prologue
+Martian	NORP	1	1	part3
+Marxists	NORP	1	1	ch07
+Mean Genes	ORG	1	1	acknowledgments-second
+Mediterraneans	NORP	1	1	ch09
+Menand	GPE	1	1	notes
+Merton	PRODUCT	1	1	ch03
+Mesopotamia	GPE	1	1	ch11
+Metropolitan Transit Authority	ORG	1	1	postscript
+Mexicans	NORP	1	1	ch05
+Middle European	NORP	1	1	ch07
+Middle-Town	GPE	1	1	ch11
+Midwest	LOC	1	1	ch08
+Milan	GPE	1	1	postscript
+Mina Samuels	ORG	1	1	acknowledgments-first
+Monash University	ORG	1	1	ch04
+Monopoly	NORP	1	1	ch08
+Monsieur Prudhomme	GPE	1	1	prologue
+Moscow	GPE	1	1	ch02
+Most City Hotshots	LOC	1	1	preface
+Munich	GPE	1	1	postscript
+NPR	ORG	1	1	preface
+Nasdaq	ORG	1	1	ch03
+Nash	GPE	1	1	ch07
+Natura	ORG	1	1	ch05
+New Haven	GPE	1	1	acknowledgments-second
+New Mexico	GPE	1	1	ch10
+New York Frenchman	GPE	1	1	ch02
+New York University	ORG	1	1	ch01
+New Yorkers	NORP	1	1	ch04
+Newark	GPE	1	1	ch12
+Newsweek	ORG	1	1	preface
+Neyman-Pearson	ORG	1	1	ch09
+Nobels	WORK_OF_ART	1	1	ch13
+Noo-Joyzy	ORG	1	1	ch01
+Novocain	ORG	1	1	postscript
+Obedshemesh	ORG	1	1	ch11
+Odysseus	GPE	1	1	part3
+Omega TradeStation	ORG	1	1	ch09
+Operations Research	ORG	1	1	ch05
+Oxford	ORG	1	1	ch07
+PBS	ORG	1	1	preface
+Pace University’s Lubin School of Business	ORG	1	1	ch05
+Paloma	GPE	1	1	acknowledgments-second
+Paloma Partners	ORG	1	1	acknowledgments-first
+Panglossian	NORP	1	1	notes
+Pareto	PRODUCT	1	1	ch10
+Pareto	NORP	1	1	notes
+Pareto-Levy	PRODUCT	1	1	notes
+Paris Match	ORG	1	1	ch03
+Pauling	WORK_OF_ART	1	1	ch09
+Peirce	GPE	1	1	notes
+Persian	NORP	1	1	part1
+Ph.D	PRODUCT	1	1	ch11
+Phelan	GPE	1	1	notes
+Phillips	ORG	1	1	notes
+Philostratus	ORG	1	1	ch03
+Pi	ORG	1	1	ch03
+Piattelli-Palmarini	ORG	1	1	notes
+Pissaro	ORG	1	1	ch11
+Pittsburgh	GPE	1	1	ch11
+Popper, Wittgenstein	ORG	1	1	ch04
+Porsche	ORG	1	1	ch01
+PowerPoint	ORG	1	1	postscript
+Prelec	ORG	1	1	notes
+Proust’s In Search of Time Lost	ORG	1	1	ch01
+Pyrrho	GPE	1	1	ch12
+QWERTY	PRODUCT	1	1	ch10
+Randomness and Our Brain	WORK_OF_ART	1	1	part2
+Ratey	GPE	1	1	notes
+Renaissance	ORG	1	1	ch13
+Renaissance Florence	ORG	1	1	ch06
+Riley	ORG	1	1	acknowledgments-second
+Rio de Janeiro	GPE	1	1	ch10
+Robbe-Grillet	ORG	1	1	notes
+Rolls Royce	PRODUCT	1	1	ch01
+Roman	NORP	1	1	ch14
+Romance	GPE	1	1	part1
+Romans	NORP	1	1	ch13
+Russian Imperial	ORG	1	1	ch08
+Russians	NORP	1	1	ch11
+SAT	ORG	1	1	ch08
+SEC	ORG	1	1	ch06
+SP500	ORG	1	1	ch06
+Sahar	ORG	1	1	ch11
+Saint-John Perse	GPE	1	1	ch04
+Salomon Brothers	ORG	1	1	acknowledgments-first
+Santa Fe	GPE	1	1	ch10
+Schadenfreude	ORG	1	1	ch01
+Scots	ORG	1	1	ch07
+Search of Time Lost	ORG	1	1	ch13
+Securities and Exchange Commission	ORG	1	1	preface
+Seine	ORG	1	1	ch10
+Semitic	NORP	1	1	acknowledgments-first
+Senate	ORG	1	1	ch13
+Seneca’s Letters	ORG	1	1	ch14
+Shackle	ORG	1	1	ch11
+Shackle	GPE	1	1	notes
+Shaiy Pilpel	ORG	1	1	acknowledgments-first
+Shefrin	GPE	1	1	notes
+Shizgal	GPE	1	1	notes
+Siberia	LOC	1	1	ch11
+Silver Blaze	ORG	1	1	ch09
+Sloman	ORG	1	1	notes
+Smalltown	GPE	1	1	ch11
+SoHo	LOC	1	1	ch08
+Soros	NORP	1	1	ch07
+Southeast Asia	LOC	1	1	ch02
+Soviet	NORP	1	1	ch08
+Spain	GPE	1	1	ch04
+Sparta	GPE	1	1	ch01
+Spence	GPE	1	1	ch07
+Starbucks	PRODUCT	1	1	ch10
+Stiglitz	ORG	1	1	ch07
+Stoic	ORG	1	1	ch14
+Stove Is Hot	WORK_OF_ART	1	1	ch07
+Sullivan, Timmerman	ORG	1	1	ch09
+Swedes	NORP	1	1	ch11
+Swedish	NORP	1	1	ch11
+Swiss	NORP	1	1	ch03
+Syracusean	NORP	1	1	ch13
+System 1 and System 2	LAW	1	1	ch11
+System 2	ORG	1	1	ch11
+Table	ORG	1	1	prologue
+Table 3.1	PRODUCT	1	1	ch03
+Table P.1 Table of Confusion Presenting	ORG	1	1	prologue
+Taleb	PRODUCT	1	1	preface
+Taszka	GPE	1	1	notes
+Tatler	GPE	1	1	ch03
+Taylorist	ORG	1	1	notes
+Texere	FAC	1	1	preface
+Thailand	GPE	1	1	ch06
+The Alchemy of Finance	ORG	1	1	ch07
+The Bible Code	WORK_OF_ART	1	1	ch09
+The Da Vinci Code	WORK_OF_ART	1	1	ch09
+The Dawning of the Age of Stochasticity (Mumford	WORK_OF_ART	1	1	notes
+The Economist	WORK_OF_ART	1	1	ch03
+The God Abandons Antony	WORK_OF_ART	1	1	ch14
+The Median Is Not the Message	WORK_OF_ART	1	1	ch06
+The Millionaire Mind	WORK_OF_ART	1	1	preface
+The Millionaire Next Door	WORK_OF_ART	1	1	ch08
+The Nature of Rationality	WORK_OF_ART	1	1	ch06
+The New Yorker	ORG	1	1	ch03
+The Open Society	ORG	1	1	ch07
+The Tipping Point	WORK_OF_ART	1	1	ch10
+The Vienna Circle	FAC	1	1	ch04
+Third Avenue	FAC	1	1	ch12
+Time Series Analysis	ORG	1	1	ch06
+Times	ORG	1	1	ch02
+Times Square	FAC	1	1	ch02
+Too Many Millionaires	WORK_OF_ART	1	1	part2
+Tooby	ORG	1	1	notes
+Toulmin	GPE	1	1	notes
+Tower of Babel	WORK_OF_ART	1	1	ch10
+Trader and Scientific Approach	ORG	1	1	ch11
+Tranel	ORG	1	1	notes
+Treatise on Probability	ORG	1	1	ch03
+Triune	ORG	1	1	ch11
+Truth	GPE	1	1	prologue
+Turks	NORP	1	1	ch03
+Tversky	PRODUCT	1	1	ch11
+U.K	GPE	1	1	ch05
+Unfiltered Data Containing Signal	ORG	1	1	ch11
+Unified Germany	GPE	1	1	ch09
+Vanity Fair	ORG	1	1	ch03
+Venice	GPE	1	1	ch01
+Verdurins	ORG	1	1	ch01
+Vermont	GPE	1	1	ch09
+Victoria	GPE	1	1	ch09
+Victorian England	LOC	1	1	ch14
+Vienna	GPE	1	1	ch04
+Virginia	GPE	1	1	preface
+Wason	ORG	1	1	notes
+Watts	ORG	1	1	notes
+Wegner	ORG	1	1	notes
+Winston	GPE	1	1	notes
+W₁	GPE	1	1	ch06
+Yale Law School	ORG	1	1	ch08
+Yiddish	NORP	1	1	ch04
+Zarate	ORG	1	1	notes
+Zoologists	NORP	1	1	ch05
+Zorglubs	ORG	1	1	ch03
+a New Year	EVENT	1	1	ch03
+erudite Nobel Prize	WORK_OF_ART	1	1	ch01
+section 2 of The Wall Street Journal	LAW	1	1	ch06
+the ABC Group	ORG	1	1	ch11
+the Academy of Lodz	ORG	1	1	ch11
+the American Philosophical Association	ORG	1	1	notes
+the Bank of Sweden Prize for Economics	ORG	1	1	ch11
+the Cathedral Notre-Dame	ORG	1	1	ch07
+the Chicago Board of Trade	ORG	1	1	ch01
+the Courant Institute of Mathematical Sciences	ORG	1	1	acknowledgments-second
+the Eastern Mediterranean	LOC	1	1	ch03
+the Federal Reserve Bank	ORG	1	1	ch01
+the Federal Reserve Board	ORG	1	1	prologue
+the First World War	EVENT	1	1	ch04
+the Great Depression	EVENT	1	1	ch03
+the Hamptons on Long Island	ORG	1	1	ch13
+the International Monetary Fund	ORG	1	1	ch05
+the Lebanese civil war	EVENT	1	1	ch03
+the Metropolitan Opera	ORG	1	1	ch05
+the Musée d’Orsay	FAC	1	1	ch11
+the National Association of Retired Veteran Chemical Engineers	ORG	1	1	ch10
+the New Academy	ORG	1	1	ch13
+the New Year	EVENT	1	1	ch12
+the Nobel Memorial Prize in Economics	WORK_OF_ART	1	1	ch13
+the Nobel academy	ORG	1	1	ch11
+the Nobel economics committee	WORK_OF_ART	1	1	ch13
+the Nobel medal	WORK_OF_ART	1	1	acknowledgments-second
+the Roman Senate	ORG	1	1	ch13
+the Russia Principal Bond	FAC	1	1	ch05
+the Seychelles Islands	LOC	1	1	ch01
+the South Pole	LOC	1	1	ch11
+the Soviet Union	GPE	1	1	ch11
+the Swedish Central Bank	ORG	1	1	ch13
+the Swedish Central Bank Prize	ORG	1	1	ch06
+the Swiss Army	ORG	1	1	ch11
+the Tower of Babel	FAC	1	1	ch10
+the Tragic Vision	ORG	1	1	prologue
+the Twin Towers	WORK_OF_ART	1	1	ch03
+the United Nations	ORG	1	1	ch11
+the Utopian Vision	ORG	1	1	prologue
+the Vienna Circle	LOC	1	1	ch07
+the Wharton School	FAC	1	1	ch05
+un-Popperian	NORP	1	1	ch07
