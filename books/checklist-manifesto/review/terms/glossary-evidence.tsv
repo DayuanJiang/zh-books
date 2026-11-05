@@ -1,0 +1,85 @@
+term	chinese	first	count	example	decided by
+checklist	清单	introduction	355	It is a checklist.	Claude（初定）
+check / checks	检查项 / 核对	introduction	72	They’d need to take him to the operating room, check to make sure the bowel wasn’t injured, and sew up the little gap.	Claude（初定）
+failure / avoidable failure	失败 / 可以避免的失败	introduction	55	We talk about our great saves but also about our great failures, and we all have them.	Claude（初定）
+ignorance / ineptitude	无知 / 无能	introduction	10	The first is ignorance—we may err because science has given us only a partial understanding of the world and how it works.	Claude（初定）
+necessary fallibility / fallibility	必然的易错 / 易错	introduction	5	In the 1970s, the philosophers Samuel Gorovitz and Alasdair MacIntyre published a short essay on the nature of human fallibility that I read during my surgical training and haven’t stopped pondering since.	Claude（初定）
+eptitude	“有能”（eptitude）	introduction	1	But now the problem we face is ineptitude, or maybe it’s “eptitude”—making sure we apply the knowledge we have consistently and correctly.	Claude（初定）
+complexity / extreme complexity	复杂性 / 极端复杂	introduction	38	Furthermore, whatever the chosen treatment, each involves abundant complexities and pitfalls.	Claude（初定）
+complicated	繁杂	ch01	14	It’s also the idea that a group of people in a random hospital could manage to pull off something so enormously complicated.	Claude（初定）
+complex	复杂	ch01	40	Confronted with cases of such variety and intricacy—in one day, I’d had six patients with six completely different primary medical problems and a total of twenty-six different additional diagnoses—it’s tempting to believe that no one else’s job could be as complex as mine.	Claude（初定）
+know-how / expertise / experts	知识和本领 / 专业能力 / 专家	introduction	42	Just making the right treatment choice among the many options for a heart attack patient can be difficult, even for expert clinicians.	Claude（初定）
+specialization / superspecialization	专科化 / 超专科化	ch01	35	Specialists in the field prefer to call what they do critical care, but that still doesn’t exactly clarify matters.	Claude（初定）
+Master Builder / Master Physician	总建造师 / “总医师”	ch03	8	For most of modern history, he explained, going back to medieval times, the dominant way people put up buildings was by going out and hiring Master Builders who designed them, engineered them, and oversaw construction from start to finish, portico to plumbing.	Claude（初定）
+cognitive net	认知防护网	ch03	1	They provide a kind of cognitive net.	Claude（初定）
+forcing function	强制功能	ch03	3	All were amenable, as a result, to what engineers call “forcing functions”: relatively straightforward solutions that force the necessary behavior—solutions like checklists.	Claude（初定）
+all-or-none process	全有或全无的过程	ch02	1	The first is the fallibility of human memory and attention, especially when it comes to mundane, routine matters that are easily overlooked under the strain of more pressing events. (When you’ve got a patient throwing up and an upset family member asking you what’s going on, it can be easy to forget that you have not checked her pulse.) Faulty memory and distraction are a particular danger in what engineers call all-or-none processes: whether running to the store to buy ingredients for a cake, preparing an airplane for takeoff, or evaluating a sick person in the hospital, if you miss just one key thing, you might as well not have made the effort at all.	Claude（初定）
+stupid stuff / dumb stuff	傻瓜都知道的事	ch02	5	They check that the brakes are released, that the instruments are set, that the door and windows are closed, that the elevator controls are unlocked—dumb stuff.	Claude（初定）
+construction schedule / submittal schedule	施工进度表 / 报审进度表	ch03	9	Along the right wall as we walked in was, O’Sullivan explained, the construction schedule.	Claude（初定）
+communication checks	沟通检查	ch03	5	It was also a checklist, but it didn’t specify construction tasks; it specified communication tasks.	Claude（初定）
+power	权力 / 决策权	ch01	32	To do this, the surgeons had to open her chest down the middle with a power saw and sew the lines to and from the portable ECMO unit directly into her aorta and her beating heart.	Claude（初定）
+command-and-control	命令与控制	ch04	2	The traditional command-and-control system rapidly became overwhelmed.	Claude（初定）
+pause point	暂停点	ch05	7	It had three “pause points,” as they are called in aviation—three points at which the team must stop to run through a set of checks before proceeding.	Claude（初定）
+checkpoint	检查点	ch03	2	That checkpoint was bypassed.	Claude（初定）
+DO-CONFIRM / READ-DO	先做后确认型 / 边读边做型	ch06	7	You must decide whether you want a DO-CONFIRM checklist or a READ-DO checklist.	Claude（初定）
+killer items	“致命项”	ch06	2	So you want to keep the list short by focusing on what he called “the killer items”—the steps that are most dangerous to skip and sometimes overlooked nonetheless. (Data establishing which steps are most critical and how frequently people miss them are highly coveted in aviation, though not always available.)	Claude（初定）
+normal / non-normal checklists	“正常”清单 / “非正常”清单	ch06	2	First came what pilots call their “normal” checklists—the routine lists they use for everyday aircraft operations.	Claude（初定）
+briefing / team briefing	简报 / 团队简报	ch05	7	The checklist also included what they called a “team briefing.”	Claude（初定）
+activation phenomenon	激活现象	ch05	1	The researchers called it an “activation phenomenon.”	Claude（初定）
+teamwork	团队合作	ch05	16	In one, he surveyed more than a thousand operating room staff members from hospitals in five countries—the United States, Germany, Israel, Italy, and Switzerland—and found that although 64 percent of the surgeons rated their operations as having high levels of teamwork, just 39 percent of anesthesiologists, 28 percent of nurses, and 10 percent of anesthesia residents did.	Claude（初定）
+discipline	纪律	ch02	16	They not only offer the possibility of verification but also instill a kind of discipline of higher performance.	Claude（初定）
+professionalism / selflessness / skill / trustworthiness	职业精神 / 无私 / 技能 / 可信	ch08	6	All learned occupations have a definition of professionalism, a code of conduct.	Claude（初定）
+autonomy / collegiality	自主 / 同僚情谊	ch03	5	You give the specialist autonomy.	Claude（初定）
+protocol / judgment / craft	规程 / 判断 / 手艺	introduction	19	For those who do the work, however—for those who care for the patients, practice the law, respond when need calls—the judgment feels like it ignores how extremely difficult the job is.	Claude（初定）
+procedure	手术、操作 / 程序	introduction	42	The team members were halfway through the procedure.	Claude（初定）
+hero / heroism	英雄 / 英雄主义	ch08	8	Maybe our idea of heroism needs updating.	Claude（初定）
+expert audacity / the right stuff	专家的胆识 / “过人的素质”	ch08	5	Tom Wolfe’s The Right Stuff tells the story of our first astronauts and charts the demise of the maverick, Chuck Yeager test-pilot culture of the 1950s.	Claude（初定）
+too much airplane for one man to fly	“飞机太复杂，一个人飞不了”	ch02	2	The Boeing model was deemed, as a newspaper put it, “too much airplane for one man to fly.”	Claude（初定）
+save / great saves	救回 / 救回来的病例	introduction	9	We talk about our great saves but also about our great failures, and we all have them.	Claude（初定）
+error / mistake	差错 / 错误	introduction	57	You see it in the frequent mistakes authorities make when hurricanes or tornadoes or other disasters hit.	Claude（初定）
+leverage	杠杆	ch05	3	And the interventions proved to have widely transmissible benefits—what business types would term a large ROI (return on investment) or what Archimedes would have called, merely, leverage.	Claude（初定）
+behavior-change delivery vehicle	改变行为的载体	ch05	1	It was a behavior-change delivery vehicle.	Claude（初定）
+pilot study / pilot sites	试点研究 / 试点医院	ch05	7	We made a decision to set up a proper pilot study of our safe surgery checklist in a range of hospitals around the world, for which WHO committed to providing the funds.	Claude（初定）
+pilot / test pilot / copilot	飞行员 / 试飞员 / 副驾驶	ch02	76	Two of the five crew members died, including the pilot, Major Ployer P.	Claude（初定）
+pilot flying / pilot not flying	操纵飞行员 / 非操纵飞行员	ch07	3	In aviation, there is a reason the “pilot not flying” starts the checklist, someone pointed out.	Claude（初定）
+crew	机组	ch01	23	A helicopter took her to the nearest hospital, where she was wheeled directly into an operating room, a member of the emergency crew straddling her on the gurney, pumping her chest.	Claude（初定）
+simulator	模拟器	ch06	7	But that’s why they have flight simulators, and he offered to show me one.	Claude（初定）
+cockpit voice recorder	驾驶舱话音记录器	ch06	3	The cockpit voice recorder caught the events from the moment the cargo door blew away:	Claude（初定）
+ditching	水上迫降	ch06	4	They nonetheless needed to shut down the ruined engines, notify air traffic control of the emergency, descend to a safe altitude, determine how maneuverable the plane was, sort out which alarms on their instrument panel they could ignore and which ones they couldn’t, and decide whether to ditch the plane in the ocean or return to Honolulu.	Claude（初定）
+bird strike	鸟击	ch08	2	But dual bird strikes are rare.	Claude（初定）
+fly-by-wire	电传操纵	ch08	2	But as the details trickled out about the procedures and checklists that were involved, the fly-by-wire computer system that helped control the glide down to the water, the copilot who shared flight responsibilities, the cabin crew who handled the remarkably swift evacuation, we the public started to become uncertain about exactly who the hero here was.	Claude（初定）
+uncommanded rollback	非指令性推力回退	ch06	2	First the right engine rolled back to minimal power, then the left.	Claude（初定）
+safe surgery checklist	安全手术清单	ch05	20	He explained that his hospital had completed a feasibility trial using a much broader, twenty-one-item surgical checklist.	Claude（初定）
+Safe Surgery Saves Lives	“安全手术拯救生命”项目	acknowledgments	2	Patchen Dellinger, Teodoro Herbosa, Sidhir Joseph, Pascience Kibatala, Marie Lapitan, Alan Merry, Krishna Moorthy, Richard Reznick, and Bryce Taylor, the principal investigators at our eight study sites around the world; Bruce Barraclough, Martin Makary, Didier Pittet, and Iskander Sayek, the leaders of our scientific advisory group, as well as the many participants in the WHO Safe Surgery Saves Lives study group; Martin Fletcher and Lord Naren Patel at the National Patient Safety Agency in the U.K.; Alex Arriaga, Angela Bader, Kelly Bernier, Bridget Craig, Priya Desai, Rachel Dyer, Lizzie Edmondson, Luke Funk, Stuart Lipsitz, Scott Regenbogen, and my colleagues at the Brigham and Women’s Center for Surgery and Public Health; and the MacArthur Foundation.	Claude（初定）
+before anesthesia / before incision / sign-out / time-out	麻醉前 / 切皮前 / 离室前核对 / 暂停核对	ch07	10	We wanted the checks at each of the three pause points—before anesthesia, before incision, and before leaving the OR—to take no more than about sixty seconds, and we weren’t there yet.	Claude（初定）
+Cleared for Takeoff	“准予起飞”	ch05	3	He designed a preincision “Cleared for Takeoff” checklist that he put on a whiteboard in each of the operating rooms.	Claude（初定）
+Keystone Initiative	“基石计划”	ch02	3	In what became known as the Keystone Initiative, each hospital assigned a project manager to roll out the checklist and participate in twice-monthly conference calls with Pronovost for troubleshooting.	Claude（初定）
+pay-for-performance	按绩效付费	ch05	2	We discussed incentive approaches, such as the pay-for-performance schemes recently initiated on a trial basis in the United States.	Claude（初定）
+Hawthorne effect	霍桑效应	ch07	1	Suppose this was just a Hawthorne effect, that is to say, a byproduct of being observed in a study rather than proof of the checklist’s power.	Claude（初定）
+vital signs	生命体征	ch02	8	What, for instance, are the vital signs that every hospital records if not a kind of checklist?	Claude（初定）
+Code Blue	蓝色代码（Code Blue）	introduction	2	A nurse called a Code Blue.	Claude（初定）
+central line / line infection	中心静脉导管 / 导管感染	ch01	24	Next, she put in a central line—a twelve-inch catheter pushed into the jugular vein in his left neck.	Claude（初定）
+ICU / intensive care / critical care	ICU / 重症监护 / 危重症医学	ch01	67	The surgical team moved the girl into intensive care, with her chest still open and covered with sterile plastic foil.	Claude（初定）
+operating room / OR / operating theater	手术室	introduction	68	They’d need to take him to the operating room, check to make sure the bowel wasn’t injured, and sew up the little gap.	Claude（初定）
+anesthesiologist / anesthetist	麻醉科医生 / 麻醉师	introduction	50	If it were a bad injury, they’d need to crash into the operating room—stretcher flying, nurses racing to get the surgical equipment set up, the anesthesiologists skipping their detailed review of the medical records.	Claude（初定）
+circulating nurse / scrub nurse	巡回护士 / 器械护士	ch05	13	Under conditions of extreme complexity, we inevitably rely on a division of tasks and expertise—in the operating room, for example, there is the surgeon, the surgical assistant, the scrub nurse, the circulating nurse, the anesthesiologist, and so on.	Claude（初定）
+resident / attending / fellowship	住院医生 / 主治医生 / 专科培训	introduction	28	So now they were crashing into the operating room—stretcher flying, nurses racing to get the surgical equipment set up, the anesthesiologists skipping their review of the records, a resident splashing a whole bottle of Betadine antiseptic onto his belly, John grabbing a fat No. 10 blade and slicing down through the skin of the man’s abdomen in one clean, determined swipe from rib cage to pubis.	Claude（初定）
+general surgery / general surgeon	普通外科 / 普通外科医生	introduction	10	I was chatting with a medical school friend of mine who is now a general surgeon in San Francisco.	Claude（初定）
+complication	并发症	ch01	32	Line infections are so common that they are considered a routine complication.	Claude（初定）
+incision	切口 / 切皮	ch01	21	They repaired the vessels and closed her groin incision.	Claude（初定）
+surgical fire	手术室火灾	ch07	4	We also discussed operating room fires, a notorious problem.	Claude（初定）
+value investor / margin of safety	价值投资者 / 安全边际	ch08	3	The three consider themselves “value investors”—investors who buy shares in under recognized, undervalued companies.	Claude（初定）
+cocaine brain / greed mode / fear mode	“可卡因大脑” / “贪婪模式” / “恐惧模式”	ch08	6	“You go into greed mode,” he said.	Claude（初定）
+mental checklist / Day Three Checklist	“思维清单” / “第三天清单”	ch08	5	Pabrai said—and after a $650,000 lunch, I guess first names are in order—“Warren uses a ‘mental checklist’ process” when looking at potential investments.	Claude（初定）
+venture capitalists and their styles	风险投资人；“艺术评论家型”“海绵型”“检察官型”“求爱者型”“终结者型”“机长型”	ch08	17	He studied fifty-one venture capitalists, people who make gutsy, high-risk, multimillion-dollar investments in unproven start-up companies.	Claude（初定）
+trades / tradesmen	工种 / 各工种的工人	ch03	7	Then, to turn the paper plans into reality, they presumably face equally byzantine difficulties making sure that all the different tradesmen and machinery do their job the right way, in the right sequence, while also maintaining the flexibility to adjust for unexpected difficulties and changes.	Claude（初定）
+general contractor / subcontractor	总承包商 / 分包商	ch03	9	Then, piece by piece, each component became further specialized and split off, until there were architects on one side, often with their own areas of subspecialty, and engineers on another, with their various kinds of expertise; the builders, too, fragmented into their own multiple divisions, ranging from tower crane contractors to finish carpenters.	Claude（初定）
+structural engineer / structural engineering	结构工程师 / 结构工程	ch03	12	I paid a visit to Joe Salvia, the structural engineer for our new hospital wing.	Claude（初定）
+project executive / field office	项目执行经理 / 现场办公室	ch03	5	Ants on the ground, we worked our way around a pair of concrete mixing trucks, the cops stopping traffic, and a few puddles of gray mud to enter the first-floor field office of John Moriarty and Associates, the general contractor for the project.	Claude（初定）
+building failure	建筑失效	ch03	2	But “building failure”—defined as a partial or full collapse of a functioning structure—is exceedingly rare, especially for skyscrapers.	Claude（初定）
+tuned mass damper	调谐质量阻尼器	ch03	1	Instead, McNamara proposed a novel solution called a “tuned mass damper.”	Claude（初定）
+recipe	配方 / 菜谱	ch03	15	There is a recipe.	Claude（初定）
+sous chef / line cooks / pow wow / read-back	副主厨 / 灶台厨师 / 碰头会 / 复述确认	ch04	8	There was a pastry chef, baker, grill chef, fry cook, dessert chef, sous chef, sommelier—you get the picture.	Claude（初定）
+system	系统 / 体系	ch01	44	A perfusionist turned the pump on, and as he adjusted the oxygen and temperature and flow through the system, the clear tubing turned maroon with her blood.	Claude（初定）
+patient safety	患者安全	ch05	4	I thought you were supposed to be some kind of expert on patient safety in surgery.	Claude（初定）
+case	病例 / 手术	introduction	62	John still shakes his head ruefully when he talks about the case.	Claude（初定）

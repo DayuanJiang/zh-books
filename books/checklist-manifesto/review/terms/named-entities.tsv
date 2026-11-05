@@ -1,0 +1,387 @@
+entity	NER label	mentions	chapters	first
+Boeing	ORG	22	5	ch02
+ICU	ORG	22	5	ch01
+Sullenberger	ORG	18	1	ch08
+the United States	GPE	15	6	ch01
+American	NORP	14	7	introduction
+Boston	GPE	13	7	ch01
+Wal-Mart	ORG	12	1	ch04
+London	GPE	11	3	ch05
+Boorman	ORG	8	1	ch06
+Johns Hopkins	ORG	8	2	ch02
+Seattle	GPE	8	3	ch02
+India	GPE	7	3	ch05
+Salvia	GPE	7	1	ch03
+WHO	ORG	7	2	ch05
+Honolulu	GPE	6	1	ch06
+Pabrai	GPE	6	1	ch08
+Pronovost	ORG	6	1	ch02
+Salvia	ORG	6	1	ch03
+Adams	ORG	5	1	ch04
+Geneva	GPE	5	1	ch05
+Jordan	GPE	5	2	ch07
+Michigan	GPE	5	1	ch02
+New Orleans	GPE	5	1	ch04
+Rouillard	ORG	5	1	ch03
+Sinai-Grace	ORG	5	1	ch02
+A320	PRODUCT	4	1	ch08
+Boorman	NORP	4	1	ch06
+CT	ORG	4	1	ch01
+ECMO	ORG	4	1	ch01
+Model 299	PRODUCT	4	2	ch02
+New Zealand	GPE	4	3	ch05
+Smart	ORG	4	1	ch08
+Toronto	GPE	4	1	ch05
+US Airways	ORG	4	2	ch06
+Zhi	ORG	4	1	ch05
+B-17	PRODUCT	3	2	ch02
+California	GPE	3	1	ch08
+Canada	GPE	3	3	ch05
+Canadian	NORP	3	2	ch07
+China	GPE	3	2	ch06
+Citicorp	ORG	3	1	ch03
+Colorado	GPE	3	2	ch04
+Delhi	GPE	3	1	ch07
+European	NORP	3	3	ch01
+Iraqi	NORP	3	1	ch07
+Katrina	EVENT	3	1	ch04
+Manhattan	GPE	3	2	ch03
+Munger	ORG	3	1	ch08
+New York City	GPE	3	2	ch03
+Pakistan	GPE	3	1	ch05
+San Francisco	GPE	3	1	introduction
+Tanzania	GPE	3	1	ch07
+United Airlines	ORG	3	1	ch06
+the Harvard School of Public Health	ORG	3	2	acknowledgments
+the University of Washington Medical Center	ORG	3	1	ch07
+the World Health Organization	ORG	3	3	ch01
+Africa	LOC	2	1	ch05
+Airline Captain	ORG	2	1	ch08
+Alps	LOC	2	2	ch01
+Americans	NORP	2	1	ch01
+Amman	GPE	2	1	ch07
+Asia	LOC	2	2	introduction
+Austrian	NORP	2	2	ch01
+Baghdad	GPE	2	1	ch07
+Brazil	GPE	2	1	ch08
+Britain	GPE	2	2	ch06
+British	NORP	2	2	ch05
+British Airways	ORG	2	1	ch06
+CDC	ORG	2	1	ch05
+Checklist	NORP	2	2	ch08
+Clash Detective	ORG	2	1	ch03
+Coca-Cola	ORG	2	1	ch08
+Columbus Children’s Hospital	ORG	2	1	ch05
+Detroit	GPE	2	1	ch02
+Europe	LOC	2	2	introduction
+FEMA	ORG	2	1	ch04
+Germany	GPE	2	2	ch02
+Ghana	GPE	2	1	ch05
+HOPE	ORG	2	1	ch05
+Harvard	ORG	2	2	ch03
+Heathrow	FAC	2	1	ch06
+Hudson	LOC	2	1	ch08
+Hudson River	LOC	2	1	ch08
+Hurricane Katrina	EVENT	2	2	ch04
+Ireland	GPE	2	2	ch05
+Kaiser	NORP	2	1	ch05
+Karachi	GPE	2	1	ch05
+Karachi	ORG	2	1	ch05
+Klagenfurt	GPE	2	1	ch02
+Manila	GPE	2	1	ch07
+Martin Makary	ORG	2	2	ch05
+Massachusetts	GPE	2	2	ch01
+McNamara/Salvia	ORG	2	1	ch03
+Mongolia	GPE	2	2	ch05
+Montana	GPE	2	1	ch06
+New Jersey	GPE	2	2	ch03
+New Yorker	ORG	2	2	ch03
+Ohio	GPE	2	2	ch02
+Omaha	GPE	2	1	ch05
+Ph.D	WORK_OF_ART	2	2	ch02
+Philippines	GPE	2	2	ch07
+PowerPoint	ORG	2	2	ch03
+Procter & Gamble	ORG	2	1	ch05
+Rialto	GPE	2	1	ch04
+Rialto	ORG	2	2	ch04
+Russia	GPE	2	1	ch03
+Russian	NORP	2	2	ch02
+Sinai-Grace Hospital	ORG	2	1	ch02
+South Asia	LOC	2	1	ch05
+South Carolina	GPE	2	2	ch05
+Southern California	LOC	2	1	ch05
+St. Mary	GPE	2	1	ch07
+St. Mary’s Hospital	GPE	2	1	ch07
+Success	ORG	2	2	ch02
+Switzerland	GPE	2	2	ch05
+United	ORG	2	1	ch06
+WHO Patient Safety	ORG	2	1	acknowledgments
+Walker	ORG	2	2	dedication
+Zurich	GPE	2	1	ch08
+the George Washington Bridge	ORG	2	1	ch08
+the Middle East	LOC	2	2	ch05
+the New England Journal of Medicine	ORG	2	2	ch02
+the New Yorker	ORG	2	1	acknowledgments
+the University of Toronto	ORG	2	2	ch03
+777-200ER	PRODUCT	1	1	ch06
+AAIB	ORG	1	1	ch06
+ABC News	ORG	1	1	ch08
+Air Accidents Investigation Branch	ORG	1	1	ch06
+Air Force Academy	ORG	1	1	ch08
+Airbus	ORG	1	1	ch08
+Airline Captains	WORK_OF_ART	1	1	ch08
+America	GPE	1	1	ch04
+Apple	ORG	1	1	ch08
+Aquamarine Capital Management	ORG	1	1	ch08
+Arctic	LOC	1	1	ch06
+Arrow International	ORG	1	1	ch02
+Art Critics	ORG	1	1	ch08
+Aspen	GPE	1	1	ch06
+Associates	ORG	1	1	ch03
+Athens	GPE	1	1	ch03
+Atlanta	GPE	1	1	ch06
+Auckland City Hospital	ORG	1	1	ch07
+Auckland, New Zealand	ORG	1	1	ch06
+Australia	GPE	1	1	ch08
+BMW	ORG	1	1	ch08
+Bangkok	GPE	1	1	ch05
+Bangladesh	GPE	1	1	ch05
+Beijing	GPE	1	1	ch06
+Bernie Rouillard	ORG	1	1	ch03
+Betadine	ORG	1	1	introduction
+Bethlehem Steel	ORG	1	1	ch03
+Better	NORP	1	1	about-the-author
+Blue Cross Blue Shield	ORG	1	1	ch02
+Boston’s International Place	ORG	1	1	ch03
+Brazzaville	GPE	1	1	ch05
+Brigham and Women’s Hospital	ORG	1	1	acknowledgments
+Brisbane	GPE	1	1	ch05
+British Airways Flight	ORG	1	1	ch06
+Brooks Brothers	ORG	1	1	ch03
+Brown University	ORG	1	1	ch04
+Burger Kings	ORG	1	1	ch04
+CPR	ORG	1	1	ch01
+Canary Islands	LOC	1	1	ch08
+Cessna	ORG	1	1	ch08
+Charlotte	GPE	1	1	ch08
+Chicago	GPE	1	1	ch08
+Citigroup	ORG	1	1	ch03
+Claremont Graduate University	ORG	1	1	ch08
+Classical Revival	ORG	1	1	ch03
+Cleared for Take	WORK_OF_ART	1	1	ch05
+Cleared for Takeoff	WORK_OF_ART	1	1	ch05
+Clemson University	ORG	1	1	ch08
+Clinicians	NORP	1	1	ch01
+Coast Guard	ORG	1	1	ch04
+Complex	NORP	1	1	ch03
+Conservative Party	ORG	1	1	ch07
+Continental One Heavy	ORG	1	1	ch06
+Cort	WORK_OF_ART	1	1	ch08
+Cort Furniture	ORG	1	1	ch08
+Costa Rica	GPE	1	1	ch08
+Creighton University	ORG	1	1	ch05
+DO	ORG	1	1	ch06
+Danville	GPE	1	1	ch08
+Dar es Salaam	GPE	1	1	ch07
+Dayton	GPE	1	1	ch02
+Delta	LOC	1	1	ch06
+Delta Air Lines	ORG	1	1	ch06
+Detroit Receiving Hospital	ORG	1	1	ch02
+East Africa	GPE	1	1	ch07
+East Cambridge	GPE	1	1	ch03
+East Rutherford	GPE	1	1	ch03
+Ecuador	GPE	1	1	ch08
+Eight Mile Road	EVENT	1	1	ch02
+El Héroe de Nueva York	ORG	1	1	ch08
+Enron	ORG	1	1	ch08
+Esquire	LOC	1	1	ch04
+Everett	GPE	1	1	ch01
+F	PRODUCT	1	1	ch03
+Fenway Park	FAC	1	1	ch03
+Ferrari	ORG	1	1	ch08
+First	NORP	1	1	ch08
+Food and Wine	ORG	1	1	ch04
+France	GPE	1	1	ch08
+French	NORP	1	1	ch08
+Geneva Convention	ORG	1	1	ch05
+German	NORP	1	1	ch08
+Google	ORG	1	1	ch08
+Great Britain	GPE	1	1	ch07
+Great Falls	FAC	1	1	ch06
+Harvard Medical School	ORG	1	1	about-the-author
+Harvard Vanguard	PRODUCT	1	1	ch01
+Harvard Vanguard	FAC	1	1	ch01
+Harvard Vanguard Medical Associates	ORG	1	1	acknowledgments
+Harvard’s Kennedy School of Government	ORG	1	1	ch04
+Hawthorne	GPE	1	1	ch07
+Helvetica	PRODUCT	1	1	ch06
+Homeland Security	ORG	1	1	ch04
+Hong Kong	GPE	1	1	ch07
+Honolulu Center Continental One Heavy	ORG	1	1	ch06
+Hopkins	GPE	1	1	ch05
+Hurricane Ella	ORG	1	1	ch03
+Ifakara	GPE	1	1	ch07
+Indonesia	GPE	1	1	ch05
+Infection	ORG	1	1	ch05
+Interstate 10	FAC	1	1	ch04
+Irishman	NORP	1	1	ch03
+Irvine	GPE	1	1	ch08
+Israel	GPE	1	1	ch05
+Israeli	NORP	1	1	ch01
+Italian	NORP	1	1	ch04
+Italy	GPE	1	1	ch05
+I’m Atul Gawande	WORK_OF_ART	1	1	ch05
+I’m Jay Powers	WORK_OF_ART	1	1	ch05
+I’m Zhi Xiong	WORK_OF_ART	1	1	ch05
+Joaquim	NORP	1	1	ch05
+Johns Hopkins Hospital	ORG	1	1	ch02
+Johns Hopkins ICU	ORG	1	1	ch02
+Julia Child	ORG	1	1	ch04
+KLM	ORG	1	1	ch08
+Kaiser	ORG	1	1	ch05
+Kenmore Square	FAC	1	1	ch01
+LDG ALT selector”—which Boorman	WORK_OF_ART	1	1	ch06
+La Guardia	FAC	1	1	ch08
+La Guardia Airport	FAC	1	1	ch08
+Lancet	ORG	1	1	ch05
+Le Nouveau Héros de l’Amérique	ORG	1	1	ch08
+Li-Fraumeni	ORG	1	1	ch01
+London’s Daily Mirror	ORG	1	1	ch06
+Louisiana	GPE	1	1	ch04
+M&M	ORG	1	1	ch04
+M.D	GPE	1	1	ch02
+MacArthur Fellow	ORG	1	1	about-the-author
+MacIntyre	ORG	1	1	introduction
+Maine	GPE	1	1	ch03
+Martin	ORG	1	1	ch02
+Metropolitan	ORG	1	1	acknowledgments
+Metropolitan Books	ORG	1	1	acknowledgments
+Miami	GPE	1	1	ch03
+Mogadishu	GPE	1	1	ch05
+Mohnish Pabrai	ORG	1	1	ch08
+Mount Everest	LOC	1	1	ch06
+NTSB	ORG	1	1	ch08
+National Institutes of Health	ORG	1	1	ch08
+National Transportation Safety Board	ORG	1	1	ch08
+Nazi	NORP	1	1	ch02
+Nebraska	GPE	1	1	ch05
+New Delhi	GPE	1	1	ch07
+New York	GPE	1	1	ch08
+New York Jets	GPE	1	1	ch03
+Newton	GPE	1	1	about-the-author
+North Carolina	GPE	1	1	ch08
+Notre Dame	FAC	1	1	ch03
+OPEN	ORG	1	1	ch08
+Ohio State University	ORG	1	1	ch03
+Pabrai Investment Funds	ORG	1	1	ch08
+Paddington	GPE	1	1	ch07
+Pan American	NORP	1	1	ch08
+Pan American	ORG	1	1	ch08
+Pascience Kibatala	GPE	1	1	acknowledgments
+Penicillin	ORG	1	1	ch01
+Pennsylvania	GPE	1	1	ch02
+Philippines General Hospital	ORG	1	1	ch07
+Plaquemines Parish	NORP	1	1	ch04
+Porsche	ORG	1	1	ch08
+Prince Hamza Hospital	ORG	1	1	ch07
+Princeton	ORG	1	1	ch03
+Project Center	ORG	1	1	ch03
+Providence	GPE	1	1	ch03
+RECIPES	ORG	1	1	ch04
+Rescue	ORG	1	1	ch01
+Rhode Island	GPE	1	1	ch03
+Rialto	FAC	1	1	ch04
+Richland Avenue	FAC	1	1	ch03
+Rouillard	PRODUCT	1	1	ch03
+Runway 16L	EVENT	1	1	ch06
+Safeguard	PRODUCT	1	1	ch05
+Salvia	NORP	1	1	ch03
+Sara Bershtel	ORG	1	1	acknowledgments
+Scandinavia	LOC	1	1	ch06
+Senate	ORG	1	1	ch04
+Sexton	ORG	1	1	ch05
+Shanghai	GPE	1	1	ch06
+SnowPark	ORG	1	1	ch03
+Soho’s Broad Street	FAC	1	1	ch05
+Spain	GPE	1	1	ch08
+St. Mary’s Hospital	FAC	1	1	ch07
+St. Petersburg	GPE	1	1	ch03
+St. Peter’s Basilica	GPE	1	1	ch03
+St. Stephen’s Hospital	FAC	1	1	ch07
+Sue Marchand	WORK_OF_ART	1	1	ch09
+Taco Bells	ORG	1	1	ch04
+Takeoff	ORG	1	1	ch06
+Tampa Bay	GPE	1	1	ch08
+Tanzanian	NORP	1	1	ch07
+Tenerife	NORP	1	1	ch08
+Teterboro	GPE	1	1	ch08
+Texas	GPE	1	1	ch03
+The Airline Captains	ORG	1	1	ch08
+The Boston Tea Party	ORG	1	1	ch03
+The New Yorker	ORG	1	1	about-the-author
+Togo	NORP	1	1	ch05
+Toronto General Hospital	ORG	1	1	ch07
+Tufts University	ORG	1	1	ch03
+U.K	GPE	1	1	acknowledgments
+US	GPE	1	1	ch08
+Urals	ORG	1	1	ch06
+Vienna	GPE	1	1	ch02
+Vietnam	GPE	1	1	introduction
+Virginia	GPE	1	1	ch08
+Volvo	ORG	1	1	ch08
+Wait	ORG	1	1	ch05
+Washington	GPE	1	1	ch06
+Washington State	GPE	1	1	ch07
+West	LOC	1	1	ch07
+Western	NORP	1	1	ch02
+Westernized	ORG	1	1	ch07
+Women’s Hospital	ORG	1	1	about-the-author
+Wright Air Field	FAC	1	1	ch02
+York University	ORG	1	1	ch03
+YouTube	PRODUCT	1	1	ch07
+Zambia	GPE	1	1	ch05
+Zhi	GPE	1	1	ch05
+a Code Blue	PRODUCT	1	1	introduction
+no National Institute of Health Systems Innovation	ORG	1	1	ch08
+ourselves—“Atul Gawande	ORG	1	1	ch09
+the Arctic Circle	LOC	1	1	ch06
+the Boeing Company	ORG	1	1	ch06
+the Boeing Corporation	ORG	1	1	ch02
+the Boston Red Sox	ORG	1	1	ch03
+the Brigham and Women’s Center for Surgery and Public Health	FAC	1	1	acknowledgments
+the Chinese Yellow Pages	ORG	1	1	ch04
+the East Coast	LOC	1	1	ch03
+the Ernest N. Morial Convention Center	FAC	1	1	ch04
+the Federal Aviation Administration	ORG	1	1	ch06
+the Federal Emergency Management Agency	ORG	1	1	ch04
+the Green Monster	LOC	1	1	ch03
+the Institute for Healthcare Improvement	ORG	1	1	ch08
+the International Committee of the Red Cross	ORG	1	1	ch05
+the Johns Hopkins Hospital	ORG	1	1	ch02
+the Keystone Initiative	ORG	1	1	ch02
+the Keystone Initiative	GPE	1	1	ch02
+the MacArthur Foundation	ORG	1	1	acknowledgments
+the Master Builder	ORG	1	1	ch03
+the McNamara/Salvia	ORG	1	1	ch03
+the Meadowlands Xanadu	ORG	1	1	ch03
+the Michigan Health and Hospital Association	ORG	1	1	ch02
+the Model 299	PRODUCT	1	1	ch02
+the National Guard	ORG	1	1	ch04
+the National Health Service	ORG	1	1	ch07
+the National Patient Safety Agency	ORG	1	1	acknowledgments
+the National Transportation Safety Board	ORG	1	1	ch08
+the New Orleans Superdome	ORG	1	1	ch04
+the New York Giants	ORG	1	1	ch03
+the New York Post	ORG	1	1	ch08
+the Red Cross	ORG	1	1	ch04
+the Second World War	EVENT	1	1	ch02
+the Super Bowl	EVENT	1	1	ch08
+the U.S. Army Air Corps	ORG	1	1	ch02
+the U.S. Centers for Disease Control	ORG	1	1	ch05
+the U.S. Department of Transportation	ORG	1	1	ch04
+the United Kingdom	GPE	1	1	ch08
+the University of Texas Southwestern	ORG	1	1	ch05
+the Ural Mountains	LOC	1	1	ch06
+the World Health Organization’s Safe Surgery Saves	ORG	1	1	about-the-author
+the World Trade Center	ORG	1	1	ch03
+the “Art Critics	ORG	1	1	ch08

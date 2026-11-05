@@ -1,0 +1,1470 @@
+candidate	frequency	chapters	first	words	forms
+checklist	355	10	introduction	1	checklist 257, checklists 90, Checklist 4
+one	308	11	introduction	1	one 261, One 28, ones 19
+patient	227	10	introduction	1	patient 132, patients 92, Patient 3
+hospital	157	12	introduction	1	hospital 80, hospitals 56, Hospital 19
+people	136	11	introduction	1	people 126, People 10
+team	136	10	introduction	1	team 105, teams 30, Teams 1
+surgery	118	10	introduction	1	surgery 106, Surgery 12
+time	112	10	introduction	1	time 98, times 14
+checklists	94	7	ch02	1	checklists 90, Checklists 4
+room	94	11	introduction	1	room 73, rooms 20, Room 1
+problem	90	10	introduction	1	problems 61, problem 28, Problem 1
+right	90	11	introduction	1	right 89, Right 1
+surgeon	88	9	introduction	1	surgeon 49, surgeons 38, Surgeons 1
+year	87	11	introduction	1	year 44, years 43
+line	86	10	introduction	1	line 43, lines 40, Line 2
+day	83	10	introduction	1	day 53, days 29, Day 1
+building	82	9	introduction	1	building 64, buildings 17, Building 1
+care	79	9	introduction	1	care 79
+way	79	11	introduction	1	way 62, ways 17
+nurse	78	8	introduction	1	nurses 43, nurse 33, Nurses 2
+operation	78	8	introduction	1	operation 39, operations 38, Operations 1
+first	76	11	introduction	1	first 57, First 13, FIRST 6
+pilot	75	5	ch02	1	pilots 40, pilot 31, Pilots 3
+blood	74	6	introduction	1	blood 74
+flight	73	5	ch02	1	flight 60, Flight 5, flights 5
+new	73	10	ch01	1	new 45, New 28
+check	72	10	introduction	1	check 38, checks 33, Check 1
+three	72	11	ch01	1	three 69, Three 3
+work	71	11	introduction	1	work 71
+operating	70	9	introduction	1	operating 68, Operating 2
+percent	66	10	introduction	1	percent 66
+step	64	10	introduction	1	steps 39, step 24, Steps 1
+well	63	11	introduction	1	well 57, Well 6
+case	62	10	introduction	1	case 44, cases 18
+result	62	9	introduction	1	results 42, result 20
+thing	61	10	introduction	1	thing 33, things 26, Things 2
+operating room	60	9	introduction	2	operating room 40, operating rooms 19, Operating Room 1
+plane	59	4	ch02	1	plane 55, planes 4
+failure	55	10	introduction	1	failure 28, failures 26, Failures 1
+heart	54	8	introduction	1	heart 50, hearts 4
+engine	53	3	ch02	1	engine 27, engines 26
+medicine	53	9	introduction	1	medicine 46, Medicine 6, medicines 1
+take	53	11	introduction	1	take 47, Take 6
+world	53	12	introduction	1	world 47, World 6
+staff	52	6	ch02	1	staff 52
+got	51	11	introduction	1	got 50, Got 1
+control	49	11	introduction	1	control 32, controls 16, Control 1
+infection	49	8	ch01	1	infections 24, infection 22, Infections 2
+doctor	45	7	introduction	1	doctors 34, doctor 10, Doctors 1
+example	44	9	introduction	1	example 41, examples 3
+kind	44	10	introduction	1	kind 27, kinds 17
+medical	44	11	introduction	1	medical 38, Medical 6
+system	44	8	ch01	1	system 26, systems 17, Systems 1
+good	43	9	introduction	1	good 40, Good 3
+oxygen	43	8	introduction	1	oxygen 42, Oxygen 1
+pressure	43	9	introduction	1	pressure 38, pressures 4, Pressure 1
+back	42	9	introduction	1	back 38, Back 2, backs 2
+didn’t	42	11	introduction	1	didn’t 42
+need	42	9	introduction	1	need 32, needs 10
+procedure	42	7	introduction	1	procedure 21, procedures 21
+study	42	10	introduction	1	study 31, studies 9, Studies 2
+anesthesiologist	41	7	introduction	1	anesthesiologist 27, anesthesiologists 14
+health	41	7	ch01	1	health 28, Health 13
+lines	41	10	introduction	1	lines 40, Lines 1
+complex	40	8	ch01	1	complex 39, Complex 1
+idea	40	9	introduction	1	idea 32, ideas 8
+level	40	10	introduction	1	level 23, levels 17
+point	40	9	introduction	1	point 31, points 9
+use	39	8	introduction	1	use 36, Use 2, USE 1
+antibiotic	38	6	ch01	1	antibiotic 22, antibiotics 15, Antibiotics 1
+complexity	38	7	introduction	1	complexity 34, complexities 4
+foot	38	7	introduction	1	feet 25, foot 13
+hand	38	10	introduction	1	hand 21, hands 17
+making	38	9	introduction	1	making 38
+situation	38	7	introduction	1	situation 21, situations 17
+icu	37	6	ch01	1	ICU 23, ICUs 14
+know	37	10	introduction	1	know 36, Know 1
+place	37	9	ch01	1	place 27, places 9, Place 1
+simple	36	8	introduction	1	simple 35, Simple 1
+rate	35	6	introduction	1	rates 18, rate 17
+eight	34	10	ch01	1	eight 33, Eight 1
+hour	34	10	introduction	1	hours 19, hour 15
+left	34	10	introduction	1	left 34
+power	34	9	introduction	1	power 32, Powers 1, powers 1
+water	34	7	ch01	1	water 34
+city	33	9	ch01	1	city 23, cities 6, City 4
+help	33	11	introduction	1	help 32, Help 1
+life	33	11	introduction	1	life 20, lives 11, Lives 2
+minute	33	9	introduction	1	minutes 22, minute 11
+set	33	10	introduction	1	set 31, Set 1, sets 1
+complication	32	7	ch01	1	complications 22, complication 9, Complications 1
+country	32	7	introduction	1	countries 18, country 14
+experience	32	9	introduction	1	experience 29, experiences 3
+field	32	10	introduction	1	field 21, fields 10, Field 1
+floor	32	4	ch01	1	floor 24, floors 8
+fuel	32	3	ch02	1	fuel 32
+member	32	9	introduction	1	members 26, member 6
+month	32	8	ch01	1	months 18, month 14
+story	32	10	introduction	1	story 18, stories 14
+air	31	7	introduction	1	air 24, Air 7
+company	31	6	introduction	1	company 19, companies 11, Company 1
+condition	31	9	introduction	1	conditions 19, condition 11, Conditions 1
+emergency	31	9	introduction	1	emergency 29, Emergency 1, emergencies 1
+error	31	11	introduction	1	errors 17, error 14
+instance	31	10	introduction	1	instance 28, instances 3
+second	31	9	introduction	1	seconds 13, second 12, Second 6
+soap	31	3	ch02	1	soap 31
+state	31	9	introduction	1	States 15, state 12, State 2
+boorman	30	2	ch06	1	Boorman 30
+doing	30	9	introduction	1	doing 29, Doing 1
+door	30	6	ch02	1	door 18, DOOR 6, doors 6
+knowledge	30	7	introduction	1	knowledge 29, Knowledge 1
+man	30	8	introduction	1	man 21, men 7, Man 1
+next	30	8	ch01	1	next 25, Next 5
+risk	30	8	introduction	1	risk 17, risks 12, Risk 1
+construction	29	3	ch03	1	construction 28, CONSTRUCTION 1
+matter	29	8	ch01	1	matter 21, matters 8
+task	29	7	ch01	1	tasks 20, task 9
+ten	29	8	ch01	1	ten 25, tens 4
+body	28	10	introduction	1	body 22, bodies 6
+child	28	9	ch01	1	child 14, children 11, Children 2
+engineer	28	6	introduction	1	engineers 19, engineer 6, ENGINEER 3
+group	28	8	ch01	1	group 25, groups 3
+major	28	9	introduction	1	major 26, Major 2
+best	27	7	introduction	1	best 26, Best 1
+equipment	27	8	introduction	1	equipment 27
+half	27	10	introduction	1	half 26, Half 1
+project	27	8	ch02	1	project 19, projects 7, Project 1
+public	27	7	ch02	1	public 22, Public 5
+anesthesia	26	3	ch05	1	anesthesia 26
+better	26	9	ch01	1	better 25, Better 1
+individual	26	6	introduction	1	individual 21, individuals 5
+mistake	26	8	introduction	1	mistakes 21, mistake 4, Mistakes 1
+part	26	9	introduction	1	part 21, parts 5
+plan	26	10	introduction	1	plans 16, plan 10
+site	26	6	ch02	1	site 18, sites 8
+expert	25	8	introduction	1	experts 13, expert 12
+fire	25	6	ch03	1	fire 14, fires 6, Fire 5
+test	25	7	introduction	1	test 18, tests 4, Tests 2
+try	25	8	introduction	1	try 24, Try 1
+turn	25	6	introduction	1	turn 21, turns 4
+week	25	9	introduction	1	week 15, weeks 10
+boeing	24	5	ch02	1	Boeing 24
+center	24	8	ch01	1	center 13, Center 8, centers 2
+concern	24	8	ch01	1	concerns 18, concern 6
+decision	24	7	introduction	1	decision 13, decisions 11
+investment	24	2	ch05	1	investment 17, investments 6, Investment 1
+number	24	8	ch01	1	number 18, numbers 6
+ready	24	8	introduction	1	ready 23, Ready 1
+thought	24	8	introduction	1	thought 24
+complications	23	7	ch01	1	complications 22, Complications 1
+crew	23	6	ch01	1	crew 22, crews 1
+safe	23	7	introduction	1	safe 17, Safe 6
+approach	22	7	introduction	1	approach 19, approaches 3
+average	22	8	introduction	1	average 22
+brain	22	6	ch01	1	brain 20, brains 2
+chest	22	6	introduction	1	chest 21, chests 1
+confirm	22	7	introduction	1	confirm 19, CONFIRM 3
+death	22	6	introduction	1	death 11, deaths 10, Deaths 1
+end	22	8	introduction	1	end 22
+general	22	8	introduction	1	general 20, General 2
+job	22	7	introduction	1	job 17, jobs 5
+john	22	4	introduction	1	John 22
+process	22	6	ch02	1	process 20, processes 2
+routine	22	9	introduction	1	routine 20, routines 2
+run	22	9	introduction	1	run 18, runs 4
+saw	22	9	ch01	1	saw 22
+sign	22	8	introduction	1	signs 15, sign 7
+airplane	21	6	ch02	1	airplane 11, airplanes 7, AIRPLANE 2
+call	21	10	introduction	1	call 16, calls 5
+captain	21	3	ch06	1	captain 10, CAPTAIN 6, Captain 5
+degree	21	5	ch01	1	degrees 11, degree 10
+difficulty	21	7	introduction	1	difficulties 16, difficulty 5
+incision	21	4	ch01	1	incision 19, Incision 1, incisions 1
+list	21	7	introduction	1	list 17, lists 4
+lung	21	7	introduction	1	lung 11, lungs 10
+practice	21	7	introduction	1	practice 18, practices 3
+research	21	5	ch01	1	research 21
+salvia	21	1	ch03	1	Salvia 21
+start	21	8	introduction	1	start 21
+supply	21	5	ch02	1	supply 13, supplies 8
+united	21	6	ch01	1	United 21
+while	21	9	introduction	1	while 17, While 4
+ability	20	8	introduction	1	ability 16, abilities 4
+aircraft	20	3	ch02	1	aircraft 19, Aircraft 1
+aviation	20	5	ch03	1	aviation 18, Aviation 2
+blood pressure	20	5	introduction	2	blood pressure 20
+book	20	5	ch03	1	book 17, books 2, Books 1
+change	20	7	ch01	1	change 13, changes 7
+disease	20	3	introduction	1	disease 10, diseases 9, Disease 1
+home	20	9	introduction	1	home 17, homes 3
+name	20	9	introduction	1	name 12, names 8
+officer	20	5	ch02	1	officer 7, OFFICER 6, officers 5
+official	20	7	ch02	1	officials 12, official 7, Officials 1
+open	20	7	introduction	1	open 19, OPEN 1
+passenger	20	3	ch05	1	passengers 16, Passengers 2, passenger 2
+bleeding	19	6	introduction	1	bleeding 19
+fact	19	8	introduction	1	fact 18, facts 1
+food	19	3	introduction	1	food 18, Food 1
+medication	19	7	introduction	1	medications 11, medication 8
+operate room	19	4	ch03	2	operating rooms 19
+pabrai	19	1	ch08	1	Pabrai 19
+person	19	7	ch02	1	person 19
+pronovost	19	2	ch02	1	Pronovost 19
+question	19	6	introduction	1	question 16, questions 3
+reason	19	8	introduction	1	reason 16, reasons 3
+resident	19	7	introduction	1	resident 10, residents 9
+safety	19	6	ch03	1	safety 14, Safety 5
+size	19	7	introduction	1	size 19
+steel	19	2	ch03	1	steel 18, Steel 1
+success	19	9	introduction	1	success 14, successes 3, Success 2
+sullenberger	19	1	ch08	1	Sullenberger 19
+training	19	6	introduction	1	training 18, Training 1
+handle	18	6	ch01	1	handle 18
+inside	18	7	introduction	1	inside 17, insides 1
+intensive care	18	4	ch01	2	intensive care 17, Intensive care 1
+issue	18	8	ch02	1	issue 9, issues 9
+public health	18	5	ch02	2	public health 14, Public Health 4
+solution	18	7	introduction	1	solution 11, solutions 7
+surgery checklist	18	6	ch05	2	surgery checklist 16, Surgery Checklist 2
+systems	18	7	ch01	1	systems 17, Systems 1
+third	18	9	introduction	1	third 15, thirds 2, Third 1
+wall	18	6	ch01	1	wall 12, walls 6
+whole	18	8	introduction	1	whole 18
+builder	17	4	ch03	1	builders 10, Builders 4, Builder 3
+central line	17	4	ch01	2	central line 13, central lines 4
+data	17	5	ch02	1	data 16, Data 1
+datum	17	5	ch02	1	data 16, Data 1
+difference	17	6	ch02	1	difference 15, differences 2
+finding	17	7	ch01	1	finding 7, findings 7, Finding 3
+government	17	5	introduction	1	government 15, Government 2
+investor	17	1	ch08	1	investors 13, investor 4
+light	17	4	ch01	1	light 13, lights 4
+machine	17	5	introduction	1	machine 13, machines 3, Machines 1
+pain	17	8	introduction	1	pain 17
+possibility	17	8	introduction	1	possibility 11, possibilities 6
+record	17	8	introduction	1	records 9, record 8
+short	17	8	introduction	1	short 17
+skyscraper	17	7	introduction	1	skyscraper 13, skyscrapers 4
+states	17	7	introduction	1	States 15, states 2
+unit	17	6	ch01	1	unit 9, units 8
+ventilator	17	3	ch01	1	ventilator 17
+word	17	9	introduction	1	words 11, word 6
+working	17	7	ch02	1	working 17
+american	16	7	introduction	1	American 16
+boston	16	7	ch01	1	Boston 16
+business	16	7	introduction	1	business 15, businesses 1
+cargo	16	1	ch06	1	cargo 10, CARGO 6
+chance	16	9	introduction	1	chance 13, chances 3
+colleague	16	7	introduction	1	colleagues 14, colleague 2
+communication	16	4	ch03	1	communication 14, communications 2
+crash	16	6	introduction	1	crash 12, crashes 3, Crash 1
+discipline	16	4	ch02	1	discipline 14, Discipline 2
+girl	16	3	ch01	1	girl 15, girls 1
+great	16	6	introduction	1	great 14, Great 2
+item	16	6	ch03	1	items 10, item 6
+order	16	6	ch01	1	order 14, orders 2
+program	16	8	ch01	1	program 9, programs 7
+side	16	8	introduction	1	side 14, Side 1, sides 1
+teamwork	16	3	ch05	1	teamwork 15, Teamwork 1
+thinking	16	7	introduction	1	thinking 12, Thinking 4
+thousand	16	7	ch01	1	thousands 16
+tube	16	6	introduction	1	tube 12, tubes 4
+bed	15	7	introduction	1	bed 13, beds 2
+cause	15	8	introduction	1	cause 8, causes 7
+chef	15	2	ch04	1	chef 10, chefs 3, Chef 1
+clinician	15	8	introduction	1	clinicians 13, Clinicians 1, clinician 1
+decade	15	8	introduction	1	decades 9, decade 6
+elevator	15	5	ch01	1	elevator 13, elevators 2
+flow	15	5	ch01	1	flow 15
+head	15	9	introduction	1	head 11, heads 4
+information	15	6	ch03	1	information 15
+look	15	7	introduction	1	look 15
+money	15	5	introduction	1	money 15
+office	15	4	ch01	1	office 12, offices 3
+potassium	15	5	introduction	1	potassium 15
+read	15	6	introduction	1	read 11, READ 4
+recipe	15	3	ch03	1	recipe 11, recipes 3, RECIPES 1
+report	15	7	ch01	1	report 10, reports 5
+researcher	15	3	ch02	1	researchers 13, researcher 2
+school	15	9	introduction	1	school 9, School 5, schools 1
+skin	15	6	introduction	1	skin 15
+store	15	3	ch02	1	store 9, stores 6
+united states	15	6	ch01	2	United States 15
+worker	15	4	ch02	1	workers 9, worker 6
+adams	14	1	ch04	1	Adams 14
+airline	14	2	ch06	1	Airline 6, airlines 4, Airlines 3
+attack	14	5	introduction	1	attack 9, attacks 5
+builders	14	4	ch03	1	builders 10, Builders 4
+cancer	14	6	introduction	1	cancer 11, cancers 3
+catch	14	6	ch01	1	catch 12, catches 2
+cockpit	14	2	ch06	1	cockpit 14
+course	14	7	ch01	1	course 14
+drug	14	7	introduction	1	drug 7, drugs 7
+effect	14	5	ch03	1	effect 12, effects 2
+expertise	14	9	introduction	1	expertise 12, Expertise 2
+flying	14	5	introduction	1	flying 14
+front	14	7	introduction	1	front 14
+harm	14	5	ch01	1	harm 14
+heart attack	14	5	introduction	2	heart attack 9, heart attacks 5
+hit	14	7	introduction	1	hit 14
+improvement	14	6	ch01	1	improvement 8, improvements 4, Improvement 2
+investigator	14	4	ch05	1	investigators 13, Investigators 1
+key	14	6	ch02	1	key 13, keys 1
+lot	14	7	ch01	1	lot 13, lots 1
+page	14	7	ch02	1	page 9, pages 4, Pages 1
+physician	14	5	introduction	1	physicians 8, physician 5, Physician 1
+rescue	14	4	ch01	1	rescue 12, Rescue 1, rescues 1
+safe surgery	14	5	ch05	2	safe surgery 8, Safe Surgery 6
+schedule	14	3	ch03	1	schedule 14
+standard	14	6	ch02	1	standard 8, standards 6
+stuff	14	6	ch02	1	stuff 13, Stuff 1
+table	14	4	ch03	1	table 12, tables 2
+takeoff	14	5	ch02	1	takeoff 12, Takeoff 2
+temperature	14	3	ch01	1	temperature 13, temperatures 1
+tower	14	3	ch03	1	tower 12, towers 2
+wing	14	5	ch02	1	wing 10, wings 4
+wound	14	7	introduction	1	wound 9, wounds 5
+breathing	13	6	introduction	1	breathing 13
+children	13	6	ch05	1	children 11, Children 2
+cook	13	2	ch04	1	Cook 8, cook 4, cooks 1
+effort	13	6	introduction	1	effort 10, efforts 3
+engineering	13	3	ch03	1	engineering 13
+family	13	9	introduction	1	family 9, families 3, Families 1
+hold	13	6	ch01	1	hold 13
+hopkins	13	2	ch02	1	Hopkins 13
+landing	13	3	ch02	1	landing 13
+moment	13	7	ch01	1	moment 12, moments 1
+o’sullivan	13	2	ch03	1	O’Sullivan 13
+runway	13	4	ch02	1	runway 12, Runway 1
+skile	13	1	ch08	1	Skiles 13
+skiles	13	1	ch08	1	Skiles 13
+specialist	13	5	ch01	1	specialists 8, specialist 4, Specialists 1
+testing	13	9	introduction	1	testing 13
+top	13	7	introduction	1	top 13
+university	13	5	ch03	1	University 13
+woman	13	7	ch01	1	woman 5, women 5, Women 3
+car	12	4	ch02	1	car 8, cars 4
+computer	12	4	ch01	1	computer 8, computers 3, Computers 1
+concrete	12	3	ch03	1	concrete 11, concretes 1
+cost	12	4	ch02	1	costs 8, cost 4
+design	12	5	introduction	1	design 10, designs 2
+disaster	12	7	introduction	1	disaster 10, disasters 2
+dozen	12	8	introduction	1	dozen 8, dozens 4
+fly	12	3	ch02	1	fly 10, FLY 2
+inch	12	5	introduction	1	inch 9, inches 3
+london	12	3	ch05	1	London 12
+mart	12	1	ch04	1	Mart 12
+national	12	6	ch01	1	National 7, national 5
+quarter	12	6	ch02	1	quarter 9, quarters 3
+range	12	6	ch01	1	range 12
+responsibility	12	5	ch01	1	responsibility 10, responsibilities 2
+treatment	12	6	introduction	1	treatment 10, treatments 2
+trouble	12	8	ch01	1	trouble 10, troubles 2
+type	12	7	introduction	1	type 8, types 4
+wal	12	1	ch04	1	Wal 12
+wal - mart	12	1	ch04	3	Wal-Mart 12
+century	11	7	introduction	1	century 11
+close	11	8	introduction	1	close 10, Close 1
+conference	11	7	ch02	1	conference 10, conferences 1
+daily	11	8	ch01	1	daily 10, Daily 1
+director	11	5	ch02	1	director 11
+fluid	11	5	introduction	1	fluids 7, fluid 4
+focus	11	5	ch03	1	focus 11
+johns	11	2	ch02	1	Johns 11
+johns hopkins	11	2	ch02	2	Johns Hopkins 11
+loss	11	6	introduction	1	loss 10, losses 1
+management	11	4	ch04	1	management 10, Management 1
+middle	11	7	introduction	1	middle 9, Middle 2
+mile	11	5	ch02	1	miles 7, mile 3, Mile 1
+model	11	5	ch01	1	model 6, Model 5
+monitor	11	5	introduction	1	monitor 9, monitors 2
+organization	11	6	ch01	1	organization 5, Organization 4, organizations 2
+paper	11	6	ch02	1	paper 10, papers 1
+pulse	11	6	introduction	1	pulse 11
+science	11	7	introduction	1	science 11
+screen	11	4	introduction	1	screen 9, screens 2
+skill	11	6	introduction	1	skill 7, skills 4
+source	11	6	introduction	1	source 7, sources 4
+staff member	11	3	ch04	2	staff members 10, staff member 1
+structure	11	3	ch03	1	structure 7, structures 4
+technology	11	4	introduction	1	technology 7, technologies 4
+theory	11	4	ch03	1	theory 11
+accident	10	4	ch01	1	accident 8, Accidents 1, accidents 1
+airport	10	3	ch05	1	airport 9, Airport 1
+army	10	2	ch02	1	army 9, Army 1
+authority	10	4	introduction	1	authorities 7, authority 3
+cargo door	10	1	ch06	2	cargo door 9, cargo doors 1
+circulating	10	3	ch05	1	circulating 10
+code	10	5	introduction	1	codes 5, code 3, Code 2
+column	10	3	introduction	1	columns 7, column 3
+damage	10	5	introduction	1	damage 10
+danger	10	7	introduction	1	danger 6, dangers 4
+drape	10	4	introduction	1	drapes 8, drape 2
+evidence	10	6	ch02	1	evidence 10
+form	10	8	ch01	1	form 8, forms 2
+function	10	7	introduction	1	function 8, functions 2
+ground	10	4	ch03	1	ground 10
+harvard	10	6	ch01	1	Harvard 10
+hundred	10	5	ch02	1	hundreds 10
+injury	10	6	introduction	1	injury 8, injuries 2
+instrument	10	5	ch02	1	instruments 8, instrument 2
+kidney	10	4	ch01	1	kidney 6, kidneys 4
+leg	10	6	ch01	1	legs 8, leg 2
+line infection	10	2	ch01	2	line infections 6, Line infections 2, line infection 2
+manager	10	4	ch02	1	managers 7, manager 3
+master	10	2	ch03	1	Master 8, master 1, masters 1
+measure	10	4	ch02	1	measure 6, measures 4
+meeting	10	5	ch02	1	meeting 8, meetings 2
+metal	10	5	introduction	1	metal 10
+pause	10	5	ch05	1	pause 10
+pull	10	4	ch01	1	pull 5, Pull 4, PULL 1
+review	10	6	introduction	1	review 10
+safe surgery checklist	10	3	ch05	3	safe surgery checklist 8, Safe Surgery Checklist 2
+show	10	5	ch01	1	show 8, shows 2
+smart	10	2	ch08	1	Smart 9, smart 1
+wind	10	3	ch03	1	wind 9, winds 1
+allergy	9	5	introduction	1	allergies 8, allergy 1
+anesthetist	9	3	ch05	1	anesthetists 8, anesthetist 1
+article	9	7	ch01	1	article 6, articles 3
+assistant	9	6	ch03	1	assistant 8, assistants 1
+attention	9	6	ch02	1	attention 8, Attention 1
+board	9	4	ch03	1	board 6, Board 2, boards 1
+box	9	4	ch02	1	box 5, boxes 4
+brown	9	3	ch04	1	brown 6, Brown 3
+cabin	9	2	ch06	1	cabin 9
+cava	9	2	ch01	1	cava 9
+chief	9	6	ch01	1	chief 9
+circulating nurse	9	3	ch05	2	circulating nurse 8, circulating nurses 1
+circumstance	9	4	ch03	1	circumstances 6, circumstance 3
+clot	9	5	introduction	1	clot 5, clots 4
+colon	9	2	ch01	1	colon 9
+couple	9	6	introduction	1	couple 9
+deal	9	3	introduction	1	deal 7, deals 2
+detail	9	5	ch01	1	details 6, detail 2, Detail 1
+dollar	9	4	ch02	1	dollars 7, dollar 2
+executive	9	4	ch02	1	executive 6, executives 3
+fund	9	2	ch05	1	fund 7, Funds 1, funds 1
+hope	9	5	introduction	1	hope 4, hopes 3, HOPE 2
+income	9	3	ch02	1	income 9
+increase	9	5	introduction	1	increase 9
+instruction	9	4	ch01	1	instructions 9
+judgment	9	4	introduction	1	judgment 8, judgments 1
+kitchen	9	2	ch04	1	kitchen 8, Kitchen 1
+leader	9	3	ch06	1	leaders 7, leader 2
+liver	9	4	ch01	1	liver 9
+memory	9	3	ch02	1	memory 9
+night	9	6	introduction	1	night 9
+outside	9	6	introduction	1	outside 9
+oxygen level	9	4	ch01	2	oxygen levels 9
+period	9	6	ch02	1	period 9
+personnel	9	7	ch01	1	personnel 8, PERSONNEL 1
+piece	9	3	ch02	1	piece 9
+release	9	5	introduction	1	release 9
+role	9	5	introduction	1	role 7, roles 2
+roof	9	2	ch03	1	roof 8, roofs 1
+rouillard	9	1	ch03	1	Rouillard 9
+save	9	6	introduction	1	save 5, Saves 2, saves 2
+st.	9	2	ch03	1	St. 9
+statement	9	1	ch08	1	statements 6, statement 3
+strategy	9	5	introduction	1	strategy 8, strategies 1
+support	9	6	ch01	1	support 9
+team member	9	4	introduction	2	team members 9
+vena	9	2	ch01	1	vena 9
+vena cava	9	2	ch01	2	vena cava 9
+visit	9	6	ch02	1	visit 7, visits 2
+volume	9	7	introduction	1	volume 9
+warning	9	3	ch03	1	warning 8, WARNING 1
+york	9	2	ch03	1	York 9
+abdoman	8	4	introduction	1	abdomen 8
+abdomen	8	4	introduction	1	abdomen 8
+airways	8	2	ch06	1	Airways 8
+answer	8	5	introduction	1	answer 8
+area	8	6	ch03	1	area 5, areas 3
+benefit	8	4	introduction	1	benefits 5, benefit 3
+bowel	8	4	introduction	1	bowel 8
+circulate nurse	8	3	ch05	2	circulating nurse 8
+copilot	8	2	ch06	1	copilot 7, copilots 1
+defilippo	8	2	ch01	1	DeFilippo 8
+diagnosis	8	5	introduction	1	diagnoses 5, diagnosis 3
+dish	8	1	ch04	1	dish 5, dishes 3
+e - mail	8	2	ch03	3	e-mail 7, e-mails 1
+expectation	8	4	ch04	1	expectation 6, expectations 2
+eye	8	6	introduction	1	eyes 6, eye 2
+face	8	4	introduction	1	face 7, Face 1
+fall	8	4	ch02	1	fall 8
+fever	8	2	ch01	1	fever 4, fevers 4
+firm	8	2	ch03	1	firm 8
+first officer	8	2	ch06	2	FIRST OFFICER 6, First Officer 2
+force	8	6	ch03	1	force 5, Force 1, Forces 1
+hagerman	8	1	ch09	1	Hagerman 8
+investigation	8	4	ch02	1	investigation 5, Investigation 2, investigations 1
+jet	8	2	ch06	1	Jet 4, jet 4
+lead	8	5	introduction	1	lead 8
+lesson	8	5	ch03	1	lesson 5, lessons 3
+lobster	8	1	ch04	1	lobster 8
+mail	8	2	ch03	1	mail 7, mails 1
+mean	8	4	introduction	1	means 8
+mr.	8	1	ch09	1	Mr. 8
+mr. hagerman	8	1	ch09	2	Mr. Hagerman 8
+neighborhood	8	2	ch05	1	neighborhoods 6, neighborhood 2
+no .	8	5	introduction	2	No. 7, no. 1
+opportunity	8	4	ch05	1	opportunity 7, opportunities 1
+other word	8	7	introduction	2	other words 8
+party	8	4	introduction	1	party 4, Party 2, parties 2
+pattern	8	4	introduction	1	patterns 5, pattern 3
+pneumonia	8	7	introduction	1	pneumonia 6, pneumonias 2
+preparation	8	4	ch01	1	preparation 4, preparations 3, Preparation 1
+profession	8	6	introduction	1	profession 5, professions 3
+radio	8	3	ch03	1	radio 7, RADIO 1
+red	8	6	introduction	1	red 5, Red 3
+seat	8	4	ch03	1	seat 6, seats 2
+seattle	8	3	ch02	1	Seattle 8
+sense	8	6	ch03	1	sense 8
+share	8	5	ch03	1	share 5, shares 3
+technique	8	5	introduction	1	technique 5, techniques 3
+today	8	5	introduction	1	today 7, Today 1
+trauma	8	3	introduction	1	trauma 8
+tumor	8	3	introduction	1	tumor 6, Tumors 1, tumors 1
+women	8	4	ch03	1	women 5, Women 3
+airlines	7	1	ch06	1	airlines 4, Airlines 3
+altitude	7	1	ch06	1	altitude 7
+amount	7	5	introduction	1	amount 5, amounts 2
+anesthetic	7	3	ch01	1	anesthetic 7
+arrest	7	5	introduction	1	arrest 7
+artery	7	3	introduction	1	artery 6, arteries 1
+aspect	7	4	ch03	1	aspect 4, aspects 3
+bank	7	3	introduction	1	bank 6, banks 1
+briefing	7	4	ch05	1	briefing 7
+buffett	7	1	ch08	1	Buffett 7
+bypass	7	4	introduction	1	bypass 7
+catheter	7	4	introduction	1	catheter 5, catheters 2
+corner	7	5	ch02	1	corners 5, corner 2
+cort	7	1	ch08	1	Cort 7
+critical care	7	2	ch01	2	critical care 6, Critical care 1
+david	7	3	ch04	1	David 7
+department	7	5	ch01	1	department 6, Department 1
+different kind	7	5	ch01	2	different kinds 5, different kind 2
+discovery	7	3	ch01	1	discovery 4, discoveries 3
+entrepreneur	7	1	ch08	1	entrepreneurs 4, entrepreneur 3
+facility	7	3	ch01	1	facilities 5, facility 2
+fat	7	2	introduction	1	fat 7
+glove	7	3	ch02	1	gloves 4, glove 3
+grace	7	1	ch02	1	Grace 7
+guy	7	3	introduction	1	guys 3, guy 2, Guy 1
+held	7	6	ch01	1	held 6, Held 1
+hole	7	4	ch01	1	hole 5, holes 2
+honolulu	7	1	ch06	1	Honolulu 7
+ice	7	3	ch04	1	ice 7
+impact	7	5	ch02	1	impact 7
+india	7	3	ch05	1	India 7
+industry	7	4	ch03	1	industry 7
+infection rate	7	2	ch02	2	infection rates 4, infection rate 3
+international	7	6	ch01	1	international 4, International 3
+joint	7	3	ch03	1	joints 4, joint 2, Joint 1
+lack	7	5	introduction	1	lack 6, Lack 1
+likelihood	7	5	introduction	1	likelihood 7
+luby	7	1	ch05	1	Luby 7
+mask	7	5	ch01	1	mask 5, masks 2
+mouth	7	5	introduction	1	mouth 5, mouths 2
+new york	7	2	ch03	2	New York 7
+opposite	7	3	ch03	1	opposite 7
+owner	7	3	ch03	1	owners 4, owner 3
+pause point	7	4	ch05	2	pause points 5, pause point 2
+prospect	7	1	ch08	1	prospect 5, prospects 2
+protocol	7	4	ch03	1	protocol 4, protocols 3
+reach	7	5	introduction	1	reach 7
+repair	7	4	ch01	1	repair 5, repairs 2
+requirement	7	4	ch01	1	requirements 7
+rest	7	5	introduction	1	rest 7
+return	7	4	ch05	1	return 7
+road	7	4	ch01	1	road 5, Road 1, roads 1
+rule	7	5	introduction	1	rule 6, rules 1
+sheet	7	5	ch01	1	sheet 4, sheets 3
+simulator	7	3	ch06	1	simulators 4, simulator 3
+sinai	7	1	ch02	1	Sinai 7
+sinai - grace	7	1	ch02	3	Sinai-Grace 7
+sleep	7	5	introduction	1	sleep 7
+structural engineer	7	1	ch03	2	structural engineers 4, structural engineer 3
+style	7	4	ch04	1	style 5, styles 2
+surgical care	7	2	ch05	2	surgical care 7
+survival	7	4	introduction	1	survival 7
+term	7	5	introduction	1	term 5, terms 2
+toronto	7	3	ch03	1	Toronto 7
+total	7	6	introduction	1	total 6, totals 1
+trade	7	1	ch03	1	trades 5, Trade 1, trade 1
+victim	7	4	introduction	1	victims 6, victim 1
+vital sign	7	2	ch02	2	vital signs 6, vital sign 1
+walk	7	6	ch01	1	walk 7
+warning light	7	1	ch06	2	warning light 5, warning lights 2
+washing	7	1	ch05	1	washing 7
+washington	7	3	ch06	1	Washington 7
+weight	7	2	ch03	1	weight 7
+window	7	5	ch02	1	windows 4, window 3
+yellow	7	5	introduction	1	yellow 6, Yellow 1
+zhi	7	1	ch05	1	Zhi 7
+afternoon	6	4	ch04	1	afternoon 6
+agent	6	3	ch04	1	agent 6
+airway	6	2	introduction	1	airway 6
+airways flight	6	2	ch06	2	Airways Flight 4, Airways flight 2
+alex	6	2	ch07	1	Alex 6
+art	6	4	ch01	1	art 4, Art 2
+backup	6	5	ch02	1	backup 5, backups 1
+beam	6	1	ch03	1	beam 4, beams 2
+beginning	6	4	ch01	1	beginning 6
+bird	6	1	ch08	1	birds 4, bird 2
+block	6	2	ch03	1	block 6
+blood bank	6	3	introduction	2	blood bank 6
+blood loss	6	4	introduction	2	blood loss 6
+blue	6	4	introduction	1	Blue 4, blue 2
+cardiac arrest	6	5	introduction	2	cardiac arrest 6
+chart	6	2	ch02	1	charts 3, chart 2, Charts 1
+college	6	3	ch01	1	college 6
+component	6	3	ch03	1	components 4, component 2
+consequence	6	4	ch04	1	consequence 3, consequences 3
+contractor	6	1	ch03	1	contractors 4, contractor 2
+core	6	2	ch01	1	core 6
+cross	6	6	introduction	1	Cross 4, cross 2
+door fwd	6	1	ch06	2	DOOR FWD 6
+door fwd cargo	6	1	ch06	3	DOOR FWD CARGO 6
+drop	6	4	ch01	1	drop 5, drops 1
+ear	6	4	ch01	1	ear 5, ears 1
+east	6	3	ch03	1	East 6
+employee	6	2	ch04	1	employees 5, Employee 1
+engine failure	6	2	ch06	2	engine failure 6
+explanation	6	3	ch03	1	explanation 5, explanations 1
+flap	6	3	ch02	1	flaps 4, Flaps 2
+fuel flow	6	1	ch06	2	fuel flow 6
+fwd	6	1	ch06	1	FWD 6
+fwd cargo	6	1	ch06	2	FWD CARGO 6
+geneva	6	1	ch05	1	Geneva 6
+gland	6	2	ch01	1	gland 5, glands 1
+goal	6	3	ch04	1	goal 3, goals 3
+good checklist	6	2	ch06	2	Good checklists 3, good checklists 2, good checklist 1
+hero	6	1	ch08	1	hero 5, Hero 1
+history	6	3	introduction	1	history 6
+income country	6	1	ch07	2	income countries 6
+intestine	6	3	introduction	1	intestines 4, intestine 2
+jordan	6	2	ch07	1	Jordan 6
+journal	6	5	ch01	1	journal 4, Journal 2
+killer	6	3	ch05	1	killer 3, killers 3
+knife	6	4	introduction	1	knife 5, knives 1
+location	6	3	ch03	1	location 3, locations 3
+market	6	2	ch04	1	market 4, markets 2
+mass	6	4	introduction	1	mass 6
+michigan	6	1	ch02	1	Michigan 6
+mix	6	5	ch02	1	mix 6
+mother	6	4	ch01	1	mother 5, mothers 1
+new orleans	6	1	ch04	2	New Orleans 6
+none	6	5	introduction	1	None 4, none 2
+organ	6	1	ch01	1	organ 4, organs 2
+orleans	6	1	ch04	1	Orleans 6
+overdose	6	5	introduction	1	overdose 5, overdoses 1
+panel	6	4	introduction	1	panel 5, panels 1
+partner	6	3	ch03	1	partner 4, partners 2
+performance	6	3	ch02	1	performance 6
+plumbing	6	1	ch03	1	plumbing 6
+population	6	4	ch02	1	population 5, populations 1
+professional	6	4	ch01	1	professionals 6
+professor	6	4	introduction	1	professors 4, professor 2
+pump	6	3	ch01	1	pump 6
+racing	6	5	introduction	1	racing 6
+reality	6	4	introduction	1	reality 6
+research team	6	2	ch05	2	research team 6
+restaurant	6	2	ch04	1	restaurant 3, restaurants 3
+rise	6	3	ch03	1	rise 6
+rocket	6	1	ch03	1	rocket 4, rockets 2
+scale	6	3	ch02	1	scale 6
+section	6	5	ch03	1	section 3, sections 3
+service	6	3	ch01	1	service 3, services 2, Service 1
+setting	6	3	ch05	1	settings 6
+sort	6	4	ch01	1	sort 6
+speed	6	3	ch02	1	speed 6
+spread	6	5	introduction	1	spread 6
+stay	6	6	ch01	1	stay 6
+stomach	6	4	introduction	1	stomach 6
+stroke	6	4	introduction	1	stroke 3, strokes 3
+student	6	4	ch03	1	student 4, students 2
+surgical team	6	4	introduction	2	surgical team 4, Surgical teams 1, surgical teams 1
+textbook	6	4	introduction	1	textbook 4, textbooks 2
+trust	6	3	ch03	1	trust 6
+tubing	6	1	ch01	1	tubing 6
+uncertainty	6	4	ch03	1	uncertainty 6
+value	6	3	ch03	1	value 5, values 1
+vessel	6	5	introduction	1	vessels 4, vessel 2
+wait	6	5	introduction	1	wait 4, Wait 2
+waiting	6	5	introduction	1	waiting 6
+wheel	6	3	ch01	1	wheel 3, wheels 3
+wife	6	5	ch05	1	wife 6
+administration	5	3	ch02	1	administration 4, Administration 1
+alarm	5	4	ch01	1	alarm 3, alarms 2
+aviation checklist	5	2	ch03	2	aviation checklist 2, aviation checklists 2, Aviation checklists 1
+before incision	5	2	ch07	2	before incision 4, Before Incision 1
+bile	5	1	ch01	1	bile 5
+biopsy	5	4	ch01	1	biopsy 3, biopsies 2
+blood clot	5	4	introduction	2	blood clots 4, blood clot 1
+bottom	5	5	introduction	1	bottom 5
+brake	5	3	ch02	1	brakes 3, brake 2
+british	5	2	ch05	1	British 5
+broad	5	4	ch01	1	broad 4, Broad 1
+calculation	5	3	ch03	1	calculations 4, calculation 1
+california	5	2	ch05	1	California 5
+campaign	5	4	ch02	1	campaign 5
+capability	5	4	introduction	1	capabilities 3, capability 2
+capitalist	5	1	ch08	1	capitalists 5
+care unit	5	2	ch01	2	care unit 3, care units 2
+chairman	5	3	ch05	1	chairman 5
+choice	5	3	introduction	1	choices 3, choice 2
+clinic	5	2	ch01	1	clinic 4, clinics 1
+cocaine	5	1	ch08	1	cocaine 5
+cold	5	3	ch05	1	cold 5
+complication rate	5	2	ch05	2	complication rates 5
+conference room	5	4	ch03	2	conference room 5
+construction schedule	5	2	ch03	2	construction schedule 5
+corn	5	1	ch04	1	corn 4, Corn 1
+crystal	5	1	ch06	1	crystals 5
+culture	5	1	ch08	1	culture 5
+date	5	4	introduction	1	date 4, dates 1
+debris	5	2	ch01	1	debris 4, Debris 1
+device	5	3	ch05	1	devices 3, device 2
+discussion	5	4	ch03	1	discussion 4, discussions 1
+draw	5	4	introduction	1	draw 5
+duct	5	2	ch01	1	duct 4, ducts 1
+edge	5	4	ch02	1	edge 5
+elevator control	5	4	ch02	2	elevator controls 5
+factor	5	2	ch03	1	factors 3, factor 2
+father	5	4	ch01	1	father 5
+finish	5	2	introduction	1	finish 5
+flaw	5	2	ch03	1	flaw 3, flaws 2
+formula	5	4	ch01	1	formula 4, formulas 1
+fourth	5	4	ch02	1	fourth 4, fourths 1
+gate	5	2	ch06	1	gate 4, gates 1
+gear	5	3	ch02	1	gear 5
+geese	5	1	ch08	1	geese 5
+general surgery	5	4	ch01	2	general surgery 5
+glide	5	2	ch06	1	glide 5
+goose	5	1	ch08	1	geese 5
+hair	5	3	ch01	1	hair 5
+health care	5	4	ch01	2	health care 4, Health care 1
+human being	5	4	ch04	2	human beings 4, human being 1
+icu patient	5	3	ch01	2	ICU patients 4, ICU patient 1
+ignorance	5	1	introduction	1	ignorance 5
+incident	5	2	ch06	1	incident 5
+ineptitude	5	1	introduction	1	ineptitude 5
+inspector	5	1	ch04	1	inspectors 3, Inspectors 1, inspector 1
+intensive care unit	5	2	ch01	3	intensive care unit 3, intensive care units 2
+introduction	5	1	ch07	1	introduction 5
+january	5	5	ch03	1	January 5
+jay	5	2	ch04	1	Jay 5
+katrina	5	2	ch04	1	Katrina 5
+land	5	3	ch02	1	land 5
+luck	5	3	ch05	1	luck 4, Luck 1
+martin	5	3	ch02	1	Martin 5
+mary	5	1	ch07	1	Mary 5
+mcnamara	5	1	ch03	1	McNamara 5
+mechanical ventilator	5	2	ch01	2	mechanical ventilator 5
+medical center	5	3	ch02	2	Medical Center 3, medical center 2
+midst	5	5	introduction	1	midst 5
+million	5	4	ch03	1	millions 5
+minimum	5	4	ch02	1	minimum 5
+munger	5	1	ch08	1	Munger 5
+neck	5	4	ch01	1	neck 5
+new yorker	5	3	ch03	2	New Yorker 5
+new zealand	5	4	ch05	2	New Zealand 5
+news	5	4	ch03	1	news 4, News 1
+next day	5	5	ch01	2	next day 5
+nursing	5	2	ch02	1	nursing 5
+observation	5	4	ch04	1	observation 3, observations 2
+occur	5	4	introduction	1	occurs 5
+pages	5	3	ch02	1	pages 4, Pages 1
+path	5	2	ch06	1	path 5
+penicillin	5	2	ch01	1	penicillin 4, Penicillin 1
+pile	5	4	ch03	1	pile 4, Piles 1
+plastic	5	4	ch01	1	plastic 5
+practitioner	5	4	ch02	1	practitioners 3, Practitioners 1, practitioner 1
+push	5	3	introduction	1	push 5
+recovery	5	3	ch01	1	recovery 4, recoveries 1
+remedy	5	4	introduction	1	remedy 4, remedies 1
+resistance	5	4	ch01	1	resistance 5
+resource	5	2	ch04	1	resources 5
+rialto	5	2	ch04	1	Rialto 5
+rich	5	3	introduction	1	rich 4, Rich 1
+sauce	5	1	ch04	1	sauce 5
+score	5	4	ch01	1	scores 4, score 1
+shopping	5	1	ch03	1	shopping 5
+slip	5	2	ch04	1	slip 5
+snow	5	2	ch03	1	Snow 3, snow 2
+sous chef	5	2	ch04	2	sous chef 4, sous chefs 1
+south	5	3	ch02	1	South 4, south 1
+specialization	5	2	ch01	1	specialization 5
+spinal	5	3	introduction	1	spinal 5
+square	5	3	ch01	1	square 4, Square 1
+st. mary	5	1	ch07	2	St. Mary 5
+stab	5	1	introduction	1	stab 5
+stab wound	5	1	introduction	2	stab wound 4, stab wounds 1
+stage	5	5	ch03	1	stage 5
+structural engineering	5	1	ch03	2	structural engineering 5
+surface	5	4	ch01	1	surface 4, surfaces 1
+switch	5	3	ch01	1	switch 4, switches 1
+technician	5	3	introduction	1	technicians 5
+telephone	5	3	ch02	1	telephone 5
+television	5	3	ch01	1	television 5
+timing	5	5	introduction	1	timing 4, Timing 1
+track	5	3	ch03	1	track 5
+traffic	5	4	ch01	1	traffic 5
+understanding	5	2	introduction	1	understanding 5
+us airways	5	2	ch06	2	US Airways 5
+vein	5	2	ch01	1	vein 4, Veins 1
+venture	5	1	ch08	1	venture 4, Venture 1
+venture capitalist	5	1	ch08	2	venture capitalists 4, Venture capitalists 1
+version	5	4	ch04	1	versions 3, version 2
+voice	5	2	ch06	1	voice 4, VOICE 1
+warren	5	2	ch06	1	Warren 4, warren 1
+william	5	4	ch03	1	William 5
+wiring	5	2	ch03	1	wiring 5
+yorker	5	3	ch03	1	Yorker 5
+zealand	5	4	ch05	1	Zealand 5
+a320	4	1	ch08	1	A320 4
+adjustment	4	3	ch01	1	adjustment 2, adjustments 2
+adrenal gland	4	2	ch01	2	adrenal gland 4
+advance	4	3	ch03	1	advance 4
+age	4	3	ch01	1	age 3, ages 1
+agency	4	3	ch04	1	Agency 2, agencies 1, agency 1
+anesthesia staff	4	1	ch07	2	anesthesia staff 4
+angle	4	3	ch02	1	angle 3, angles 1
+aorta	4	2	introduction	1	aorta 4
+architect	4	1	ch03	1	architect 2, architects 2
+arm	4	2	ch01	1	arm 2, arms 2
+asia	4	2	introduction	1	Asia 4
+asystole	4	1	introduction	1	asystole 3, Asystole 1
+attack patient	4	2	introduction	2	attack patients 3, attack patient 1
+attempt	4	3	ch02	1	attempt 4
+attendant	4	2	ch06	1	attendants 3, attendant 1
+autonomy	4	2	ch03	1	autonomy 4
+bag	4	4	introduction	1	bag 3, bags 1
+bar	4	1	ch05	1	bars 3, bar 1
+behavior	4	3	ch03	1	behavior 4
+belief	4	2	ch05	1	belief 3, beliefs 1
+berwick	4	2	ch08	1	Berwick 4
+blowout	4	1	ch06	1	blowout 4
+body temperature	4	2	ch01	2	body temperature 4
+boeing 777	4	1	ch06	2	Boeing 777 4
+bolt	4	2	ch03	1	bolts 4
+bomber	4	3	ch02	1	bomber 3, bombers 1
+boom	4	1	ch08	1	boom 4
+bowl	4	3	ch03	1	bowl 3, Bowl 1
+breast	4	3	ch01	1	breast 4
+breath	4	4	ch01	1	breath 3, breaths 1
+breathing tube	4	2	ch01	2	breathing tube 4
+cabin pressure	4	1	ch06	2	cabin pressure 4
+capacity	4	4	introduction	1	capacity 4
+career	4	4	ch03	1	career 2, careers 2
+cash	4	2	ch02	1	cash 4
+catastrophe	4	3	ch04	1	catastrophe 4
+cell	4	3	ch01	1	cell 3, cells 1
+central line checklist	4	1	ch02	3	central line checklist 4
+central line infection	4	1	ch02	3	central line infections 3, central line infection 1
+charge	4	3	ch03	1	charge 3, charges 1
+clash	4	1	ch03	1	Clash 2, clash 1, clashes 1
+clock	4	4	ch04	1	clock 4
+cocaine brain	4	1	ch08	2	cocaine brain 4
+collapse	4	3	introduction	1	collapse 3, collapses 1
+command	4	2	ch03	1	command 4
+complex problem	4	2	ch03	2	complex problems 2, Complex problems 1, complex problem 1
+complex situation	4	1	ch04	2	complex situation 2, complex situations 2
+compression	4	3	introduction	1	compressions 3, compression 1
+concentration	4	2	introduction	1	concentration 4
+concept	4	3	ch03	1	concept 4
+consideration	4	4	ch01	1	considerations 3, consideration 1
+cooking	4	1	ch04	1	cooking 4
+count	4	4	ch01	1	count 4
+craft	4	2	ch03	1	craft 4
+crazy	4	3	introduction	1	crazy 3, Crazy 1
+credit	4	4	ch01	1	credit 4
+critic	4	2	ch07	1	Critics 2, critic 1, critics 1
+critical step	4	4	ch03	2	critical steps 3, critical step 1
+ct	4	1	ch01	1	CT 4
+customer	4	1	ch04	1	customer 3, customers 1
+cutting	4	4	ch02	1	cutting 4
+cylinder	4	2	ch03	1	cylinder 2, cylinders 2
+daughter	4	3	ch01	1	daughter 4
+decision making	4	2	ch04	2	decision making 4
+defect	4	3	ch03	1	defects 3, defect 1
+delhi	4	1	ch07	1	Delhi 4
+delivery	4	3	ch03	1	delivery 4
+descent	4	2	ch06	1	descent 4
+designing	4	2	ch03	1	designing 4
+desk	4	4	ch01	1	desk 4
+development	4	3	ch03	1	development 3, developments 1
+dialysis	4	1	ch01	1	dialysis 4
+different way	4	4	ch01	2	different way 2, different ways 2
+display	4	3	ch03	1	display 2, displays 2
+division	4	3	ch03	1	division 3, divisions 1
+dose	4	2	introduction	1	dose 3, doses 1
+draft	4	3	ch06	1	draft 2, drafts 2
+earthquake	4	1	ch03	1	earthquake 4
+ecmo	4	1	ch01	1	ECMO 4
+environment	4	3	ch02	1	environment 4
+equivalent	4	2	ch07	1	equivalent 4
+evacuation	4	2	ch04	1	evacuation 4
+evaluation	4	2	ch02	1	evaluation 3, evaluations 1
+event	4	4	ch02	1	events 3, event 1
+excellence	4	2	ch04	1	excellence 4
+exercise	4	4	introduction	1	exercise 4
+fallibility	4	3	introduction	1	fallibility 3, fallibilities 1
+fear	4	3	introduction	1	fear 3, fears 1
+federal	4	2	ch04	1	Federal 2, federal 2
+fellow	4	4	ch05	1	fellow 2, Fellow 1, fellows 1
+field - worker	4	1	ch05	3	field-workers 4
+fifth	4	3	ch01	1	fifth 4
+finger	4	4	introduction	1	finger 2, fingers 2
+flight attendant	4	2	ch06	2	flight attendants 3, flight attendant 1
+flight control	4	2	ch06	2	flight control 2, flight controls 2
+frame	4	2	ch03	1	frame 4
+freezing	4	1	ch06	1	freezing 4
+fuel line	4	1	ch06	2	fuel lines 4
+furniture	4	1	ch08	1	furniture 3, Furniture 1
+garlic	4	1	ch04	1	garlic 4
+gauge	4	4	ch01	1	gauge 3, gauges 1
+general surgeon	4	3	introduction	2	general surgeon 3, general surgeons 1
+good idea	4	2	ch06	2	good idea 3, best ideas 1
+gown	4	3	ch01	1	gown 4
+grill	4	1	ch04	1	grill 4
+guard	4	3	ch04	1	Guard 2, guard 2
+guideline	4	2	ch05	1	guidelines 3, guideline 1
+hallway	4	4	ch01	1	hallways 3, hallway 1
+handbook	4	1	ch06	1	handbook 2, handbooks 2
+hang	4	4	ch01	1	hang 4
+headquarters	4	3	ch05	1	headquarters 4
+health organization	4	4	ch01	2	Health Organization 4
+heart attack patient	4	2	introduction	3	heart attack patients 3, heart attack patient 1
+hernia	4	3	ch01	1	hernia 3, hernias 1
+high - income country	4	1	ch07	4	high-income countries 4
+hill	4	2	ch02	1	Hill 4
+hudson	4	1	ch08	1	Hudson 4
+hurricane	4	4	introduction	1	Hurricane 3, hurricanes 1
+ideal	4	2	ch06	1	ideal 3, ideals 1
+illness	4	4	introduction	1	illness 2, illnesses 2
+improvise	4	1	ch08	1	improvise 4
+infant	4	4	ch01	1	infants 2, Infants 1, infant 1
+injection	4	3	introduction	1	injections 3, injection 1
+instinct	4	1	ch06	1	instinct 2, instincts 2
+intervention	4	2	ch05	1	interventions 3, intervention 1
+interview	4	2	ch04	1	interviews 3, interview 1
+joaquim	4	1	ch05	1	Joaquim 4
+joe	4	1	ch03	1	Joe 4
+joe salvia	4	1	ch03	2	Joe Salvia 4
+karachi	4	1	ch05	1	Karachi 4
+lab	4	2	introduction	1	lab 3, labs 1
+labor	4	3	ch01	1	labor 4
+laboratory	4	2	introduction	1	laboratory 4
+landing site	4	2	ch06	2	landing site 4
+language	4	3	ch06	1	language 3, languages 1
+latch	4	1	ch06	1	latch 2, latches 2
+lawyer	4	3	introduction	1	lawyers 4
+lemessurier	4	1	ch03	1	LeMessurier 4
+lift	4	3	ch06	1	lift 4
+line checklist	4	1	ch02	2	line checklist 4
+load	4	3	ch04	1	load 2, loads 2
+long time	4	4	ch02	2	long time 4
+lord	4	2	ch07	1	Lord 4
+m&m	4	1	ch04	1	M&M 4
+major complication	4	2	ch01	2	major complications 4
+mall	4	1	ch03	1	mall 4
+managing	4	3	ch01	1	managing 4
+margin	4	3	ch03	1	margin 3, margins 1
+master builders	4	2	ch03	2	Master Builders 4
+medical problem	4	3	introduction	2	medical problems 4
+mind	4	4	introduction	1	mind 4
+monitoring	4	3	introduction	1	monitoring 4
+mountain	4	3	ch01	1	mountain 2, Mountains 1, mountains 1
+much blood	4	2	ch05	2	much blood 4
+nature	4	4	introduction	1	nature 4
+necessity	4	3	ch04	1	necessity 4
+noise	4	2	ch05	1	noise 3, noises 1
+norm	4	3	ch01	1	norm 4
+observer	4	1	ch07	1	observer 2, observers 2
+odd	4	3	ch01	1	odds 4
+oil	4	2	ch02	1	oil 4
+outbreak	4	1	ch05	1	outbreak 3, outbreaks 1
+outcome	4	2	ch03	1	outcomes 3, outcome 1
+patient safety	4	2	ch05	2	Patient Safety 3, patient safety 1
+peter	4	3	ch02	1	Peter 4
+placement	4	2	introduction	1	placement 3, placements 1
+plank	4	1	ch03	1	planks 4
+polar flight	4	1	ch06	2	polar flight 2, polar flights 2
+potassium level	4	1	introduction	2	potassium level 2, potassium levels 2
+preflight	4	3	ch05	1	preflight 4
+press	4	2	ch04	1	press 4
+printout	4	2	ch03	1	printout 2, printouts 2
+progress	4	3	ch01	1	progress 4
+protection	4	2	ch02	1	protection 4
+proving	4	3	introduction	1	proving 4
+quality	4	3	ch04	1	quality 3, qualities 1
+read-do	4	2	ch06	1	READ-DO 4
+reading	4	2	ch06	1	reading 3, readings 1
+receiving	4	3	introduction	1	receiving 3, Receiving 1
+recipes	4	1	ch04	1	recipes 3, RECIPES 1
+recorder	4	2	ch06	1	recorder 3, recorders 1
+reduction	4	3	ch04	1	reduction 4
+refugee	4	3	ch04	1	refugees 3, refugee 1
+response	4	4	ch01	1	response 4
+right time	4	2	ch03	2	right time 4
+roth	4	1	ch04	1	Roth 4
+rudder	4	4	ch02	1	rudder 4
+russia	4	2	ch03	1	Russia 4
+russia wharf	4	2	ch03	2	Russia Wharf 4
+san	4	2	introduction	1	San 3, sans 1
+scan	4	2	ch01	1	scan 2, scans 2
+scene	4	3	ch02	1	scene 4
+scrub	4	2	ch05	1	scrub 4
+second officer	4	1	ch08	2	second officer 4
+self	4	3	ch03	1	self 4
+sequence	4	3	introduction	1	sequence 4
+serious complication	4	4	ch01	2	serious complication 2, serious complications 2
+shift	4	4	ch01	1	shift 4
+shot	4	2	ch02	1	shot 4
+signal	4	3	ch05	1	signals 4
+simple problem	4	1	ch03	2	simple problems 3, Simple problems 1
+skeleton	4	1	ch03	1	skeleton 4
+soil	4	1	ch03	1	soil 4
+space	4	3	ch03	1	space 4
+spec	4	1	ch03	1	specs 4
+specialty	4	3	ch01	1	specialties 2, specialty 2
+spier	4	1	ch08	1	Spier 4
+sponge	4	2	ch07	1	Sponges 2, sponges 2
+spot	4	3	ch07	1	spot 3, Spot 1
+spring	4	3	ch03	1	spring 3, springs 1
+steak	4	1	ch04	1	Steak 2, steak 2
+sterile drape	4	3	introduction	2	sterile drapes 3, sterile drape 1
+stethoscope	4	4	introduction	1	stethoscope 3, stethoscopes 1
+strain	4	3	introduction	1	strain 2, strains 2
+stranger	4	3	ch05	1	strangers 4
+street	4	2	ch03	1	Street 2, street 1, streets 1
+stretch	4	3	ch01	1	stretch 3, stretches 1
+submittal schedule	4	1	ch03	2	submittal schedule 4
+surgery resident	4	3	ch05	2	surgery resident 3, surgery residents 1
+surgical procedure	4	3	ch01	2	surgical procedures 4
+surgical staff	4	2	ch05	2	surgical staff 4
+surprise	4	4	introduction	1	surprise 4
+survey	4	3	ch02	1	survey 3, surveys 1
+tank	4	2	ch06	1	tank 2, tanks 2
+tech	4	3	ch05	1	tech 4
+telling	4	4	introduction	1	telling 4
+test pilot	4	2	ch02	2	test pilots 3, Test pilots 1
+therapy	4	2	introduction	1	therapies 2, therapy 2
+thor	4	1	ch05	1	Thor 4
+tom	4	4	ch02	1	Tom 4
+tracking	4	3	introduction	1	tracking 4
+travel	4	2	ch07	1	travel 4
+trial	4	2	ch05	1	trial 4
+truck	4	2	ch03	1	trucks 3, Trucks 1
+uncertain	4	3	ch03	1	uncertain 4
+valve	4	4	ch03	1	valves 3, valve 1
+variety	4	3	ch01	1	variety 4
+ventilation	4	2	ch02	1	ventilation 4
+vest	4	2	ch03	1	vests 3, vest 1
+waste	4	4	ch03	1	waste 3, wastes 1
+wharf	4	2	ch03	1	Wharf 4
+who safe	4	3	ch07	2	WHO Safe 2, WHO safe 2
+who safe surgery	4	3	ch07	3	WHO Safe Surgery 2, WHO safe surgery 2
+wire	4	3	ch01	1	wire 3, wires 1
+world health	4	4	ch01	2	World Health 4
+world health organization	4	4	ch01	3	World Health Organization 4
+a.m.	3	3	ch01	1	a.m. 3
+accent	3	2	ch03	1	accent 3
+access	3	2	ch05	1	access 3
+account	3	2	ch01	1	account 3
+act	3	3	introduction	1	act 3
+addition	3	3	ch03	1	addition 3
+adult	3	3	ch02	1	adult 2, adults 1
+advantage	3	3	introduction	1	advantage 2, advantages 1
+africa	3	2	ch05	1	Africa 3
+aid	3	1	ch08	1	aid 3
+air corp	3	1	ch02	2	air corps 2, Air Corps 1
+air corps	3	1	ch02	2	air corps 2, Air Corps 1
+air traffic	3	2	ch06	2	air traffic 3
+air traffic control	3	2	ch06	3	air traffic control 3
+airline captain	3	1	ch08	2	Airline Captain 3
+american hospital	3	3	ch02	2	American hospitals 3
+analysis	3	2	ch05	1	analysis 3
+antibacterial agent	3	1	ch05	2	antibacterial agent 3
+appendectomy	3	2	ch05	1	appendectomy 2, appendectomies 1
+appendicitis	3	2	ch01	1	appendicitis 3
+application	3	2	ch03	1	application 2, applications 1
+art critic	3	1	ch08	2	Art Critics 2, art critic 1
+association	3	2	ch02	1	Association 1, association 1, associations 1
+atul	3	3	ch05	1	Atul 3
+atul gawande	3	3	ch05	2	Atul Gawande 3
+b-17	3	2	ch02	1	B-17 3
+bad injury	3	2	introduction	2	bad injury 2, worst injury 1
+balloon	3	2	introduction	1	balloon 3
+band	3	1	ch04	1	band 3
+bay	3	3	introduction	1	bay 2, Bay 1
+bayonet	3	1	introduction	1	bayonet 3
+bedside	3	3	ch01	1	bedside 2, bedsides 1
+belly	3	2	introduction	1	belly 3
+blood flow	3	2	ch05	2	blood flow 3
+blood thinner	3	2	ch01	2	blood thinner 2, blood thinners 1
+blood vessel	3	3	ch01	2	blood vessels 2, blood vessel 1
+bloodstream	3	2	ch01	1	bloodstream 3
+boat	3	2	ch04	1	boats 3
+bookcase	3	1	ch03	1	bookcase 3
+books	3	3	ch03	1	books 2, Books 1
+boot	3	3	ch03	1	boots 3
+brace	3	2	ch03	1	braces 2, brace 1
+brigham	3	2	acknowledgments	1	Brigham 3
+britain	3	2	ch06	1	Britain 3
+british airways	3	1	ch06	2	British Airways 3
+british airways flight	3	1	ch06	3	British Airways flight 2, British Airways Flight 1
+bubble	3	2	ch01	1	bubble 2, bubbles 1
+budget	3	2	ch02	1	budget 2, budgets 1
+bulletin	3	2	ch04	1	bulletin 2, bulletins 1
+burst	3	3	introduction	1	burst 3
+buying	3	1	ch08	1	buying 3
+bypass machine	3	1	ch01	2	bypass machine 3
+canada	3	3	ch05	1	Canada 3
+cardiac surgeon	3	3	ch02	2	cardiac surgeon 3
+cargo warning	3	1	ch06	2	CARGO warning 3
+cargo warning light	3	1	ch06	3	CARGO warning light 3
+carolina	3	2	ch05	1	Carolina 3
+cautery	3	2	introduction	1	cautery 2, Cautery 1
+centers	3	3	ch03	1	centers 2, Centers 1
+cessation	3	2	introduction	1	cessation 3
+challenge	3	3	introduction	1	challenge 3
+charity	3	2	ch07	1	charity 3
+check box	3	1	ch05	2	check box 2, check boxes 1
+checklist - drive approach	3	1	ch08	4	checklist-driven approach 3
+checklist book	3	1	ch06	2	checklist book 3
+chemistry	3	2	ch03	1	chemistry 3
+chest compression	3	2	introduction	2	chest compressions 3
+chest pain	3	3	introduction	2	chest pain 3
+childbirth	3	3	ch05	1	childbirth 3
+china	3	2	ch06	1	China 3
+chlorhexidine	3	1	ch02	1	chlorhexidine 3
+circulation	3	3	introduction	1	circulation 3
+citicorp	3	1	ch03	1	Citicorp 3
+cockpit crew	3	1	ch06	2	cockpit crew 3
+cockpit voice	3	2	ch06	2	cockpit voice 3
+cockpit voice recorder	3	2	ch06	3	cockpit voice recorder 3
+collapse lung	3	3	introduction	2	collapsed lung 3
+collapsed lung	3	3	introduction	2	collapsed lung 3
+collection	3	3	ch03	1	collection 3
+color	3	2	ch03	1	color 2, colors 1
+colorado	3	2	ch04	1	Colorado 3
+combination	3	3	ch02	1	combinations 2, combination 1
+communication check	3	2	ch05	2	communication checks 3
+community	3	2	ch01	1	community 3
+competition	3	1	ch02	1	competition 3
+concrete core	3	1	ch03	2	concrete core 3
+contract	3	2	ch03	1	contract 2, contracts 1
+contrast	3	2	introduction	1	contrast 2, contrasts 1
+conversation	3	3	ch02	1	conversation 2, conversations 1
+corp	3	1	ch02	1	corps 2, Corps 1
+corporation	3	3	ch02	1	corporations 2, Corporation 1
+corps	3	1	ch02	1	corps 2, Corps 1
+crash investigator	3	2	ch06	2	crash investigators 2, Crash investigators 1
+crisis	3	2	ch04	1	crisis 2, crises 1
+critics	3	2	ch07	1	Critics 2, critics 1
+ct scan	3	1	ch01	2	CT scan 2, CT scans 1
+cure	3	2	introduction	1	cure 3
+darzi	3	2	ch07	1	Darzi 3
+database	3	3	ch01	1	database 3
+deck	3	1	ch06	1	deck 3
+dee	3	1	ch05	1	Dee 3
+definition	3	3	ch01	1	definition 3
+detroit	3	1	ch02	1	Detroit 3
+digit	3	2	ch01	1	digit 2, digits 1
+director general	3	1	acknowledgments	2	director general 3
+dirt	3	3	ch03	1	dirt 3
+distraction	3	3	ch02	1	distraction 3
+ditching	3	1	ch08	1	ditching 3
+do checklist	3	1	ch06	2	DO checklist 3
+do-confirm	3	2	ch06	1	DO-CONFIRM 3
+door fwd cargo warning	3	1	ch06	4	DOOR FWD CARGO warning 3
+door fwd cargo warning light	3	1	ch06	5	DOOR FWD CARGO warning light 3
+dot	3	1	ch08	1	dot 3
+douglas	3	2	ch02	1	Douglas 3
+drain	3	2	ch01	1	drain 2, drains 1
+dressing	3	3	ch01	1	dressing 2, dressings 1
+drown victim	3	3	ch01	2	drowning victims 2, drowning victim 1
+effective way	3	3	introduction	2	effective way 2, effective ways 1
+effectiveness	3	3	ch07	1	effectiveness 3
+efficiency	3	3	ch03	1	efficiency 3
+element	3	2	ch03	1	elements 2, element 1
+endeavor	3	2	introduction	1	endeavor 3
+endocrine	3	3	ch01	1	endocrine 3
+enterprise	3	3	ch04	1	enterprises 2, enterprise 1
+entrance	3	3	introduction	1	entrance 3
+episode	3	3	introduction	1	episode 3
+era	3	3	ch01	1	era 3
+european	3	3	ch01	1	European 3
+examination	3	3	introduction	1	examination 2, examinations 1
+experiment	3	2	ch05	1	experiment 3
+explosion	3	2	ch02	1	explosion 3
+extent	3	2	ch06	1	extent 3
+extreme complexity	3	2	ch01	2	extreme complexity 3
+factory	3	3	ch03	1	factory 3
+feature	3	3	ch02	1	features 2, feature 1
+feeding	3	2	ch01	1	feeding 3
+few day	3	2	ch01	2	few days 3
+few hour	3	2	ch01	2	few hours 3
+few minute	3	3	ch01	2	few minutes 3
+field office	3	1	ch03	2	field office 3
+finance	3	2	introduction	1	finance 2, Finance 1
+financial statement	3	1	ch08	2	financial statements 3
+fix	3	2	ch03	1	fix 3
+flight engineer	3	1	ch06	2	FLIGHT ENGINEER 3
+flight experience	3	1	ch08	2	flight experience 3
+fourteenth floor	3	2	ch03	2	fourteenth floor 3
+francisco	3	1	introduction	1	Francisco 3
+friend	3	3	introduction	1	friend 3
+fuel tank	3	2	ch06	2	fuel tanks 2, fuel tank 1
+fuselage	3	2	ch06	1	fuselage 3
+fwd cargo warning	3	1	ch06	3	FWD CARGO warning 3
+fwd cargo warning light	3	1	ch06	4	FWD CARGO warning light 3
+gas	3	2	ch01	1	gas 2, gases 1
+gawande	3	3	ch05	1	Gawande 3
+general anesthesia	3	2	ch05	2	general anesthesia 3
+george	3	1	ch08	1	George 3
+glass	3	1	ch03	1	glass 3
+good thing	3	3	introduction	2	best thing 2, good thing 1
+great car	3	1	ch08	2	greatest car 2, great car 1
+green	3	3	ch03	1	green 2, Green 1
+groin	3	1	ch01	1	groin 3
+guess	3	2	ch06	1	guess 3
+guide	3	3	ch03	1	guide 2, guides 1
+habit	3	2	ch05	1	habit 2, habits 1
+halen	3	1	ch04	1	Halen 3
+halt	3	2	ch07	1	halt 3
+harvard school	3	2	acknowledgments	2	Harvard School 3
+harvard vanguard	3	2	ch01	2	Harvard Vanguard 3
+hat	3	2	ch02	1	hat 3
+health system	3	2	ch05	2	Health Systems 1, health system 1, health systems 1
+heart - lung bypass	3	2	ch01	4	heart-lung bypass 3
+heart rate	3	3	introduction	2	heart rate 3
+heartburn	3	1	introduction	1	heartburn 3
+heat	3	2	ch04	1	heat 2, Heat 1
+heavy	3	2	ch06	1	Heavy 2, heavy 1
+height	3	2	ch03	1	height 2, heights 1
+high blood	3	3	introduction	2	high blood 3
+hospital association	3	2	ch02	2	Hospital Association 1, hospital association 1, hospital associations 1
+hospital leader	3	1	ch07	2	hospital leaders 3
+household	3	1	ch05	1	households 3
+idle	3	2	ch04	1	idle 3
+importance	3	2	introduction	1	importance 3
+incentive	3	1	ch05	1	incentive 3
+incidence	3	1	ch05	1	incidence 3
+individual ability	3	2	introduction	2	individual ability 2, individual abilities 1
+initiative	3	1	ch02	1	Initiative 3
+innovation	3	3	ch02	1	innovations 2, Innovation 1
+insertion	3	3	ch01	1	insertion 2, insertions 1
+insistence	3	3	ch04	1	insistence 3
+inspection	3	3	ch04	1	inspection 2, inspections 1
+intensivist	3	3	ch01	1	intensivist 2, intensivists 1
+interest	3	3	ch05	1	interest 3
+jet engine	3	1	ch08	2	jet engines 2, Jet engines 1
+kaiser	3	1	ch05	1	Kaiser 3
+keystone	3	1	ch02	1	Keystone 3
+keystone initiative	3	1	ch02	2	Keystone Initiative 3
+know - how	3	1	introduction	3	know-how 2, Know-how 1
+landing gear	3	2	ch02	2	landing gear 3
+law	3	2	introduction	1	law 3
+lawsuit	3	2	introduction	1	lawsuits 3
+layer	3	1	ch03	1	layers 3
+leak	3	2	ch01	1	leak 2, leaks 1
+least half	3	3	ch01	2	least half 3
+lee	3	1	ch04	1	Lee 3
+limit	3	3	introduction	1	limit 2, limits 1
+lobo	3	1	ch04	1	Lobo 3
+lone	3	3	ch03	1	lone 3
+longtime	3	2	ch08	1	longtime 3
+lunch	3	1	ch08	1	lunch 2, lunches 1
+lung bypass	3	2	ch01	2	lung bypass 3
+lying	3	2	ch01	1	lying 3
+manhattan	3	2	ch03	1	Manhattan 3
+manufacturer	3	2	ch02	1	manufacturers 3
+mark	3	3	ch01	1	mark 2, marks 1
+master builder	3	1	ch03	2	Master Builder 3
+material	3	1	ch03	1	materials 2, material 1
+mcnamara / salvia	3	1	ch03	3	McNamara/Salvia 3
+measurement	3	2	ch01	1	measurements 3
+medical care	3	2	ch01	2	medical care 3
+medical degree	3	2	ch01	2	medical degree 3
+medical school	3	3	introduction	2	medical school 2, Medical School 1
+medical student	3	3	ch05	2	Medical students 1, medical student 1, medical students 1
+method	3	3	ch02	1	methods 2, method 1
+michael	3	2	ch04	1	Michael 3
+minister	3	2	ch06	1	minister 3
+moisture	3	2	ch03	1	moisture 3
+more experience	3	3	introduction	2	more experience 3
+more time	3	2	ch06	2	more time 3
+morning	3	3	ch02	1	morning 3
+movie	3	2	ch03	1	movie 3
+much blood loss	3	2	ch05	3	much blood loss 3
+muscle	3	2	introduction	1	Muscles 1, muscle 1, muscles 1
+mushroom	3	1	ch04	1	mushrooms 2, Mushrooms 1
+nail	3	1	ch03	1	nails 3
+nearly all	3	2	introduction	2	nearly all 3
+necessary step	3	2	ch02	2	necessary steps 3
+needle	3	3	ch01	1	needle 2, needles 1
+new building	3	1	ch03	2	new building 3
+new york city	3	2	ch03	3	New York City 3
+newspaper	3	2	ch02	1	newspaper 3
+nose	3	1	ch06	1	nose 3
+nuance	3	3	introduction	1	nuances 3
+ocean	3	3	introduction	1	ocean 3
+ohio	3	2	ch02	1	Ohio 3
+opening	3	3	ch04	1	opening 3
+operator	3	2	ch02	1	operator 2, operators 1
+option	3	3	introduction	1	option 2, options 1
+other field	3	2	ch01	2	other fields 3
+other hand	3	2	ch05	2	other hand 3
+overall complication	3	2	ch05	2	overall complication 2, overall complications 1
+pakistan	3	1	ch05	1	Pakistan 3
+panic	3	2	ch05	1	panic 3
+paperwork	3	3	ch02	1	paperwork 3
+parent	3	2	ch01	1	parents 2, parent 1
+patient care	3	3	ch01	2	patient care 3
+patient ’s blood pressure	3	3	introduction	4	patient’s blood pressure 3
+payment	3	2	ch02	1	payments 2, payment 1
+percentage	3	3	ch03	1	percentage 3
+permission	3	3	ch07	1	permission 3
+peter pronovost	3	2	ch02	2	Peter Pronovost 3
+pharmacy	3	2	ch01	1	pharmacy 2, pharmacies 1
+phase	3	3	ch02	1	phase 3
+philippines	3	2	ch07	1	Philippines 3
+philosopher	3	1	introduction	1	philosophers 3
+philosophy	3	2	ch04	1	philosophy 3
+phone	3	3	ch01	1	phone 3
+picture	3	3	ch02	1	picture 2, pictures 1
+pilot site	3	1	ch07	2	pilot sites 2, pilot site 1
+planning	3	3	ch03	1	planning 3
+plate	3	2	ch03	1	plates 2, plate 1
+plenty	3	3	ch02	1	plenty 2, Plenty 1
+police	3	3	ch02	1	police 3
+pond	3	2	ch01	1	pond 3
+position	3	2	ch05	1	position 3
+pound	3	3	introduction	1	pounds 2, pound 1
+president	3	1	ch08	1	President 2, president 1
+previous year	3	3	ch02	2	previous year 2, previous years 1
+prince	3	1	ch07	1	Prince 3
+priority	3	3	ch04	1	priority 2, priorities 1
+proceeding	3	2	ch05	1	proceeding 3
+production	3	2	ch04	1	production 2, productions 1
+proportion	3	3	ch02	1	proportion 3
+psychologist	3	2	ch05	1	psychologist 3
+quiet	3	2	ch08	1	quiet 2, Quiet 1
+radiology	3	2	ch01	1	radiology 3
+ray	3	2	introduction	1	ray 2, rays 1
+reaction	3	3	ch02	1	reaction 3
+read - do checklist	3	1	ch06	4	READ-DO checklist 3
+real world	3	3	ch02	2	real world 3
+realm	3	1	introduction	1	realms 3
+recent year	3	2	ch01	2	recent years 3
+recommendation	3	3	introduction	1	recommendations 3
+reminder	3	3	ch02	1	reminder 2, reminders 1
+removal	3	3	introduction	1	removal 3
+replacement	3	2	ch07	1	replacement 2, replacements 1
+request	3	2	ch04	1	request 2, requests 1
+rescue team	3	1	ch02	2	rescue team 2, rescue teams 1
+restart	3	1	ch08	1	restart 3
+revenue	3	2	ch07	1	revenues 2, revenue 1
+reznick	3	2	ch05	1	Reznick 3
+rich country	3	2	introduction	2	rich countries 3
+right colon	3	1	ch05	2	right colon 3
+right stuff	3	1	ch08	2	right stuff 2, Right Stuff 1
+ring	3	2	ch06	1	ring 3
+river	3	2	ch02	1	River 2, river 1
+rooftop	3	2	ch03	1	rooftops 2, rooftop 1
+round	3	2	ch02	1	rounds 2, round 1
+route	3	2	ch06	1	routes 2, route 1
+safeguard	3	1	ch05	1	Safeguard 3
+salt	3	2	ch01	1	salt 3
+san francisco	3	1	introduction	2	San Francisco 3
+scalpel	3	1	ch05	1	scalpel 3
+scrub nurse	3	2	ch05	2	scrub nurse 3
+sector	3	1	ch04	1	sector 3
+senior anesthesiologist	3	2	introduction	2	senior anesthesiologist 3
+serious concern	3	3	ch03	2	serious concern 2, serious concerns 1
+several year	3	3	ch02	2	several years 2, Several years 1
+sewage	3	1	ch05	1	sewage 2, Sewage 1
+sexton	3	1	ch05	1	Sexton 3
+shopping mall	3	1	ch03	2	shopping mall 3
+shortage	3	2	ch05	1	shortages 3
+shrink	3	3	ch03	1	shrink 3
+sicker	3	2	ch05	1	sicker 3
+simulation	3	3	ch06	1	simulation 3
+sleeve	3	3	ch02	1	sleeves 2, sleeve 1
+slide	3	3	ch03	1	slide 2, slides 1
+snowstorm	3	1	introduction	1	snowstorms 2, snowstorm 1
+software	3	3	introduction	1	software 3
+sound	3	2	ch01	1	sound 3
+span	3	3	ch01	1	span 3
+st. mary ’s hospital	3	1	ch07	4	St. Mary’s Hospital 3
+statistic	3	2	ch01	1	statistics 2, statistic 1
+steel frame	3	1	ch03	2	steel frame 3
+sterility	3	3	ch01	1	sterility 3
+steve	3	1	ch05	1	Steve 3
+stone	3	3	ch05	1	stone 2, stones 1
+storm	3	2	ch03	1	storm 3
+strength	3	1	ch03	1	strength 3
+stretcher	3	1	introduction	1	stretcher 3
+subcontractor	3	1	ch03	1	subcontractors 3
+subtlety	3	3	ch04	1	subtleties 3
+such failure	3	3	introduction	2	Such failures 1, such failure 1, such failures 1
+suggestion	3	3	ch02	1	suggestions 2, suggestion 1
+summer	3	3	ch03	1	summer 3
+super	3	2	ch01	1	super 2, Super 1
+superspecialist	3	2	ch01	1	superspecialists 2, superspecialist 1
+surgery department	3	3	ch01	2	surgery department 3
+surgical complication	3	3	ch05	2	surgical complications 3
+surgical fire	3	1	ch07	2	surgical fire 2, surgical fires 1
+surgical patient	3	2	ch05	2	surgical patients 3
+surgical training	3	3	introduction	2	surgical training 3
+suspect	3	3	ch03	1	suspect 3
+tall skyscraper	3	2	ch03	2	tall skyscraper 2, tallest skyscraper 1
+tanzania	3	1	ch07	1	Tanzania 3
+tarmac	3	2	ch02	1	tarmac 3
+taxi	3	1	ch06	1	taxi 3
+tear	3	1	ch09	1	tear 3
+tent	3	1	ch05	1	tent 3
+territory	3	2	ch02	1	territory 3
+thalmann	3	1	ch02	1	Thalmann 3
+theater	3	3	ch03	1	theater 3
+thinner	3	2	ch01	1	thinner 2, thinners 1
+thoracic	3	2	ch01	1	Thoracic 2, thoracic 1
+ticket	3	1	ch04	1	ticket 2, tickets 1
+tin	3	1	ch03	1	tin 3
+tip	3	3	introduction	1	tip 3
+toe	3	2	introduction	1	toe 3
+ton	3	1	ch03	1	tons 2, ton 1
+tool	3	2	ch06	1	tools 2, tool 1
+top official	3	1	ch04	2	top officials 2, top official 1
+traffic control	3	2	ch06	2	traffic control 3
+trailer	3	2	ch03	1	trailers 2, trailer 1
+training program	3	2	ch01	2	training programs 2, training program 1
+transfer	3	2	ch01	1	transfer 3
+transport	3	3	introduction	1	transport 3
+transportation	3	2	ch04	1	Transportation 3
+trip	3	3	ch06	1	trip 3
+twentieth century	3	3	ch01	2	twentieth century 3
+u.s	3	3	ch02	1	U.S 3
+u.s.	3	3	ch02	1	U.S. 3
+undertaking	3	3	introduction	1	undertaking 3
+united airlines	3	1	ch06	2	United Airlines 3
+unsafe anesthesia	3	2	ch05	2	unsafe anesthesia 3
+upper floor	3	1	ch03	2	upper floors 3
+us airways flight	3	1	ch08	3	US Airways Flight 3
+vaccine	3	2	ch05	1	vaccine 2, vaccines 1
+van	3	1	ch04	1	Van 3
+van halen	3	1	ch04	2	Van Halen 3
+vanguard	3	2	ch01	1	Vanguard 3
+vascular	3	2	ch03	1	vascular 3
+virtue	3	2	ch04	1	virtues 3
+voice recorder	3	2	ch06	2	voice recorder 3
+war	3	3	introduction	1	war 2, War 1
+washington medical	3	1	ch07	2	Washington Medical 3
+washington medical center	3	1	ch07	3	Washington Medical Center 3
+weapon	3	2	introduction	1	weapon 3
+who headquarters	3	2	ch05	2	WHO headquarters 3
+windshield	3	2	ch06	1	windshield 3
+wing flap	3	2	ch02	2	wing flaps 3
+wisdom	3	1	ch03	1	wisdom 3
+witness	3	2	ch03	1	witness 2, Witnesses 1
+wood	3	3	ch01	1	wood 2, woods 1
+x - ray	3	2	introduction	3	X-ray 2, X-rays 1
+yard	3	2	ch03	1	yards 3
+york city	3	2	ch03	2	York City 3

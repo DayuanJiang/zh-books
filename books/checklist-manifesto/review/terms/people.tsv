@@ -1,0 +1,172 @@
+name	NER forms	NER mentions	surname in text	chapters	first	people-zh.tsv
+Jet A-1	Jet A-1 2	2	2	1	ch06	not a person: 航空燃油型号
+Helsinki Accord	Helsinki Accord 1	1	1	1	ch05	not a person: 作者的戏称（“赫尔辛基协定”）
+Jody Adams	Jody Adams 1, Adams 3	4	14	1	ch04	Jody Adams
+Alex	Alex 3	3	6	2	ch07	Alex Arriaga; Alex Haynes
+Vivienne Allan	Vivienne Allan 1	1	1	1	acknowledgments	Vivienne Allan
+Nuno Alvez	Nuno Alvez 1	1	1	1	acknowledgments	Nuno Alvez
+Archimedes	Archimedes 1	1	1	1	ch05	Archimedes
+Alex Arriaga	Alex Arriaga 1	1	1	1	acknowledgments	Alex Arriaga
+Asystole	Asystole 1	1	1	1	introduction	not a person: 心搏停止（医学名词）
+Chesley B	Chesley B 1	1	4	3	ch02	Chesley B. “Sully” Sullenberger III
+Angela Bader	Angela Bader 1	1	1	1	acknowledgments	Angela Bader
+Rich Bafford	Rich Bafford 1	1	1	1	ch09	Rich Bafford
+Bruce Barraclough	Bruce Barraclough 1	1	1	1	acknowledgments	Bruce Barraclough
+David Bates	David Bates 1	1	1	1	acknowledgments	David Bates
+Tina Bennett	Tina Bennett 1	1	1	1	acknowledgments	Tina Bennett
+Kelly Bernier	Kelly Bernier 1	1	1	1	acknowledgments	Kelly Bernier
+William Berry	William Berry 2	2	2	2	ch07	William Berry
+Donald Berwick	Donald Berwick 2, Berwick 2	4	4	2	ch08	Donald Berwick
+Daniel Boorman	Daniel Boorman 2, Dan Boorman 2, Boorman 1	5	30	2	ch06	Daniel Boorman
+Abdel-Hadi Breizat	Abdel-Hadi Breizat 1	1	1	1	acknowledgments	Abdel-Hadi Breizat
+Briton	Briton 1	1	1	1	ch07	not a person: 英国人（泛指）
+Aaron Broussard	Aaron Broussard 1	1	1	1	ch04	Aaron Broussard
+Michael Brown	Michael Brown 1, Gordon Brown 1	2	3	2	ch04	Gordon Brown; Michael Brown
+Warren Buffett	Warren Buffett 1, Buffett 6	7	7	1	ch08	Warren Buffett
+George W. Bush	George W. Bush 1	1	1	1	ch08	George W. Bush
+David Cameron	David Cameron 1	1	1	1	ch07	David Cameron
+Margaret Chan	Margaret Chan 1	1	1	1	acknowledgments	Margaret Chan
+James Beard Foundation Best Chef	James Beard Foundation Best Chef 1	1	1	1	ch04	not a person: 奖项名
+Michael Chertoff	Michael Chertoff 1	1	1	1	ch04	Michael Chertoff
+Hilary Coates	Hilary Coates 1	1	1	1	acknowledgments	Hilary Coates
+Cook	Cook 8	8	8	1	ch08	Cook
+Christopher Cooper-Hohn	Christopher Cooper-Hohn 1	1	1	1	acknowledgments	Christopher Cooper-Hohn
+Cort	Cort 5	5	7	1	ch08	not a person: Cort 家具公司
+Bridget Craig	Bridget Craig 1	1	1	1	acknowledgments	Bridget Craig
+Sheila Dail	Sheila Dail 1	1	1	1	ch08	Sheila Dail
+Ara Darzi	Ara Darzi 1, Darzi 2	3	3	2	ch07	Ara Darzi
+Dave	Dave 1	1	1	1	ch06	Dave
+Debris	Debris 1	1	1	1	ch06	not a person: 碎片（普通名词）
+Dee	Dee 3	3	3	1	ch05	Dee
+Anthony DeFilippo	Anthony DeFilippo 2, DeFilippo 6	8	8	2	ch01	Anthony “Tony” DeFilippo
+E. Patchen Dellinger	E. Patchen Dellinger 1	1	1	1	acknowledgments	E. Patchen Dellinger
+Denham	Denham 1	1	1	1	ch07	not a person: 达尔齐勋爵封号里的地名
+Donna Dent	Donna Dent 1	1	1	1	ch08	Donna Dent
+Priya Desai	Priya Desai 1	1	1	1	acknowledgments	Priya Desai
+Detail	Detail 1	1	1	1	ch08	not a person: Detail men（医药代表）
+Discipline	Discipline 1	1	2	1	ch08	not a person: 纪律（普通名词）
+Liam Donaldson	Liam Donaldson 2	2	2	2	ch07	Liam Donaldson
+Douglas	Douglas 2	2	3	2	ch02	not a person: 道格拉斯公司
+Armorel Duncan	Armorel Duncan 1	1	1	1	acknowledgments	Armorel Duncan
+Rachel Dyer	Rachel Dyer 1	1	1	1	acknowledgments	Rachel Dyer
+Gerald Dziekan	Gerald Dziekan 1	1	1	1	acknowledgments	Gerald Dziekan
+Lizzie Edmondson	Lizzie Edmondson 1	1	1	1	acknowledgments	Lizzie Edmondson
+Roman Emmanuel	Roman Emmanuel 1	1	1	1	acknowledgments	Roman Emmanuel
+Arnie Epstein	Arnie Epstein 1	1	1	1	acknowledgments	Arnie Epstein
+Tim Evans	Tim Evans 1	1	1	1	acknowledgments	Tim Evans
+Fahrenheit	Fahrenheit 1	1	2	1	ch06	not a person: 华氏度
+Henry Finder	Henry Finder 1	1	1	1	acknowledgments	Henry Finder
+Finn	Finn 1	1	2	1	ch03	Finn O’Sullivan
+Alexander Fleming	Alexander Fleming 2	2	2	2	ch01	Alexander Fleming
+Martin Fletcher	Martin Fletcher 1	1	1	1	acknowledgments	Martin Fletcher
+Foley	Foley 1	1	1	1	ch05	not a person: Foley 导尿管
+Luke Funk	Luke Funk 1	1	1	1	acknowledgments	Luke Funk
+Mala Gaonkar	Mala Gaonkar 1	1	1	1	acknowledgments	Mala Gaonkar
+Sholom Glouberman	Sholom Glouberman 1	1	1	1	ch03	Sholom Glouberman
+Samuel Gorovitz	Samuel Gorovitz 1, Gorovitz 1	2	2	1	introduction	Samuel Gorovitz
+David Greenspan	David Greenspan 1	1	1	1	acknowledgments	David Greenspan
+Oliver Haarmann	Oliver Haarmann 1	1	1	1	acknowledgments	Oliver Haarmann
+Hagerman	Hagerman 8	8	8	1	ch09	Hagerman
+Van Halen	Van Halen 3	3	3	1	ch04	not a person: 范·海伦乐队
+Prince Harry	Prince Harry 1	1	1	1	ch07	Prince Harry
+Berkshire Hathaway	Berkshire Hathaway 1	1	2	1	ch08	not a person: 伯克希尔·哈撒韦公司
+Hattie	Hattie 2	2	2	2	dedication	Hattie
+Alex Haynes	Alex Haynes 2	2	2	2	ch07	Alex Haynes
+Andrew Hebert	Andrew Hebert 1	1	1	1	acknowledgments	Andrew Hebert
+Teodoro Herbosa	Teodoro Herbosa 1	1	1	1	acknowledgments	Teodoro Herbosa
+David Heymann	David Heymann 1	1	1	1	acknowledgments	David Heymann
+Ployer P. Hill	Ployer P. Hill 1, Eugene Hill 1, Hill 2	4	4	2	ch02	Eugene Hill; Ployer P. Hill
+Arnold Howitt	Arnold Howitt 1	1	1	1	acknowledgments	Arnold Howitt
+Helen Hughes	Helen Hughes 1	1	1	1	acknowledgments	Helen Hughes
+Hunter	Hunter 2	2	2	2	dedication	Hunter
+Saddam Hussein	Saddam Hussein 1	1	1	1	ch07	Saddam Hussein
+Sooyeon Hwang	Sooyeon Hwang 1	1	1	1	acknowledgments	Sooyeon Hwang
+Jamie	Jamie 1	1	1	1	acknowledgments	Jamie Cooper-Hohn
+Jay	Jay 4	4	5	2	ch04	Jay; Jay Powers
+Joaquim	Joaquim 1	1	4	1	ch05	Joaquim
+John	John 20	20	22	4	introduction	John; John Snow
+Philip Johnson	Philip Johnson 1, Johnson 1	2	2	1	ch03	Philip Johnson
+Jordan	Jordan 1	1	6	2	ch07	not a person: 约旦（国名）
+Sidhir Joseph	Sidhir Joseph 1	1	1	1	acknowledgments	Sidhir Joseph
+Kathleen	Kathleen 1	1	1	1	acknowledgments	Kathleen
+Jonathan Katz	Jonathan Katz 1	1	1	1	acknowledgments	Jonathan Katz
+Nicolai Korotkoff	Nicolai Korotkoff 1	1	1	1	ch02	Nicolai Korotkoff
+William Langewiesche	William Langewiesche 1	1	1	1	ch08	William Langewiesche
+Marie Lapitan	Marie Lapitan 1	1	1	1	acknowledgments	Marie Lapitan
+Angela Lashoher	Angela Lashoher 1	1	1	1	acknowledgments	Angela Lashoher
+Lucian Leape	Lucian Leape 1	1	1	1	acknowledgments	Lucian Leape
+Claire Lemer	Claire Lemer 1	1	1	1	acknowledgments	Claire Lemer
+William LeMessurier	William LeMessurier 1, LeMessurier 3	4	4	1	ch03	William LeMessurier
+Dutch Leonard	Dutch Leonard 1	1	1	1	acknowledgments	Dutch Leonard
+Agnes Leotsakos	Agnes Leotsakos 1	1	1	1	acknowledgments	Agnes Leotsakos
+Eeling Liow	Eeling Liow 1	1	1	1	acknowledgments	Eeling Liow
+Stuart Lipsitz	Stuart Lipsitz 1	1	1	1	acknowledgments	Stuart Lipsitz
+Stephen Luby	Stephen Luby 1, Luby 6	7	7	1	ch05	Stephen Luby
+Alasdair MacIntyre	Alasdair MacIntyre 1	1	2	1	introduction	Alasdair MacIntyre
+Hassan Makki	Hassan Makki 1	1	1	1	ch02	Hassan Makki
+Pat Martin	Pat Martin 1	1	5	3	ch02	Pat Martin
+Robert McNamara	Robert McNamara 1, McNamara 1	2	5	1	ch03	Robert McNamara
+Phillip Meilinger	Phillip Meilinger 1	1	1	1	ch02	Phillip Meilinger
+Alan Merry	Alan Merry 1	1	1	1	acknowledgments	Alan Merry
+Krishna Moorthy	Krishna Moorthy 1	1	1	1	acknowledgments	Krishna Moorthy
+Morale	Morale 1	1	1	1	ch02	not a person: 士气（普通名词）
+John Moriarty	John Moriarty 1	1	1	1	ch03	not a person: 公司名的一部分
+Elizabeth Morse	Elizabeth Morse 1	1	1	1	acknowledgments	Elizabeth Morse
+Charles Munger	Charles Munger 1	1	5	1	ch08	Charles Munger
+Douglas Noble	Douglas Noble 1	1	1	1	acknowledgments	Douglas Noble
+Barack Obama	Barack Obama 1	1	1	1	ch08	Barack Obama
+Orwellian	Orwellian 1	1	1	1	ch04	not a person: 奥威尔式的（形容词）
+Oscar	Oscar 1	1	1	1	ch04	not a person: 奥斯卡奖
+Oxygen	Oxygen 1	1	1	1	ch06	not a person: 氧气（清单条目）
+Finn O’Sullivan	Finn O’Sullivan 1, O’Sullivan 7	8	13	2	ch03	Finn O’Sullivan
+Jefferson Parish	Jefferson Parish 1	1	2	1	ch04	not a person: 杰斐逊堂区（地名）
+Naren Patel	Naren Patel 1	1	1	1	acknowledgments	Naren Patel
+Pauline Philip	Pauline Philip 1	1	2	2	ch03	Pauline Philip
+Physician	Physician 1	1	1	1	ch03	not a person: 医生（普通名词）
+Tom Piskorowski	Tom Piskorowski 1	1	1	1	ch02	Tom Piskorowski
+Didier Pittet	Didier Pittet 1	1	1	1	acknowledgments	Didier Pittet
+Problem	Problem 1	1	2	2	ch01	not a person: 问题（普通名词）
+Peter Pronovost	Peter Pronovost 3	3	19	2	ch02	Peter Pronovost
+Scott Regenbogen	Scott Regenbogen 1	1	1	1	acknowledgments	Scott Regenbogen
+David Remnick	David Remnick 1	1	1	1	acknowledgments	David Remnick
+Richard Reznick	Richard Reznick 2, Reznick 1	3	3	2	ch05	Richard Reznick
+David Lee Roth	David Lee Roth 2, Roth 2	4	4	1	ch04	David Lee Roth
+Bernie Rouillard	Bernie Rouillard 1, Rouillard 1	2	9	1	ch03	Bernie Rouillard
+Safeguard	Safeguard 2	2	3	1	ch05	not a person: 舒肤佳香皂
+Joe Salvia	Joe Salvia 4	4	21	1	ch03	Joe Salvia
+Iskander Sayek	Iskander Sayek 1	1	1	1	acknowledgments	Iskander Sayek
+Roslyn Schloss	Roslyn Schloss 1	1	1	1	acknowledgments	Roslyn Schloss
+Laura Schoenherr	Laura Schoenherr 1	1	1	1	acknowledgments	Laura Schoenherr
+Lee Scott	Lee Scott 1	1	2	2	ch04	Lee Scott
+Marcus Semel	Marcus Semel 1	1	1	1	acknowledgments	Marcus Semel
+Brian Sexton	Brian Sexton 2	2	3	1	ch05	Brian Sexton
+Sumner Shane	Sumner Shane 1	1	1	1	ch03	not a person: 公司名
+Jeffrey Skiles	Jeffrey Skiles 1, Jeff Skiles 1, Skiles 11	13	13	1	ch08	Jeffrey Skiles
+Geoff Smart	Geoff Smart 2, Smart 3	5	9	2	ch08	Geoff Smart
+Ian Smith	Ian Smith 1	1	1	1	acknowledgments	Ian Smith
+John Snow	John Snow 1, Snow 2	3	3	1	ch05	John Snow
+Guy Spier	Guy Spier 2, Spier 3	5	5	1	ch08	Guy Spier
+Kristine Stave	Kristine Stave 1	1	1	1	acknowledgments	Kristine Stave
+Steve	Steve 3	3	3	1	ch05	Steve
+Fiona Stewart-Mills	Fiona Stewart-Mills 1	1	1	1	acknowledgments	Fiona Stewart-Mills
+Julie Storr	Julie Storr 1	1	1	1	acknowledgments	Julie Storr
+Thoracic Surgery	Thoracic Surgery 2	2	12	5	ch01	not a person: 期刊名的一部分
+Bryce Taylor	Bryce Taylor 1	1	1	1	acknowledgments	Bryce Taylor
+Taylorized	Taylorized 1	1	1	1	ch04	not a person: 泰勒制的（形容词）
+Markus Thalmann	Markus Thalmann 1, Thalmann 2	3	3	1	ch02	Markus Thalmann
+Katy Thompson	Katy Thompson 1	1	1	1	acknowledgments	Katy Thompson
+Thor	Thor 3	3	4	1	ch05	Thor
+Tony	Tony 1	1	1	1	ch01	Anthony “Tony” DeFilippo
+Der Held von	Der Held von 1	1	1	1	ch08	not a person: 德语报纸标题
+Ryan Walsh	Ryan Walsh 1	1	1	1	ch03	Ryan Walsh
+Warren	Warren 2	2	4	1	ch08	Warren Buffett
+Tom Weiser	Tom Weiser 2	2	2	2	ch07	Tom Weiser
+Doreen Welsh	Doreen Welsh 1	1	2	1	ch08	Doreen Welsh
+Russia Wharf	Russia Wharf 2	2	4	2	ch03	not a person: 俄罗斯码头大楼
+Prince William	Prince William 1	1	5	4	ch03	Prince William
+Tom Wolfe	Tom Wolfe 1	1	1	1	ch08	Tom Wolfe
+Worldwide	Worldwide 1	1	1	1	ch05	not a person: 全世界（普通词）
+Chuck Yeager	Chuck Yeager 1	1	1	1	ch08	Chuck Yeager
+Yen	Yen 1	1	1	1	acknowledgments	Yen Liow
+Brenda Zimmerman	Brenda Zimmerman 1	1	1	1	ch03	Brenda Zimmerman
+Michael Zinner	Michael Zinner 1	1	1	1	acknowledgments	Michael Zinner
