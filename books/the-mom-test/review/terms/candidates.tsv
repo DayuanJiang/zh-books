@@ -1,0 +1,615 @@
+candidate	frequency	chapters	first	words	forms
+re	251	10	introduction	1	re 251
+customer	179	10	introduction	1	customer 108, customers 60, Customer 10
+conversation	157	10	introduction	1	conversation 85, conversations 71, Conversations 1
+question	150	10	introduction	1	questions 86, question 60, Questions 4
+meeting	123	9	introduction	1	meeting 80, meetings 39, Meetings 3
+problem	110	10	introduction	1	problem 73, problems 31, Problem 5
+time	109	11	introduction	1	time 102, times 7
+people	99	11	introduction	1	people 88, People 11
+idea	98	10	introduction	1	idea 84, ideas 12, Ideas 2
+one	79	9	introduction	1	one 63, ones 10, One 6
+talk	78	10	introduction	1	talk 68, Talk 8, talks 2
+product	74	9	ch01	1	product 64, products 8, Product 1
+ask	70	10	introduction	1	ask 57, Ask 13
+business	68	11	introduction	1	business 58, businesses 9, Business 1
+compliment	58	8	ch01	1	compliments 28, compliment 23, Compliment 4
+way	58	9	introduction	1	way 42, ways 16
+mom	57	10	ch01	1	Mom 37, mom 16, moms 3
+help	50	9	introduction	1	help 50
+learning	48	8	introduction	1	learning 43, Learning 4, learnings 1
+use	48	9	introduction	1	use 44, Use 2, uses 2
+team	45	7	introduction	1	team 42, teams 2, Team 1
+person	44	9	introduction	1	person 44
+note	43	5	introduction	1	notes 39, note 2, Note 1
+now	43	9	ch01	1	now 31, Now 11, NOW 1
+take	43	10	introduction	1	take 38, Take 5
+right	42	10	introduction	1	right 41, RIGHT 1
+rule	42	10	introduction	1	Rule 38, rules 3, rule 1
+commitment	41	9	ch01	1	commitment 21, commitments 13, Commitment 6
+start	41	9	introduction	1	start 39, Start 2
+sale	38	11	introduction	1	sales 34, sale 4
+thumb	38	9	ch01	1	thumb 38
+app	36	7	ch01	1	app 24, apps 8, App 4
+end	36	10	introduction	1	end 35, End 1
+industry	36	8	ch01	1	industry 36
+segment	35	7	ch01	1	segment 28, segments 7
+company	34	10	introduction	1	company 26, companies 8
+datum	34	7	ch01	1	data 34
+answer	32	7	ch01	1	answer 23, answers 9
+feature	32	6	ch01	1	feature 22, features 8, Feature 2
+fix	32	8	ch01	1	fix 30, FIX 1, fixes 1
+goal	32	10	introduction	1	goals 16, goal 14, Goal 2
+work	32	8	introduction	1	work 29, Work 3
+money	31	8	introduction	1	money 28, Money 3
+process	31	10	introduction	1	process 30, processes 1
+signal	31	7	ch01	1	signals 16, signal 15
+think	31	8	introduction	1	think 30, Think 1
+startup	30	10	introduction	1	startup 17, startups 6, Startup 4
+step	30	8	introduction	1	steps 17, step 10, Steps 3
+building	29	9	introduction	1	building 28, Building 1
+fact	29	9	ch01	1	facts 14, fact 13, Facts 2
+life	29	10	ch01	1	life 18, lives 10, LIFE 1
+lot	29	10	introduction	1	lot 21, lots 8
+thing	29	8	introduction	1	thing 16, things 12, Things 1
+bit	28	10	introduction	1	bit 25, bits 3
+case	28	9	ch01	1	case 21, cases 7
+customer conversation	28	8	introduction	2	customer conversations 21, customer conversation 6, Customer conversations 1
+point	28	9	ch01	1	point 22, points 6
+buy	27	6	ch01	1	buy 27
+call	27	8	introduction	1	call 17, calls 10
+example	27	9	introduction	1	example 19, examples 8
+guy	27	10	introduction	1	guy 14, guys 12, Guys 1
+pay	27	4	ch01	1	pay 26, PAY 1
+thank	27	8	ch01	1	Thanks 18, thanks 9
+lead	26	9	ch01	1	leads 20, lead 6
+tool	26	9	introduction	1	tools 18, tool 8
+day	25	9	introduction	1	day 19, days 6
+great	25	9	ch01	1	great 21, Great 4
+solution	24	8	ch01	1	solution 18, solutions 6
+cost	23	6	ch01	1	cost 18, costs 5
+founder	23	9	introduction	1	founders 15, founder 8
+intro	23	4	ch01	1	intros 14, intro 7, Intro 2
+next step	23	5	ch04	2	next steps 16, next step 7
+week	23	8	ch01	1	week 15, weeks 8
+dig	22	6	introduction	1	dig 15, Dig 7
+good question	22	8	introduction	2	good questions 14, Good question 8
+risk	22	5	ch01	1	risk 17, risks 5
+set	22	9	introduction	1	set 20, sets 2
+test	22	9	ch01	1	Test 21, test 1
+while	22	10	introduction	1	while 16, While 6
+customer segment	21	4	ch01	2	customer segment 16, customer segments 5
+deal	21	7	introduction	1	deal 17, deals 4
+fluff	21	6	ch02	1	fluff 18, Fluff 3
+list	21	8	introduction	1	list 19, lists 2
+love	21	10	introduction	1	love 20, Love 1
+mom test	21	9	ch01	2	Mom Test 21
+student	21	3	ch03	1	students 16, student 5
+book	20	8	introduction	1	book 17, books 3
+minute	20	6	ch02	1	minutes 19, minute 1
+value	20	10	introduction	1	value 20
+folk	19	8	introduction	1	folks 17, Folks 2
+couple	18	8	ch01	1	couple 18
+group	18	3	ch06	1	group 10, groups 8
+request	18	5	ch01	1	request 9, requests 9
+blog	17	4	ch03	1	blog 15, blogs 2
+cut	17	6	ch02	1	cut 16, Cut 1
+opinion	17	7	ch01	1	opinions 10, opinion 6, Opinions 1
+phone	17	6	ch02	1	phone 16, Phone 1
+sort	17	6	ch01	1	sort 16, Sort 1
+stuff	17	7	introduction	1	stuff 17
+won’t	17	7	ch01	1	won’t 15, Won’t 2
+advancement	16	6	ch01	1	advancement 12, Advancement 4
+email	16	4	ch01	1	email 9, emails 7
+future	16	6	ch01	1	future 15, Future 1
+information	16	7	ch01	1	information 16
+motivation	16	4	ch01	1	motivations 13, motivation 3
+truth	16	6	introduction	1	truth 15, truths 1
+card	15	4	ch02	1	cards 9, card 5, Cards 1
+casual	15	7	introduction	1	casual 9, Casual 6
+concrete	15	6	ch01	1	concrete 15
+course	15	9	ch01	1	course 15
+job	15	7	introduction	1	job 15
+market	15	7	introduction	1	market 14, Market 1
+need	15	7	ch01	1	needs 15
+reason	15	6	ch01	1	reason 9, reasons 6
+top	15	4	ch02	1	top 14, Top 1
+world	15	9	ch01	1	world 15
+fit	14	4	ch01	1	fit 14
+friend	14	7	introduction	1	friend 8, friends 6
+matter	14	6	ch01	1	matter 9, matters 5
+month	14	7	introduction	1	months 10, month 4
+positive	14	6	introduction	1	positive 8, positives 6
+son	14	1	ch01	1	Son 13, son 1
+advisor	13	4	introduction	1	advisors 10, advisor 3
+bunch	13	7	introduction	1	bunch 13
+cafe	13	5	ch02	1	cafe 13
+chat	13	4	ch04	1	chat 11, chats 2
+hour	13	5	ch01	1	hour 8, hours 5
+interview	13	5	ch04	1	interview 11, interviews 2
+lie	13	5	ch01	1	lie 13
+store	13	3	ch01	1	stores 8, Store 4, store 1
+chance	12	7	ch01	1	chance 9, chances 3
+cookbook	12	1	ch01	1	cookbook 6, cookbooks 6
+feedback	12	6	ch02	1	feedback 12
+kind	12	6	ch01	1	kind 10, kinds 2
+marketing	12	4	ch01	1	marketing 12
+mistake	12	7	introduction	1	mistakes 6, mistake 5, Mistakes 1
+speaking	12	4	ch03	1	speaking 12
+symbol	12	2	ch08	1	symbol 6, symbols 6
+topic	12	6	ch01	1	topic 7, topics 5
+anchor	11	5	ch01	1	anchor 9, Anchor 2
+big question	11	6	ch01	2	big questions 7, big question 2, bigger questions 1
+budget	11	6	ch01	1	budget 8, budgets 3
+entrepreneur	11	4	ch01	1	entrepreneur 6, entrepreneurs 4, Entrepreneurs 1
+feature request	11	4	ch01	2	feature requests 7, Feature request 2, feature request 2
+good conversation	11	3	ch02	2	good conversation 10, good conversations 1
+good idea	11	4	introduction	2	good idea 11
+hand	11	8	ch01	1	hand 10, hands 1
+line	11	7	introduction	1	line 8, lines 3
+news	11	5	ch01	1	news 10, News 1
+pitch	11	5	ch01	1	pitch 8, pitches 3
+response	11	2	ch02	1	response 7, responses 4
+speaker	11	4	ch03	1	speakers 8, speaker 3
+starting	11	7	ch02	1	starting 11
+symptom	11	6	ch02	1	Symptoms 9, symptoms 2
+term	11	5	ch01	1	terms 8, term 3
+thinking	11	6	introduction	1	thinking 10, Thinking 1
+track	11	5	ch02	1	track 11
+user	11	7	introduction	1	user 5, users 5, User 1
+writing	11	7	ch01	1	writing 10, Writing 1
+care	10	6	ch01	1	cares 10
+decision	10	5	ch01	1	decision 7, decisions 3
+deflect	10	4	ch02	1	deflect 6, Deflect 4
+office	10	5	ch02	1	office 10
+part	10	7	introduction	1	part 5, parts 4, PART 1
+potential	10	6	ch01	1	potential 10
+promise	10	3	ch01	1	promise 5, promises 5
+second	10	6	ch01	1	second 8, Second 1, seconds 1
+type	10	3	ch02	1	type 5, types 5
+zoom	10	3	ch03	1	zoom 10
+audience	9	3	ch03	1	audience 8, audiences 1
+awesome	9	4	ch02	1	awesome 7, Awesome 2
+coffee	9	4	ch02	1	coffee 9
+excuse	9	3	ch01	1	excuse 6, Excuse 2, excuses 1
+false positive	9	5	introduction	2	false positives 6, false positive 3
+follow	9	5	ch01	1	follow 6, Follow 3
+framing	9	2	ch06	1	framing 6, Framing 3
+gig	9	2	ch03	1	gigs 8, gig 1
+good meeting	9	2	ch05	2	good meeting 5, Good meeting 2, best meeting 1
+guess	9	5	ch03	1	guess 6, guesses 3
+important question	9	2	ch03	2	important question 6, important questions 3
+investor	9	5	introduction	1	investors 6, investor 2, Investors 1
+ipad	9	2	ch01	1	iPad 8, iPads 1
+last time	9	3	ch01	2	last time 9
+owner	9	4	introduction	1	owner 4, owners 4, Owner 1
+place	9	5	ch02	1	place 8, places 1
+recipe	9	2	ch01	1	recipes 8, recipe 1
+report	9	2	ch02	1	reports 6, report 3
+rest	9	4	ch01	1	rest 9
+result	9	6	ch02	1	result 5, results 3, Results 1
+sense	9	5	introduction	1	sense 9
+situation	9	6	ch01	1	situation 6, situations 3
+vision	9	4	ch01	1	vision 7, Vision 2
+workaround	9	7	ch01	1	workaround 6, Workaround 2, workarounds 1
+workflow	9	4	ch01	1	workflow 8, workflows 1
+approach	8	5	introduction	1	approach 7, approaches 1
+bad datum	8	4	ch02	2	bad data 7, Bad data 1
+chapter	8	2	ch01	1	Chapter 8
+conference	8	4	ch04	1	conference 5, conferences 3
+constraint	8	4	ch01	1	constraints 6, constraint 2
+emotion	8	4	ch02	1	emotion 4, emotions 3, Emotions 1
+game	8	3	ch01	1	game 4, games 3, Game 1
+google	8	4	ch01	1	Google 7, google 1
+half	8	5	ch03	1	half 7, Half 1
+insight	8	5	ch01	1	insight 8
+knot	8	2	ch01	1	knot 7, Knot 1
+opportunity	8	5	introduction	1	opportunity 8
+pain	8	6	ch01	1	pain 4, Pain 2, Pains 1
+past	8	5	ch01	1	past 8
+pre	8	4	ch01	1	pre 6, Pre 2
+quote	8	2	ch08	1	quotes 5, quote 3
+review	8	2	ch08	1	review 7, Review 1
+sale meeting	8	3	ch05	2	sales meeting 6, sales meetings 2
+search	8	5	ch01	1	search 8
+side	8	6	ch02	1	side 8
+sign	8	6	ch01	1	Signs 3, sign 3, signs 2
+space	8	5	ch02	1	space 8
+thought	8	4	ch01	1	thought 7, thoughts 1
+ton	8	6	ch02	1	ton 5, tons 3
+understanding	8	6	ch01	1	understanding 8
+university	8	3	ch02	1	universities 5, university 3
+worst	8	5	ch01	1	worst 7, WORST 1
+attention	7	5	introduction	1	attention 7
+bad question	7	2	ch01	2	Bad question 3, bad question 2, bad questions 2
+buying	7	5	ch01	1	buying 7
+check	7	4	introduction	1	check 7
+consumer	7	5	ch01	1	consumer 4, consumers 3
+context	7	6	ch01	1	context 7
+customer learning	7	5	introduction	2	customer learning 7
+development	7	3	introduction	1	Development 6, development 1
+direction	7	4	ch03	1	direction 7
+discussion	7	5	ch01	1	discussion 5, discussions 2
+ego	7	3	ch01	1	ego 7
+event	7	4	ch03	1	event 7
+face	7	4	ch02	1	face 7
+failure	7	5	ch01	1	failure 7
+feel	7	6	ch01	1	feel 6, Feel 1
+gym	7	1	ch03	1	gym 7
+kid	7	3	introduction	1	kids 5, kid 2
+option	7	5	ch01	1	options 6, option 1
+order	7	4	ch01	1	order 7
+progress	7	5	introduction	1	progress 7
+prototype	7	2	ch05	1	prototype 6, prototypes 1
+real problem	7	5	introduction	2	real problem 7
+rejection	7	2	ch05	1	rejection 5, rejections 2
+school	7	3	ch01	1	schools 4, school 3
+steve	7	5	introduction	1	Steve 7
+story	7	5	ch01	1	stories 4, story 3
+task	7	4	ch01	1	task 5, tasks 2
+teacher	7	4	ch01	1	teachers 4, teacher 3
+tech	7	4	introduction	1	tech 7
+trial	7	2	ch05	1	trial 7
+validation	7	4	ch01	1	validation 7
+video	7	4	ch01	1	videos 5, Video 1, video 1
+weakness	7	2	ch06	1	weakness 5, Weakness 2
+year	7	6	introduction	1	years 5, year 2
+" student	6	1	ch07	2	“students 6
+analytic	6	1	ch02	1	analytics 6
+approval	6	3	ch02	1	approval 6
+bad meeting	6	2	ch05	2	Bad meeting 3, bad meetings 2, worst meetings 1
+bad news	6	3	ch03	2	bad news 6
+behaviour	6	3	ch01	1	behaviours 6
+big problem	6	2	ch03	2	biggest problem 3, big problems 2, big problem 1
+blank	6	5	introduction	1	Blank 5, blank 1
+bottleneck	6	2	ch08	1	bottleneck 5, bottlenecks 1
+broad	6	3	ch03	1	broad 6
+criterion	6	4	ch02	1	criteria 6
+customer development	6	2	introduction	2	Customer Development 6
+desk	6	4	ch02	1	desk 5, desks 1
+early customer	6	5	ch01	2	early customer 6
+formal meeting	6	2	ch04	2	formal meeting 4, formal meetings 2
+friday	6	3	ch02	1	Friday 6
+head	6	4	ch01	1	head 5, heads 1
+level	6	4	ch02	1	level 6
+loyalty	6	1	ch02	1	loyalty 6
+mean	6	3	ch03	1	means 6
+mind	6	3	ch02	1	mind 6
+notebook	6	2	ch02	1	notebook 5, notebooks 1
+offer	6	4	ch01	1	offer 4, offers 2
+pedestal	6	2	ch06	1	pedestal 4, Pedestal 2
+phd	6	2	ch06	1	PhD 6
+plan	6	5	ch01	1	plan 4, plans 2
+play	6	5	ch01	1	play 6
+post	6	2	ch06	1	post 5, Post 1
+prep	6	3	ch07	1	prep 5, Prep 1
+product risk	6	2	ch03	2	product risk 3, product risks 2, Product risk 1
+project	6	4	introduction	1	project 3, projects 3
+purchasing	6	3	ch01	1	purchasing 6
+read	6	3	introduction	1	read 4, Read 2
+research	6	3	ch06	1	research 6
+room	6	4	ch03	1	room 6
+software	6	4	ch01	1	software 6
+stage	6	4	ch02	1	stage 6
+touch	6	3	ch06	1	touch 6
+trick	6	5	ch01	1	trick 5, tricks 1
+turn	6	3	ch01	1	turn 6
+access	5	4	ch05	1	access 5
+advertising	5	5	introduction	1	advertising 5
+agent	5	1	ch03	1	agent 4, agents 1
+belief	5	3	ch03	1	beliefs 5
+bias	5	2	ch04	1	biases 3, bias 2
+catch	5	3	ch01	1	catch 5
+claim	5	2	ch02	1	claim 3, claims 2
+community	5	4	introduction	1	community 4, communities 1
+contact	5	3	ch04	1	contact 3, contacts 2
+dashboard	5	1	ch02	1	dashboard 5
+detail	5	3	ch03	1	details 5
+dozen	5	3	ch04	1	dozen 5
+exercise	5	3	introduction	1	exercise 5
+experience	5	3	introduction	1	experience 2, experiences 2, Experience 1
+fishing	5	4	ch02	1	fishing 3, Fishing 2
+following	5	3	ch01	1	following 5
+food	5	2	ch01	1	food 4, foods 1
+fun	5	3	ch03	1	fun 5
+generic	5	3	ch01	1	generics 5
+good note	5	2	ch08	2	good notes 5
+home	5	4	ch01	1	home 5
+hope	5	5	ch01	1	hope 5
+implication	5	3	ch01	1	implications 5
+inbox	5	1	ch02	1	inbox 3, Inbox 2
+land	5	3	ch02	1	land 5
+leap	5	3	ch01	1	leap 5
+manager	5	3	ch02	1	manager 3, managers 2
+medium	5	3	ch01	1	medium 5
+meet	5	3	ch04	1	meet 5
+mode	5	2	ch02	1	mode 5
+moment	5	3	ch02	1	moment 5
+name	5	4	ch04	1	name 3, names 2
+noise	5	4	introduction	1	noise 5
+number	5	4	ch01	1	number 4, numbers 1
+obstacle	5	2	ch08	1	Obstacle 2, Obstacles 1, obstacle 1
+outside	5	4	ch01	1	outside 5
+page	5	4	ch03	1	page 5
+paper	5	3	ch01	1	paper 5
+partner	5	3	ch03	1	partner 4, partners 1
+party	5	4	ch03	1	party 3, parties 2
+pathos	5	2	ch02	1	Pathos 5
+pathos problem	5	2	ch02	2	Pathos Problem 5
+peer	5	4	introduction	1	peers 4, peer 1
+perfect	5	4	ch03	1	perfect 4, Perfect 1
+phd student	5	2	ch06	2	PhD students 3, PhD student 2
+piece	5	4	introduction	1	pieces 5
+pitch mode	5	2	ch02	2	pitch mode 5
+potential customer	5	4	ch01	2	potential customers 3, potential customer 2
+practice	5	4	ch04	1	practice 4, practices 1
+prepping	5	2	ch08	1	prepping 4, Prepping 1
+purchase	5	2	ch01	1	purchase 5
+reading	5	3	ch05	1	reading 5
+reputation	5	1	ch05	1	reputation 4, Reputation 1
+segmentation	5	3	ch07	1	segmentation 5
+self	5	4	ch01	1	self 5
+slicing	5	1	ch07	1	slicing 3, Slicing 2
+steve blank	5	4	introduction	2	Steve Blank 5
+success	5	3	ch03	1	success 4, successes 1
+table	5	3	ch02	1	table 4, tables 1
+today	5	4	introduction	1	today 5
+traffic	5	2	ch03	1	traffic 5
+warm intro	5	1	ch06	2	warm intros 4, Warm intros 1
+advice	4	4	introduction	1	advice 4
+agency	4	2	ch01	1	agencies 2, agency 2
+app store	4	1	ch01	2	App Store 4
+author	4	2	ch07	1	authors 3, author 1
+bad conversation	4	3	ch02	2	bad conversation 3, bad conversations 1
+beer	4	3	ch04	1	beer 3, beers 1
+big deal	4	3	ch02	2	big deal 4
+block	4	2	ch04	1	block 3, blocks 1
+blogging	4	1	ch06	1	blogging 3, Blogging 1
+boss	4	1	ch05	1	boss 4
+brand	4	4	ch02	1	brand 3, brands 1
+business idea	4	3	introduction	2	business idea 2, Business ideas 1, business ideas 1
+cartoon	4	1	ch08	1	cartoons 3, cartoon 1
+cash	4	2	introduction	1	cash 4
+client	4	3	ch02	1	clients 3, client 1
+commute	4	3	ch03	1	commute 3, commutes 1
+computer	4	2	ch07	1	computer 4
+convenience	4	1	ch03	1	convenience 4
+credibility	4	2	ch04	1	credibility 4
+currency	4	1	ch05	1	currencies 2, currency 2
+date	4	2	ch04	1	date 4
+deflect compliment	4	3	ch02	2	Deflect compliments 3, deflect compliments 1
+demo	4	2	ch02	1	demo 4
+discount	4	1	ch02	1	discounts 3, discount 1
+dream	4	3	ch01	1	dream 4
+early customer conversation	4	4	ch01	3	early customer conversations 3, early customer conversation 1
+enterprise	4	3	ch02	1	enterprise 3, Enterprise 1
+exactly what	4	3	introduction	2	exactly what 4
+excel	4	1	ch02	1	Excel 4
+exchange	4	3	ch03	1	exchange 4
+expectation	4	2	ch04	1	expectations 4
+expert	4	4	ch01	1	expert 3, experts 1
+export	4	1	ch02	1	export 4
+favour	4	3	ch04	1	favour 2, favours 2
+feeling	4	2	ch01	1	feelings 4
+first conversation	4	3	ch01	2	first conversation 4
+fitness	4	1	ch03	1	fitness 4
+foot	4	3	ch02	1	foot 3, feet 1
+found team	4	2	ch06	2	founding team 4
+frame	4	3	ch06	1	Frame 3, frame 1
+gold	4	3	ch01	1	gold 4
+good customer	4	2	ch06	2	good customer 3, Good customer 1
+good guess	4	3	ch07	2	best guesses 3, best guess 1
+good way	4	4	ch02	2	best way 3, good way 1
+habit	4	4	introduction	1	Habit 2, habit 2
+idiot	4	3	ch02	1	idiot 3, idiots 1
+industry expert	4	4	ch01	2	industry expert 3, industry experts 1
+introduction	4	2	ch05	1	introduction 3, introductions 1
+jump	4	4	ch02	1	jump 4
+language	4	3	ch06	1	language 4
+launch	4	3	ch02	1	launch 4
+loop	4	3	ch02	1	loop 4
+mis	4	4	ch01	1	mis 4
+more gig	4	1	ch03	2	more gigs 4
+none	4	4	ch01	1	none 4
+phone call	4	1	ch06	2	phone calls 3, Phone calls 1
+picture	4	3	ch01	1	picture 3, pictures 1
+pitching	4	2	ch02	1	pitching 4
+position	4	4	ch01	1	position 4
+power	4	2	ch01	1	power 4
+pre - order	4	2	ch01	3	pre-order 3, Pre-order 1
+price	4	2	ch01	1	price 4
+product meeting	4	2	ch05	2	product meetings 4
+purpose	4	3	ch04	1	purposes 3, purpose 1
+reader	4	1	ch03	1	Reader 3, reader 1
+reviewing	4	3	ch04	1	reviewing 4
+section	4	4	ch01	1	section 3, sections 1
+seeking	4	1	ch02	1	seeking 4
+sentence	4	3	ch02	1	sentence 2, sentences 2
+series	4	4	ch04	1	series 4
+shape	4	2	ch02	1	shape 3, shapes 1
+shelf	4	3	introduction	1	shelf 4
+skill	4	3	ch07	1	skill 2, skills 2
+small business	4	1	ch03	2	small businesses 3, small business 1
+source	4	4	ch02	1	source 4
+specific	4	4	ch01	1	specifics 3, Specifics 1
+spreadsheet	4	3	ch01	1	spreadsheets 2, Spreadsheets 1, spreadsheet 1
+stall tactic	4	3	ch02	2	stalling tactic 4
+starting point	4	3	ch03	2	starting point 4
+strategy	4	3	ch05	1	strategy 4
+support	4	3	introduction	1	support 4
+switch	4	3	ch01	1	switch 4
+sync	4	2	ch02	1	sync 4
+tactic	4	3	ch02	1	tactic 4
+third	4	2	ch04	1	third 4
+tier	4	1	ch06	1	tier 3, tiers 1
+todo	4	2	ch02	1	todo 4
+todo list	4	2	ch02	2	todo list 3, todo lists 1
+training	4	3	ch05	1	training 4
+transfer	4	2	ch08	1	transfer 4
+unexpected answer	4	4	ch01	2	unexpected answer 3, unexpected answers 1
+version	4	4	ch01	1	version 3, versions 1
+view	4	3	ch01	1	view 2, views 2
+word	4	4	ch01	1	words 4
+workshop	4	3	ch06	1	workshops 3, workshop 1
+" thank	3	3	ch02	2	“Thanks 2, "Thanks 1
+( compliment	3	1	ch02	2	(Compliment 3
+ability	3	1	ch03	1	ability 3
+action	3	2	ch01	1	actions 2, action 1
+advertiser	3	3	ch03	1	advertisers 2, advertiser 1
+amount	3	3	ch03	1	amount 2, amounts 1
+anchor fluff	3	2	ch08	2	anchor fluff 2, Anchor fluff 1
+annoyance	3	3	ch02	1	annoyances 3
+area	3	2	ch03	1	area 3
+argument	3	2	ch07	1	arguments 2, argument 1
+b2b	3	3	ch01	1	B2B 3
+bad part	3	2	ch02	2	worst part 2, WORST PART 1
+bar	3	1	ch03	1	Bars 1, bar 1, bars 1
+batch	3	2	ch06	1	batch 3
+bet	3	2	ch02	1	bet 3
+big thank	3	2	ch03	2	big thanks 3
+board	3	3	ch06	1	board 3
+bolt	3	2	ch08	1	bolt 3
+buck	3	3	ch02	1	bucks 3
+calendar	3	1	ch04	1	calendar 3
+case study	3	1	ch05	2	case study 3
+circumstance	3	3	ch02	1	circumstances 2, circumstance 1
+clear next step	3	2	ch05	3	clear next steps 3
+cofounder	3	2	ch08	1	cofounder 2, cofounders 1
+cold call	3	1	ch06	2	cold calls 3
+collection	3	3	ch04	1	collection 3
+concept	3	2	introduction	1	concept 2, concepts 1
+concern	3	3	ch02	1	concerns 3
+conclusion	3	2	ch02	1	conclusion 3
+connection	3	2	ch06	1	connection 2, connections 1
+content	3	3	ch01	1	content 3
+control	3	2	ch02	1	control 3
+cook	3	1	ch01	1	cooks 3
+csv	3	1	ch02	1	CSV 3
+customer segmentation	3	2	ch07	2	customer segmentation 2, Customer segmentation 1
+customer ’ life	3	2	ch01	3	customers’ lives 3
+de	3	2	ch03	1	de 3
+decision maker	3	2	ch05	2	decision makers 2, decision maker 1
+deposit	3	2	ch01	1	deposit 2, Deposit 1
+desire	3	3	ch03	1	desire 2, desires 1
+desk research	3	2	ch08	2	desk research 3
+difference	3	2	ch05	1	difference 3
+e.piphany	3	3	introduction	1	E.piphany 3
+early conversation	3	2	ch04	2	early conversations 2, Early conversations 1
+early stage	3	2	ch05	2	early stage 3
+easy time	3	2	ch04	2	easier time 2, easy time 1
+equivalent	3	3	ch05	1	equivalent 3
+etc	3	1	conclusion	1	etc 2, Etc 1
+evernote	3	2	ch07	1	Evernote 3
+exact quote	3	1	ch08	2	exact quotes 2, exact quote 1
+exec	3	2	ch03	1	execs 2, exec 1
+failure point	3	2	ch01	2	failure points 3
+farmer	3	1	ch03	1	farmers 2, farmer 1
+field	3	3	ch06	1	field 3
+first company	3	3	introduction	2	first company 3
+first customer	3	2	introduction	2	first customer 2, First customers 1
+fluff - induce question	3	1	ch02	4	fluff-inducing question 2, Fluff-inducing questions 1
+follow - up	3	3	ch01	3	follow-ups 3
+food store	3	1	ch07	2	food stores 3
+formality	3	2	introduction	1	formality 3
+format	3	2	ch06	1	format 3
+front	3	3	ch02	1	front 3
+funnel	3	2	ch05	1	funnel 3
+future promise	3	2	ch02	2	future promises 2, future promise 1
+gadget	3	1	ch03	1	gadgets 2, gadget 1
+generic claim	3	1	ch02	2	Generic claims 1, generic claim 1, generic claims 1
+good news	3	2	ch02	2	good news 3
+google reader	3	1	ch03	2	Google Reader 3
+great way	3	3	ch03	2	great way 3
+hack	3	2	ch06	1	hack 3
+hard time	3	3	ch03	2	hard time 1, hard times 1, harder time 1
+health	3	1	ch07	1	health 3
+health food	3	1	ch07	2	health food 3
+health food store	3	1	ch07	3	health food stores 3
+hire	3	1	ch08	1	hire 3
+house	3	1	ch03	1	house 3
+huge success	3	2	ch03	2	huge success 3
+hustle	3	2	ch03	1	hustle 3
+hypothetical	3	2	ch01	1	hypotheticals 3
+ideal customer	3	2	ch03	2	ideal customers 3
+important thing	3	3	ch03	2	important thing 2, important things 1
+intent	3	2	ch04	1	intent 2, intents 1
+interest	3	3	ch02	1	interest 3
+internet	3	3	ch02	1	internet 3
+issue	3	3	ch03	1	issues 2, issue 1
+knowledge	3	3	introduction	1	knowledge 3
+la - la - land	3	2	ch02	5	la-la-land 3
+lasagna	3	1	ch01	1	lasagna 3
+lawyer	3	2	ch03	1	lawyers 2, lawyer 1
+learn bottleneck	3	2	ch08	2	learning bottleneck 3
+lightning	3	2	ch08	1	lightning 3
+lightning bolt	3	2	ch08	2	lightning bolt 3
+little bit	3	3	ch01	2	little bit 3
+load	3	2	ch01	1	load 2, loads 1
+loyalty app	3	1	ch02	2	loyalty apps 2, loyalty app 1
+lukewarm response	3	1	ch03	2	lukewarm response 2, lukewarm responses 1
+maker	3	2	ch05	1	makers 2, maker 1
+man	3	3	ch01	1	man 2, Man 1
+management	3	3	ch02	1	management 3
+market risk	3	1	ch03	2	market risk 2, Market risk 1
+maximum	3	2	ch04	1	maximum 3
+mckinsey	3	1	ch06	1	McKinsey 3
+message	3	2	ch06	1	message 2, messages 1
+model	3	3	introduction	1	model 3
+monologue	3	2	ch02	1	monologue 3
+more money	3	1	ch03	2	more money 3
+motion	3	2	ch08	1	motions 3
+much time	3	2	ch01	2	much time 3
+next time	3	2	ch02	2	next time 3
+opening	3	2	ch03	1	opening 3
+organisation	3	1	ch07	1	organisations 3
+organiser	3	2	ch03	1	organisers 3
+other hand	3	3	ch01	2	other hand 3
+other person	3	2	ch02	2	other person 3
+overhead	3	2	ch04	1	overhead 3
+parent	3	1	ch07	1	parent 2, parents 1
+police	3	1	conclusion	1	police 3
+possibility	3	3	introduction	1	possibilities 2, possibility 1
+premature zoom	3	2	ch03	2	premature zoom 3
+pricing	3	3	ch01	1	pricing 3
+professional	3	2	ch06	1	professionals 3
+professor	3	2	ch06	1	Professors 2, professor 1
+promotion	3	2	ch03	1	promotion 3
+public speaker	3	3	ch03	2	public speakers 2, public speaker 1
+purchasing criterion	3	2	ch08	2	purchasing criteria 3
+purchasing process	3	3	ch01	2	purchasing process 3
+rate	3	1	ch06	1	rate 3
+resource	3	3	ch04	1	resource 2, resources 1
+responsibility	3	2	introduction	1	responsibility 3
+return	3	3	ch01	1	return 3
+revenue	3	3	ch03	1	revenue 2, Revenue 1
+right direction	3	2	ch04	2	right direction 3
+sale organisation	3	1	ch07	2	sales organisations 3
+salespeople	3	1	ch07	1	salespeople 3
+salesperson	3	1	ch07	1	salespeople 3
+saving	3	3	ch01	1	savings 3
+scale	3	3	ch04	1	scale 2, scales 1
+scary question	3	3	ch03	2	scary questions 2, scary question 1
+secret	3	3	ch02	1	secret 3
+share	3	3	ch01	1	share 3
+site	3	3	introduction	1	site 3
+size	3	2	ch03	1	size 3
+speed	3	2	ch04	1	speed 3
+staff	3	3	ch02	1	staff 3
+staying	3	1	ch03	1	staying 3
+staying fit	3	1	ch03	2	staying fit 3
+storage	3	2	ch08	1	storage 3
+study	3	1	ch05	1	study 3
+survey	3	3	ch01	1	survey 2, surveys 1
+time cost	3	3	ch03	2	time cost 3
+trap	3	3	ch02	1	trap 2, traps 1
+trouble	3	3	ch06	1	trouble 3
+wallet	3	2	ch02	1	wallet 3
+wedding	3	1	ch07	1	wedding 3
+weight	3	2	ch02	1	weight 3
+well customer	3	3	ch01	2	better customer 3
+whoop	3	2	ch01	1	Whoops 3
+worldview	3	3	ch01	1	worldview 2, worldviews 1
+x.	3	3	ch02	1	X. 3
+z.	3	2	ch02	1	Z. 3
+zombie	3	2	ch05	1	zombie 3
+zombie lead	3	2	ch05	2	zombie leads 3

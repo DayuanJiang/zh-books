@@ -1,0 +1,45 @@
+name	pattern	mentions	chapters	first
+Rob Fitzpatrick	\b(?:Rob\ Fitzpatrick|Fitzpatrick|Rob)\b	2	1	ch03
+Steve Blank	\b(?:Steve\ Blank|Blank)\b	5	4	introduction
+Marcy	\bMarcy\b(?! [A-Z][a-z])	1	1	ch01
+Steve Jobs	\b(?:Steve\ Jobs|Jobs)\b	1	1	ch02
+Elon Musk	\b(?:Elon\ Musk|Musk|Elon)\b	2	1	ch02
+Reid Hoffman	\b(?:Reid\ Hoffman|Hoffman|Reid)\b	2	1	ch02
+Gordon Ramsey	\b(?:Gordon\ Ramsey|Ramsey|Gordon)\b	2	1	ch02
+Joel Gascoigne	\b(?:Joel\ Gascoigne|Gascoigne|Joel)\b	1	1	ch06
+Paul Graham	\b(?:Paul\ Graham|Graham|Paul)\b	2	2	ch06
+Kevin Bacon	\b(?:Kevin\ Bacon|Bacon|Kevin)\b	1	1	ch06
+Pete	\bPete\b(?! [A-Z][a-z])	2	2	ch06
+Scott	\bScott\b(?! [A-Z][a-z])	1	1	ch06
+Tim	\bTim\b(?! [A-Z][a-z])	1	1	ch06
+Tom	\bTom\b(?! [A-Z][a-z])	1	1	ch06
+A. G. Lafley	\b(?:A\.\ G\.\ Lafley|Lafley)\b	2	2	ch08
+Roger Martin	\b(?:Roger\ Martin|Martin|Roger)\b	2	2	ch08
+Alexander	\bAlexander\b(?! [A-Z][a-z])	2	1	conclusion
+Daniel Tenner	\b(?:Daniel\ Tenner|Tenner|Daniel)\b	1	1	acknowledgments
+Andreas Klinger	\b(?:Andreas\ Klinger|Klinger|Andreas)\b	1	1	acknowledgments
+Veronica Torras	\b(?:Veronica\ Torras|Torras|Veronica)\b	1	1	acknowledgments
+Dave Chapman	\b(?:Dave\ Chapman|Chapman|Dave)\b	2	1	acknowledgments
+Salim Virani	\b(?:Salim\ Virani|Virani|Salim)\b	2	1	acknowledgments
+Sabrina Kiefer	\b(?:Sabrina\ Kiefer|Kiefer|Sabrina)\b	1	1	acknowledgments
+Madeleine Evans	\b(?:Madeleine\ Evans|Evans|Madeleine)\b	1	1	acknowledgments
+Spike Morelli	\b(?:Spike\ Morelli|Morelli|Spike)\b	1	1	acknowledgments
+Adele Barlow	\b(?:Adele\ Barlow|Barlow|Adele)\b	1	1	acknowledgments
+Orsolya Toth	\b(?:Orsolya\ Toth|Toth|Orsolya)\b	1	1	acknowledgments
+Devin	\bDevin\b(?! [A-Z][a-z])	1	1	acknowledgments
+Laurence	\bLaurence\b(?! [A-Z][a-z])	1	1	acknowledgments
+Ryan	\bRyan\b(?! [A-Z][a-z])	1	1	acknowledgments
+Saul Klein	\b(?:Saul\ Klein|Klein|Saul)\b	1	1	acknowledgments
+Peter Read	\b(?:Peter\ Read|Peter)\b	1	1	acknowledgments
+Andy C	\b(?:Andy\ C|Andy)\b	1	1	acknowledgments
+Ian	\bIan\b(?! [A-Z][a-z])	1	1	acknowledgments
+Tom Stone	\b(?:Tom\ Stone|Stone)\b	1	1	acknowledgments
+John Spindler	\b(?:John\ Spindler|Spindler|John)\b	1	1	acknowledgments
+Tim Barnes	\b(?:Tim\ Barnes|Barnes)\b	1	1	acknowledgments
+Eric Ries	\b(?:Eric\ Ries|Ries|Eric)\b	1	1	acknowledgments
+Amy Hoy	\b(?:Amy\ Hoy|Hoy|Amy)\b	1	1	acknowledgments
+Brant Cooper	\b(?:Brant\ Cooper|Cooper|Brant)\b	1	1	acknowledgments
+Richard Rumelt	\b(?:Richard\ Rumelt|Rumelt|Richard)\b	1	1	acknowledgments
+Neil Rackham	\b(?:Neil\ Rackham|Rackham|Neil)\b	1	1	acknowledgments
+Derek Sivers	\b(?:Derek\ Sivers|Sivers|Derek)\b	1	1	acknowledgments
+Devin Hunt	\b(?:Devin\ Hunt|Hunt)\b	1	1	acknowledgments

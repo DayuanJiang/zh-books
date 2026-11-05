@@ -1,0 +1,32 @@
+{
+  "title": "妈妈测试",
+  "originalTitle": "The Mom Test: how to talk to customers and learn if your business is a good idea when everybody is lying to you",
+  "authors": "Rob Fitzpatrick",
+  "reader": "bilingual",
+  "summary": "创业者罗布·菲茨帕特里克用一段段对话示范怎样和客户交谈：只问对方的生活和过去的具体经历，从客套话里分辨出真实的问题和承诺。",
+  "facts": [
+    "引言、8 章与结语",
+    "中英逐段对照"
+  ],
+  "cover": "",
+  "listed": true,
+  "chapterMaps": false,
+  "source": {
+    "epub": "Fitzpatrick - The Mom Test.epub",
+    "sha256": "d270b2929d768b76fd8ee0456c2642550d21747db343919e21c59e60e9d18af2"
+  },
+  "start": "introduction",
+  "chapters": [
+    {"id": "introduction", "file": "01-introduction.md", "status": "todo"},
+    {"id": "ch01", "number": 1, "file": "02-1-the-mom-test.md", "status": "draft"},
+    {"id": "ch02", "number": 2, "file": "03-2-avoiding-bad-data.md", "status": "todo"},
+    {"id": "ch03", "number": 3, "file": "04-3-asking-important-questions.md", "status": "todo"},
+    {"id": "ch04", "number": 4, "file": "05-4-keeping-it-casual.md", "status": "todo"},
+    {"id": "ch05", "number": 5, "file": "06-5-commitment-and-advancement.md", "status": "todo"},
+    {"id": "ch06", "number": 6, "file": "07-6-finding-conversations.md", "status": "todo"},
+    {"id": "ch07", "number": 7, "file": "08-7-choosing-your-customers.md", "status": "todo"},
+    {"id": "ch08", "number": 8, "file": "09-8-running-the-process.md", "status": "todo"},
+    {"id": "conclusion", "file": "10-conclusion-and-cheatsheet.md", "status": "todo"},
+    {"id": "acknowledgments", "file": "11-acknowledgements.md", "status": "todo"}
+  ]
+}

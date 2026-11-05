@@ -1,0 +1,147 @@
+entity	label	count	chapters	first
+Intro	FAC	2	1	ch05
+Anchor	FAC	1	1	ch02
+the App Store	FAC	1	1	ch01
+n’t	GPE	5	5	ch01
+Costa Rica	GPE	1	1	conclusion
+Ideas	GPE	1	1	ch02
+Kiev	GPE	1	1	conclusion
+LinkedIn	GPE	1	1	ch08
+London	GPE	1	1	acknowledgments
+Oxford	GPE	1	1	conclusion
+Tokyo	GPE	1	1	ch06
+UK	GPE	1	1	ch06
+YouTube	GPE	1	1	ch01
+la-la-	GPE	1	1	ch05
+Chapter 5	LAW	2	2	ch01
+Chapter 2	LAW	1	1	conclusion
+Chapter 4	LAW	1	1	conclusion
+Chapter 6	LAW	1	1	conclusion
+Chapter 7	LAW	1	1	conclusion
+Chapter 8)	LAW	1	1	conclusion
+Chapter 8) Taking	LAW	1	1	conclusion
+Africa	LOC	1	1	ch07
+American	NORP	1	1	ch07
+C.	NORP	1	1	ch03
+Indian	NORP	1	1	ch07
+s	NORP	1	1	ch03
+iPad	ORG	8	2	ch01
+Customer Development	ORG	4	2	introduction
+Deflect	ORG	3	2	ch02
+The Pathos Problem	ORG	3	2	ch02
+CSV	ORG	2	1	ch02
+Customer Slicing	ORG	2	1	ch07
+Google	ORG	2	2	ch01
+Habit	ORG	2	2	introduction
+Keeping it Casual	ORG	2	2	ch03
+MTV	ORG	2	2	introduction
+PDF	ORG	2	1	ch02
+Skype	ORG	2	1	ch06
+Amazon	ORG	1	1	ch07
+BS	ORG	1	1	acknowledgments
+CTO	ORG	1	1	ch08
+Chapters 1 & 3	ORG	1	1	conclusion
+Commitment & Advancement	ORG	1	1	ch01
+Customer Development, Design Thinking	ORG	1	1	introduction
+Deposit Sometimes	ORG	1	1	ch05
+Dropbox	ORG	1	1	ch01
+EBay	ORG	1	1	ch07
+Google Reader	ORG	1	1	ch03
+Hacker News	ORG	1	1	ch03
+Harvard	ORG	1	1	ch06
+Ideas	ORG	1	1	ch02
+Instagram	ORG	1	1	ch02
+Keep it Casual	ORG	1	1	ch08
+Lafley/Martin	ORG	1	1	acknowledgments
+Lafley/Martin’s	ORG	1	1	ch08
+Sony	ORG	1	1	introduction
+Stanford	ORG	1	1	ch06
+UN	ORG	1	1	conclusion
+VC	ORG	1	1	ch02
+Vision / Framing / Weakness / Pedestal / Ask	ORG	1	1	ch06
+Wordpress	ORG	1	1	ch03
+X.	ORG	1	1	ch02
+desk & office	ORG	1	1	ch06
+iPhone	ORG	1	1	ch01
+un	ORG	1	1	ch07
+Steve Blank	PERSON	5	4	introduction
+App Store	PERSON	3	1	ch01
+Alexander	PERSON	2	1	conclusion
+Background	PERSON	2	2	ch08
+Dave Chapman	PERSON	2	1	acknowledgments
+Goal	PERSON	2	2	ch08
+Groupon	PERSON	2	2	ch02
+Lean Startup	PERSON	2	1	introduction
+McKinsey	PERSON	2	1	ch06
+Paul Graham	PERSON	2	2	ch06
+Pete	PERSON	2	2	ch06
+Rob	PERSON	2	1	ch03
+Salim Virani	PERSON	2	1	acknowledgments
+Adele Barlow	PERSON	1	1	acknowledgments
+Amy Hoy	PERSON	1	1	acknowledgments
+Andreas Klinger	PERSON	1	1	acknowledgments
+Andy C	PERSON	1	1	acknowledgments
+Braintrust	PERSON	1	1	acknowledgments
+Brant Cooper	PERSON	1	1	acknowledgments
+Buffer	PERSON	1	1	ch06
+Daniel Tenner	PERSON	1	1	acknowledgments
+Derek Sivers	PERSON	1	1	acknowledgments
+Devin	PERSON	1	1	acknowledgments
+Devin Hunt	PERSON	1	1	acknowledgments
+Elon Musk	PERSON	1	1	ch02
+Eric Ries	PERSON	1	1	acknowledgments
+Generic	PERSON	1	1	ch02
+Gordian Knot	PERSON	1	1	conclusion
+Gordon	PERSON	1	1	ch02
+Gordon Ramsey	PERSON	1	1	ch02
+Hack	PERSON	1	1	conclusion
+Ian	PERSON	1	1	acknowledgments
+Joel Gascoigne	PERSON	1	1	ch06
+John Spindler	PERSON	1	1	acknowledgments
+Kevin Bacon’s	PERSON	1	1	ch06
+Kickstarter	PERSON	1	1	ch05
+Laurence	PERSON	1	1	acknowledgments
+Madeleine Evans	PERSON	1	1	acknowledgments
+Marcy	PERSON	1	1	ch01
+Neil Rackham	PERSON	1	1	acknowledgments
+Orsolya Toth	PERSON	1	1	acknowledgments
+Peter Read	PERSON	1	1	acknowledgments
+Reid	PERSON	1	1	ch02
+Reid Hoffman	PERSON	1	1	ch02
+Richard Rumelt	PERSON	1	1	acknowledgments
+Ryan	PERSON	1	1	acknowledgments
+Sabrina Kiefer	PERSON	1	1	acknowledgments
+Salt	PERSON	1	1	ch02
+Saul Klein	PERSON	1	1	acknowledgments
+Somewhat	PERSON	1	1	ch06
+Spike Morelli	PERSON	1	1	acknowledgments
+Steve	PERSON	1	1	ch04
+Steve Jobs	PERSON	1	1	ch02
+Tim	PERSON	1	1	ch06
+Tim Barnes	PERSON	1	1	acknowledgments
+Tom	PERSON	1	1	ch06
+Tom Stone	PERSON	1	1	acknowledgments
+Twitter	PERSON	1	1	ch07
+Veronica Torras	PERSON	1	1	acknowledgments
+Versus	PERSON	1	1	ch03
+X. Want	PERSON	1	1	ch05
+bush	PERSON	1	1	ch08
+tablet apps	PERSON	1	1	ch03
+Excel	PRODUCT	4	1	ch02
+Workaround	PRODUCT	2	2	ch08
+Anchor	PRODUCT	1	1	conclusion
+CRM	PRODUCT	1	1	ch05
+Toastmasters	PRODUCT	1	1	ch07
+PhD	WORK_OF_ART	6	2	ch06
+The Mom Test	WORK_OF_ART	5	4	ch01
+Keeping it Casual	WORK_OF_ART	2	1	ch08
+Customer Development	WORK_OF_ART	1	1	introduction
+I’m an ‘Inbox 0	WORK_OF_ART	1	1	ch02
+MY LIFE AND I WILL PAY YOU	WORK_OF_ART	1	1	ch05
+Perfect	WORK_OF_ART	1	1	ch03
+THAT IS THE WORST	WORK_OF_ART	1	1	ch05
+The Meeting Anti-Pattern	WORK_OF_ART	1	1	ch04
+The Pathos Problem	WORK_OF_ART	1	1	ch02
+The Startup Owner’s Manual	WORK_OF_ART	1	1	introduction
+Toastmasters	WORK_OF_ART	1	1	ch07
+Very Few Wizards Properly Ask	WORK_OF_ART	1	1	ch06
