@@ -104,7 +104,7 @@
 | distillation | 蒸馏 |  |  | ch08 | 2 | 初定 |
 | diffusion model | 扩散模型 |  |  | ch04 | 16 | 初定 |
 | superintelligence | 超级智能 |  |  | prologue | 15 | 初定 |
-| AI safety / safety | AI 安全 / 安全 | 防止 AI 造成灾难性后果的研究和主张 | 安保（security） | prologue | 209 | 初定 |
+| AI safety / safety | AI 安全 / 安全 | 研究和应对 AI 可能造成的灾难性后果 | 安保（security） | prologue | 209 | 初定 |
 | security | 安保 / 安全（按搭配） | 公司安保、信息安全；cybersecurity 译“网络安全”；national security 译“国家安全” |  | prologue | 38 | 初定 |
 | Trust and Safety | 信任与安全团队 | 负责产品滥用和内容政策的团队 | AI 安全 | ch08 | 18 | 初定 |
 | alignment / superalignment | 对齐 / 超级对齐 |  |  | ch01 | 29 | 初定 |
