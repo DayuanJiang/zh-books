@@ -1,0 +1,110 @@
+term	chinese	first	count	chapters	example	decided by
+megaproject	超大型项目	introduction	25	8	Average practice is a disaster, best practice an outlier, as I would later point out in my findings about megaproject management.	Claude（初定）
+big project / big thing	大项目 / 大事	introduction	88	12	It was my first big project, and, after all, we only did what we had said we would do: turn a vision into a plan that was delivered as promised.	Claude（初定）
+Iron Law of Megaprojects / Iron Law	超大型项目铁律 / 铁律	ch01	5	2	The pattern was so clear that I started calling it the “Iron Law of Megaprojects”: over budget, over time, under benefits, over and over again.	Claude（初定）
+over budget, over time, under benefits, over and over again	超出预算，超出工期，效益不足，一再重演	ch01	3	1	The pattern was so clear that I started calling it the “Iron Law of Megaprojects”: over budget, over time, under benefits, over and over again.	Claude（初定）
+on budget / on time / on benefits	不超预算 / 按期 / 达到预期效益	introduction	27	9	Yet it finished on budget in 2004—eight years ahead of schedule.	Claude（初定）
+cost overrun / schedule overrun	成本超支 / 工期超期	ch01	65	10	The actual overrun was 55 percent, and 120 percent for the tunnel alone (in real terms, measured from the final investment decision).	Claude（初定）
+benefit shortfall	效益不足	ch01	5	1	But otherwise it was a broadly similar story of cost and schedule overruns and benefit shortfalls.	Claude（初定）
+estimate / forecast	估算 / 预测	introduction	155	12	Cost estimates soared, to $43 billion, $68 billion, $77 billion, then almost $83 billion.	Claude（初定）
+think slow, act fast / think fast, act slow	慢思考，快行动 / 快思考，慢行动	introduction	19	7	I call this pattern “Think fast, act slow,” for reasons I’ll explain later.	Claude（初定）
+planning / delivery	规划 / 实施	introduction	199	14	As a professor of planning and management, I’ve spent many years answering those questions.	Claude（初定）
+plan / planner	计划 / 规划者	introduction	124	12	How is a vision turned into a plan that becomes a triumphant new reality?	Claude（初定）
+window of doom / window	厄运之窗 / 窗口	ch01	10	3	Think of the duration of a project as an open window.	Claude（初定）
+Make haste slowly / festina lente	慢慢地赶快 / festina lente	ch01	3	1	You could even say that the idea goes at least as far back as Rome’s first emperor, the mighty Caesar Augustus, whose personal motto was “*Festina lente,*” or “Make haste slowly.”	Claude（初定）
+Projects don’t go wrong, they start wrong	项目一开始就错了	ch01	2	1	But phrasing it that way is misleading; projects don’t *go* wrong so much as they *start* wrong.	Claude（初定）
+honest numbers	“诚实的数字”	ch01	2	1	That experience taught me that megaproject management may not be a field of what University of Washington public affairs professor Walter Williams called “honest numbers.”	Claude（初定）
+black swan / black swan management	黑天鹅 / 黑天鹅管理	ch01	27	4	Nassim Nicholas Taleb famously dubbed low-probability, high-consequence events “black swans.”	Claude（初定）
+normal distribution / bell curve	正态分布 / 钟形曲线	ch01	10	2	Because it would be true if the cost overruns followed what statisticians call a “normal distribution.”	Claude（初定）
+fat tail / fat-tailed	肥尾 / 肥尾的	ch01	35	5	There are other distributions that are called “fat-tailed” because, compared with normal distributions, they contain far more extreme outcomes in their tails.	Claude（初定）
+thin-tailed	瘦尾	ch09	2	1	![Project types arranged from fat tails to thin tails](images/figure-2.jpeg)	Claude（初定）
+tail	尾部	ch01	40	5	In a normal distribution, results are overwhelmingly lumped in the middle and there are very few or no extreme observations at either end—the so-called tails of the distribution.	Claude（初定）
+regression to the mean / regression to the tail	均值回归 / 向尾部回归	ch01	7	3	Much of statistics is built upon bell curves—sampling, averages, standard deviations, the law of large numbers, regression to the mean, statistical tests—and it has filtered into the culture and into the popular imagination, where it fits well with how we intuitively grasp risk.	Claude（初定）
+power law	幂律	ch05	3	2	Scarier still, the overruns follow a power-law distribution, meaning that really extreme overruns are surprisingly common.	Claude（初定）
+normal accidents	“正常事故”	ch01	1	1	In complex systems, that happens so often that the Yale sociologist Charles Perrow called such events “normal accidents.”	Claude（初定）
+break-fix cycle	“边坏边修”的循环	ch01	2	2	I call this the “break-fix cycle.”	Claude（初定）
+commitment fallacy	承诺谬误	ch02	4	1	I call such premature lock-in the “commitment fallacy.”	Claude（初定）
+lock-in / lock in	锁定	ch02	5	2	Instead, shallow analysis is followed by quick lock-in to a decision that sweeps aside all the other forms the project could take.	Claude（初定）
+escalation of commitment	承诺升级	ch02	3	1	Again scholars call this phenomenon “lock-in” or “escalation of commitment.”	Claude（初定）
+rush to commit	急于承诺	ch02	2	1	Because they rush to commit.	Claude（初定）
+Commit to not commit	承诺暂不承诺	ch02	2	1	At first, commit to having an open mind; that is, commit to not committing.	Claude（初定）
+optimism / optimism bias	乐观 / 乐观偏差	introduction	25	8	And where there are thinking, judgment, and decisions, psychology is at play; for instance, in the guise of optimism.	Claude（初定）
+planning fallacy / planning fallacy writ large	规划谬误 / 放大版的规划谬误	ch02	2	1	They called this the “planning fallacy,” a term that with Harvard law professor Cass Sunstein I have also applied to underestimates of cost and overestimates of benefits.	Claude（初定）
+Hofstadter’s Law	侯世达定律	ch02	3	1	The physicist and writer Douglas Hofstadter mockingly dubbed it “Hofstadter’s Law”: “It always takes longer than you expect, even when you take into account Hofstadter’s Law.”	Claude（初定）
+bias for action / bias against thinking	行动偏好 / 排斥思考的偏好	ch02	5	2	A preference for doing over talking—sometimes distilled into the phrase “bias for action”—is an idea as common in business as it is necessary.	Claude（初定）
+strategic misrepresentation	策略性虚假陈述	ch02	9	2	One is what I call “strategic misrepresentation,” the tendency to deliberately and systematically distort or misstate information for strategic purposes.	Claude（初定）
+psychology and power	心理与权力	introduction	5	2	Psychology and power drive projects at all scales, from skyscrapers to kitchen renovations.	Claude（初定）
+bias / cognitive bias / behavioral bias	偏差 / 认知偏差 / 行为偏差	ch02	46	8	It is a behavioral bias on a par with the other biases identified by behavioral science.	Claude（初定）
+System One / System Two	系统 1 / 系统 2	ch02	13	1	One of the basic insights of modern psychology is that quick and intuitive “snap judgments” are the default operating system of human decision making—“System One,” to use the term coined by the psychologists Keith Stanovich and Richard West and made famous by Kahneman.	Claude（初定）
+WYSIATI (What You See Is All There Is)	所见即全部（WYSIATI）	ch02	4	2	Instead, it proceeds on the basis of what Kahneman calls “WYSIATI” (What You See Is All There Is), meaning an assumption that whatever information we have on hand is all the information available to make the decision.	Claude（初定）
+snap judgment / intuitive judgment	快速判断 / 直觉判断	ch02	10	2	One of the basic insights of modern psychology is that quick and intuitive “snap judgments” are the default operating system of human decision making—“System One,” to use the term coined by the psychologists Keith Stanovich and Richard West and made famous by Kahneman.	Claude（初定）
+sunk cost / sunk-cost fallacy	沉没成本 / 沉没成本谬误	ch02	7	1	But one element that is central to any account is the “sunk cost fallacy.”	Claude（初定）
+Start digging a hole	“先挖个坑”	ch02	5	2	“Start digging a hole and make it so big, there’s no alternative to coming up with the money to fill it in.”	Claude（初定）
+Driving into the Blizzard	冒着暴风雪开车	ch02	5	2	The higher the price the friends paid for the tickets—their sunk costs—the more likely they are to brave the blizzard and attempt driving to the game, investing more time, money, and risk.	Claude（初定）
+Somervell’s Spiral	萨默维尔螺旋	ch02	2	1	Why people spiral downward this way is an immensely important question that psychologists, economists, political scientists, and sociologists have studied for decades.	Claude（初定）
+think from right to left	从右向左思考	ch03	7	2	I call this “thinking from right to left.”	Claude（初定）
+the box on the right	右边的方框	ch03	14	5	In project planning, a standard tool is a flowchart that lays out, from left to right, what needs to be done and when, with the project concluding when the goal is achieved in the final box on the right.	Claude（初定）
+Why?	为什么？	ch03	6	3	Start with the most basic question of all: Why?*	Claude（初定）
+means and ends	手段与目的	ch03	2	1	That is what people say when they confuse means and ends.	Claude（初定）
+backcasting	回推法	ch03	3	1	“Backcasting” is used in urban and environmental planning.	Claude（初定）
+working backwards / PR/FAQ	逆向工作 / PR/FAQ	ch03	12	1	Robinson to deal with energy problems, backcasting starts by developing a detailed description of a desirable future state; then you work backwards to tease out what needs to happen for that imagined future to become reality.	Claude（初定）
+Pixar planning	皮克斯式规划	ch01	8	5	In chapter 4, I’ll take a close look at what I call “Pixar planning,” how the movie studio and others use simulation and iteration to produce a plan that is creative, rigorous, detailed, and reliable—and highly likely to make delivery smooth and swift.	Claude（初定）
+experiri	experiri	ch04	10	3	It is captured by a Latin verb, *experiri.	Claude（初定）
+experience / experienced	经验 / 有经验的	introduction	158	12	However, in addition to being a planner, I am an academic, and the more I studied how big projects come together—or fail to—the more I understood that my experience in Nepal was not normal.	Claude（初定）
+experiment / experimentation / testing	试验 / 测试	introduction	86	13	The designs were rigorously tested to ensure that they would work.	Claude（初定）
+experiential learning	经验学习	ch04	1	1	Or, to use the phrase of theorists, it is “experiential learning.”	Claude（初定）
+iteration / iterate	迭代	ch01	33	6	But “the costs of iterations are relatively low.”	Claude（初定）
+simulation / simulate	模拟	ch01	15	5	In chapter 4, I’ll take a close look at what I call “Pixar planning,” how the movie studio and others use simulation and iteration to produce a plan that is creative, rigorous, detailed, and reliable—and highly likely to make delivery smooth and swift.	Claude（初定）
+digital twin / CATIA	数字孪生 / CATIA	ch04	8	1	After landing the contract to design the Guggenheim Bilbao, Gehry and Chan spent the better part of two years working through iteration after iteration, with the work moving from the decidedly analog world of building blocks and cardboard to sophisticated digital simulation using software called CATIA.	Claude（初定）
+maximum virtual product	最大虚拟产品	ch04	3	1	When a minimum viable product approach isn’t possible, try a “maximum virtual product”—a hyperrealistic, exquisitely detailed model like those that Frank Gehry made for the Guggenheim Bilbao and all his buildings since and those that Pixar makes for each of its feature films before shooting.	Claude（初定）
+minimum viable product (MVP) / lean startup	最小可行产品（MVP）/ 精益创业	ch04	8	2	This is the “lean startup” model made famous by the entrepreneur Eric Ries in his 2011 book of the same name.	Claude（初定）
+brain trust	智囊团	ch04	2	1	The director also meets with a small group of other Pixar filmmakers, called the “brain trust,” who critique the film.	Claude（初定）
+illusion of explanatory depth	解释深度错觉	ch04	2	1	Third, an iterative process such as Pixar’s corrects for a basic cognitive bias that psychologists call the “illusion of explanatory depth.”	Claude（初定）
+learning curve / positive learning / negative learning	学习曲线 / 正向学习 / 负向学习	ch04	11	3	That’s called a “positive learning curve”: Things get easier, cheaper, and more effective with each iteration.	Claude（初定）
+uniqueness bias / unique	独特性偏差 / 独一无二	ch01	25	6	And it is certainly not unique.	Claude（初定）
+Eternal Beginner Syndrome	永远的新手综合征	ch05	1	1	The Olympics are forever planned and delivered by beginners—a crippling deficiency I call “Eternal Beginner Syndrome.”	Claude（初定）
+frozen experience / unfrozen	凝固的经验 / 未凝固的经验	ch05	8	2	The German philosopher Friedrich von Schelling called architecture “frozen music.”	Claude（初定）
+tacit knowledge	默会知识	ch05	6	2	But as the scientist and philosopher Michael Polanyi showed, much of the most valuable knowledge we can possess and use isn’t like that; it is “tacit knowledge.”	Claude（初定）
+phronesis / practical wisdom	phronesis / 实践智慧	ch05	15	4	Aristotle said that experience is “the fruit of years” and argued that it is the source of what he called “*phronesis*”—the “practical wisdom” that allows us to see what is good for people and to make it happen, which Aristotle saw as the highest “intellectual virtue.”	Claude（初定）
+masterbuilder	建造大师	ch07	10	3	He became what no masterbuilder wants to be or deserves to be.	Claude（初定）
+one-building architect	只有一座建筑的建筑师	ch07	1	1	He became a *one-building architect.*	Claude（初定）
+reference-class forecasting (RCF)	参照类别预测（RCF）	ch06	27	3	I came to call this process “reference-class forecasting” (RCF).	Claude（初定）
+reference class	参照类别	ch06	11	1	The phrase is “reference class.”	Claude（初定）
+outside view / inside view	外部视角 / 内部视角	ch06	14	3	Kahneman and Tversky dubbed these two perspectives the “inside view” (looking at the individual project in its singularity) and the “outside view” (looking at a project as part of a class of projects, as “one of those”).	Claude（初定）
+one of those	“其中之一”	ch05	10	4	It even achieved one of those superlatives people so desire—“world’s tallest”—without taking undue risks.	Claude（初定）
+anchoring and adjustment / anchor	锚定与调整 / 锚	ch06	35	1	In psychology, the process Caro used to create his forecast is known as “anchoring and adjustment.”	Claude（初定）
+base rate	基础比率	appendix-a	6	1	The numbers in the table are base rates for cost risk in project management.	Claude（初定）
+availability bias	可得性偏差	ch02	1	1	To put that in more general behavioral terms, people in power, which includes executives deciding about big projects, prefer to go with the quick flow of availability bias, as opposed to the slow effort of planning.	Claude（初定）
+survivorship bias	幸存者偏差	ch07	3	1	In the social sciences, “survivorship bias” is the common mistake of noting only those things that made it through some selection process while overlooking those that didn’t.	Claude（初定）
+mean / average	均值 / 平均值	introduction	45	10	The whole trip took two and a half hours, not much more than the time it would take the average Los Angeleno to drive to the airport, clear security, and get on a plane to queue on the tarmac, waiting for departure.	Claude（初定）
+unknown unknowns	未知的未知	ch06	8	1	They are the “unknown unknowns,” to use the term Donald Rumsfeld, then the US secretary of defense, made famous.	Claude（初定）
+risk mitigation / mitigate	降低风险 / 降低、减轻	ch06	23	4	Mitigation measures had been ineffective.	Claude（初定）
+contingency / reserve	应急储备 / 储备金	ch02	9	3	Unchecked, optimism leads to unrealistic forecasts, poorly defined goals, better options ignored, problems not spotted and dealt with, and no contingencies to counteract the inevitable surprises.	Claude（初定）
+buffer	缓冲资金 / 缓冲	ch01	4	1	The obvious way to do that is to build a buffer into the budget.	Claude（初定）
+in real terms / final investment decision / business case	按实际价值计算 / 最终投资决策 / 商业论证	ch01	6	4	The actual overrun was 55 percent, and 120 percent for the tunnel alone (in real terms, measured from the final investment decision).	Claude（初定）
+nuclear storage / water projects	核废料储存项目 / 水务项目	ch01	4	2	So are nuclear storage projects.	Claude（初定）
+inchstone / milestone	“寸程碑” / 里程碑	ch06	7	2	Doing this, we set milestones, the well-known management tool that places markers for the project to pass by specified dates.	Claude（初定）
+Hiding Hand / providential ignorance	隐藏之手 / 天赐的无知	ch07	5	2	He called it “providential ignorance.”	Claude（初定）
+ignorance / ignorant	无知 / 无知的	ch07	6	2	For that, Hirschman argued, we must thank ignorance; it’s our friend in getting projects started.	Claude（初定）
+Hero’s Journey	英雄之旅	ch07	2	1	They follow the perfect Hero’s Journey, with a narrative arc from great promise to near ruin to an even greater accomplishment and celebration.	Claude（初定）
+opportunity cost	机会成本	ch07	1	1	The simplest are what economists call “opportunity costs”: the money unnecessarily burned by bad planning that could have been used to fund something else, including other projects.	Claude（初定）
+single, determined organism	意志坚定的有机体	ch07	2	2	To take the final, critical step, you need a team—a single, determined organism—to act fast and deliver on time.	Claude（初定）
+team / integrated team	团队 / 一体化团队	ch01	64	10	It took five years, but with my team I got 258 projects into the database, making it the biggest of its kind at the time.	Claude（初定）
+psychological safety	心理安全感	ch08	2	1	Harvard professor Amy Edmondson dubbed this sense of being free to speak your mind “psychological safety.”	Claude（初定）
+design for manufacture and assembly	面向制造和装配的设计	ch08	2	2	This process, called “design for manufacture and assembly,” is how the hyperefficient car industry operates.	Claude（初定）
+modularity / modular	模块化 / 模块化的	ch01	53	4	In the final chapter, I’ll draw on the themes of the previous chapters to explore a concept that brings them all together: modularity.	Claude（初定）
+Lego	乐高积木 / 乐高	ch09	33	2	In fact, it is tiny, like a single block of Lego.	Claude（初定）
+scale-free scalability / scale up	无标度的可扩展性 / 扩大规模	ch08	18	4	But for projects that have to scale up—*way up*—this model is more than valuable; it is essential.	Claude（初定）
+one huge thing / many small things	一个庞然大物 / 许多小东西	ch09	19	1	Monju is one huge thing.	Claude（初定）
+repetition / repeat	重复	ch01	36	6	Still, management kept repeating their number in public, and I kept correcting them, until they did a public opinion poll that showed that the public sided with me.	Claude（初定）
+bespoke / bespokeness	定制 / 定制化	ch05	11	3	Or worse, we assume the same of something that is custom designed, which we praise as “unique,”“bespoke,” or “original.”	Claude（初定）
+heuristic	启发式	ch02	15	3	My key heuristic for managing optimism on projects is “You want the flight attendant, not the pilot, to be an optimist.”	Claude（初定）
+leadership / project leader	领导力 / 项目负责人	ch02	23	10	“Speed matters in business,” notes one of Amazon’s famous leadership principles, written by Jeff Bezos.	Claude（初定）
+climate crisis / climate change	气候危机 / 气候变化	ch01	16	6	And climate change.	Claude（初定）
+renewable energy / wind power / solar power	可再生能源 / 风电 / 太阳能发电	ch04	61	5	After all, an animated movie is as different from an art museum as an opera house is from a wind farm.	Claude（初定）
+high-speed rail	高铁	introduction	24	8	The project was called California High-Speed Rail.	Claude（初定）
+IT project	IT 项目	ch01	14	7	Its researchers had started investigating major information technology projects—the biggest of which cost more than $10 billion—and their preliminary numbers were so dismal that they said it would take a big improvement for IT projects to rise to the level of awfulness of transportation projects.	Claude（初定）
+tunnel-boring machine	隧道掘进机	ch01	11	4	First there was a yearlong delay in delivering four giant tunnel-boring machines.	Claude（初定）
+contractor	承包商	ch01	25	5	There would also be an underwater tunnel for trains—the second longest in Europe—which would be built by a Danish-led contractor.	Claude（初定）
+Flyvbjerg Database	傅以斌数据库	ch01	8	5	Our database started with transportation projects: the Holland Tunnel in New York; the BART system in San Francisco; the Channel Tunnel in Europe; bridges, tunnels, highways, and railways built throughout the twentieth century.	Claude（初定）
+Empty State Building	“空置大厦”	ch06	1	1	In the devastated economy, the Empire State Building struggled to attract paying tenants and was nicknamed the “Empty State Building” during the 1930s.	Claude（初定）

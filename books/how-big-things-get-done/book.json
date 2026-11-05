@@ -1,0 +1,38 @@
+{
+  "title": "怎样做成大事",
+  "originalTitle": "How Big Things Get Done: The Surprising Factors Behind Every Successful Project, from Home Renovations to Space Exploration",
+  "authors": "Bent Flyvbjerg, Dan Gardner",
+  "reader": "bilingual",
+  "summary": "牛津大学教授傅以斌根据一万六千多个项目的数据，讲大项目为什么总是超支和延期，以及怎样慢思考、快行动，把大事做成。",
+  "facts": [
+    "引言、9 章、结语与两篇附录",
+    "中英逐段对照",
+    "269 条注释"
+  ],
+  "cover": "assets/images/cover.jpg",
+  "listed": true,
+  "chapterMaps": false,
+  "source": {
+    "pdf": "book.pdf",
+    "sha256": "6ce78e6bc4fbd89eacd2256905d89ea8b3e61bcce5d8e6d3dd5ab42b9f5f5afd"
+  },
+  "start": "introduction",
+  "chapters": [
+    {"id": "dedication", "file": "02-dedication.md", "status": "todo"},
+    {"id": "introduction", "file": "04-introduction-california-dreamin.md", "status": "todo"},
+    {"id": "ch01", "number": 1, "file": "05-1-think-slow-act-fast.md", "status": "draft"},
+    {"id": "ch02", "number": 2, "file": "06-2-the-commitment-fallacy.md", "status": "todo"},
+    {"id": "ch03", "number": 3, "file": "07-3-think-from-right-to-left.md", "status": "todo"},
+    {"id": "ch04", "number": 4, "file": "08-4-pixar-planning.md", "status": "todo"},
+    {"id": "ch05", "number": 5, "file": "09-5-are-you-experienced.md", "status": "todo"},
+    {"id": "ch06", "number": 6, "file": "10-6-so-you-think-your-project-is.md", "status": "todo"},
+    {"id": "ch07", "number": 7, "file": "11-7-can-ignorance-be-your-friend.md", "status": "todo"},
+    {"id": "ch08", "number": 8, "file": "12-8-a-single-determined-organism.md", "status": "todo"},
+    {"id": "ch09", "number": 9, "file": "13-9-what-s-your-lego.md", "status": "todo"},
+    {"id": "coda", "file": "14-coda-eleven-heuristics-for.md", "status": "todo"},
+    {"id": "appendix-a", "file": "15-appendix-a-base-rates-for-cost.md", "status": "todo"},
+    {"id": "appendix-b", "file": "16-appendix-b-further-readings-by.md", "status": "todo"},
+    {"id": "acknowledgments", "file": "17-acknowledgments.md", "status": "todo"},
+    {"id": "about-the-authors", "file": "20-about-the-authors.md", "status": "todo"}
+  ]
+}
