@@ -7,14 +7,14 @@
   "facts": [
     "序章、18 章与尾声",
     "中英逐段对照",
-    "798 条来源注释"
+    "800 条注释"
   ],
   "cover": "assets/images/cover.jpg",
   "listed": true,
   "chapterMaps": false,
   "source": {
-    "epub": "book.epub",
-    "sha256": "678bbc0ef55e8c07022b83ae87ddca9c3607c48a6b73a885d566bb7b2d2ee1cd"
+    "epub": "prepared.epub",
+    "sha256": "3fc3697e12e9f69b8609412208fd8a9a369c38cf863865544853818c3eb71d05"
   },
   "start": "prologue",
   "chapters": [

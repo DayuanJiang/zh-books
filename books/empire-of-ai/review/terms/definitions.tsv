@@ -1,0 +1,190 @@
+chapter	signal	sentence
+epigraph	called	This maxim is nowhere so well fulfilled as in the area of computer programming, especially in what is called heuristic programming and artificial intelligence.
+authors-note	code name	Every scene, every number, every name and code name, and every technical detail about OpenAI’s models, such as the composition of their training data or the number of chips they were trained on, is corroborated by at least two people, with contemporaneous notes and documentation, or, in a few cases that I mark in the endnotes, with other media reporting.
+prologue	so-called	The founders asserted a radical commitment to develop so-called artificial general intelligence, what they described as the most powerful form of AI anyone had ever seen, not for the financial gains of shareholders but for the benefit of humanity.
+prologue	so-called	While ChatGPT and other so-called large language models or generative AI applications have now taken the limelight, they are but one manifestation of AI, a manifestation that embodies a particular and remarkably narrow view about the way the world is and the way it should be.
+prologue	so-called	Rarely have they seen any “trickle-down” gains of this so-called technological revolution; the benefits of generative AI mostly accrue upward.
+ch01	called	To his far-reaching Twitter following, Musk called the book “worth reading.”
+ch01	called	Around that time, he met Paul Graham, an entrepreneur and influential tech blogger who was beginning a new startup incubator called Y Combinator with his girlfriend Jessica Livingston.
+ch01	the term	Among Altman’s YC batchmates—the term for fellow founders in a YC cohort—were Steve Huffman and Chris Slowe, the respective cofounder and founding engineer of Reddit.
+ch01	called	But over time, those tiny “paper cuts,” as one person called them, led to an atmosphere of pervasive distrust and chaos at the company.
+ch01	called	In 2012, he started a personal investment fund called Hydrazine Capital with his brother Jack, who had studied economics at Princeton and was trying his hand at investment banking.
+ch01	Known as	Known as PG, Graham had made his name first as the cofounder of a startup, Viaweb, which Yahoo acquired in 1998 for $49 million, and then as a blogger who published popular essays on startups, entrepreneurship, and venture capital.
+ch01	called	In 2014, Altman returned to his alma mater, Stanford, to teach a class called How to Start a Startup.
+ch01	called	He invited Thiel to expand upon his signature philosophy in a lecture called “Competition Is for Losers.”
+ch01	called	He published a manifesto called “The United Slate,” with three principles: (1) prosperity from technology; (2) economic fairness; and (3) personal liberty.
+ch01	called	Annie’s actions would also make her story an inescapable part of understanding OpenAI’s trajectory and its impact on AI development: In 2021, she would make the decision to go public with serious allegations about Sam, claiming that he sexually abused her as a child—which her family has called “the worst” of her “untrue” accusations—and also that he and the rest of the family abandoned her when she was at her most vulnerable.
+ch02	called	In 2012, together with another one of Hinton’s grad students, Alex Krizhevsky, they shocked the AI world by sweeping the floor at an academic contest called ImageNet to build software for automatically identifying objects in photos.
+ch02	called	He called leading figures in the field to get their recommendations for a list of top AI talent.
+ch02	known as	In 2018, thousands of Google employees would protest a secret company contract with the Pentagon for its program known as Project Maven to develop AI-powered surveillance drones.
+ch02	called	It was her first time joining the throngs of AI researchers at the weeklong Neural Information Processing Systems, then called NIPS and later rebranded to NeurIPS for short.
+ch02	called	Clarke in the book *Profiles of the Future* called it, “a failure of imagination.”
+ch02	so-called	OpenAI, under Musk’s influence, seemed to stand out from other AI labs as the most willing to focus on so-called AI safety.
+ch02	called	Two years earlier, Daniela’s husband, Holden Karnofsky, had founded a nonprofit called Open Philanthropy to donate money in part based on EA principles.
+ch02	called	Open Phil, as it was called, would fast become the primary funder of catastrophic and existentially related AI safety research. (By November 2024, it had awarded more than three hundred AI-safety-related grants worth $440 million.)
+ch02	called	Around the same time Amodei published his paper, *ProPublica* published a groundbreaking investigation called “Machine Bias” that revealed algorithms were being used across the US criminal justice system in misguided attempts to predict future criminals, and those algorithms were classifying Black people as higher risk than white ones who had more extensive criminal records.
+ch02	known as	This rate of progress is known as Moore’s Law, based on a prediction that legendary Intel cofounder Gordon Moore first made in the 1960s, then revised a decade later, about how quickly his industry could innovate.
+ch02	Known as	Known as graphics processing units, or GPUs, they had originally been designed to quickly render graphics on computers, such as for giving video games a low-latency, glossy finish.
+ch02	called	Nvidia not only made the best GPUs in the world but also had developed a companion software platform called CUDA, short for Compute Unified Device Architecture, that had a powerful grip on AI developers.
+ch02	called	He called Reid Hoffman, who offered to step in and hold down employee salaries and operational costs.
+ch02	known as	The annual event, known as the “summer camp for billionaires,” had been the backdrop for many a major corporate deal.
+ch02	code-named	Internally, the project was code-named Oregon Trail.
+ch02	called	OpenAI had only one project that approached fitting the bill: a large language model called GPT-2 that was capable of generating passages of text that closely resembled human writing.
+ch02	what they called	In April 2019, a small group of those researchers flew to Seattle to give what they called the Gates Demo of a souped-up GPT-2.
+ch03	called	Where employees called the first office the Pioneer Building, the second, a former mayonnaise factory, would be nicknamed Mayo.
+ch03	The term	The term AGI, once relegated to an unpopular section of the technology dictionary, had only recently begun to gain more mainstream usage—in large part because of OpenAI.
+ch03	the term	AI, on the other hand, was the term du jour for both the version of the technology currently available and the version that researchers could reasonably attain in the near future through refining existing capabilities.
+ch03	known as	Those capabilities—rooted in powerful pattern matching known as machine learning—had already demonstrated exciting applications in climate change mitigation and health care.
+ch03	called	Just that summer, a group of researchers backed by some of the field’s most prominent scientists had formed a new organization called Climate Change AI, to spur the application of AI techniques and models that could meaningfully make a difference to climate-related challenges.
+ch03	known as	The paper goes on to define what would become known as the Turing test: a measure of the progression of machine intelligence based on whether a machine can talk to a human without giving away that it is a machine.
+ch03	called	After trying “the people route” for a while, as he called it, he sought ways to off-load executive responsibilities and spend the majority of his time programming.
+ch04	the term	John McCarthy, the Dartmouth professor who convened the workshop, initially used the term *automata studies* to describe the pursuit of machines capable of automatic behavior.
+ch04	the term	He settled on the term *artificial intelligence*.
+ch04	The term	The term lends itself to casual anthropomorphizing and breathless exaggerations about the technology’s capabilities.
+ch04	so-called	As software for each of these capabilities has advanced, researchers have subsequently sought to combine them into so-called multimodal systems—systems that can “see” and “speak,”
+ch04	known as	The first camp, known as the symbolists, believed that intelligence comes from knowing.
+ch04	so-called	Achieving AI must then involve encoding symbolic representations of the world’s knowledge into machines, creating so-called expert systems.
+ch04	called	The second camp, called the connectionists, believed that intelligence comes from learning.
+ch04	so-called	Developing AI should focus instead on creating so-called machine learning systems, such as by mimicking the ways our brains process signals and information.
+ch04	called	In 1969, he coauthored a book, called *Perceptrons*, so critical of connectionism that it is credited, along with the middling progress of neural networks, for killing off nearly all funding to that vein of research for more than fifteen years.
+ch04	called	In 1958, the same year that Rosenblatt’s Perceptron captivated *The New York Times*, Weizenbaum invented an AI system called ELIZA that similarly drew headlines.
+ch04	called	He later published a tome called *Computer Power and Human Reason* in the decade following Minsky’s *Perceptrons* that argued that humans and machines are different and the AI field’s attempt to blur that distinction would lead to profound societal consequences.
+ch04	known as	Each time the roadblocks mounted, funders would lose interest, plunging the field into a state of existential crisis known as an “AI winter.”
+ch04	so-called	To better mimic the human brain, the software likely needed multiple stacked and connected layers to form a so-called deep neural network.
+ch04	known as	Hinton and his coauthors made this change possible by using an algorithm known as backpropagation, which allows deep neural networks to exchange and process information across their layers.
+ch04	called	But deep neural networks—today, simply called “neural networks”—came several decades too early.
+ch04	known as	This is what’s known as training an AI model.
+ch04	known as	Once the model is done training, the developer can run it on new data—known as inferencing—to determine whether it fits the pattern.
+ch04	called	IBM called it quits after burning more than $4 billion with no end in sight and sold Watson Health for a quarter of that amount in 2022.
+ch04	called	They worked in parallel to develop deep learning models for machine translation, upgrading Google Translate; for text prediction, adding the suggested completions feature to Gmail; and for an ambitious new self-driving-car project called Waymo.
+ch04	a phrase	As I recounted this worry to a colleague, she introduced me to a phrase that had already been coined for the phenomenon: “data colonialism.”
+ch04	called	The following year, a paper called “Decolonial AI” from Shakir Mohamed and William Isaac at DeepMind and Marie-Therese Png at the University of Oxford reinforced a suspicion I had begun to develop: The AI industry, in equal parts fueled by and fueling this datafication, was in turn accelerating that new colonialism further.
+ch04	called	Both would later share the 2018 Turing Award, often called the “Nobel Prize of Computing,” with Yoshua Bengio, a professor at the Université de Montréal, for their foundational work in deep learning.
+ch04	known as	Dawn Song, a professor at the University of California, Berkeley, who specializes in this area of research, known as “adversarial attacks,” showed that prompting a language model with the right message caused it to spit out sensitive data such as credit card numbers.
+ch04	called	Early in her career, Deborah Raji, the Berkeley AI accountability researcher, who is Nigerian Canadian, interned at an AI startup called Clarifai that was building a deep learning model for detecting images that were “not safe for work.”
+ch04	called	Four years earlier, Marcus coauthored a book called *Rebooting AI*, asserting that these issues *were* inherent to deep learning.
+ch04	known as	Marcus advocated instead for combining connectionism and symbolism, a strain of research known as neurosymbolic AI.
+ch04	called	Not long after Google put its full weight behind Hinton and Sutskever, Marcus cofounded his own company, called Geometric Intelligence, in 2014.
+ch04	called	Microsoft’s Nadella has similarly called Bing’s AI chat “search, just better”—a tool “to be able to get to the right answers.”
+ch04	the term	Even the term *hallucinations* is subtly misleading.
+ch04	so-called	OpenAI’s Law, or what the company would later replace with an even more fevered pursuit of so-called scaling laws, is exactly the same.
+ch05	known as	In August 2017, that changed with Google’s invention of a new type of neural network known as the Transformer.
+ch05	called	In 2018, OpenAI released the first version of that model, called Generative Pre-Trained Transformer, later nicknamed GPT-1.
+ch05	called	The researchers on the team called it “reinforcement learning from human feedback.”
+ch05	called	His team called them collectively “scaling laws.”
+ch05	called	He’d tell them, “I’m like AI Wikipedia,” and would introduce his “bias,” as he called it, coming from OpenAI: “We want a stable policymaking environment for advanced tech that operates over multiple political administrations because the mission we have is not going to get done in a presidential cycle.”
+ch05	called	This was frequently discussed at lunches and in company meetings, as well as in an internal document called “Research Community Outreach Brainstorming.”
+ch05	called	Amodei treated it like an investor: He called it having “a portfolio of bets.”
+ch05	called	In the fall of 2019, Amodei assembled a team, called Nest, of mostly other AI safety researchers, intent on keeping careful control of GPT-3’s development within the company.
+ch05	known as	It also needed to determine a strategy for how to spread the training across all ten thousand chips, a process known as sharding: Was it better, say, to chop up the model into tens, hundreds, or thousands of pieces, with each piece training on separate clusters of GPUs before being merged?
+ch05	called	So Nest expanded the data by adding an even broader scrape of links shared on Reddit as well as a scrape of English-language Wikipedia and a mysterious dataset called Books2, details of which OpenAI has never disclosed, but which two people with knowledge of the dataset told me contained published books ripped from Library Genesis, an online shadow repository of torrented books and scholarly articles.
+ch05	known as	So Nest turned finally to a publicly available dataset known as Common Crawl, a sprawling data dump with petabytes, or millions of gigabytes, of text, regularly scraped from all over the web—a source Radford had purposely avoided because it was such poor quality.
+ch05	called	When this still wasn’t enough, OpenAI employees also gathered whatever they could find on the internet, scraping links shared on Twitter, transcribing YouTube videos, and cobbling together a long tail of other content, including from niche blogs, existing online data dumps, and a text storage site called Pastebin.
+ch05	known as	Google was a lot more conservative about data access and usage and had a rigorous protocol for complying with regulations including Europe’s data privacy law, colloquially known as the GDPR.
+ch05	what they called	In a 2023 paper, Abeba Birhane and her coauthors would introduce the concept of “hate scaling laws” to critique the premise of training deep learning models on unfiltered data, or what they called “data-swamps.”
+ch06	known as	Rickover, an admiral in the US Navy, known as the “father of the nuclear navy” for his work building the world’s first nuclear-powered submarines.
+ch06	called	Google had published research at the start of the year about a new chatbot called Meena, built on a large language model with 1.7 times more parameters than GPT-2.
+ch06	known as	The tech giant had indeed begun working on a larger model than Meena, known as LaMDA, to produce a better chatbot—but it was still modestly smaller than GPT-3, and the company would ultimately decide not to release it until after ChatGPT.
+ch06	known as	Some employees also worried about repeating an infamous Microsoft scandal: In 2016, Microsoft had released an AI-powered chatbot known as Tay that quickly turned racist and misogynistic, and espoused support for Hitler, after users repeatedly prompted the chatbot to repeat inappropriate and offensive things.
+ch06	called	Anthropic people would later frame The Divorce, as some called it, as a disagreement over OpenAI’s approach to AI safety.
+ch06	the phrase	In Anthropic meetings, Amodei would regularly punctuate company updates with the phrase “unlike Sam” or “unlike OpenAI.”
+ch07	so-called	Strubell also estimated the energy and carbon costs of work highlighted in a recent Google paper, in which researchers had developed a so-called Evolved Transformer by using an optimization algorithm known as Neural Architecture Search to tweak and tune the Transformer through exhaustive trial and error until it found the best-performing configuration of the neural network.
+ch07	called	This included a groundbreaking paper called “Gender Shades,” which then MIT researcher Joy Buolamwini began during her master’s thesis and Gebru later joined as coauthor.
+ch07	called	She called out her colleagues for ignoring her and emphasized how dangerous it was to have a large language model trained on Common Crawl, which included online internet forums such as Reddit.
+ch07	known as	Google, however, had used its own specialized chips known as tensor processing units, or TPUs, which are more energy efficient, as well as other techniques to drive down the energy costs of the full development pipeline.
+ch07	called	A Google spokesperson called this “unfortunate,” adding that “many researchers will be needed to advance this research—clearly carbon emissions are a significant concern.”
+ch07	so-called	Without an ability to audit the training data, this so-called train-test-split paradigm falls apart.
+ch08	called	Some of these it called “2x” and “10x” methods—those that might be able to achieve 2x or 10x gains in compute efficiency.
+ch08	so-called	The suggested methods included distillation, reverse engineering smaller models from larger ones; data filtering, finding the data that would produce the biggest leaps in performance; and sparsity, developing so-called sparse, or lighter weight, AI models.
+ch08	called	OpenAI called this process of stress testing and refining the model “red teaming,” a term borrowed from the cybersecurity industry that refers to a systematic and thorough process of verifying the security of an organization and its capabilities to respond to an attack.
+ch08	called	One early customer that triggered significant internal discussion was Luka, a San Francisco–based company designing an AI-powered virtual companion app called Replika.
+ch08	called	In another instance, Brockman gave API access to a Utah-based startup where his brother worked called Latitude, building AI-powered virtual worlds.
+ch08	called	In the end, Microsoft donated some money to an existing program for supporting open-source developers called GitHub Sponsors and left the product vision unaltered.
+ch08	called	In this respect, Altman was also keen on code generation as a way to accelerate OpenAI’s own economically valuable work, a belief that would later feed into the start of an effort called AI Scientist, about advancing OpenAI’s models to autonomously perform AI research.
+ch08	known as	By OpenAI’s internal measures, the results did indeed suggest that the addition of coding data improved the model’s ability to perform logic-based tasks, not just in code, but in English—a phenomenon known as transfer learning.
+ch08	called	In the summer of 2021, OpenAI delivered an initial rough version of its code-gen model, called Codex, to GitHub and Microsoft.
+ch08	called	That year a startup he’d cofounded in 2019 called Tools for Humanity that had remained largely quiet saw an influx of funding and media coverage and a concerted ramp-up in its operations, as Altman directed more external attention to the company.
+ch08	called	At YC he had started the largest pilot in the US to study the concept, spinning out a nonprofit in the process called OpenResearch that administered the program.
+ch08	called	Also in 2021, Altman made his two largest ever investments: $180 million into an antiaging company called Retro Biosciences, working to extend human lifespans through cellular rejuvenation, and $375 million into Helion Energy, working to commercialize nuclear fusion.
+ch08	called	While at YC, Altman had also signed up with a $10,000 deposit to be on the wait list of a controversial startup called Nectome, which had been in one of the accelerator’s batches.
+ch08	called	To Antonio Regalado, cofounder Robert McIntyre called his product “100 percent fatal.”
+ch09	called	Originally called Samasource, it was a San Francisco–based social enterprise that had begun in 2008 with a mission of providing meaningful, dignified work to people in impoverished countries to lift them out of poverty.
+ch09	called	MTurk, as it was called, was a generalist platform, meaning it didn’t cater to any particular kind of work.
+ch09	called	The following year, it created a Venezuela-specific landing page for Remotasks and pushed users to join a new initiative called Remotasks Plus.
+ch09	called	It felt like a miracle when, in November 2021, Sama called him in for a new opportunity.
+ch09	called	Okinyi’s managers at Sama gave him an assessment they called a resiliency screening.
+ch09	called	For each stream, Sama assigned a group of workers, called agents, to read and sort the texts per OpenAI’s instructions.
+ch09	called	They called each other husband and wife.
+ch09	called	In March 2022, Sama leadership called in everyone for a meeting and told them they were terminating the contract with OpenAI.
+ch09	called	In a paper describing the work, the OpenAI researchers showed how the RLHF process had reduced the likelihood that the model would spew toxic outputs and improved its ability to, as they called it, “follow user instructions.”
+ch09	called	She left her husband, taking her kid with her, and joined an online app for the local “rainbow community,” as it was called.
+ch09	called	There was a project called Flamingo Generation, which gave her a topic and asked her to write “creative” prompts with a minimum of fifty words and responses that resembled “common internet content” like emails, blog posts, news articles, Twitter threads, and haikus.
+ch09	called	There was another project called Crab Generation, which asked her to copy a piece of reference text from an informative website of her choosing—though not Wikipedia and preferably not *Britannica* or *The New York Times*—and then to reverse engineer, *Jeopardy!*-style, the kind of writing prompt that could generate it.
+ch09	code name	Winnie didn’t know that the first word of each project name was Scale’s code name for its clients.
+ch09	so-called	In a great irony, many of those so-called scams were in fact workers using ChatGPT to generate their answers and speed up their productivity.
+ch09	called	Scale was now recruiting a fresh workforce primarily in the US with a new worker-facing platform called Outlier, offering as much as forty dollars an hour.
+ch10	called	Core to the EA philosophy is a mathematical concept called “expected value.”
+ch10	called	A decade earlier, Facebook cofounder Dustin Moskovitz and his wife, former journalist Cari Tuna, had formed a nonprofit called Good Ventures to give away most of their fortune.
+ch10	called	At the time, Holden Karnofsky, Daniela Amodei’s future husband, had been running a different organization called GiveWell, which he’d founded in 2007 after leaving the hedge fund Bridgewater Associates.
+ch10	short for	How likely you think it is that AGI will lead to catastrophic outcomes, meaning the killing off of *most* of the human population, or existential outcomes, meaning the complete and total extinction of humanity, is your “p(doom),” short for *probability of doom*.
+ch10	known as	The two groups became colloquially known as the Doomers and Boomers.
+ch10	called	The first, called CLIP, developed once again by Alec Radford, used the original Transformer and Vision Transformer together to generate detailed captions for images.
+ch10	Known as	Known as diffusion, it was a technique inspired by physics that made it possible for Transformers to better learn the correlations between pixels in a vast swath of images.
+ch10	known as	Stable Diffusion, the popular open-source image generator, would require only 256 Nvidia A100s to train, using a revised technique known as latent diffusion.
+ch10	called	It settled on a web app called Labs that would allow users to play around with the model—and other future models—through a browser.
+ch10	known as	In the same way DALL-E could generate an avocado armchair having only ever seen avocados and armchairs, DALL-E 2 and DALL-E 3 could do the same thing with children and porn for child pornography, a capability known as “compositional generation.”
+ch10	so-called	This included updated content-moderation filters that wrapped around the model to block abusive images in addition to text as well as a user-behavior-monitoring platform and a so-called ban infrastructure—systems that automatically suspended user accounts that reached a certain threshold of repeat offenses.
+ch10	the term	Just adding the term “pro-choice” into the prompt, Jones found, produced scenes of a demon eating an infant and what appeared to be a drill labeled “pro choice” being used to mutilate a baby.
+ch10	called	This time those contractors were based in India through a vendor called Cogito and reviewed not just reams of text but images—synthetic and real—of the kinds of sexual and violent content that had been sent to Sama workers.
+ch10	called	He then used a speech-recognition tool called Whisper, which Radford had developed, to transcribe the videos into text for GPT-4.
+ch10	called	OpenAI had at that point formed a committee with Microsoft, called the Deployment Safety Board, or DSB, with three representatives from each company, to evaluate OpenAI’s cutting-edge models and determine whether they were ready for release.
+ch10	so-called	He tasked another with “known knowns,” or so-called scaled enforcement—the abuses that the company had already deemed as violating behavior and would need to automatically flag, review, and take action on, such as by suspending the accounts of repeat offenders.
+ch11	called	In an attempt to leverage the company’s own technology, the trust and safety team had prototyped a plan internally called Fact Factory, which OpenAI publicly touted, for using GPT-4 to content moderate its own outputs and that of other OpenAI models.
+ch11	called	In those early years, the team had set up a Slack channel called #explainlikeimfive that allowed employees to submit anonymous questions about technical topics.
+ch11	so-called	In November 2022, as users latched on to ChatGPT as if it were a search tool, spawning widespread speculation that it could unseat Google, an internal document noted that OpenAI’s model had hallucinated during an internal test on roughly 30 percent of so-called closed-domain questions.
+ch11	called	The first one, an optimized version of GPT-3.5, they called Sahara, which they released in February 2023 under the public name GPT-3.5 Turbo.
+ch11	called	Another they called Gobi, which would be an optimized version of one of its text-and-image models.
+ch11	called	A third one, meant to be an optimized version of GPT-4, they called Arrakis, the desert planet from the science fiction epic *Dune*.
+ch11	called	To fulfill that aggressive and escalating demand, the two companies were sketching out a new unprecedented project called Stargate to OpenAI and Mercury to Microsoft: a single supercomputer that, for its construction alone, would cost an estimated $100 billion.
+ch12	called	The US government subsequently embarked on a quest to refashion Chile’s economic policies to be more favorable to American business interests, launching a program in 1956 called “the Chile Project” to educate a hundred Chilean students at the University of Chicago under the intellectual tutelage of American economist Milton Friedman.
+ch12	known as	As each batch of graduates, known as “the Chicago Boys,” returned to Santiago, Friedman’s neoliberal ideas percolated through Chile’s intellectual elite, until they became part of ruling ideology.
+ch12	code-named	Microsoft code-named the Phase 1 supercomputer Odyssey; OpenAI called it Owl, after a convention it had started early on of naming each of the Research division’s compute clusters alphabetically after animals.
+ch12	code-named	Phase 3—code-named Inglewood at Microsoft and Whale at OpenAI—would cost several billion to build and house hundreds of thousands of Nvidia H100s, the generation after A100s, to train what OpenAI at the time believed it would likely brand as GPT-4.5 and GPT-5.
+ch12	called	From the 1930s to the 1990s, a cement factory that belonged to a Belgian company contaminated the community with lethal levels of asbestos, leading to what one Chilean historian called “the largest industrial genocide” in the country.
+ch12	known as	At the time, Chile was in the midst of a massive, monthslong political upheaval, known as the *Estallido Social*.
+ch12	called	Fabiana, the boisterous head of an *olla* who lives in an illegal settlement and is affectionately called *Reina Madre* (Queen Mother), grows quiet as she remembers it.
+ch12	called	They called their group *Resistencia Socioambiental Quilicura*—the Socio-environmental Resistance of Quilicura—drawing upon a well-established concept in Latin America that the social and the environmental are inextricably linked.
+ch13	called	Using a mechanism called export controls—a way to limit the sale of certain technologies to foreign countries on the grounds of national security—it clamped down without warning on the export of cutting-edge American-designed AI chips, primarily Nvidia’s, to China.
+ch13	called	Having amassed around the level of compute resources that OpenAI had through Microsoft, Meta was now full steam ahead on producing its equivalent of the GPT series, called Llama.
+ch13	so-called	Restricting access to so-called frontier models would thus do little to fix this.
+ch13	called	At the start of 2024, the approach would then spread to California with the introduction of a new AI safety bill called SB 1047, which would return to 10²⁶ as its threshold.
+ch13	a phrase	After DALL-E and ChatGPT, most executives and senior managers had grown increasingly comfortable with models as beneficial tools to be put into the world through “iterative deployment,” a phrase that OpenAI had coined between releases to describe its new approach.
+ch13	called	Altman called it the Alignment Manhattan Project.
+ch13	coined	In the third category, the draft linked to an article by Eliezer Yudkowsky, an extreme Doomer and leader in the AI safety community who had coined and popularized the phrase *friendly AI* to refer to well-aligned systems and wrote a beloved work of fan fiction called “Harry Potter and the Methods of Rationality.”
+ch14	called	Gibstine offered a brief statement emphasizing the family’s love for Annie and concern for her well-being while also denying Annie’s claims, which she called “horrible, deeply heartbreaking, and untrue.”
+ch14	called	She was leaning into her lifelong love of art and had written a draft of a book she called “The Humanual,” capturing her reflections on life and how to be a good human.
+ch14	called	Scared and alone, Annie logged on to an escort service called SeekingArrangement and showed her breasts to a man over a video call for enough money to bring her account out of the red.
+ch15	called	It was about a political science idea called “costly signals,” referring to the challenges that state and private actors face when signaling to the public about their intentions with AI regulation and development.
+ch15	called	Altman had indeed called her late on October 24 to talk about the paper.
+ch15	called	After hanging up with McCauley, Sutskever called Toner back.
+ch16	called	McCauley had called D’Angelo.
+ch16	called	On the night of Thursday, November 16, all four video called Murati.
+ch16	called	After what had seemed like an initial period of calm and stability, including Murati having a productive conversation with Microsoft, she had suddenly called them with new stress.
+ch16	called	At one point, the directors called Dario Amodei about the interim chief position.
+ch16	called	At the bottom of the letter was a section called “Further Reading for the General Public,” which listed three links.
+ch16	the phrase	He had simply received a copy of the letter in his personal email with zero explanation; when he tried to follow up with questions, he received another mysterious response: a link to the Tor inbox with the phrase *capped\_profit*, which seemed to be a username, followed by what looked like a password.
+ch16	called	During the board crisis, one media report in particular had sparked a fresh wave of frenzied speculation: a Reuters article stating that the directors had received a letter from employees days before Altman’s firing about a supposedly new research breakthrough, an algorithm called Q\*.
+ch16	code-named	The project was code-named Orion, after the constellation.
+ch17	so-called	Scallion would be the first launch happening under a new so-called Preparedness Framework, which OpenAI had released at the end of the previous year.
+ch17	called	In the movie *Her*, the AI assistant, which evolves and gets smarter over time, is called OS1.
+ch17	known as	Kokotajlo found the provision—known as a clawback clause—unacceptable.
+ch17	called	In a channel called #i-have-a-question, a place for employees to ask about anything, someone posted a link to Piper’s tweet.
+ch17	coined	Around the office, employees coined a new term: Omnicrisis.
+ch17	called	When Lourd called Altman demanding answers, Altman had been incredulous.
+ch17	called	On May 19, the company had then published a blog post, writing that the voice demoed on stage for 4o, called Sky, belonged to a different voice actress cast through a process that began in early 2023.
+ch18	the phrase	First, the mission centralizes talent by rallying them around a grand ambition, exactly in the way John McCarthy did with his coining of the phrase *artificial intelligence*.
+ch18	called	“When we originally set up the Microsoft deal, we came up with this thing called the sufficient AGI clause,” a clause that determined the moment when OpenAI would stop sharing its IP with Microsoft.
+epilogue	called	In addition, Te Hiku benefited from the cross-border, open-source AI community: As its starting point, it used a free speech-recognition model from the Mozilla Foundation called DeepSpeech, which itself is an artifact of a different vision of AI development.
+epilogue	called	Half a year later, after going public about his OpenAI experience through my article in *The Wall Street Journal*, he also started a nonprofit of his own called Techworker Community Africa, TCA, with one of his former Sama colleagues Richard Mathenge.
+acknowledgments	called	Thank you to everyone else who supported me in my reporting trips, especially Stephen Thuo Kiguru, my intrepid guide through Nairobi who was there for anything I needed and whose humor and relentless optimism remained unflappable even when someone called the cops on him after one of our excursions due to a gross miscommunication.
+acknowledgments	the phrase	When I started realizing and turning my attention to the vast global inequality that AI was perpetuating, Niall was also instrumental in supporting my new line of inquiry, as was Angela, the colleague I referenced in chapter 4 who identified the phrase “data colonialism” in existing scholarship and helped point me in the right direction.

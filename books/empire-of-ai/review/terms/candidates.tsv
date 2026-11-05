@@ -1,0 +1,3502 @@
+candidate	frequency	chapters	first	words	forms
+openai	1020	22	authors-note	1	OpenAI 1016, openai 3, openAI 1
+ai	832	23	authors-note	1	AI 830, AIs 1, Ais 1
+altman	672	20	epigraph	1	Altman 672
+company	604	24	epigraph	1	company 477, companies 118, Companies 8
+model	564	20	authors-note	1	model 297, models 256, Model 6
+one	505	22	authors-note	1	one 437, One 43, ones 25
+new	392	21	prologue	1	new 345, New 47
+time	361	22	authors-note	1	time 268, times 66, Times 19
+people	350	23	epigraph	1	people 329, People 18, peoples 3
+data	343	22	authors-note	1	data 335, Data 8
+datum	343	22	authors-note	1	data 335, Data 8
+research	334	21	prologue	1	research 288, Research 46
+year	280	21	authors-note	1	years 169, year 110, Years 1
+employee	278	21	authors-note	1	employees 200, employee 73, Employees 5
+models	261	19	authors-note	1	models 256, Models 5
+sutskever	256	16	prologue	1	Sutskever 256
+gpt	255	19	prologue	1	GPT 255
+team	248	20	authors-note	1	team 212, teams 34, Team 1
+google	245	17	authors-note	1	Google 244, google 1
+work	230	22	prologue	1	work 227, Work 3
+researcher	225	20	prologue	1	researchers 157, researcher 62, Researchers 6
+first	223	22	epigraph	1	first 211, First 12
+microsoft	222	20	authors-note	1	Microsoft 222
+way	218	22	epigraph	1	way 169, ways 48, WAY 1
+board	211	16	prologue	1	board 208, Board 3
+safety	209	19	prologue	1	safety 152, Safety 57
+technology	202	22	authors-note	1	technology 129, technologies 56, Technology 15
+brockman	188	18	prologue	1	Brockman 188
+now	181	20	prologue	1	now 145, Now 36
+say	179	20	epigraph	1	says 123, say 56
+world	168	24	dedication	1	world 156, World 9, worlds 3
+day	164	21	prologue	1	day 95, days 63, Days 4
+project	164	19	prologue	1	project 102, projects 50, Project 11
+worker	161	11	prologue	1	workers 131, worker 21, Workers 9
+made	157	22	epigraph	1	made 156, MADE 1
+musk	152	13	prologue	1	Musk 152
+agi	150	19	prologue	1	AGI 149, AGIs 1
+language	145	16	epigraph	1	language 131, languages 10, Language 4
+workers	140	11	prologue	1	workers 131, Workers 9
+sam	137	16	epigraph	1	Sam 137
+scale	136	19	authors-note	1	scale 77, Scale 58, scales 1
+thing	134	21	prologue	1	things 75, thing 59
+industry	129	19	authors-note	1	industry 125, industries 4
+learning	128	19	ch01	1	learning 125, Learning 3
+annie	127	6	ch01	1	Annie 126, annie 1
+companies	126	22	epigraph	1	companies 118, Companies 8
+community	122	14	authors-note	1	community 77, communities 41, Community 3
+executive	121	20	authors-note	1	executives 88, executive 26, Executives 7
+tech	119	21	prologue	1	tech 108, Tech 11
+center	116	16	prologue	1	center 62, centers 47, Center 7
+human	116	16	prologue	1	human 84, humans 26, Human 4
+part	116	22	authors-note	1	part 91, parts 21, Part 3
+product	115	18	prologue	1	product 67, products 48
+paper	114	18	prologue	1	paper 100, papers 14
+public	114	21	authors-note	1	public 113, Public 1
+question	112	22	epigraph	1	questions 64, question 47, Question 1
+gpt-3	109	12	ch04	1	GPT-3 109
+long	109	21	prologue	1	long 105, Long 4
+murati	109	10	prologue	1	Murati 109
+system	109	17	ch01	1	systems 65, system 42, Systems 2
+development	108	20	authors-note	1	development 106, developments 2
+three	108	20	prologue	1	three 100, Three 7, threes 1
+user	107	13	ch01	1	users 56, user 45, User 5
+well	107	21	epigraph	1	well 99, Well 7, wells 1
+deep	106	17	prologue	1	deep 100, Deep 6
+training	106	21	authors-note	1	training 101, Training 4, trainings 1
+chatgpt	104	16	prologue	1	ChatGPT 104
+need	103	19	prologue	1	need 92, needs 11
+month	102	22	authors-note	1	months 62, month 40
+power	101	20	authors-note	1	power 96, Power 3, powers 2
+group	100	19	prologue	1	group 73, groups 26, Group 1
+startup	100	18	prologue	1	startup 62, startups 25, Startup 10
+while	99	22	authors-note	1	while 57, While 42
+country	98	16	epigraph	1	country 71, countries 27
+idea	98	21	prologue	1	idea 53, ideas 45
+money	97	20	authors-note	1	money 97
+ai safety	96	11	ch02	2	AI safety 95, AI Safety 1
+data center	96	9	prologue	2	data center 51, data centers 43, Data centers 2
+datum center	96	9	prologue	2	data center 51, data centers 43, Data centers 2
+network	94	15	ch01	1	networks 52, network 41, Network 1
+compute	93	15	ch02	1	compute 91, Compute 2
+capability	92	15	ch02	1	capabilities 75, capability 17
+problem	92	15	ch01	1	problem 52, problems 39, Problem 1
+think	90	17	prologue	1	think 85, Think 3, THINK 2
+good	89	19	prologue	1	good 84, Good 3, goods 2
+working	89	20	epigraph	1	working 81, Working 4, workings 4
+release	88	16	prologue	1	release 81, releases 7
+future	87	20	dedication	1	future 83, Future 4
+re	87	17	prologue	1	re 87
+resource	87	18	prologue	1	resources 79, resource 7, Resources 1
+water	87	8	prologue	1	water 86, Water 1
+amodei	86	9	ch01	1	Amodei 86
+meeting	86	16	prologue	1	meeting 55, meetings 31
+toner	86	7	prologue	1	Toner 86
+leadership	85	19	prologue	1	leadership 83, Leadership 2
+times	85	18	prologue	1	times 66, Times 19
+point	82	21	epigraph	1	point 74, points 8
+build	81	19	prologue	1	build 80, Build 1
+hour	81	19	prologue	1	hours 59, hour 19, Hours 3
+story	81	19	authors-note	1	story 67, stories 14
+use	81	18	ch01	1	use 75, uses 5, Use 1
+decision	80	20	prologue	1	decision 59, decisions 21
+resources	80	18	prologue	1	resources 79, Resources 1
+right	80	19	prologue	1	right 62, rights 15, Right 2
+word	79	21	prologue	1	words 40, word 36, Word 3
+deep learning	78	12	ch02	2	deep learning 74, Deep learning 3, Deep Learning 1
+image	78	13	prologue	1	images 48, image 30
+left	78	19	prologue	1	left 78
+mission	77	18	epigraph	1	mission 74, Mission 3
+office	77	15	prologue	1	office 67, offices 8, Office 2
+process	77	20	prologue	1	process 64, processes 13
+valley	77	19	authors-note	1	Valley 77
+intelligence	76	16	epigraph	1	intelligence 67, Intelligence 9
+life	76	19	authors-note	1	life 60, lives 12, Lives 3
+director	74	10	prologue	1	directors 54, director 20
+gpt-4	74	12	prologue	1	GPT-4 74
+generative	73	9	prologue	1	generative 64, Generative 9
+member	72	13	prologue	1	members 53, member 19
+family	71	13	dedication	1	family 57, families 13, Families 1
+neural	71	8	ch02	1	neural 63, Neural 8
+open	71	19	prologue	1	open 57, Open 14
+silicon	71	19	authors-note	1	Silicon 69, silicon 2
+building	70	18	prologue	1	building 56, buildings 8, Building 5
+come	70	19	authors-note	1	come 68, COME 1, Come 1
+hand	70	19	prologue	1	hands 48, hand 22
+help	70	19	prologue	1	help 69, HELP 1
+platform	70	14	ch01	1	platform 61, platforms 9
+generative ai	69	9	prologue	2	generative AI 61, Generative AI 8
+organization	69	18	authors-note	1	organization 47, organizations 22
+silicon valley	69	19	authors-note	2	Silicon Valley 69
+content	68	12	prologue	1	content 66, Content 1, contents 1
+email	68	17	authors-note	1	email 49, emails 19
+end	67	20	authors-note	1	end 65, ends 2
+information	67	18	prologue	1	information 59, Information 8
+systems	67	16	ch02	1	systems 65, Systems 2
+task	67	11	ch02	1	tasks 37, task 30
+benefit	65	15	prologue	1	benefit 35, benefits 30
+fact	65	22	authors-note	1	fact 61, facts 3, Fact 1
+global	65	19	authors-note	1	global 48, Global 17
+number	65	21	authors-note	1	number 47, numbers 18
+term	65	18	prologue	1	term 41, terms 23, Term 1
+text	65	13	authors-note	1	text 56, texts 7, Text 2
+document	64	19	authors-note	1	document 32, documents 32
+gebru	64	6	ch01	1	Gebru 64
+independent	64	13	prologue	1	independent 63, Independent 1
+neural network	64	7	ch04	2	neural networks 43, neural network 18, Neural networks 3
+vision	64	18	prologue	1	vision 58, visions 4, Vision 2
+yc	64	9	ch01	1	YC 64
+computer	63	17	epigraph	1	computer 46, computers 15, Computer 2
+don	63	18	prologue	1	don 59, Don 4
+government	63	15	prologue	1	government 51, governments 11, Government 1
+next	63	18	prologue	1	next 59, Next 3, NEXT 1
+ai model	62	13	prologue	2	AI models 49, AI model 13
+book	62	16	authors-note	1	book 51, books 11
+call	62	19	prologue	1	call 46, calls 16
+change	62	17	ch01	1	change 41, changes 15, Change 6
+energy	62	16	prologue	1	energy 58, Energy 4
+experience	62	18	authors-note	1	experience 47, experiences 15
+risk	62	15	prologue	1	risk 31, risks 30, Risk 1
+division	61	16	prologue	1	division 52, divisions 9
+field	61	17	prologue	1	field 56, fields 5
+generation	61	17	prologue	1	generation 46, generations 13, Generation 2
+go	61	17	prologue	1	go 59, Go 2
+issue	61	16	ch01	1	issues 31, issue 30
+kind	61	19	prologue	1	kind 39, kinds 22
+language model	61	11	prologue	2	language models 38, language model 22, Language Models 1
+person	61	16	prologue	1	person 61
+rest	61	19	prologue	1	rest 60, Rest 1
+university	61	13	prologue	1	University 43, universities 9, university 8
+level	60	20	prologue	1	level 42, levels 15, Level 3
+percent	60	15	prologue	1	percent 60
+scaling	60	13	ch02	1	scaling 56, Scaling 4
+week	60	18	prologue	1	weeks 31, week 29
+ability	59	17	prologue	1	ability 49, abilities 9, Ability 1
+example	59	17	ch01	1	example 34, examples 23, EXAMPLE 1
+impact	59	22	authors-note	1	impact 34, impacts 25
+scientist	59	17	prologue	1	scientists 29, scientist 24, Scientist 6
+answer	58	14	prologue	1	answers 29, answer 25, Answer 4
+code	58	15	authors-note	1	code 55, codes 3
+job	58	19	prologue	1	job 37, jobs 16, Jobs 5
+lab	58	16	prologue	1	lab 46, labs 8, Labs 4
+post	58	17	prologue	1	post 42, Post 8, posts 8
+technologies	58	17	prologue	1	technologies 56, Technologies 2
+behavior	57	17	prologue	1	behavior 33, behaviors 24
+chile	57	5	prologue	1	Chile 57
+name	57	19	dedication	1	name 46, names 10, Name 1
+nonprofit	57	15	prologue	1	nonprofit 55, nonprofits 2
+policy	57	15	prologue	1	policy 45, policies 11, Policy 1
+access	56	18	authors-note	1	access 56
+support	55	18	prologue	1	support 55
+effort	54	16	ch01	1	effort 28, efforts 26
+progress	54	15	prologue	1	progress 53, Progress 1
+strategy	54	19	prologue	1	strategy 48, strategies 4, Strategies 1
+ai research	53	13	prologue	2	AI research 52, AI Research 1
+ceo	53	17	prologue	1	CEO 49, CEOs 4
+following	53	18	prologue	1	following 49, Following 4
+giant	53	16	prologue	1	giant 40, giants 13
+labor	53	8	prologue	1	labor 52, Labor 1
+place	53	20	prologue	1	place 49, places 4
+relationship	53	16	prologue	1	relationship 36, relationships 17
+control	52	18	prologue	1	control 49, controls 3
+developer	52	10	ch01	1	developers 33, developer 14, Developers 5
+health	52	12	prologue	1	health 50, Health 2
+profit	52	16	prologue	1	profit 47, profits 4, Profits 1
+amount	51	16	prologue	1	amount 34, amounts 17
+lead	51	18	prologue	1	lead 44, leads 7
+applied	50	11	ch01	1	Applied 47, applied 3
+cost	50	16	prologue	1	costs 26, cost 23, Costs 1
+self	50	17	prologue	1	self 49, Self 1
+source	50	18	epigraph	1	source 39, sources 11
+turn	50	18	epigraph	1	turn 44, turns 6
+api	49	10	ch03	1	API 49
+investor	49	12	prologue	1	investors 39, investor 9, Investors 1
+line	49	16	prologue	1	line 30, lines 19
+lot	49	17	prologue	1	lot 44, lots 3, Lot 1
+medium	49	18	authors-note	1	media 43, Media 4, Medium 1
+plan	49	16	prologue	1	plan 28, plans 21
+side	49	14	prologue	1	side 42, sides 7
+talk	49	19	prologue	1	talk 42, talks 5, Talk 2
+anthropic	48	15	authors-note	1	Anthropic 48
+further	48	21	prologue	1	further 47, Further 1
+investment	48	14	prologue	1	investment 34, investments 14
+making	48	18	prologue	1	making 48
+thought	48	17	epigraph	1	thought 40, thoughts 8
+ai development	47	16	prologue	2	AI development 45, AI developments 2
+beginning	47	19	prologue	1	beginning 47
+deal	47	16	prologue	1	deal 40, deals 7
+media	47	17	authors-note	1	media 43, Media 4
+second	47	17	prologue	1	second 42, Second 4, seconds 1
+set	46	16	epigraph	1	set 46
+share	46	20	authors-note	1	share 40, shares 6
+trust	46	14	ch01	1	trust 45, Trust 1
+approach	45	18	prologue	1	approach 39, approaches 6
+chip	45	13	authors-note	1	chips 31, chip 13, Chip 1
+concern	45	16	prologue	1	concerns 35, concern 10
+empire	45	11	prologue	1	empires 25, empire 20
+gpt-2	45	10	ch02	1	GPT-2 45
+internet	45	16	prologue	1	internet 43, Internet 2
+abuse	44	11	ch01	1	abuse 37, abuses 7
+deepmind	44	13	authors-note	1	DeepMind 43, Deepmind 1
+history	44	16	authors-note	1	history 39, histories 5
+launch	44	15	prologue	1	launch 43, launches 1
+leader	44	18	prologue	1	leader 23, leaders 21
+social	44	19	prologue	1	social 41, Social 3
+challenge	43	16	ch01	1	challenges 31, challenge 11, Challenge 1
+crisis	43	13	prologue	1	crisis 42, crises 1
+humanity	43	14	prologue	1	humanity 41, Humanity 2
+machine	43	13	epigraph	1	machine 28, machines 12, Machine 3
+review	43	14	authors-note	1	review 26, Review 13, reviews 4
+detail	42	18	authors-note	1	details 32, detail 9, Details 1
+law	42	15	prologue	1	laws 16, Law 14, law 12
+night	42	18	prologue	1	night 39, nights 3
+science	42	20	prologue	1	science 34, Science 8
+version	42	13	ch01	1	version 39, versions 3
+view	42	15	prologue	1	view 26, views 14, View 2
+we’re	42	13	prologue	1	we’re 27, We’re 15
+area	41	15	epigraph	1	area 18, areas 12, Area 11
+child	41	9	ch01	1	children 21, child 20
+face	41	16	prologue	1	face 25, faces 13, Face 3
+feedback	41	12	ch01	1	feedback 41
+feel	41	18	prologue	1	feel 37, Feel 4
+third	41	16	ch01	1	third 37, Third 4
+big	40	14	ch01	1	big 33, Big 7
+case	40	13	authors-note	1	case 24, cases 16
+funding	40	15	prologue	1	funding 39, Funding 1
+remember	40	13	prologue	1	remembers 32, remember 8
+kenya	39	6	prologue	1	Kenya 39
+language models	39	10	prologue	2	language models 38, Language Models 1
+man	39	13	prologue	1	man 20, men 16, Man 2
+reality	39	15	ch01	1	reality 35, realities 4
+service	39	15	prologue	1	services 19, service 17, Service 3
+software	39	12	prologue	1	software 39
+step	39	14	prologue	1	step 35, steps 4
+tech giant	39	14	prologue	2	tech giant 29, tech giants 6, Tech giants 4
+train	39	13	ch02	1	train 39
+transformer	39	5	ch05	1	Transformer 27, Transformers 12
+value	39	15	prologue	1	value 26, values 13
+conversation	38	17	prologue	1	conversation 23, conversations 15
+influence	38	14	prologue	1	influence 37, influences 1
+land	38	8	prologue	1	land 36, lands 2
+moment	38	19	prologue	1	moment 33, moments 5
+performance	38	16	prologue	1	performance 37, performances 1
+return	38	15	prologue	1	return 26, returns 12
+role	38	13	prologue	1	role 37, roles 1
+security	38	15	prologue	1	security 37, Security 1
+sign	38	15	prologue	1	sign 26, signs 9, Sign 3
+structure	38	11	prologue	1	structure 32, structures 6
+top	38	15	prologue	1	top 38
+belief	37	9	ch01	1	belief 29, beliefs 5, Belief 3
+black	37	9	ch01	1	Black 30, black 6, Blacks 1
+business	37	11	ch01	1	business 26, businesses 8, Business 3
+infrastructure	37	13	prologue	1	infrastructure 37
+key	37	18	authors-note	1	key 36, Key 1
+large language	37	10	prologue	2	large language 35, Large language 1, larger language 1
+order	37	16	prologue	1	order 33, orders 4
+professor	37	14	epigraph	1	professor 33, professors 4
+reach	37	14	prologue	1	reach 35, Reach 1, reaches 1
+sama	37	4	ch01	1	Sama 37
+video	37	14	prologue	1	video 26, videos 11
+artificial	36	12	epigraph	1	artificial 31, Artificial 5
+chatbot	36	10	epigraph	1	chatbot 31, chatbots 5
+chief	36	13	prologue	1	chief 35, Chief 1
+dall	36	5	prologue	1	DALL 36
+dall - e	36	5	prologue	3	DALL-E 36
+dall-e	36	5	prologue	1	DALL-E 36
+ea	36	4	ch02	1	EA 36
+home	36	12	prologue	1	home 28, homes 8
+interest	36	13	prologue	1	interest 23, interests 13
+large language model	36	10	prologue	3	large language models 23, large language model 11, Large language models 1
+letter	36	10	prologue	1	letter 31, letters 5
+look	36	18	ch01	1	look 33, Look 3
+online	36	13	prologue	1	online 35, Online 1
+strubell	36	3	ch07	1	Strubell 36
+training datum	36	12	authors-note	2	training data 36
+account	35	11	ch02	1	account 27, accounts 8
+decade	35	10	prologue	1	decades 19, decade 15, Decades 1
+dollar	35	14	prologue	1	dollars 27, dollar 8
+engineer	35	14	prologue	1	engineers 17, engineer 16, Engineers 2
+page	35	13	authors-note	1	page 17, pages 12, Page 6
+pattern	35	12	ch03	1	patterns 21, pattern 14
+reason	35	15	ch02	1	reason 21, reasons 13, Reason 1
+saying	35	15	prologue	1	saying 34, sayings 1
+start	35	16	prologue	1	start 34, Start 1
+summer	35	15	prologue	1	summer 29, Summers 4, Summer 2
+te	35	1	epilogue	1	Te 22, te 13
+teams	35	11	ch05	1	teams 34, Teams 1
+voice	35	9	prologue	1	voice 29, voices 5, Voice 1
+american	34	10	ch04	1	American 34
+board member	34	7	prologue	2	board members 24, board member 10
+clan	34	10	ch06	1	clan 30, clans 4
+colleague	34	13	prologue	1	colleagues 21, colleague 13
+hinton	34	6	ch02	1	Hinton 34
+major	34	17	prologue	1	major 33, Major 1
+read	34	16	prologue	1	read 33, Read 1
+result	34	15	ch02	1	results 19, result 15
+school	34	12	prologue	1	school 27, schools 4, School 2
+society	34	12	prologue	1	society 31, Society 2, societies 1
+student	34	10	ch01	1	students 23, student 10, Students 1
+advance	33	14	prologue	1	advance 30, advances 3
+attention	33	17	ch01	1	attention 33
+focus	33	15	ch01	1	focus 33
+form	33	14	prologue	1	form 24, forms 9
+founder	33	12	epigraph	1	founders 20, founder 12, Founders 1
+pachocki	33	8	prologue	1	Pachocki 33
+produce	33	10	ch02	1	produce 33
+write	33	13	prologue	1	write 32, Write 1
+advancement	32	12	prologue	1	advancements 18, advancement 14
+ai researcher	32	11	ch01	2	AI researchers 19, AI researcher 13
+dozen	32	12	prologue	1	dozens 17, dozen 13, Dozens 2
+firm	32	8	ch01	1	firm 19, firms 13
+mccauley	32	4	prologue	1	McCauley 32
+path	32	16	prologue	1	path 26, paths 5, Paths 1
+program	32	15	epigraph	1	program 25, programs 7
+road	32	13	ch01	1	road 27, roads 4, Road 1
+running	32	14	prologue	1	running 31, Running 1
+series	32	14	prologue	1	series 31, Series 1
+taking	32	15	ch01	1	taking 31, Taking 1
+talent	32	14	prologue	1	talent 31, Talent 1
+though	32	15	epigraph	1	though 24, Though 8
+wall	32	15	authors-note	1	Wall 17, walls 10, wall 4
+white	32	9	ch01	1	white 29, White 2, whites 1
+blog	31	13	prologue	1	blog 30, blogs 1
+car	31	11	ch01	1	cars 15, car 14, Cars 2
+cofounder	31	11	prologue	1	cofounder 22, cofounders 9
+coming	31	15	prologue	1	coming 29, COMING 1, Coming 1
+customer	31	11	prologue	1	customers 20, customer 11
+friend	31	13	prologue	1	friend 16, friends 13, Friend 2
+independent director	31	4	prologue	2	independent directors 29, independent director 2
+new york	31	15	ch01	2	New York 31
+response	31	14	prologue	1	response 20, responses 11
+run	31	13	prologue	1	run 31
+writing	31	15	prologue	1	writing 30, Writing 1
+york	31	15	ch01	1	York 31
+direction	30	16	prologue	1	direction 25, directions 5
+doomer	30	5	ch10	1	Doomer 17, Doomers 13
+driving	30	9	ch01	1	driving 30
+environment	30	13	ch02	1	environment 28, environments 2
+equity	30	9	prologue	1	equity 30
+learning model	30	10	ch02	2	learning models 16, learning model 14
+march	30	14	ch01	1	March 27, march 3
+meet	30	15	prologue	1	meet 28, Meet 2
+mit	30	17	epigraph	1	MIT 30
+move	30	15	epigraph	1	move 28, moves 2
+president	30	13	prologue	1	president 27, President 2, Presidents 1
+quality	30	12	ch01	1	quality 30
+success	30	14	prologue	1	success 27, successes 2, Success 1
+thiel	30	5	prologue	1	Thiel 30
+thinking	30	11	epigraph	1	thinking 30
+threat	30	12	prologue	1	threat 23, threats 7
+chance	29	14	ch01	1	chance 22, chances 7
+conference	29	10	prologue	1	conference 23, conferences 6
+dataset	29	7	ch04	1	dataset 21, datasets 8
+event	29	13	prologue	1	event 20, events 9
+lack	29	15	prologue	1	lack 29
+leave	29	14	prologue	1	leave 29
+meta	29	11	authors-note	1	Meta 28, meta 1
+position	29	16	prologue	1	position 27, positions 2
+profile	29	15	authors-note	1	profile 27, Profiles 1, profiles 1
+rlhf	29	6	ch05	1	RLHF 29
+capital	28	12	prologue	1	capital 26, Capital 2
+deep learning model	28	9	ch02	3	deep learning models 15, deep learning model 13
+discussion	28	15	prologue	1	discussions 15, discussion 13
+fund	28	9	ch01	1	fund 13, funds 8, Fund 7
+gpu	28	10	prologue	1	GPUs 25, GPU 3
+knowledge	28	10	ch02	1	knowledge 27, Knowledge 1
+matter	28	15	ch01	1	matter 21, Matter 3, matters 3
+middle	28	15	prologue	1	middle 27, Middle 1
+october	28	10	ch06	1	October 28
+offer	28	12	prologue	1	offer 23, offers 5
+pay	28	9	ch04	1	pay 28
+prompt	28	9	ch04	1	prompt 14, prompts 12, Prompt 2
+push	28	13	prologue	1	push 26, pushes 2
+shift	28	14	prologue	1	shift 21, shifts 7
+standard	28	12	ch03	1	standard 17, standards 11
+street	28	13	authors-note	1	Street 16, street 7, streets 4
+test	28	12	authors-note	1	test 22, tests 4, Test 2
+thousand	28	13	prologue	1	thousands 27, Thousands 1
+app	27	7	prologue	1	app 26, apps 1
+application	27	12	prologue	1	applications 16, application 11
+climate	27	9	prologue	1	climate 20, Climate 7
+close	27	12	authors-note	1	close 27
+commitment	27	11	prologue	1	commitment 21, commitments 6
+digital	27	12	prologue	1	digital 24, Digital 3
+game	27	10	ch01	1	game 18, games 6, Game 3
+head	27	15	prologue	1	head 22, heads 5
+house	27	9	prologue	1	house 17, House 7, houses 3
+message	27	12	authors-note	1	message 23, messages 4
+november	27	10	prologue	1	November 27
+okinyi	27	4	ch09	1	Okinyi 27
+operation	27	12	prologue	1	operations 16, operation 11
+outside	27	14	prologue	1	outside 23, Outside 4
+room	27	12	prologue	1	room 25, rooms 2
+rule	27	12	prologue	1	rules 19, rule 8
+sense	27	12	prologue	1	sense 26, senses 1
+tech industry	27	14	prologue	2	tech industry 27
+today	27	10	prologue	1	today 22, Today 5
+tool	27	13	prologue	1	tool 16, tools 9, Tools 2
+washington	27	12	ch02	1	Washington 27
+article	26	15	prologue	1	article 15, articles 11
+brain	26	7	ch02	1	brain 16, Brain 5, brains 5
+condition	26	10	prologue	1	conditions 21, condition 5
+culture	26	12	authors-note	1	culture 22, cultures 3, Culture 1
+demand	26	11	prologue	1	demand 14, demands 12
+fire	26	13	prologue	1	fire 24, Fire 1, fires 1
+hold	26	12	prologue	1	hold 26
+love	26	12	prologue	1	love 26
+material	26	13	prologue	1	material 16, materials 10
+minute	26	13	prologue	1	minutes 16, minute 9, Minutes 1
+mosacat	26	2	ch12	1	MOSACAT 26
+movement	26	10	dedication	1	movement 16, movements 10
+output	26	9	ch04	1	outputs 22, output 4
+pressure	26	15	prologue	1	pressure 23, pressures 2, Pressures 1
+promise	26	12	prologue	1	promise 17, promises 9
+situation	26	13	prologue	1	situation 23, situations 3
+south	26	12	prologue	1	South 22, south 4
+speaking	26	15	prologue	1	speaking 23, Speaking 3
+study	26	9	ch03	1	study 20, studies 6
+tweet	26	8	prologue	1	tweet 15, tweets 11
+whole	26	15	ch01	1	whole 26
+woman	26	13	ch01	1	women 17, woman 9
+academic	25	11	ch01	1	academic 16, academics 9
+ai industry	25	11	authors-note	2	AI industry 25
+artificial intelligence	25	11	epigraph	2	artificial intelligence 20, Artificial intelligence 3, Artificial Intelligence 2
+brother	25	7	prologue	1	brother 18, brothers 7
+career	25	10	ch01	1	career 21, careers 3, Careers 1
+competitor	25	11	prologue	1	competitors 15, competitor 10
+d’angelo	25	4	prologue	1	D’Angelo 25
+figure	25	18	authors-note	1	figure 21, figures 4
+general	25	14	prologue	1	general 23, General 2
+gpus	25	10	prologue	1	GPUs 25
+half	25	12	prologue	1	half 21, Half 3, halves 1
+moderation	25	6	ch05	1	moderation 25
+piece	25	12	prologue	1	piece 15, pieces 10
+reporting	25	9	authors-note	1	reporting 24, Reporting 1
+safety clan	25	10	ch06	2	Safety clan 25
+san	25	14	ch02	1	San 25
+show	25	13	prologue	1	show 23, Show 2
+staff	25	11	prologue	1	staff 24, Staff 1
+transparency	25	12	prologue	1	transparency 25
+annotation	24	2	ch09	1	annotation 23, annotations 1
+communication	24	13	prologue	1	communications 20, communication 4
+dean	24	3	ch01	1	Dean 24
+extreme	24	11	ch02	1	extreme 20, extremes 3, Extreme 1
+former employee	24	8	ch02	2	former employee 15, former employees 9
+gate	24	7	ch01	1	Gates 23, gates 1
+gates	24	7	ch01	1	Gates 23, gates 1
+goal	24	12	prologue	1	goal 19, goals 5
+graham	24	2	ch01	1	Graham 24
+growth	24	8	ch01	1	growth 23, Growth 1
+interview	24	12	authors-note	1	interviews 18, interview 6
+jack	24	7	ch01	1	Jack 24
+news	24	9	prologue	1	news 21, News 3
+officer	24	11	prologue	1	officer 22, Officer 1, officers 1
+quilicura	24	1	ch12	1	Quilicura 24
+report	24	12	prologue	1	report 16, reports 8
+sam ’s	24	6	prologue	2	Sam’s 24
+search	24	10	ch01	1	search 20, Search 4
+size	24	12	prologue	1	size 23, sizes 1
+specific	24	12	prologue	1	specific 19, specifics 4, SPECIFIC 1
+agent	23	9	ch02	1	agent 16, agents 7
+agreement	23	9	prologue	1	agreement 20, agreements 3
+ai system	23	9	ch02	2	AI systems 18, AI system 5
+ambition	23	12	authors-note	1	ambition 12, ambitions 11
+announcement	23	7	prologue	1	announcement 21, announcements 2
+carbon	23	6	ch03	1	carbon 22, Carbon 1
+commercialization	23	10	prologue	1	commercialization 23
+english	23	9	ch01	1	English 23
+evidence	23	13	ch02	1	evidence 23
+force	23	14	prologue	1	force 12, forces 11
+francisco	23	12	ch02	1	Francisco 23
+front	23	13	ch01	1	front 21, fronts 2
+list	23	16	prologue	1	list 20, lists 3
+mind	23	15	prologue	1	mind 19, Mind 2, minds 2
+note	23	13	authors-note	1	notes 13, note 8, Notes 2
+partner	23	15	prologue	1	partner 14, partners 9
+race	23	12	prologue	1	race 22, races 1
+recognition	23	12	ch02	1	recognition 23
+san francisco	23	12	ch02	2	San Francisco 23
+state	23	11	ch02	1	state 20, States 2, states 1
+statement	23	8	ch01	1	statement 19, statements 4
+" you	22	10	prologue	2	“You 21, “you 1
+act	22	14	prologue	1	act 18, Act 3, acts 1
+blog post	22	12	prologue	2	blog post 21, blog posts 1
+consumer	22	13	prologue	1	consumer 13, consumers 8, Consumers 1
+course	22	13	authors-note	1	course 19, courses 3
+departure	22	8	prologue	1	departure 16, departures 6
+era	22	9	prologue	1	era 21, eras 1
+fear	22	11	prologue	1	fear 15, fears 7
+founding	22	11	ch01	1	founding 22
+hiku	22	1	epilogue	1	Hiku 22
+hope	22	16	authors-note	1	hope 18, hopes 4
+january	22	12	prologue	1	January 22
+mark	22	12	authors-note	1	mark 16, Mark 6
+opportunity	22	12	prologue	1	opportunity 12, opportunities 10
+opposite	22	12	prologue	1	opposite 22
+pandemic	22	10	ch02	1	pandemic 21, pandemics 1
+potential	22	9	ch02	1	potential 22
+remotask	22	2	ch09	1	Remotasks 22
+remotasks	22	2	ch09	1	Remotasks 22
+responsibility	22	11	prologue	1	responsibility 13, responsibilities 8, Responsibility 1
+stop	22	14	prologue	1	stop 21, stops 1
+te hiku	22	1	epilogue	2	Te Hiku 22
+venezuela	22	3	ch09	1	Venezuela 22
+weight	22	11	prologue	1	weights 12, weight 10
+advanced	21	10	prologue	1	advanced 19, Advanced 2
+allegation	21	7	ch01	1	allegations 21
+artist	21	8	prologue	1	artists 11, artist 7, Artists 3
+beyond	21	15	authors-note	1	beyond 18, Beyond 3
+care	21	10	prologue	1	care 21
+check	21	13	prologue	1	check 16, checks 5
+china	21	5	ch04	1	China 21
+city	21	8	prologue	1	city 18, cities 2, City 1
+common	21	8	ch02	1	common 14, Common 7
+country’s	21	6	ch04	1	country’s 21
+cut	21	12	prologue	1	cut 20, cuts 1
+demo	21	8	ch02	1	demo 12, demos 6, Demo 3
+design	21	11	prologue	1	design 19, Design 1, designs 1
+edge	21	10	prologue	1	edge 20, edges 1
+facebook	21	11	prologue	1	Facebook 21
+founders	21	11	epigraph	1	founders 20, Founders 1
+fuente	21	2	ch09	1	Fuentes 21
+fuentes	21	2	ch09	1	Fuentes 21
+gain	21	10	prologue	1	gain 18, gains 3
+generating	21	10	prologue	1	generating 20, Generating 1
+innovation	21	9	prologue	1	innovation 16, innovations 3, Innovation 2
+jobs	21	10	prologue	1	jobs 16, Jobs 5
+june	21	12	prologue	1	June 21
+mechanism	21	10	prologue	1	mechanisms 14, mechanism 7
+openai employee	21	13	prologue	2	OpenAI employees 17, OpenAI employee 4
+partnership	21	12	prologue	1	partnership 15, partnerships 6
+research division	21	9	ch02	2	Research division 16, research division 3, Research divisions 2
+space	21	11	prologue	1	space 17, spaces 4
+speech	21	12	prologue	1	speech 21
+web	21	11	ch02	1	web 20, Web 1
+alignment	20	9	ch01	1	alignment 18, Alignment 2
+competition	20	12	ch01	1	competition 18, Competition 1, competitions 1
+core	20	11	ch01	1	core 18, Core 2
+effect	20	11	prologue	1	effects 16, effect 4
+expert	20	9	ch02	1	experts 10, expert 8, Expert 1
+github	20	4	ch05	1	GitHub 20
+hit	20	10	prologue	1	hit 19, hits 1
+ilya	20	10	prologue	1	Ilya 20
+investigation	20	10	prologue	1	investigation 15, investigations 4, Investigations 1
+marcus	20	6	ch04	1	Marcus 20
+narrative	20	13	prologue	1	narrative 15, narratives 5
+protest	20	8	prologue	1	protests 11, protest 9
+same time	20	15	prologue	2	same time 20
+sex	20	5	ch01	1	sex 20
+threshold	20	3	ch04	1	threshold 15, thresholds 5
+understanding	20	15	epigraph	1	understanding 20
+vp	20	10	ch02	1	VP 20
+winnie	20	1	ch09	1	Winnie 20
+worth	20	13	prologue	1	worth 20
+alternative	19	11	prologue	1	alternatives 10, alternative 9
+attempt	19	10	prologue	1	attempt 18, attempts 1
+breakthrough	19	8	prologue	1	breakthrough 14, breakthroughs 5
+chinese	19	8	ch02	1	Chinese 19
+climate change	19	8	ch01	2	climate change 12, Climate Change 5, Climate change 2
+coding	19	6	ch01	1	coding 18, Coding 1
+context	19	10	ch02	1	context 13, contexts 6
+contract	19	5	ch02	1	contract 10, contracts 9
+creation	19	12	ch01	1	creation 18, creations 1
+dinner	19	7	ch01	1	dinner 17, dinners 2
+drive	19	10	prologue	1	drive 14, drives 3, Drive 2
+education	19	8	prologue	1	education 19
+eliza	19	3	epigraph	1	ELIZA 18, Eliza 1
+engineering	19	11	ch02	1	engineering 18, Engineering 1
+engineers	19	13	prologue	1	engineers 17, Engineers 2
+generative ai model	19	6	prologue	3	generative AI models 15, Generative AI models 3, generative AI model 1
+governance	19	6	prologue	1	governance 17, Governance 2
+greg	19	8	prologue	1	Greg 19
+harm	19	10	prologue	1	harm 13, harms 6
+hundred	19	12	prologue	1	hundreds 19
+interface	19	7	ch02	1	interface 17, interfaces 2
+johansson	19	1	ch17	1	Johansson 19
+market	19	11	prologue	1	market 19
+nadella	19	8	prologue	1	Nadella 19
+nature	19	11	prologue	1	nature 18, Nature 1
+openai ’s model	19	10	authors-note	3	OpenAI’s models 15, OpenAI’s model 4
+parameter	19	8	ch02	1	parameters 16, parameter 3
+present	19	12	dedication	1	present 19
+processing	19	7	ch02	1	processing 17, Processing 2
+radford	19	3	ch05	1	Radford 19
+resident	19	3	prologue	1	residents 16, resident 2, Residents 1
+sentence	19	9	ch01	1	sentences 12, sentence 7
+server	19	6	ch02	1	servers 14, server 5
+stress	19	10	ch02	1	stress 19
+technique	19	7	ch03	1	technique 13, techniques 6
+testing	19	11	ch05	1	testing 19
+world’s	19	10	prologue	1	world’s 19
+action	18	14	prologue	1	actions 11, action 7
+applied division	18	5	ch06	2	Applied division 18
+april	18	8	ch01	1	April 18
+billion	18	12	ch02	1	billions 18
+california	18	10	ch01	1	California 18
+clark	18	4	ch03	1	Clark 18
+computing	18	11	prologue	1	computing 17, Computing 1
+deployment	18	10	prologue	1	deployment 13, deployments 3, Deployment 2
+filter	18	5	prologue	1	filter 15, filters 3
+first time	18	12	prologue	2	first time 18
+foundation	18	12	ch01	1	foundation 7, foundations 6, Foundation 5
+ground	18	15	authors-note	1	ground 17, grounds 1
+hassabis	18	3	ch01	1	Hassabis 18
+journalist	18	12	prologue	1	journalist 10, journalists 7, Journalists 1
+lawyer	18	6	prologue	1	lawyer 14, lawyers 4
+logic	18	11	prologue	1	logic 18
+map	18	8	ch02	1	map 18
+method	18	6	ch04	1	methods 11, method 6, Methods 1
+new york times	18	11	ch03	3	New York Times 18
+past	18	11	dedication	1	past 16, Past 2
+phase	18	4	ch02	1	Phase 13, phase 4, phases 1
+press	18	10	prologue	1	press 13, Press 5
+proposal	18	7	ch01	1	proposal 13, proposals 5
+scene	18	14	authors-note	1	scenes 13, scene 5
+slack	18	12	authors-note	1	Slack 18
+stanford	18	9	ch01	1	Stanford 18
+supercomputer	18	9	prologue	1	supercomputer 9, supercomputers 9
+supply	18	7	ch04	1	supply 18
+tesla	18	5	ch02	1	Tesla 18
+york times	18	11	ch03	2	York Times 18
+10x	17	6	ch03	1	10x 17
+accountability	17	9	ch02	1	accountability 14, Accountability 3
+algorithm	17	7	ch02	1	algorithm 8, algorithms 7, Algorithms 2
+average	17	8	ch03	1	average 17
+bit	17	10	ch01	1	bit 15, Bit 1, bits 1
+comment	17	9	authors-note	1	comment 10, comments 7
+consequence	17	11	prologue	1	consequences 15, consequence 2
+dad	17	3	prologue	1	dad 16, Dad 1
+economy	17	7	ch01	1	economy 12, economies 5
+frontier	17	6	prologue	1	frontier 12, Frontier 4, frontiers 1
+individual	17	9	prologue	1	individual 10, individuals 7
+journal	17	11	authors-note	1	Journal 16, journals 1
+lawsuit	17	10	authors-note	1	lawsuit 12, lawsuits 5
+location	17	4	ch01	1	location 15, locations 2
+machine learning	17	7	ch02	2	machine learning 15, Machine Learning 2
+mean	17	12	ch02	1	means 17
+means	17	12	ch02	1	means 17
+medical	17	7	ch01	1	medical 15, Medical 2
+million	17	12	prologue	1	millions 17
+option	17	10	prologue	1	options 11, option 6
+photo	17	8	prologue	1	photo 11, photos 6
+practice	17	12	authors-note	1	practices 12, practice 5
+purpose	17	9	prologue	1	purpose 11, purposes 6
+record	17	9	ch01	1	record 12, records 5
+reference	17	12	authors-note	1	reference 12, references 5
+rise	17	11	ch01	1	rise 17
+road map	17	8	ch02	2	road map 17
+safety researcher	17	6	ch05	2	safety researchers 9, safety researcher 8
+santiago	17	1	ch12	1	Santiago 17
+spokesperson	17	4	ch07	1	spokesperson 17
+twitter	17	11	prologue	1	Twitter 17
+venture	17	9	prologue	1	venture 10, Ventures 5, ventures 2
+wealth	17	10	prologue	1	wealth 17
+win	17	12	ch01	1	win 15, wins 2
+4o	16	2	ch17	1	4o 16
+age	16	9	prologue	1	age 14, Age 2
+ai safety researcher	16	6	ch05	3	AI safety researchers 9, AI safety researcher 7
+america	16	5	ch01	1	America 16
+appen	16	2	ch05	1	Appen 16
+audience	16	10	prologue	1	audience 14, audiences 2
+author	16	7	ch01	1	authors 12, author 3, Authors 1
+bet	16	9	prologue	1	bet 10, bets 6
+bill	16	9	prologue	1	bill 8, Bill 6, bills 2
+break	16	11	ch01	1	break 14, breaks 2
+chat	16	7	prologue	1	chat 16
+cloud	16	9	prologue	1	cloud 16
+coauthor	16	8	ch02	1	coauthors 9, coauthor 7
+college	16	9	ch01	1	college 10, College 6
+complex	16	10	ch02	1	complex 16
+december	16	10	prologue	1	December 16
+diffusion	16	5	ch04	1	diffusion 9, Diffusion 7
+exchange	16	9	ch02	1	exchange 13, exchanges 2, Exchange 1
+experiment	16	10	prologue	1	experiment 10, experiments 6
+feature	16	9	ch01	1	feature 9, features 7
+fellow	16	8	ch01	1	fellow 16
+forum	16	8	ch06	1	forums 7, Forum 5, forum 3
+hear	16	9	prologue	1	hear 15, HEAR 1
+instruction	16	6	ch01	1	instructions 15, instruction 1
+latin	16	4	ch04	1	Latin 16
+loopt	16	2	ch01	1	Loopt 16
+management	16	9	prologue	1	management 16
+measure	16	10	prologue	1	measure 9, measures 7
+mining	16	3	ch01	1	mining 16
+party	16	9	prologue	1	party 13, parties 3
+play	16	11	ch02	1	play 16
+reasoning	16	9	ch01	1	reasoning 16
+rights	16	8	prologue	1	rights 15, Rights 1
+sam altman	16	10	epigraph	2	Sam Altman 16
+september	16	12	prologue	1	September 16
+shape	16	9	prologue	1	shape 16
+sharing	16	14	ch01	1	sharing 16
+street journal	16	11	authors-note	2	Street Journal 16
+superintelligence	16	8	prologue	1	superintelligence 11, Superintelligence 5
+wall street	16	11	authors-note	2	Wall Street 16
+wall street journal	16	11	authors-note	3	Wall Street Journal 16
+website	16	8	ch02	1	website 12, websites 3, Website 1
+white paper	16	4	ch03	2	white paper 16
+wife	16	8	prologue	1	wife 15, wives 1
+" brockman	15	6	ch02	2	” Brockman 15
+advantage	15	10	ch01	1	advantage 14, advantages 1
+air	15	7	prologue	1	air 15
+altman ’s behavior	15	6	ch02	3	Altman’s behaviors 10, Altman’s behavior 5
+argument	15	6	ch03	1	argument 12, arguments 3
+block	15	9	ch03	1	block 11, blocks 4
+cash	15	10	ch02	1	cash 15
+consent	15	9	prologue	1	consent 15
+criticism	15	8	ch01	1	criticism 12, criticisms 3
+cutting	15	10	prologue	1	cutting 15
+desert	15	5	ch01	1	desert 9, Desert 6
+dota	15	4	ch02	1	Dota 15
+draft	15	7	ch02	1	draft 12, drafts 2, Drafts 1
+extraction	15	2	ch04	1	extraction 14, Extraction 1
+eye	15	10	prologue	1	eyes 9, eye 6
+facility	15	3	ch06	1	facility 9, facilities 6
+feed	15	10	prologue	1	feed 13, Feed 2
+framework	15	6	ch02	1	framework 13, Framework 1, frameworks 1
+gibstine	15	2	ch01	1	Gibstine 15
+input	15	7	ch04	1	inputs 12, input 3
+july	15	8	prologue	1	July 15
+living	15	5	ch01	1	living 15
+manager	15	9	ch02	1	manager 9, managers 6
+many people	15	10	prologue	2	many people 13, Many people 2
+meaning	15	9	ch04	1	meaning 15
+māori	15	1	epilogue	1	Māori 15
+national	15	7	ch01	1	national 10, National 5
+norm	15	6	prologue	1	norms 13, norm 2
+north	15	6	prologue	1	north 8, North 7
+notes	15	9	authors-note	1	notes 13, Notes 2
+nuclear	15	5	ch06	1	nuclear 15
+other word	15	9	ch02	2	other words 15
+payment	15	6	ch01	1	payments 11, payment 4
+philosophy	15	8	ch01	1	philosophy 13, philosophies 2
+policymaker	15	9	prologue	1	policymakers 13, Policymakers 1, policymaker 1
+pool	15	10	ch01	1	pool 10, pools 5
+population	15	7	ch03	1	population 9, populations 6
+privacy	15	8	prologue	1	privacy 15
+publication	15	13	prologue	1	publication 8, publications 7
+raji	15	6	ch02	1	Raji 15
+reputation	15	8	prologue	1	reputation 15
+request	15	9	ch01	1	request 8, requests 7
+salary	15	7	ch02	1	salaries 8, salary 7
+scott	15	7	prologue	1	Scott 15
+sexual abuse	15	6	ch05	2	sexual abuse 15
+site	15	10	prologue	1	site 12, sites 3
+stuff	15	11	prologue	1	stuff 15
+transition	15	9	prologue	1	transition 15
+uruguay	15	3	ch12	1	Uruguay 15
+weekend	15	7	prologue	1	weekend 9, weekends 6
+writer	15	11	prologue	1	writer 8, writers 7
+activist	14	5	prologue	1	activists 9, activist 5
+addition	14	8	ch06	1	addition 13, additions 1
+apartment	14	5	ch02	1	apartment 14
+artists	14	6	prologue	1	artists 11, Artists 3
+assistant	14	9	ch02	1	assistant 14
+audio	14	3	authors-note	1	audio 14
+beat	14	7	ch02	1	beat 14
+candidate	14	7	ch01	1	candidates 11, candidate 3
+channel	14	10	prologue	1	channel 10, channels 4
+choice	14	9	prologue	1	choice 11, choices 3
+closed	14	8	prologue	1	closed 9, Closed 5
+creative	14	8	prologue	1	creative 10, Creative 2, creatives 2
+debate	14	7	ch01	1	debate 7, debates 7
+degree	14	11	prologue	1	degree 9, degrees 5
+desire	14	11	prologue	1	desire 13, desires 1
+difference	14	8	ch01	1	difference 12, differences 2
+entrepreneur	14	6	prologue	1	entrepreneur 7, entrepreneurs 7
+expansion	14	6	prologue	1	expansion 13, expansions 1
+february	14	10	ch01	1	February 14
+fight	14	10	ch02	1	fight 13, fights 1
+generator	14	6	prologue	1	generators 9, generator 5
+good way	14	9	ch01	2	best way 12, good way 2
+gpt-3.5	14	6	ch05	1	GPT-3.5 14
+hardware	14	11	ch02	1	hardware 13, Hardware 1
+health care	14	7	prologue	2	health care 14
+holding	14	10	prologue	1	holding 12, Holding 1, holdings 1
+ideology	14	6	ch02	1	ideology 11, ideologies 3
+increase	14	10	prologue	1	increase 13, Increase 1
+jones	14	2	ch10	1	Jones 14
+kwon	14	4	prologue	1	Kwon 14
+leap	14	10	ch02	1	leap 6, leaps 5, Leap 3
+many employee	14	8	prologue	2	many employees 11, Many employees 3
+mile	14	8	ch04	1	miles 9, Miles 3, Mile 1
+minimum	14	8	prologue	1	minimum 13, minimums 1
+multiple	14	10	ch02	1	multiple 14
+neighborhood	14	6	ch02	1	neighborhood 7, neighborhoods 6, Neighborhood 1
+nvidia	14	7	ch02	1	Nvidia 14
+objective	14	7	prologue	1	objective 12, objectives 2
+open - source	14	7	ch04	3	open-source 14
+pace	14	10	ch01	1	pace 14
+pain	14	7	ch08	1	pain 9, pains 5
+parent	14	8	ch01	1	parents 13, parent 1
+perspective	14	8	ch04	1	perspective 9, perspectives 5
+premise	14	8	ch02	1	premise 13, premises 1
+regulation	14	8	ch01	1	regulation 12, regulations 2
+revolution	14	5	prologue	1	revolution 11, revolutions 2, Revolution 1
+scallion	14	2	ch16	1	Scallion 14
+secret	14	7	ch01	1	secret 10, secrets 3, Secret 1
+sibling	14	9	ch01	1	siblings 12, sibling 2
+sister	14	6	prologue	1	sister 13, sisters 1
+social media	14	10	ch02	2	social media 14
+social medium	14	10	ch02	2	social media 14
+solution	14	10	ch01	1	solution 7, solutions 7
+stable	14	7	ch01	1	Stable 7, stable 7
+treatment	14	7	ch03	1	treatment 14
+update	14	11	prologue	1	update 7, updates 7
+venezuelans	14	1	ch09	1	Venezuelans 14
+visit	14	6	ch01	1	visit 13, visits 1
+youtube	14	7	ch01	1	YouTube 14
+agency	13	8	prologue	1	agency 10, Agency 2, agencies 1
+anxiety	13	9	prologue	1	anxiety 12, anxieties 1
+authors	13	6	ch04	1	authors 12, Authors 1
+campaign	13	8	ch01	1	campaign 9, campaigns 4
+capacity	13	8	ch04	1	capacity 12, capacities 1
+category	13	7	ch03	1	category 7, categories 6
+co	13	11	prologue	1	co 13
+conception	13	6	ch01	1	conception 8, conceptions 4, Conception 1
+conduct	13	9	ch02	1	conduct 13
+confidence	13	7	prologue	1	confidence 12, Confidence 1
+conflict	13	8	ch02	1	conflict 10, conflicts 3
+copper	13	1	ch12	1	copper 13
+credit	13	11	ch01	1	credit 10, credits 3
+dario	13	6	ch01	1	Dario 13
+doomers	13	4	ch10	1	Doomers 13
+dynamic	13	8	ch02	1	dynamic 7, dynamics 6
+effective	13	7	prologue	1	effective 12, Effective 1
+exit	13	4	ch01	1	exit 11, exits 2
+feeling	13	9	authors-note	1	feeling 11, feelings 2
+footprint	13	5	authors-note	1	footprint 11, Footprint 1, footprints 1
+global south	13	7	prologue	2	Global South 13
+hand meeting	13	7	prologue	2	hands meeting 9, hands meetings 4
+ingredient	13	11	prologue	1	ingredient 9, ingredients 4
+international	13	5	prologue	1	international 12, International 1
+kid	13	4	ch01	1	kids 12, kid 1
+loss	13	8	prologue	1	loss 11, losses 2
+movie	13	5	ch02	1	movie 12, movies 1
+none	13	10	ch03	1	none 9, None 4
+openai executive	13	8	authors-note	2	OpenAI executives 12, OpenAI executive 1
+ouster	13	7	prologue	1	ouster 13
+parallel	13	9	ch01	1	parallel 8, parallels 5
+pena	13	2	ch12	1	Pena 13
+phone	13	8	prologue	1	phone 12, phones 1
+picture	13	10	prologue	1	picture 9, pictures 4
+plant	13	5	ch03	1	plant 6, plants 6, Plant 1
+podcast	13	6	prologue	1	podcast 12, Podcast 1
+priority	13	11	ch02	1	priority 7, priorities 6
+reo	13	1	epilogue	1	reo 13
+reporter	13	11	ch01	1	reporter 9, reporters 4
+resistance	13	9	ch04	1	resistance 12, Resistance 1
+rogue	13	5	ch02	1	rogue 13
+round	13	9	ch02	1	round 11, rounds 2
+safe	13	9	ch01	1	safe 12, Safe 1
+scale law	13	7	ch04	2	scaling laws 12, Scaling laws 1
+scaling law	13	7	ch04	2	scaling laws 12, Scaling laws 1
+scrutiny	13	9	prologue	1	scrutiny 13
+send	13	12	ch02	1	send 13
+stage	13	11	prologue	1	stage 9, stages 4
+strange	13	11	ch03	1	strange 12, Strange 1
+superassistant	13	3	ch10	1	Superassistant 13
+talking	13	9	ch05	1	talking 13
+te reo	13	1	epilogue	2	te reo 13
+tech company	13	9	ch04	2	tech companies 9, tech company 4
+theory	13	7	ch01	1	theory 9, theories 4
+trajectory	13	10	prologue	1	trajectory 13
+vallejos	13	1	ch12	1	Vallejos 13
+wage	13	3	prologue	1	wages 10, wage 3
+wave	13	9	ch01	1	wave 13
+actor	12	7	ch02	1	actors 11, actor 1
+animal	12	6	prologue	1	animals 9, animal 3
+bay	12	8	ch01	1	Bay 12
+billionaire	12	7	prologue	1	billionaire 9, billionaires 3
+buy	12	9	prologue	1	buy 12
+class	12	8	ch01	1	class 9, classes 3
+conclusion	12	9	ch02	1	conclusion 10, conclusions 2
+connection	12	6	prologue	1	connections 8, connection 3, Connection 1
+contractor	12	6	authors-note	1	contractors 12
+definition	12	7	ch02	1	definition 9, definitions 3
+doctor	12	6	ch01	1	doctors 6, doctor 4, Doctor 1
+door	12	10	prologue	1	door 7, doors 5
+earth	12	6	ch01	1	earth 11, Earth 1
+expectation	12	9	prologue	1	expectations 10, expectation 2
+fix	12	9	ch01	1	fix 11, fixes 1
+follow year	12	8	ch01	2	following year 12
+following year	12	8	ch01	2	following year 12
+formula	12	8	prologue	1	formula 10, Formula 2
+hire	12	8	ch05	1	hire 10, hires 2
+hiring	12	9	prologue	1	hiring 12
+husband	12	5	ch02	1	husband 11, husbands 1
+improvement	12	6	ch04	1	improvement 6, improvements 6
+independent board	12	5	prologue	2	independent board 12
+intent	12	10	ch03	1	intent 12
+intention	12	8	prologue	1	intention 7, intentions 5
+kacholia	12	1	ch07	1	Kacholia 12
+labs	12	8	prologue	1	labs 8, Labs 4
+leike	12	4	ch10	1	Leike 12
+limit	12	11	prologue	1	limits 7, limit 5
+link	12	7	prologue	1	link 7, links 5
+magazine	12	8	ch03	1	magazine 10, Magazine 1, magazines 1
+memo	12	8	prologue	1	memo 12
+mental health	12	4	ch01	2	mental health 12
+mentor	12	6	ch01	1	mentor 9, mentors 3
+methods	12	5	ch04	1	methods 11, Methods 1
+mid	12	7	ch01	1	mid 12
+miles	12	8	ch04	1	miles 9, Miles 3
+near	12	9	ch02	1	near 10, Near 2
+openai ’s mission	12	7	ch02	3	OpenAI’s mission 12
+other thing	12	9	prologue	2	other things 10, other thing 2
+outcome	12	8	ch02	1	outcome 6, outcomes 6
+peer	12	7	prologue	1	peer 8, peers 4
+pursuit	12	5	prologue	1	pursuit 11, pursuits 1
+rate	12	7	ch02	1	rate 9, rates 3
+recommendation	12	4	ch02	1	recommendations 9, recommendation 3
+reflection	12	8	ch02	1	reflection 10, reflections 2
+sat	12	8	prologue	1	sat 11, SAT 1
+section	12	8	ch03	1	section 12
+self - drive car	12	2	ch06	4	self-driving cars 9, self-driving car 3
+skill	12	8	ch01	1	skills 11, skill 1
+sort	12	9	prologue	1	sort 9, sorts 3
+sound	12	10	ch01	1	sound 6, sounds 6
+stake	12	8	ch04	1	stakes 10, stake 2
+stripe	12	4	ch01	1	Stripe 12
+traffic	12	6	ch04	1	traffic 11, Traffic 1
+transformers	12	3	ch05	1	Transformers 12
+violence	12	6	prologue	1	violence 11, Violence 1
+wong	12	4	ch11	1	Wong 12
+" openai	11	8	prologue	2	“OpenAI 11
+address	11	9	ch03	1	address 10, addresses 1
+advice	11	7	ch01	1	advice 11
+africa	11	6	ch04	1	Africa 11
+ai safety research	11	6	ch02	3	AI safety research 11
+anna	11	6	prologue	1	Anna 11
+arancibia	11	1	ch12	1	Arancibia 11
+arizona	11	5	prologue	1	Arizona 11
+arm	11	7	prologue	1	arms 6, arm 5
+bay area	11	8	ch01	2	Bay Area 11
+boomer	11	4	ch10	1	Boomers 7, Boomer 4
+bottom	11	7	prologue	1	bottom 11
+cerrillos	11	1	ch12	1	Cerrillos 11
+character	11	8	ch01	1	character 8, characters 3
+clarity	11	8	ch02	1	clarity 11
+clash	11	9	prologue	1	clash 6, clashes 5
+concept	11	7	ch02	1	concept 9, concepts 2
+connie	11	2	ch01	1	Connie 11
+content moderation	11	4	ch05	2	content moderation 11
+couple	11	5	prologue	1	couple 10, couples 1
+death	11	4	prologue	1	death 11
+drought	11	1	ch12	1	drought 10, droughts 1
+earning	11	4	ch04	1	earnings 11
+enforcement	11	3	ch10	1	enforcement 11
+environmental impact	11	6	ch03	2	environmental impacts 7, environmental impact 4
+evaluation	11	4	ch01	1	evaluations 8, evaluation 3
+evolved	11	4	ch04	1	Evolved 8, evolved 3
+excitement	11	7	ch02	1	excitement 11
+factory	11	6	ch01	1	factory 8, Factory 2, factories 1
+fall	11	8	prologue	1	fall 11
+few month	11	8	ch01	2	few months 11
+french	11	4	ch05	1	French 10, french 1
+frontier model	11	1	ch13	2	frontier models 4, Frontier Model 3, frontier model 3
+gpt-3 api	11	5	ch06	2	GPT-3 API 11
+handful	11	10	authors-note	1	handful 11
+hearing	11	4	ch13	1	hearing 11
+hoffman	11	4	ch02	1	Hoffman 11
+human feedback	11	7	ch05	2	human feedback 11
+importance	11	10	ch01	1	importance 11
+institution	11	8	prologue	1	institutions 8, institution 3
+latin america	11	3	ch09	2	Latin America 11
+light	11	8	ch02	1	light 10, lights 1
+lithium	11	1	ch12	1	lithium 10, Lithium 1
+mass	11	6	prologue	1	mass 11
+math	11	7	ch02	1	math 11
+messaging	11	8	ch02	1	messaging 11
+millicent	11	1	ch09	1	Millicent 11
+ministry	11	2	ch12	1	ministry 8, Ministry 3
+morning	11	8	prologue	1	morning 11
+mother	11	4	ch01	1	mother 10, Mother 1
+negative	11	8	ch01	1	negative 11
+nest	11	3	ch05	1	Nest 11
+openai researcher	11	6	ch05	2	OpenAI researchers 9, OpenAI researcher 2
+opinion	11	6	ch01	1	opinions 9, opinion 2
+other executive	11	9	ch01	2	other executives 9, Other executives 1, other executive 1
+other people	11	9	ch01	2	other people 11
+piper	11	2	ch17	1	Piper 11
+possibility	11	8	ch01	1	possibility 9, possibilities 2
+principle	11	10	ch01	1	principles 7, principle 3, Principles 1
+production	11	4	ch04	1	production 11
+protection	11	7	prologue	1	protections 9, protection 2
+raise	11	9	prologue	1	raise 11
+reading	11	9	ch01	1	reading 10, Reading 1
+region	11	2	ch09	1	region 8, regions 3
+repeat	11	9	authors-note	1	repeat 11
+representative	11	6	ch07	1	representatives 9, representative 2
+revenue	11	8	ch02	1	revenue 11
+robotic	11	4	ch02	1	robotics 11
+root	11	8	ch02	1	root 11
+safety research	11	6	ch02	2	safety research 11
+scenario	11	6	ch01	1	scenarios 7, scenario 4
+singular	11	8	prologue	1	singular 11
+spending	11	9	prologue	1	spending 11
+split	11	6	ch06	1	split 11
+store	11	7	ch01	1	store 7, stores 4
+sum	11	10	prologue	1	sum 7, sums 4
+surveillance	11	5	ch02	1	surveillance 10, Surveillance 1
+they’re	11	7	prologue	1	they’re 6, They’re 5
+timeline	11	7	ch04	1	timeline 8, timelines 3
+title	11	9	ch01	1	title 11
+tools	11	8	prologue	1	tools 9, Tools 2
+trade	11	8	ch02	1	trade 10, Trade 1
+trip	11	7	prologue	1	trip 8, trips 3
+truth	11	9	prologue	1	truth 9, truths 2
+turing	11	4	ch03	1	Turing 11
+vehicle	11	4	ch02	1	vehicle 7, vehicles 4
+war	11	6	ch01	1	war 9, War 2
+weil	11	3	ch14	1	Weil 11
+window	11	8	ch03	1	window 8, windows 3
+zero	11	7	ch01	1	zero 8, zeros 2, Zero 1
+ai company	10	8	prologue	2	AI companies 7, AI company 3
+ai developer	10	3	ch02	2	AI developers 8, AI developer 2
+ai technology	10	5	prologue	2	AI technologies 10
+architecture	10	6	ch02	1	Architecture 5, architecture 5
+art	10	8	ch01	1	art 10
+award	10	6	ch04	1	Award 6, award 3, awards 1
+base	10	7	ch01	1	base 10
+bender	10	2	ch07	1	Bender 10
+berkeley	10	7	ch02	1	Berkeley 10
+board crisis	10	4	ch14	2	board crisis 10
+border	10	5	ch02	1	border 5, borders 5
+bostrom	10	3	ch01	1	Bostrom 10
+brand	10	8	ch02	1	brand 9, brands 1
+chief technology	10	5	prologue	2	chief technology 10
+chief technology officer	10	5	prologue	3	chief technology officer 9, chief technology officers 1
+chilean	10	1	ch12	1	Chilean 10
+claim	10	5	ch05	1	claims 6, claim 4
+cluster	10	8	prologue	1	clusters 6, cluster 4
+color	10	7	prologue	1	color 7, colors 3
+combination	10	7	prologue	1	combination 10
+commit	10	9	prologue	1	commit 10
+compensation	10	7	prologue	1	compensation 10
+connectionist	10	1	ch04	1	connectionist 5, connectionists 5
+corporation	10	7	ch02	1	corporation 7, corporations 3
+critique	10	6	ch02	1	critique 8, critiques 2
+cto	10	9	prologue	1	CTO 10
+data worker	10	3	ch05	2	data workers 6, Data Workers 3, data worker 1
+disorder	10	3	ch03	1	disorder 10
+diversity	10	4	prologue	1	diversity 10
+dream	10	8	prologue	1	dream 7, dreams 3
+dump	10	6	ch04	1	dump 7, dumps 3
+early day	10	8	ch02	2	early days 10
+efficiency	10	6	ch01	1	efficiency 9, efficiencies 1
+equivalent	10	8	prologue	1	equivalent 9, equivalents 1
+estimate	10	4	ch05	1	estimate 7, estimates 3
+expertise	10	6	ch02	1	expertise 10
+explanation	10	7	prologue	1	explanation 6, explanations 4
+exploitation	10	5	ch04	1	exploitation 10
+exploratory	10	4	prologue	1	Exploratory 6, exploratory 4
+exploratory research	10	4	prologue	2	Exploratory Research 6, exploratory research 4
+fair	10	9	prologue	1	fair 8, FAIR 1, Fair 1
+few year	10	5	prologue	2	few years 10
+frame	10	7	prologue	1	frame 9, frames 1
+groundwork	10	8	ch02	1	groundwork 10
+guy	10	6	ch01	1	guy 8, Guys 1, guys 1
+hypothesis	10	6	ch04	1	hypothesis 9, hypotheses 1
+jakub	10	6	prologue	1	Jakub 10
+joke	10	5	ch01	1	joke 7, jokes 2, Joke 1
+kokotajlo	10	2	ch17	1	Kokotajlo 10
+latitude	10	4	ch07	1	Latitude 8, latitude 2
+marketing	10	7	ch02	1	marketing 10
+mira	10	7	prologue	1	Mira 10
+mit technology	10	8	authors-note	2	MIT Technology 10
+mit technology review	10	8	authors-note	3	MIT Technology Review 10
+model weight	10	3	ch06	2	model weights 10
+monitoring	10	4	ch06	1	monitoring 10
+moore	10	2	ch02	1	Moore 10
+mophat	10	4	ch09	1	Mophat 10
+mądry	10	4	prologue	1	Mądry 10
+nairobi	10	3	ch09	1	Nairobi 10
+novel	10	4	ch01	1	novel 10
+offensive	10	6	prologue	1	offensive 10
+offering	10	8	ch03	1	offering 9, offerings 1
+omnicrisis	10	2	ch17	1	Omnicrisis 10
+oversight	10	7	ch01	1	oversight 10
+personality	10	7	ch01	1	personality 9, personalities 1
+physic	10	8	prologue	1	physics 10
+physics	10	8	prologue	1	physics 10
+player	10	6	prologue	1	players 8, player 2
+posting	10	6	prologue	1	posting 10
+poverty	10	3	ch09	1	poverty 8, Poverty 2
+price	10	4	ch04	1	price 8, prices 2
+probability	10	5	ch02	1	probability 7, probabilities 3
+productivity	10	7	prologue	1	productivity 10
+professional	10	9	prologue	1	professional 8, Professionals 1, professionals 1
+programming	10	8	epigraph	1	programming 10
+property	10	9	prologue	1	property 10
+quest	10	8	authors-note	1	quest 10
+quote	10	5	authors-note	1	quote 5, quotes 4, Quotes 1
+range	10	7	ch04	1	range 10
+reinforcement	10	7	ch05	1	reinforcement 10
+reinforcement learning	10	7	ch05	2	reinforcement learning 10
+repository	10	7	prologue	1	repository 6, repositories 4
+safety team	10	3	ch06	2	safety team 8, safety teams 2
+same way	10	7	prologue	2	same way 10
+sexual content	10	3	ch08	2	sexual content 10
+spanish	10	4	ch04	1	Spanish 10
+spread	10	7	prologue	1	spread 10
+star	10	7	prologue	1	star 7, Star 2, stars 1
+starting	10	8	ch01	1	starting 10
+steve	10	5	prologue	1	Steve 10
+teacher	10	6	ch01	1	teacher 7, teachers 3
+technology officer	10	5	prologue	2	technology officer 9, technology officers 1
+technology review	10	8	authors-note	2	Technology Review 10
+ten	10	9	ch01	1	tens 10
+therapy	10	4	ch01	1	therapy 10
+tone	10	7	ch03	1	tone 9, tones 1
+track	10	9	prologue	1	track 10
+trend	10	5	ch04	1	trend 9, trends 1
+turning	10	8	ch02	1	turning 10
+type	10	6	ch03	1	types 6, type 4
+upheaval	10	6	ch02	1	upheaval 10
+utility	10	5	ch03	1	utility 8, Utility 1, utilities 1
+volume	10	7	prologue	1	volume 7, volumes 3
+accuracy	9	4	ch05	1	accuracy 9
+adviser	9	6	ch02	1	adviser 7, advisers 2
+ai capability	9	7	ch02	2	AI capabilities 9
+algorithms	9	6	ch02	1	algorithms 7, Algorithms 2
+ally	9	6	prologue	1	allies 5, ally 4
+amazon	9	6	ch01	1	Amazon 9
+analogy	9	5	ch03	1	analogies 5, analogy 4
+approval	9	5	ch01	1	approval 9
+artificial general intelligence	9	4	prologue	3	artificial general intelligence 9
+august	9	9	prologue	1	August 9
+background	9	8	ch04	1	background 6, backgrounds 3
+ban	9	7	ch07	1	ban 8, bans 1
+bing	9	4	ch04	1	Bing 9
+camp	9	5	ch01	1	camps 5, camp 4
+chain	9	5	ch04	1	chain 7, chains 2
+chaos	9	6	ch01	1	chaos 9
+charter	9	4	ch02	1	charter 9
+childhood	9	3	ch01	1	childhood 9
+circle	9	7	ch01	1	circles 7, circle 2
+commerce	9	4	ch04	1	Commerce 6, commerce 3
+computer chip	9	5	prologue	2	computer chips 7, computer chip 2
+copilot	9	4	ch08	1	Copilot 6, Copilots 3
+copy	9	7	authors-note	1	copy 7, copies 2
+cover	9	7	prologue	1	cover 9
+daily	9	7	ch04	1	daily 8, Daily 1
+daniela	9	3	ch02	1	Daniela 9
+data workers	9	3	ch05	2	data workers 6, Data Workers 3
+datum worker	9	3	ch05	2	data workers 6, Data Workers 3
+de	9	5	ch02	1	de 9
+deadline	9	4	prologue	1	deadline 8, deadlines 1
+demonstration	9	5	ch02	1	demonstration 6, demonstrations 3
+documentation	9	5	authors-note	1	documentation 9
+drama	9	6	prologue	1	drama 8, Drama 1
+dsb	9	4	ch10	1	DSB 9
+editor	9	3	ch03	1	editor 9
+engine	9	7	ch03	1	engine 8, engines 1
+evolve	9	6	prologue	1	evolve 9
+existence	9	6	ch01	1	existence 9
+expense	9	5	prologue	1	expenses 5, expense 4
+export	9	3	ch04	1	export 6, exports 3
+extractivism	9	3	ch04	1	extractivism 7, Extractivism 2
+failure	9	7	ch01	1	failure 7, failures 2
+fed	9	5	ch04	1	fed 8, Fed 1
+filtering	9	7	ch05	1	filtering 9
+food	9	5	ch04	1	food 8, foods 1
+forest	9	3	ch03	1	forest 8, Forest 1
+ftx	9	3	ch10	1	FTX 9
+general intelligence	9	4	prologue	2	general intelligence 9
+gpt-1	9	4	prologue	1	GPT-1 9
+graduate	9	7	ch02	1	graduate 6, graduates 3
+hallucination	9	4	ch04	1	hallucinations 9
+handle	9	8	ch01	1	handle 9
+helen	9	7	prologue	1	Helen 9
+housing	9	4	ch01	1	housing 9
+image generator	9	4	prologue	2	image generators 5, image generator 4
+impression	9	6	ch01	1	impression 6, impressions 3
+john	9	8	ch01	1	John 9
+kevin	9	8	prologue	1	Kevin 9
+laptop	9	6	ch01	1	laptop 8, laptops 1
+latter	9	8	ch01	1	latter 9
+lp	9	4	prologue	1	LP 9
+mechanical	9	6	ch06	1	mechanical 6, Mechanical 3
+more money	9	7	ch01	2	more money 9
+naming	9	7	ch04	1	naming 9
+negotiation	9	6	ch02	1	negotiations 6, negotiation 3
+object	9	6	prologue	1	objects 5, object 4
+observation	9	8	prologue	1	observations 6, observation 3
+openai ’s technology	9	7	prologue	3	OpenAI’s technologies 9
+opening	9	5	ch01	1	opening 8, Opening 1
+paperwork	9	5	ch01	1	paperwork 9
+paradigm	9	6	prologue	1	paradigm 7, paradigms 2
+pedestrian	9	2	ch04	1	pedestrians 7, pedestrian 2
+period	9	7	ch03	1	period 8, periods 1
+phrase	9	7	ch04	1	phrase 9
+playbook	9	5	prologue	1	playbook 8, Playbook 1
+polish	9	7	ch05	1	Polish 7, polish 2
+politic	9	4	ch01	1	politics 9
+prediction	9	4	ch02	1	prediction 8, predictions 1
+pure language	9	4	ch05	2	pure language 8, Pure language 1
+red	9	7	ch05	1	red 9
+research team	9	5	ch07	2	research team 7, research teams 2
+rose	9	5	ch01	1	rose 7, Rose 1, roses 1
+sale	9	5	ch01	1	sales 5, sale 4
+schedule	9	9	prologue	1	schedule 8, schedules 1
+senator	9	3	ch02	1	senators 4, Senator 2, senator 2
+sex work	9	2	ch01	2	sex work 9
+shear	9	3	prologue	1	Shear 9
+signal	9	7	prologue	1	signals 4, signal 3, Signal 2
+sky	9	2	ch05	1	Sky 8, sky 1
+speed	9	6	ch02	1	speed 9
+spirit	9	6	ch01	1	spirit 9
+struggle	9	8	prologue	1	struggle 7, struggles 2
+style	9	6	prologue	1	style 8, styles 1
+superalignment	9	3	ch13	1	Superalignment 9
+table	9	7	prologue	1	table 8, tables 1
+tactic	9	7	ch01	1	tactics 8, tactic 1
+telling	9	7	ch01	1	telling 9
+tender	9	2	prologue	1	tender 9
+tension	9	7	prologue	1	tension 4, tensions 4, Tensions 1
+tree	9	5	ch01	1	trees 8, tree 1
+vest equity	9	1	ch17	2	vested equity 9
+vested equity	9	1	ch17	2	vested equity 9
+visibility	9	7	ch06	1	visibility 8, Visibility 1
+warning	9	6	ch03	1	warning 5, warnings 4
+weizenbaum	9	3	epigraph	1	Weizenbaum 9
+we’d	9	7	ch01	1	we’d 7, We’d 2
+willner	9	3	ch10	1	Willner 9
+wonder	9	8	ch03	1	wonder 6, wonders 3
+administration	8	5	ch04	1	administration 6, Administration 1, administrations 1
+ai lab	8	6	prologue	2	AI lab 4, AI labs 4
+alarm	8	6	prologue	1	alarm 8
+albert	8	1	ch09	1	Albert 8
+amodei sibling	8	5	ch02	2	Amodei siblings 8
+arrangement	8	6	ch01	1	arrangement 5, arrangements 3
+arrival	8	6	ch05	1	arrival 8
+assessment	8	6	ch01	1	assessment 6, assessments 2
+attack	8	7	ch04	1	attack 6, attacks 2
+azure	8	5	ch02	1	Azure 8
+bar	8	6	prologue	1	bar 8
+beneficial agi	8	6	prologue	2	beneficial AGI 8
+body	8	6	ch01	1	body 7, Body 1
+boom	8	3	ch09	1	boom 5, Boom 3
+bot	8	4	ch04	1	bot 6, bots 2
+boyfriend	8	2	ch01	1	boyfriend 7, BOYFRIEND 1
+build agi	8	7	ch03	2	build AGI 4, building AGI 2, Build AGI 1
+burst	8	7	ch03	1	burst 8
+capitalism	8	5	ch01	1	capitalism 8
+cause	8	5	ch01	1	cause 6, causes 2
+chicago	8	2	ch01	1	Chicago 8
+clip	8	5	ch01	1	clip 4, CLIP 2, clips 2
+collaborator	8	5	ch04	1	collaborators 5, collaborator 3
+comparison	8	7	ch02	1	comparison 6, comparisons 2
+compounding	8	6	ch02	1	compounding 7, Compounding 1
+compute infrastructure	8	4	prologue	2	computing infrastructure 8
+computing infrastructure	8	4	prologue	2	computing infrastructure 8
+connectionism	8	2	ch04	1	connectionism 7, Connectionism 1
+conviction	8	6	ch01	1	conviction 4, convictions 4
+corner	8	7	prologue	1	corner 5, corners 3
+daniel	8	5	ch12	1	Daniel 7, daniel 1
+dario amodei	8	5	ch01	2	Dario Amodei 8
+deeper	8	6	ch03	1	deeper 7, Deeper 1
+department	8	5	ch04	1	department 3, departments 3, Department 2
+deputy	8	6	ch02	1	deputies 4, deputy 4
+device	8	7	ch01	1	devices 5, Device 2, device 1
+discipline	8	5	ch01	1	discipline 8
+discovery	8	5	prologue	1	discovery 7, discoveries 1
+distance	8	4	ch05	1	distance 6, distances 2
+economic growth	8	4	ch01	2	economic growth 8
+ecosystem	8	4	ch01	1	ecosystem 6, ecosystems 2
+election	8	6	ch01	1	election 7, elections 1
+entity	8	5	ch02	1	entity 5, entities 3
+error	8	5	ch02	1	error 7, errors 1
+evolved transformer	8	1	ch07	2	Evolved Transformer 8
+existential risk	8	6	ch01	2	existential risk 4, existential risks 4
+father	8	4	ch01	1	father 8
+fine	8	6	ch05	1	fine 7, Fine 1
+fit	8	8	epigraph	1	fit 8
+follow day	8	5	ch03	2	following day 7, following days 1
+forums	8	6	ch06	1	forums 7, Forums 1
+frustration	8	7	ch01	1	frustration 6, frustrations 2
+funder	8	4	prologue	1	funders 6, funder 2
+high level	8	6	ch01	2	highest levels 6, high level 2
+hollywood	8	5	ch03	1	Hollywood 8
+hype	8	5	prologue	1	hype 8
+imperative	8	6	ch01	1	imperative 8
+incident	8	6	prologue	1	incident 7, incidents 1
+income	8	4	ch03	1	income 8
+inner	8	5	epigraph	1	inner 8
+inquiry	8	4	ch08	1	inquiry 4, Inquiry 3, inquiries 1
+inside	8	8	authors-note	1	inside 7, Inside 1
+instance	8	6	ch04	1	instance 5, instances 3
+institute	8	6	prologue	1	Institute 6, institute 2
+intensity	8	7	prologue	1	intensity 8
+jerry	8	2	ch01	1	Jerry 7, jerry 1
+journalists	8	6	ch14	1	journalists 7, Journalists 1
+karnofsky	8	3	ch02	1	Karnofsky 8
+large model	8	5	ch02	2	larger models 4, larger model 2, large models 1
+larry	8	5	prologue	1	Larry 8
+leadership team	8	5	prologue	2	leadership team 8
+like	8	7	ch02	1	likes 6, Likes 2
+likes	8	7	ch02	1	likes 6, Likes 2
+long time	8	6	ch05	2	long time 7, longer time 1
+mahelona	8	1	epilogue	1	Mahelona 8
+majority	8	6	ch01	1	majority 8
+manhattan	8	3	ch01	1	Manhattan 8
+manhattan project	8	3	ch01	2	Manhattan Project 8
+many other	8	7	ch01	2	many others 8
+match	8	5	ch02	1	match 7, matches 1
+max	8	2	ch01	1	Max 8
+mcgrew	8	5	ch02	1	McGrew 8
+memory	8	5	authors-note	1	memories 6, memory 2
+messerschmidt	8	1	ch14	1	Messerschmidt 8
+mom	8	4	ch01	1	mom 7, Mom 1
+monopoly	8	5	ch01	1	monopoly 6, Monopolies 1, monopolies 1
+more datum	8	6	ch02	2	more data 8
+motion	8	6	ch02	1	motion 5, Motion 3
+neurip	8	7	ch02	1	NeurIPS 8
+neurips	8	7	ch02	1	NeurIPS 8
+new data	8	4	ch02	2	new data 8
+new datum	8	4	ch02	2	new data 8
+new idea	8	7	prologue	2	new ideas 5, new idea 3
+node	8	3	ch04	1	nodes 6, node 2
+nondisparagement	8	1	ch17	1	nondisparagement 8
+openai ’s safety clan	8	7	ch07	4	OpenAI’s Safety clan 8
+oppenheimer	8	1	ch13	1	Oppenheimer 7, oppenheimer 1
+other ai	8	5	prologue	2	other AI 7, Other AI 1
+outsourcing	8	2	ch09	1	outsourcing 8
+park	8	4	ch09	1	park 4, Park 2, parks 2
+parrots	8	4	ch07	1	Parrots 8
+peter	8	6	prologue	1	Peter 8
+politician	8	7	prologue	1	politicians 6, politician 2
+primary	8	5	prologue	1	primary 8
+principles	8	8	ch01	1	principles 7, Principles 1
+ramos	8	1	ch12	1	Ramos 8
+recipe	8	2	ch09	1	recipes 7, recipe 1
+sbf	8	2	ch10	1	SBF 8
+schulman	8	5	ch09	1	Schulman 8
+schumer	8	4	ch01	1	Schumer 8
+scraping	8	6	ch04	1	scraping 8
+session	8	4	ch04	1	sessions 5, session 2, Sessions 1
+sight	8	5	ch04	1	sight 6, sights 2
+speech - recognition	8	4	ch04	3	speech-recognition 8
+stability	8	6	authors-note	1	stability 7, Stability 1
+stochastic	8	4	ch07	1	Stochastic 8
+stochastic parrots	8	4	ch07	2	Stochastic Parrots 8
+stock	8	7	ch01	1	stock 8
+suffering	8	7	prologue	1	suffering 8
+taylor	8	2	prologue	1	Taylor 8
+therapist	8	1	ch14	1	therapist 7, therapists 1
+thread	8	7	ch02	1	thread 6, Threads 1, threads 1
+topic	8	8	ch01	1	topics 5, topic 3
+total	8	7	ch02	1	total 8
+touch	8	5	prologue	1	touch 8
+traction	8	4	ch05	1	traction 8
+trust and safety team	8	2	ch10	4	trust and safety team 8
+us government	8	5	ch01	2	US government 8
+video call	8	6	ch06	2	video call 5, video calls 3
+walk	8	8	ch02	1	walk 8
+wetland	8	1	ch12	1	wetland 4, wetlands 4
+withholding	8	4	ch05	1	withholding 8
+workforce	8	3	ch02	1	workforce 8
+workshop	8	5	ch03	1	workshop 7, workshops 1
+zilis	8	3	ch02	1	Zilis 8
+zoph	8	3	ch10	1	Zoph 8
+acceleration	7	5	prologue	1	acceleration 6, Acceleration 1
+accident	7	6	ch02	1	accident 6, accidents 1
+activity	7	4	prologue	1	activity 5, activities 2
+ad	7	4	ch04	1	ad 5, ads 2
+adult	7	5	ch01	1	adult 4, adults 3
+advanced ai	7	7	ch01	2	advanced AI 7
+ai advancement	7	5	ch04	2	AI advancements 4, AI advancement 3
+ai commercialization	7	2	ch04	2	AI commercialization 7
+ai scientist	7	5	ch07	2	AI Scientist 6, AI scientist 1
+aleksander	7	4	prologue	1	Aleksander 7
+align	7	6	ch06	1	align 7
+analysis	7	5	ch05	1	analysis 7
+annotation industry	7	2	ch09	2	annotation industry 7
+apple	7	6	ch01	1	Apple 7
+atacama	7	1	ch12	1	Atacama 7
+authority	7	4	prologue	1	authority 7
+basis	7	6	ch01	1	basis 7
+battle	7	5	ch02	1	battle 6, battles 1
+behalf	7	7	prologue	1	behalf 7
+blip	7	2	ch16	1	Blip 7
+board director	7	3	ch13	2	board directors 5, board director 2
+boomers	7	4	ch10	1	Boomers 7
+burning	7	5	ch01	1	burning 5, Burning 2
+calculation	7	4	ch02	1	calculations 6, calculation 1
+catastrophe	7	5	ch01	1	catastrophe 7
+catch	7	7	ch01	1	catch 7
+champion	7	6	ch01	1	champion 6, Champion 1
+charge	7	5	ch01	1	charge 6, charges 1
+clause	7	3	ch12	1	clause 7
+client	7	1	ch09	1	clients 6, client 1
+cloudfactory	7	1	ch09	1	CloudFactory 7
+coincidence	7	3	ch04	1	coincidence 7
+collaboration	7	6	prologue	1	collaboration 6, collaborations 1
+collapse	7	6	prologue	1	collapse 7
+collection	7	7	epigraph	1	collection 7
+collective	7	5	prologue	1	collective 6, Collective 1
+commercialize	7	6	prologue	1	commercialize 7
+common crawl	7	3	ch05	2	Common Crawl 7
+computer - vision	7	6	ch04	3	computer-vision 7
+confusion	7	5	ch06	1	confusion 6, Confusion 1
+consumption	7	4	prologue	1	consumption 7
+contact	7	5	ch01	1	contact 7
+content - moderation filter	7	4	ch05	4	content-moderation filter 5, content-moderation filters 2
+contribution	7	6	ch01	1	contributions 5, contribution 2
+controversy	7	5	ch01	1	controversy 6, controversies 1
+cooling	7	1	ch12	1	cooling 7
+coverage	7	6	ch02	1	coverage 6, Coverage 1
+crawl	7	3	ch05	1	Crawl 7
+cross	7	6	ch03	1	cross 7
+csam	7	2	ch08	1	CSAM 7
+dangerous capability	7	2	ch13	2	dangerous capabilities 7
+deborah	7	7	ch02	1	Deborah 7
+delay	7	5	ch06	1	delay 6, delays 1
+deliberation	7	4	ch02	1	deliberations 5, deliberation 2
+distribution	7	5	ch03	1	distribution 5, distributions 2
+divorce	7	5	ch06	1	Divorce 6, divorce 1
+doom	7	3	ch10	1	doom 7
+drew	7	7	ch02	1	drew 6, Drew 1
+economic	7	4	ch01	1	economics 7
+economics	7	4	ch01	1	economics 7
+electricity	7	5	ch02	1	electricity 7
+elite	7	5	prologue	1	elite 6, elites 1
+european	7	5	prologue	1	European 7
+evening	7	5	prologue	1	evening 5, evenings 2
+exploit	7	3	prologue	1	exploit 7
+fallout	7	6	ch07	1	fallout 7
+fan	7	5	ch05	1	fans 4, fan 3
+farm	7	4	ch02	1	farm 4, farms 3
+fiction	7	7	ch02	1	fiction 7
+flaw	7	5	prologue	1	flaws 4, flaw 3
+following day	7	4	ch04	2	following day 7
+forth	7	6	prologue	1	forth 7
+google deepmind	7	6	prologue	2	Google DeepMind 7
+greg brockman	7	5	prologue	2	Greg Brockman 7
+heart	7	5	prologue	1	heart 7
+helion	7	2	ch08	1	Helion 7
+hooker	7	1	ch13	1	Hooker 7
+hr	7	2	ch07	1	HR 7
+hundred of thousand	7	4	ch04	3	hundreds of thousands 7
+hyperscaler	7	1	ch12	1	hyperscalers 6, Hyperscalers 1
+incentive	7	5	ch03	1	incentives 4, incentive 3
+independence	7	3	ch01	1	independence 7
+instability	7	5	prologue	1	instability 7
+interaction	7	7	prologue	1	interaction 5, interactions 2
+interim ceo	7	4	prologue	2	interim CEO 7
+invention	7	3	ch04	1	invention 6, inventions 1
+jack clark	7	4	ch03	2	Jack Clark 7
+jakub pachocki	7	5	prologue	2	Jakub Pachocki 7
+jan	7	3	ch10	1	Jan 7
+jason	7	5	prologue	1	Jason 7
+journalism	7	4	prologue	1	journalism 6, Journalism 1
+jump	7	5	ch03	1	jump 7
+koko	7	1	ch10	1	Koko 7
+legal team	7	4	ch13	2	legal team 6, legal teams 1
+lightcap	7	4	prologue	1	Lightcap 7
+luccioni	7	3	ch12	1	Luccioni 7
+manifestation	7	4	prologue	1	manifestation 6, manifestations 1
+margin	7	5	ch02	1	margins 4, margin 3
+microsoft executive	7	5	ch02	2	Microsoft executives 7
+mineral	7	2	ch12	1	minerals 7
+mitchell	7	2	ch07	1	Mitchell 7
+moderation filter	7	4	ch05	2	moderation filter 5, moderation filters 2
+moore ’s law	7	2	ch02	3	Moore’s Law 7
+mountain	7	3	ch02	1	mountains 5, Mountain 2
+municipality	7	1	ch12	1	municipality 7
+nation	7	3	ch01	1	nation 3, nations 3, Nations 1
+nest team	7	3	ch05	2	Nest team 7
+net	7	5	ch01	1	net 6, nets 1
+new board	7	3	prologue	2	new board 7
+new level	7	6	ch06	2	new level 6, new levels 1
+new product	7	6	ch04	2	new products 4, new product 3
+occasion	7	6	ch02	1	occasions 5, occasion 2
+open letter	7	5	prologue	2	open letter 7
+openai ’s law	7	4	ch02	3	OpenAI’s Law 7
+openai ’s office	7	5	prologue	3	OpenAI’s office 5, OpenAI’s offices 2
+openness	7	5	prologue	1	openness 7
+organizing	7	4	ch04	1	organizing 7
+other employee	7	7	prologue	2	other employees 7
+other openai	7	4	ch10	2	other OpenAI 7
+other researcher	7	5	ch02	2	other researchers 7
+paul	7	3	ch01	1	Paul 7
+perception	7	6	prologue	1	perception 6, perceptions 1
+phd	7	4	ch02	1	PhD 7
+pick	7	7	prologue	1	pick 7
+plus	7	2	ch06	1	Plus 6, plus 1
+pr	7	7	ch09	1	PR 7
+preparation	7	5	ch05	1	preparation 6, preparations 1
+prompting	7	4	ch04	1	prompting 7
+protocol	7	5	ch05	1	protocols 4, protocol 3
+queer	7	3	ch07	1	queer 4, Queer 3
+quiet	7	5	ch06	1	quiet 7
+quora	7	3	prologue	1	Quora 7
+racist	7	5	prologue	1	racist 7
+recording	7	4	authors-note	1	recording 5, recordings 2
+reddit	7	4	ch01	1	Reddit 7
+rent	7	3	ch01	1	rent 7
+requirement	7	6	ch01	1	requirements 4, requirement 3
+research community	7	4	ch02	2	research community 6, Research Community 1
+research road	7	5	ch02	2	research road 7
+research road map	7	5	ch02	3	research road map 7
+resolution	7	5	prologue	1	resolution 6, resolutions 1
+resolve	7	6	ch02	1	resolve 7
+reverse	7	5	ch04	1	reverse 7
+rival	7	6	prologue	1	rival 4, rivals 3
+rogue ai	7	4	ch02	2	rogue AI 7
+rosenblatt	7	1	ch04	1	Rosenblatt 7
+rumor	7	4	prologue	1	rumors 6, rumor 1
+same reason	7	6	ch04	2	same reasons 4, same reason 3
+scale ai	7	2	ch02	2	Scale AI 6, scale AI 1
+scholar	7	3	ch04	1	scholars 6, scholar 1
+scrape	7	5	ch04	1	scrape 6, scrapes 1
+search engine	7	5	ch04	2	search engine 6, search engines 1
+several month	7	6	authors-note	2	several months 6, Several months 1
+shifting	7	6	prologue	1	shifting 7
+sidor	7	5	prologue	1	Sidor 7
+signature	7	5	prologue	1	signature 4, signatures 3
+sleep	7	5	prologue	1	sleep 6, Sleep 1
+speaker	7	2	ch09	1	speakers 7
+spring	7	7	prologue	1	spring 7
+square	7	4	prologue	1	square 7
+stable diffusion	7	4	ch04	2	Stable Diffusion 7
+strength	7	6	ch04	1	strengths 4, strength 3
+subject	7	6	ch01	1	subject 5, Subject 2
+super	7	5	ch01	1	super 6, Super 1
+superassistant team	7	3	ch10	2	Superassistant team 7
+supply chain	7	3	ch09	2	supply chain 6, supply chains 1
+surprise	7	5	ch05	1	surprise 7
+swath	7	5	prologue	1	swaths 6, swath 1
+szymon	7	5	prologue	1	Szymon 7
+tank	7	5	prologue	1	tank 5, tanks 2
+target	7	5	ch02	1	target 4, targets 3
+tax	7	4	ch09	1	tax 7
+think tank	7	5	prologue	2	think tank 5, think tanks 2
+timnit	7	5	ch01	1	Timnit 7
+town	7	5	ch03	1	town 6, towns 1
+transformation	7	5	prologue	1	transformation 6, transformations 1
+trash	7	5	ch02	1	trash 7
+travel	7	7	prologue	1	travel 5, Travel 1, travels 1
+ventures	7	6	ch01	1	Ventures 5, ventures 2
+vice	7	7	prologue	1	vice 6, Vice 1
+vice president	7	7	prologue	2	vice president 6, Vice President 1
+video game	7	3	ch01	2	video game 5, video games 2
+violation	7	3	ch08	1	violation 4, violations 3
+washington post	7	5	ch02	2	Washington Post 7
+weapon	7	4	ch02	1	weapon 4, weapons 3
+wikipedia	7	3	ch02	1	Wikipedia 7
+" stochastic parrots " paper	6	3	ch07	5	“Stochastic Parrots” paper 6
+a.	6	3	ch04	1	A. 6
+abundance	6	6	dedication	1	abundance 6
+adherent	6	2	ch02	1	adherents 6
+african	6	3	ch04	1	African 6
+aftermath	6	5	ch05	1	aftermath 6
+agenda	6	4	prologue	1	agenda 5, agendas 1
+ai agent	6	4	ch02	2	AI agent 5, AI agents 1
+ai revolution	6	4	prologue	2	AI revolution 6
+airbnb	6	5	ch01	1	Airbnb 6
+aleksander mądry	6	4	prologue	2	Aleksander Mądry 6
+altruism	6	5	ch02	1	altruism 6
+anger	6	5	prologue	1	anger 5, Anger 1
+annotation firm	6	1	ch09	2	annotation firms 4, annotation firm 2
+api launch	6	3	ch06	2	API launch 6
+appearance	6	5	ch01	1	appearance 3, appearances 3
+association	6	5	ch02	1	association 4, associations 2
+atacama desert	6	1	ch12	2	Atacama Desert 6
+attendee	6	5	prologue	1	attendees 6
+batch	6	6	ch01	1	batch 4, batches 2
+bengio	6	2	ch04	1	Bengio 6
+black people	6	3	ch02	2	Black people 6
+blind	6	2	ch04	1	Blind 3, blind 3
+bob	6	5	ch02	1	Bob 6
+borderline	6	2	ch10	1	borderline 5, Borderline 1
+boy	6	4	prologue	1	Boys 3, boy 2, boys 1
+breaking	6	5	ch05	1	breaking 6
+bunker	6	2	ch06	1	bunker 6
+bus	6	4	ch02	1	bus 5, buses 1
+calm	6	5	ch01	1	calm 6
+campus	6	3	ch01	1	campus 3, campuses 3
+cancer	6	4	ch09	1	cancer 6
+carbon footprint	6	2	ch07	2	carbon footprint 4, Carbon Footprint 1, carbon footprints 1
+card	6	4	ch03	1	card 3, cards 3
+caution	6	5	ch01	1	caution 6
+chatgpt ’s release	6	4	ch05	3	ChatGPT’s release 6
+child sexual abuse	6	5	ch05	3	child sexual abuse 6
+clawback	6	1	ch17	1	clawback 6
+cleaning	6	3	ch02	1	cleaning 6
+clock	6	4	ch03	1	clock 6
+coder	6	3	ch03	1	coder 3, coders 3
+codex	6	4	ch08	1	Codex 6
+colombia	6	4	prologue	1	Colombia 6
+colonialism	6	4	prologue	1	colonialism 6
+companion	6	4	prologue	1	companion 6
+compute threshold	6	1	ch13	2	compute threshold 3, compute thresholds 3
+congress	6	5	ch04	1	Congress 5, congress 1
+consideration	6	5	ch02	1	consideration 3, considerations 3
+consuming	6	6	prologue	1	consuming 6
+contexts	6	4	ch04	1	contexts 6
+convention	6	6	prologue	1	convention 5, conventions 1
+correspondence	6	5	authors-note	1	correspondence 5, correspondences 1
+cotton	6	1	ch04	1	cotton 6
+crash	6	4	ch04	1	crash 4, crashes 2
+crop	6	3	ch03	1	crop 4, crops 2
+cybersecurity	6	4	ch04	1	cybersecurity 6
+cycle	6	5	ch01	1	cycle 5, cycles 1
+cynthia	6	1	ch09	1	Cynthia 6
+damage	6	5	ch07	1	damage 5, damages 1
+danger	6	3	ch01	1	dangers 4, Dangers 2
+dangers	6	3	ch01	1	dangers 4, Dangers 2
+data - annotation industry	6	2	ch09	4	data-annotation industry 6
+data privacy	6	6	prologue	2	data privacy 6
+date	6	5	ch03	1	date 6
+datum privacy	6	6	prologue	2	data privacy 6
+daughter	6	4	ch01	1	daughter 6
+deborah raji	6	6	ch02	2	Deborah Raji 6
+demos	6	5	ch02	1	demos 6
+description	6	2	ch05	1	descriptions 5, description 1
+diagnosis	6	2	ch11	1	diagnosis 6
+different idea	6	4	ch05	2	different ideas 5, different idea 1
+different way	6	5	prologue	2	different way 4, different ways 2
+dishonesty	6	3	ch01	1	dishonesty 6
+disinformation	6	3	ch02	1	disinformation 6
+dissolution	6	5	prologue	1	dissolution 6
+district	6	5	ch02	1	District 3, district 3
+dominance	6	5	ch01	1	dominance 6
+doubt	6	5	prologue	1	doubt 3, doubts 3
+drinking	6	1	ch12	1	drinking 6
+driver	6	5	ch02	1	driver 3, drivers 3
+díaz	6	1	ch12	1	Díaz 6
+economic opportunity	6	4	prologue	2	economic opportunities 5, economic opportunity 1
+ego	6	4	prologue	1	ego 3, egos 3
+emerging	6	6	prologue	1	emerging 5, Emerging 1
+emission	6	2	ch03	1	emissions 6
+engagement	6	5	ch02	1	engagement 5, engagements 1
+environmental cost	6	6	prologue	2	environmental costs 5, environmental cost 1
+ethiopia	6	3	ch01	1	Ethiopia 4, ethiopia 2
+exactly what	6	5	ch01	2	exactly what 6
+extension	6	3	ch09	1	extension 4, extensions 2
+factor	6	5	ch01	1	factors 4, factor 2
+faith	6	5	ch05	1	faith 6
+finding	6	5	ch04	1	findings 6
+firing	6	3	prologue	1	firing 5, firings 1
+first era	6	2	ch04	2	first era 6
+first place	6	5	ch09	2	first place 6
+follow month	6	4	prologue	2	following month 6
+following month	6	4	prologue	2	following month 6
+formation	6	4	ch02	1	formation 6
+friday	6	4	prologue	1	Friday 6
+fuel	6	5	prologue	1	fuel 4, fuels 2
+full time	6	6	ch02	2	full time 6
+fun	6	5	ch02	1	fun 6
+function	6	5	prologue	1	function 3, functions 3
+gender	6	3	ch01	1	gender 4, Gender 2
+girl	6	4	ch04	1	girl 4, girls 2
+google ’s datum	6	3	ch05	3	Google’s data 6
+gpt model	6	5	ch05	2	GPT model 4, GPT models 2
+gpt-4o	6	2	ch17	1	GPT-4o 6
+grocery	6	3	ch01	1	grocery 4, groceries 2
+harvard	6	5	prologue	1	Harvard 6
+height	6	6	prologue	1	heights 4, height 2
+hernández	6	2	ch09	1	Hernández 6
+host	6	6	ch01	1	host 6
+hydrazine	6	2	ch01	1	Hydrazine 6
+ibm	6	3	ch04	1	IBM 6
+illustration	6	4	ch04	1	illustration 6
+ilya sutskever	6	6	prologue	2	Ilya Sutskever 6
+imagenet	6	4	ch02	1	ImageNet 6
+imagination	6	4	ch02	1	imagination 6
+implication	6	5	ch03	1	implications 5, implication 1
+independent board member	6	3	ch10	3	independent board members 6
+india	6	5	ch05	1	India 6
+instructgpt	6	2	ch09	1	InstructGPT 6
+investing	6	5	ch01	1	investing 6
+iowa	6	2	ch07	1	Iowa 6
+jason kwon	6	4	prologue	2	Jason Kwon 6
+jeff	6	2	ch01	1	Jeff 6
+kalluri	6	3	ch04	1	Kalluri 6
+kevin scott	6	6	prologue	2	Kevin Scott 6
+krizhevsky	6	4	ch02	1	Krizhevsky 6
+landing	6	3	prologue	1	landing 6
+layer	6	4	ch04	1	layer 4, layers 2
+lesson	6	6	ch01	1	lesson 4, lessons 2
+leverage	6	6	prologue	1	leverage 6
+longtime	6	5	ch01	1	longtime 6
+lunch	6	4	ch03	1	lunch 3, lunches 3
+luxury	6	6	prologue	1	luxury 6
+m.	6	3	prologue	1	m. 4, M. 2
+magnitude	6	4	ch02	1	magnitude 6
+matching	6	4	ch03	1	matching 6
+mention	6	6	ch02	1	mention 6
+middleman	6	1	ch09	1	middleman 3, middlemen 3
+midst	6	5	ch06	1	midst 6
+milestone	6	6	ch03	1	milestone 4, milestones 2
+minsky	6	1	ch04	1	Minsky 6
+mira murati	6	6	prologue	2	Mira Murati 6
+misinformation	6	6	prologue	1	misinformation 6
+mode	6	2	ch04	1	mode 5, Mode 1
+more information	6	5	ch04	2	more information 6
+most people	6	5	prologue	2	most people 4, Most people 2
+much energy	6	2	ch03	2	much energy 6
+multimodal model	6	3	ch08	2	multimodal models 4, multimodal model 2
+native	6	4	ch09	1	native 5, Native 1
+neighbor	6	2	ch09	1	neighbors 5, neighbor 1
+new zealand	6	3	ch01	2	New Zealand 6
+nick	6	4	ch01	1	Nick 6
+nobel	6	4	ch04	1	Nobel 6
+noble	6	4	ch04	1	Noble 3, noble 3
+objection	6	5	ch04	1	objections 6
+openai ’s research	6	5	ch02	3	OpenAI’s research 5, OpenAI’s Research 1
+orion	6	3	ch16	1	Orion 6
+otero	6	1	ch12	1	Otero 6
+oxford	6	6	ch01	1	Oxford 6
+paths	6	5	prologue	1	paths 5, Paths 1
+patient	6	5	ch03	1	patients 4, patient 2
+paul graham	6	2	ch01	2	Paul Graham 6
+perfect	6	6	prologue	1	perfect 5, Perfect 1
+phenomenon	6	3	ch03	1	phenomenon 5, phenomena 1
+philanthropy	6	3	ch02	1	Philanthropy 4, philanthropy 2
+philosopher	6	6	ch01	1	philosopher 4, philosophers 2
+physicist	6	4	ch05	1	physicist 4, physicists 2
+planning	6	5	ch04	1	planning 5, Planning 1
+policy research	6	4	ch10	2	policy research 6
+policy team	6	1	ch13	2	policy team 3, policy teams 3
+powerful ai	6	5	ch04	2	powerful AI 6
+preparedness	6	3	ch10	1	Preparedness 4, preparedness 2
+presence	6	5	ch03	1	presence 6
+presentation	6	5	ch04	1	presentation 5, presentations 1
+prosperity	6	5	prologue	1	prosperity 6
+public statement	6	3	ch01	2	public statement 6
+q *	6	1	ch16	2	Q* 6
+quarter	6	5	ch04	1	quarter 6
+rack	6	2	ch12	1	rack 3, racks 3
+rallying	6	5	ch04	1	rallying 6
+recruiting	6	3	ch01	1	recruiting 6
+regret	6	6	prologue	1	regret 6
+remain	6	4	ch04	1	remains 6
+research conference	6	5	ch02	2	research conference 5, research conferences 1
+research paper	6	4	prologue	2	research paper 4, research papers 2
+respect	6	4	ch07	1	respect 6
+restaurant	6	4	ch01	1	restaurants 5, restaurant 1
+robotic team	6	3	ch02	2	robotics team 6
+roose	6	2	ch04	1	Roose 6
+rosewood	6	2	ch01	1	Rosewood 6
+scholarship	6	3	ch07	1	scholarship 6
+screenshot	6	3	authors-note	1	screenshots 6
+seat	6	4	prologue	1	seat 3, seats 3
+senior leader	6	4	ch01	2	senior leaders 5, senior leader 1
+senior researcher	6	3	prologue	2	senior researcher 3, senior researchers 3
+several time	6	4	ch01	2	several times 5, Several times 1
+shortcoming	6	4	ch04	1	shortcomings 6
+showcase	6	3	ch02	1	showcase 6
+small group	6	6	prologue	2	small group 5, smaller group 1
+spacex	6	2	ch01	1	SpaceX 6
+status	6	6	prologue	1	status 6
+string	6	5	ch03	1	string 3, strings 3
+succession	6	5	prologue	1	succession 6
+sunday	6	3	prologue	1	Sunday 5, Sundays 1
+surge	6	4	ch01	1	surge 6
+sustainability	6	2	ch12	1	sustainability 6
+szymon sidor	6	5	prologue	2	Szymon Sidor 6
+thanksgiving	6	3	prologue	1	Thanksgiving 5, thanksgiving 1
+tie	6	5	ch01	1	ties 6
+timnit gebru	6	5	ch01	2	Timnit Gebru 6
+toll	6	6	ch07	1	toll 6
+trump	6	5	ch01	1	Trump 6
+uber	6	3	ch04	1	Uber 6
+uk	6	5	ch02	1	UK 6
+union	6	4	ch01	1	Union 3, union 2, unions 1
+valuation	6	4	prologue	1	valuation 3, valuations 3
+wait	6	6	prologue	1	wait 6
+wake	6	5	ch01	1	wake 6
+web app	6	1	ch10	2	web app 6
+web page	6	5	ch04	2	web page 4, web pages 2
+worldview	6	5	prologue	1	worldview 3, worldviews 3
+xai	6	3	ch13	1	xAI 6
+zaremba	6	3	ch02	1	Zaremba 6
+zealand	6	3	ch01	1	Zealand 6
+zuckerberg	6	4	ch01	1	Zuckerberg 6
+" safety	5	3	ch02	2	“safety 5
+accelerator	5	4	ch01	1	accelerator 5
+advocate	5	3	ch07	1	advocate 4, advocates 1
+affair	5	4	prologue	1	affairs 3, affair 2
+affiliation	5	3	ch04	1	affiliation 3, affiliations 2
+ai accountability	5	3	ch02	2	AI accountability 3, AI Accountability 2
+ai assistant	5	4	ch09	2	AI assistant 5
+ai product	5	3	ch02	2	AI products 3, AI product 2
+ai safety community	5	2	ch10	3	AI safety community 5
+ai team	5	2	ch07	2	AI team 5
+altman ’s firing	5	2	prologue	3	Altman’s firing 5
+amassing	5	5	ch01	1	amassing 5
+anna makanju	5	5	prologue	2	Anna Makanju 5
+armchair	5	2	ch01	1	armchairs 3, armchair 2
+array	5	4	ch02	1	array 5
+assumption	5	5	ch03	1	assumption 4, assumptions 1
+atlantic	5	5	authors-note	1	Atlantic 5
+axis	5	2	ch02	1	axis 4, axes 1
+backdrop	5	5	ch02	1	backdrop 5
+backer	5	2	prologue	1	backer 3, backers 2
+backing	5	3	ch02	1	backing 5
+backup	5	3	prologue	1	backup 5
+baidu	5	4	prologue	1	Baidu 5
+balance	5	4	ch01	1	balance 4, balances 1
+bank	5	3	ch01	1	bank 3, Bank 2
+barret	5	3	ch10	1	Barret 5
+benefit corporation	5	3	ch02	2	benefit corporation 4, benefit corporations 1
+benefit humanity	5	4	prologue	2	benefits humanity 4, benefiting humanity 1
+bias	5	4	ch02	1	bias 4, Bias 1
+birthday	5	4	ch01	1	birthday 5
+bloomberg	5	4	prologue	1	Bloomberg 5
+board ’s decision	5	2	ch16	3	board’s decision 5
+bob mcgrew	5	5	ch02	2	Bob McGrew 5
+boric	5	1	ch12	1	Boric 5
+bottleneck	5	5	ch02	1	bottleneck 5
+boundary	5	5	ch01	1	boundaries 5
+breach	5	4	prologue	1	breach 5
+brundage	5	4	ch10	1	Brundage 5
+bug	5	4	ch01	1	bugs 3, bug 2
+burden	5	5	ch07	1	burden 5
+burroughs	5	2	ch01	1	Burroughs 5
+cap	5	5	prologue	1	cap 5
+cast	5	4	ch04	1	cast 5
+chairman	5	3	ch02	1	chairman 5
+characteristic	5	5	prologue	1	characteristic 3, characteristics 2
+characterization	5	4	ch01	1	characterization 5
+charity	5	1	ch10	1	charity 4, charities 1
+chasm	5	5	prologue	1	chasm 5
+chesky	5	2	ch01	1	Chesky 5
+chief executive	5	2	prologue	2	chief executive 5
+clashing	5	3	ch01	1	clashing 5
+claude	5	4	ch11	1	Claude 5
+cochairman	5	5	prologue	1	cochairman 3, cochairmen 2
+code generation	5	3	ch06	2	code generation 5
+code name	5	3	authors-note	2	code names 3, code name 2
+competitive advantage	5	5	ch04	2	competitive advantage 5
+compliance	5	3	ch05	1	compliance 5
+compute efficiency	5	3	ch08	2	compute efficiency 5
+confidentiality	5	5	prologue	1	confidentiality 5
+consensus	5	4	ch04	1	consensus 5
+conspiracy	5	4	ch04	1	conspiracy 5
+constant	5	4	ch10	1	constant 5
+constitution	5	2	ch10	1	constitution 4, Constitution 1
+continent	5	4	prologue	1	continent 3, continents 2
+contingent	5	1	ch06	1	contingent 5
+cool system	5	1	ch12	2	cooling systems 3, cooling system 2
+copyright	5	4	ch04	1	copyright 5
+count	5	2	ch09	1	count 5
+crime	5	3	ch03	1	crime 4, Crime 1
+cry	5	3	prologue	1	cry 5
+cset	5	3	prologue	1	CSET 5
+dair	5	1	epilogue	1	DAIR 5
+dark	5	5	prologue	1	dark 5
+dartmouth	5	2	ch04	1	Dartmouth 5
+dataluna	5	1	ch12	1	Dataluna 5
+dc	5	5	ch05	1	DC 5
+deep neural	5	1	ch04	2	deep neural 5
+deep neural network	5	1	ch04	3	deep neural networks 4, deep neural network 1
+demeanor	5	4	prologue	1	demeanor 5
+demis	5	3	ch01	1	Demis 5
+disagreement	5	5	ch01	1	disagreement 2, disagreements 2, Disagreements 1
+dispossession	5	5	dedication	1	dispossession 5
+dowling	5	3	ch06	1	Dowling 5
+drug	5	5	prologue	1	drug 3, drugs 2
+duty	5	3	prologue	1	duty 4, duties 1
+earnest	5	4	prologue	1	earnest 5
+elon	5	4	prologue	1	Elon 5
+embrace	5	3	ch04	1	embrace 5
+emergence	5	4	ch04	1	emergence 5
+emergency	5	4	ch01	1	emergency 3, emergencies 2
+emily	5	3	ch07	1	Emily 5
+emmett	5	3	prologue	1	Emmett 5
+emphasis	5	5	ch07	1	emphasis 5
+employee remember	5	3	prologue	2	employee remembers 5
+employer	5	3	ch09	1	employer 4, employers 1
+endeavor	5	4	ch02	1	endeavor 3, endeavors 2
+ethical ai	5	2	ch06	2	ethical AI 5
+europe	5	4	ch05	1	Europe 5
+evil	5	2	ch01	1	evil 4, Evil 1
+exception	5	5	authors-note	1	exception 3, exceptions 2
+executive order	5	2	ch04	2	executive order 5
+existential ai	5	2	ch06	2	existential AI 5
+exodus	5	4	prologue	1	exodus 5
+expect value	5	1	ch10	2	expected value 4, expected values 1
+expert system	5	1	ch04	2	expert systems 4, Expert systems 1
+fail	5	4	ch01	1	fail 5
+few hour	5	5	prologue	2	few hours 5
+few sentence	5	3	ch02	2	few sentences 5
+fighting	5	4	ch06	1	fighting 5
+filing	5	3	ch04	1	filing 5
+finish	5	3	ch02	1	finish 5
+flamingo	5	2	ch09	1	Flamingo 2, flamingos 2, flamingo 1
+floor	5	5	ch02	1	floor 3, floors 2
+flow	5	4	ch01	1	flow 4, flows 1
+foot	5	4	ch02	1	feet 3, foot 2
+footage	5	3	ch02	1	footage 5
+freedom	5	4	ch03	1	freedom 5
+fresh water	5	1	ch12	2	fresh water 5
+fundraising	5	5	prologue	1	fundraising 5
+gap	5	5	ch02	1	gaps 4, gap 1
+gathering	5	4	ch01	1	gathering 4, gatherings 1
+gay	5	2	ch01	1	gay 5
+generation model	5	3	ch06	2	generation model 5
+geoffrey	5	5	ch02	1	Geoffrey 5
+giant ’s executive	5	3	ch08	3	giant’s executives 5
+global south country	5	3	ch04	3	Global South countries 4, Global South country 1
+good friend	5	5	ch06	2	best friend 2, best friends 1, good friend 1
+google brain	5	2	ch02	2	Google Brain 5
+google ’s data center	5	2	ch07	4	Google’s data center 4, Google’s data centers 1
+googler	5	4	ch01	1	Googlers 4, Googler 1
+grasp	5	5	ch02	1	grasp 5
+green	5	4	ch03	1	green 5
+guarantee	5	4	ch08	1	guarantees 5
+hall	5	5	ch01	1	hall 3, Hall 1, halls 1
+health challenge	5	2	ch01	2	health challenges 5
+helen toner	5	5	prologue	2	Helen Toner 5
+holiday	5	5	ch01	1	holiday 4, holidays 1
+hood	5	4	prologue	1	hood 4, Hood 1
+hotel	5	5	prologue	1	hotel 3, Hotel 1, hotels 1
+human brain	5	2	ch02	2	human brain 4, human brains 1
+human intelligence	5	3	ch01	2	human intelligence 5
+human labor	5	3	ch05	2	human labor 5
+human player	5	1	ch02	2	human players 4, human player 1
+hurd	5	1	ch13	1	Hurd 5
+inbox	5	3	ch09	1	inbox 5
+incubator	5	1	ch01	1	incubator 5
+independent board director	5	3	ch13	3	independent board directors 3, independent board director 2
+inference	5	4	ch10	1	inference 5
+infringement	5	5	ch02	1	infringement 4, infringements 1
+initiative	5	3	ch07	1	initiative 4, initiatives 1
+ip	5	5	ch06	1	IP 5
+iterative	5	3	ch13	1	iterative 4, Iterative 1
+iterative deployment	5	3	ch13	2	iterative deployment 4, Iterative deployment 1
+jeff dean	5	2	ch01	2	Jeff Dean 5
+jessica	5	3	ch01	1	Jessica 5
+journey	5	4	ch02	1	journey 5
+justice	5	5	prologue	1	justice 4, Justice 1
+karpathy	5	1	ch02	1	Karpathy 5
+knowledge production	5	1	epilogue	2	knowledge production 5
+landscape	5	3	ch01	1	landscape 3, landscapes 2
+lane	5	2	ch04	1	lane 4, lanes 1
+language processing	5	2	ch04	2	language processing 5
+lecun	5	4	ch04	1	LeCun 5
+legacy	5	4	ch04	1	legacy 4, legacies 1
+library	5	3	ch03	1	libraries 2, library 2, Library 1
+license	5	5	ch05	1	license 5
+lie	5	4	ch01	1	lie 3, lies 2
+lifetime	5	5	prologue	1	lifetime 4, lifetimes 1
+limitation	5	5	ch01	1	limitations 5
+lining	5	5	ch03	1	lining 5
+listserv	5	2	ch01	1	LISTSERV 5
+loop	5	4	ch04	1	loop 5
+loyalty	5	5	ch04	1	loyalty 4, loyalties 1
+macaskill	5	1	ch10	1	MacAskill 5
+mainstream	5	5	ch03	1	mainstream 5
+makanju	5	5	prologue	1	Makanju 5
+mantra	5	3	ch01	1	mantra 4, mantras 1
+massachusetts	5	4	ch01	1	Massachusetts 5
+matt	5	4	ch01	1	Matt 5
+megawatt	5	2	ch07	1	megawatts 3, megawatt 2
+meme	5	4	ch05	1	memes 4, meme 1
+merit	5	3	prologue	1	merit 4, merits 1
+military	5	4	ch02	1	military 5
+mining industry	5	2	ch04	2	mining industry 5
+mistake	5	4	ch04	1	mistakes 3, mistake 2
+mit professor	5	5	epigraph	2	MIT professor 5
+model ’s performance	5	3	ch05	3	model’s performance 5
+model ’s training	5	4	ch05	3	model’s training 5
+momentum	5	5	ch02	1	momentum 5
+montevideo	5	1	ch12	1	Montevideo 5
+moon	5	3	ch02	1	moon 5
+mophat okinyi	5	4	ch09	2	Mophat Okinyi 5
+morale	5	5	ch04	1	morale 5
+more people	5	5	ch01	2	more people 5
+napoleon	5	1	ch18	1	Napoleon 5
+nearly all	5	5	ch01	2	nearly all 3, Nearly all 2
+neighboring	5	2	ch09	1	neighboring 5
+new project	5	2	ch05	2	new project 3, new projects 2
+new york magazine	5	2	ch14	3	New York magazine 5
+nick bostrom	5	3	ch01	2	Nick Bostrom 5
+nobel prize	5	4	ch04	2	Nobel Prize 5
+nondisparagement agreement	5	1	ch17	2	nondisparagement agreement 4, nondisparagement agreements 1
+only thing	5	2	ch05	2	only thing 5
+onstage	5	4	ch01	1	onstage 5
+openai leadership	5	5	ch02	2	OpenAI leadership 5
+openai ’s board	5	3	ch02	3	OpenAI’s board 5
+openai ’s founding	5	5	ch03	3	OpenAI’s founding 5
+other company	5	5	prologue	2	other companies 4, other company 1
+other country	5	2	ch09	2	other countries 5
+other way	5	5	ch02	2	other way 3, other ways 2
+p(doom	5	3	ch10	1	p(doom 5
+paraphrase	5	4	authors-note	1	paraphrase 4, Paraphrase 1
+paypal	5	4	ch01	1	PayPal 5
+penguin	5	1	acknowledgments	1	Penguin 5
+peter thiel	5	3	prologue	2	Peter Thiel 5
+phrasing	5	5	ch01	1	phrasing 5
+pinochet	5	1	ch12	1	Pinochet 5
+pioneer	5	3	ch03	1	Pioneer 4, pioneer 1
+planet	5	5	ch04	1	planet 5
+pre	5	3	ch05	1	pre 4, Pre 1
+precedent	5	5	ch05	1	precedent 5
+preview	5	2	ch10	1	preview 5
+previous year	5	4	ch09	2	previous year 5
+prize	5	4	ch04	1	Prize 5
+procedure	5	5	epigraph	1	procedures 5
+prominence	5	4	ch01	1	prominence 5
+prospect	5	5	prologue	1	prospect 5
+psychology	5	4	ch04	1	psychology 5
+quotes	5	4	authors-note	1	quotes 4, Quotes 1
+ralston	5	2	ch01	1	Ralston 5
+rapid succession	5	5	prologue	2	rapid succession 5
+reactive	5	2	ch10	1	reactive 5
+reactive enforcement	5	2	ch10	2	reactive enforcement 5
+real world	5	5	ch02	2	real world 5
+realization	5	5	ch02	1	realization 5
+recruiter	5	2	ch02	1	recruiter 4, recruiters 1
+regard	5	5	ch01	1	regard 5
+reid	5	4	ch02	1	Reid 5
+reid hoffman	5	4	ch02	2	Reid Hoffman 5
+relative	5	4	ch03	1	relative 3, relatives 2
+remotasks plus	5	1	ch09	2	Remotasks Plus 5
+research lab	5	4	prologue	2	research lab 5
+research preview	5	2	ch10	2	research preview 5
+retreat	5	5	ch03	1	retreat 4, retreats 1
+revelation	5	5	ch03	1	revelation 3, revelations 2
+rhetoric	5	4	ch05	1	rhetoric 5
+rlhf process	5	3	ch06	2	RLHF process 5
+rlhf worker	5	1	ch09	2	RLHF workers 4, RLHF worker 1
+rocket	5	4	prologue	1	rocket 4, rockets 1
+safety community	5	2	ch10	2	safety community 5
+safety issue	5	5	ch06	2	safety issues 4, safety issue 1
+sama spokesperson	5	1	ch09	2	Sama spokesperson 5
+same month	5	4	ch06	2	same month 5
+same thing	5	5	ch04	2	same thing 5
+schools	5	4	ch04	1	schools 4, Schools 1
+science fiction	5	5	ch02	2	science fiction 5
+score	5	2	ch07	1	score 5
+screen	5	3	prologue	1	screen 5
+senate	5	3	ch01	1	Senate 5
+senior leadership	5	3	ch10	2	senior leadership 5
+shine	5	4	authors-note	1	shine 5
+shirt	5	5	prologue	1	shirts 4, shirt 1
+shock	5	4	ch02	1	shock 3, Shock 1, shocks 1
+shortage	5	2	ch11	1	shortage 5
+signatory	5	5	prologue	1	signatories 5
+significance	5	5	ch05	1	significance 5
+sincerity	5	4	prologue	1	sincerity 5
+solidarity	5	3	ch07	1	solidarity 5
+sounding	5	4	ch10	1	sounding 5
+south country	5	3	ch04	2	South countries 4, South country 1
+speculation	5	5	prologue	1	speculation 5
+staffer	5	3	ch08	1	staffers 3, staffer 2
+station	5	5	ch03	1	stations 3, station 2
+statistical pattern	5	2	ch04	2	statistical pattern 4, statistical patterns 1
+strategies	5	5	ch01	1	strategies 4, Strategies 1
+stream	5	3	ch09	1	stream 3, streams 2
+streets	5	4	ch03	1	streets 4, Streets 1
+strubell ’s paper	5	2	ch07	3	Strubell’s paper 4, Strubell’s papers 1
+strubell ’s research	5	1	ch07	3	Strubell’s research 5
+surface	5	5	prologue	1	surface 5
+symbol	5	5	prologue	1	symbol 5
+symbolism	5	1	ch04	1	symbolism 5
+take	5	4	prologue	1	takes 5
+tap	5	3	ch01	1	tap 3, taps 2
+technology ’s development	5	4	prologue	3	technology’s development 5
+ten of thousand	5	5	ch02	3	tens of thousands 5
+tendency	5	5	ch01	1	tendency 5
+tender offer	5	2	prologue	2	tender offer 5
+tenure	5	3	prologue	1	tenure 3, tenures 2
+testimony	5	1	ch13	1	testimony 5
+textbook	5	5	ch04	1	textbooks 4, textbook 1
+theft	5	4	prologue	1	theft 5
+theme	5	5	ch01	1	theme 3, themes 2
+thesis	5	5	ch01	1	thesis 5
+timing	5	3	ch02	1	timing 5
+tour	5	3	ch01	1	Tour 4, tour 1
+tracking	5	2	ch01	1	tracking 5
+trail	5	4	ch02	1	trails 3, Trail 1, trail 1
+training team	5	3	ch15	2	training team 5
+translator	5	4	ch12	1	translator 4, translators 1
+trial	5	4	ch02	1	trial 5
+trigger	5	3	ch06	1	trigger 4, triggers 1
+trio	5	5	prologue	1	trio 5
+trouble	5	5	ch01	1	trouble 5
+uncertainty	5	5	prologue	1	uncertainty 5
+united	5	3	prologue	1	United 4, united 1
+unity	5	4	prologue	1	unity 5
+urban	5	2	ch12	1	urban 4, Urban 1
+use ai	5	3	ch08	2	use AI 4, Use AI 1
+vague	5	5	prologue	1	vague 5
+waiting	5	5	ch01	1	waiting 5
+well future	5	4	ch04	2	better future 5
+willingness	5	4	ch01	1	willingness 5
+wine	5	5	ch01	1	wine 5
+wish	5	4	prologue	1	wish 5
+working condition	5	2	prologue	2	working conditions 5
+york magazine	5	2	ch14	2	York magazine 5
+" intelligence	4	4	prologue	2	“Intelligence 2, “intelligence 2
+" pure language	4	2	ch05	3	“pure language 4
+a100s	4	3	ch08	1	A100s 4
+abbeel	4	3	ch02	1	Abbeel 4
+absence	4	4	prologue	1	absence 4
+academia	4	3	ch04	1	academia 4
+accusation	4	2	ch01	1	accusations 4
+acre	4	3	ch01	1	acres 3, acre 1
+activism	4	1	ch12	1	activism 4
+adoption	4	4	ch09	1	adoption 4
+adventure	4	4	ch05	1	adventure 2, Adventures 1, adventures 1
+aesthetic	4	3	ch10	1	aesthetic 3, aesthetics 1
+after sam	4	2	ch01	2	After Sam 2, after Sam 2
+afternoon	4	3	prologue	1	afternoon 4
+agi development	4	3	prologue	2	AGI development 4
+ai chip	4	4	prologue	2	AI chip 2, AI chips 2
+ai division	4	4	prologue	2	AI division 3, AI divisions 1
+ai field	4	3	prologue	2	AI field 4
+ai research conference	4	4	ch02	3	AI research conference 4
+ai safety issue	4	4	ch06	3	AI safety issues 4
+ai startup	4	4	ch04	2	AI startup 2, AI startups 2
+ai timeline	4	2	ch10	2	AI timeline 2, AI timelines 2
+alec	4	3	ch05	1	Alec 4
+alex	4	4	ch02	1	Alex 4
+american company	4	2	ch09	2	American companies 2, American company 2
+ancestor	4	3	ch09	1	ancestors 4
+annie ’s allegation	4	2	ch14	3	Annie’s allegations 4
+annie ’s story	4	1	ch14	3	Annie’s story 4
+ap	4	1	ch10	1	AP 4
+appeal	4	4	ch02	1	appeal 3, appeals 1
+appointment	4	2	ch13	1	appointment 2, appointments 2
+arrakis	4	2	ch11	1	Arrakis 4
+artifact	4	3	ch04	1	artifact 2, artifacts 2
+ask	4	4	ch01	1	asks 4
+assertion	4	4	ch03	1	assertion 2, assertions 2
+assistant professor	4	4	ch07	2	assistant professor 4
+associated	4	4	ch03	1	associated 3, Associated 1
+assurance	4	3	ch02	1	assurance 4
+atacameños	4	1	ch12	1	Atacameños 4
+audit	4	2	ch06	1	audit 4
+aught	4	4	ch01	1	aughts 4
+auto	4	3	ch04	1	auto 4
+autopilot	4	2	ch02	1	Autopilot 4
+backflip	4	1	ch05	1	backflips 3, backflip 1
+bad actor	4	2	ch02	2	bad actors 4
+bad thing	4	3	ch03	2	worst thing 2, bad thing 1, bad things 1
+barret zoph	4	3	ch10	2	Barret Zoph 4
+barrier	4	4	ch04	1	barrier 2, barriers 2
+bed	4	4	ch09	1	bed 4
+beijing	4	1	ch13	1	Beijing 4
+benchmark	4	4	ch01	1	benchmarks 3, benchmark 1
+big tech	4	3	ch02	2	Big Tech 3, big tech 1
+bill gates	4	3	ch01	2	Bill Gates 4
+birhane	4	2	ch04	1	Birhane 4
+black researcher	4	2	ch02	2	Black researchers 4
+blessing	4	3	ch03	1	blessing 3, blessings 1
+blind people	4	1	ch05	2	Blind people 2, blind people 2
+blogger	4	2	ch01	1	blogger 4
+board meeting	4	2	ch10	2	board meeting 2, board meetings 2
+boost	4	4	prologue	1	boost 4
+borderline personality	4	1	ch14	2	borderline personality 3, Borderline personality 1
+boys	4	2	ch01	1	Boys 3, boys 1
+brad	4	4	prologue	1	Brad 4
+brad lightcap	4	4	prologue	2	Brad Lightcap 4
+branding	4	4	ch01	1	branding 4
+british	4	4	ch02	1	British 4
+brunt	4	4	ch09	1	brunt 4
+brutal	4	3	ch09	1	brutal 4
+bunch	4	4	ch05	1	bunch 4
+buolamwini	4	1	ch07	1	Buolamwini 4
+bureaucracy	4	3	ch08	1	bureaucracy 4
+camera	4	3	ch02	1	cameras 3, camera 1
+carbon cost	4	1	ch07	2	carbon costs 3, carbon cost 1
+careers	4	3	ch04	1	careers 3, Careers 1
+celebrity	4	4	prologue	1	celebrities 2, celebrity 2
+centralization	4	3	ch06	1	centralization 4
+century	4	4	ch04	1	centuries 2, century 2
+ceremony	4	4	prologue	1	ceremony 3, ceremonies 1
+certain threshold	4	3	ch04	2	certain threshold 4
+chair	4	3	ch01	1	chair 3, chairs 1
+change ai	4	2	ch03	2	Change AI 4
+chapter	4	4	ch04	1	chapter 3, chapters 1
+chemical	4	3	ch04	1	chemical 2, chemicals 2
+chief scientist	4	4	prologue	2	chief scientist 4
+chipmaking	4	2	ch02	1	chipmaking 3, Chipmaking 1
+civil society	4	3	ch07	2	civil society 4
+classmate	4	2	ch01	1	classmate 3, classmates 1
+clawback clause	4	1	ch17	2	clawback clause 4
+climate change ai	4	2	ch03	3	Climate Change AI 4
+close friend	4	3	ch01	2	close friend 2, close friends 1, closest friends 1
+code - generation model	4	2	ch06	4	code-generation model 4
+colead	4	3	ch02	1	colead 4
+combinator	4	1	ch01	1	Combinator 4
+commercial product	4	3	prologue	2	commercial products 3, commercial product 1
+commission	4	4	ch04	1	Commission 3, commissions 1
+committee	4	4	ch02	1	committee 4
+compromise	4	4	ch02	1	compromise 4
+compute resource	4	4	ch06	2	compute resources 4
+computer scientist	4	4	ch04	2	computer scientist 3, computer scientists 1
+computer vision	4	4	ch02	2	computer vision 3, Computer vision 1
+concentration	4	4	ch02	1	concentration 3, concentrations 1
+confidant	4	4	ch01	1	confidant 2, confidants 2
+configuration	4	3	prologue	1	configuration 2, configurations 2
+conneau	4	1	ch17	1	Conneau 4
+consequential technology	4	4	prologue	2	consequential technologies 2, consequential technology 2
+construction	4	3	ch09	1	construction 4
+content - moderation work	4	1	ch09	4	content-moderation work 4
+contrast	4	4	ch04	1	contrast 4
+council	4	2	ch12	1	council 3, Council 1
+counsel	4	4	prologue	1	counsel 4
+counterpart	4	4	ch06	1	counterparts 3, counterpart 1
+coup	4	3	ch12	1	coup 4
+credibility	4	3	ch02	1	credibility 4
+crowd	4	4	prologue	1	crowd 4
+crucially	4	4	ch10	1	crucially 3, Crucially 1
+currency	4	4	ch01	1	currency 4
+curve	4	3	ch02	1	curve 4
+cutting edge	4	2	ch02	2	cutting edge 4
+dad ’s death	4	2	prologue	3	dad’s death 4
+data - annotation firm	4	1	ch09	4	data-annotation firms 4
+data annotation	4	1	ch09	2	data annotation 3, Data annotation 1
+datum annotation	4	1	ch09	2	data annotation 3, Data annotation 1
+dave	4	3	ch07	1	Dave 4
+debt	4	1	ch09	1	debts 3, debt 1
+decision - making	4	4	prologue	3	decision-making 4
+democracy	4	4	prologue	1	democracy 4
+density	4	3	ch02	1	density 4
+depressed	4	1	ch04	1	depressed 3, DEPRESSED 1
+depression	4	4	ch01	1	depression 4
+desperation	4	4	prologue	1	desperation 4
+detractor	4	4	ch01	1	detractors 3, detractor 1
+develop ai	4	3	ch01	2	developing AI 3, Developing AI 1
+dictatorship	4	2	ch02	1	dictatorship 4
+different approach	4	4	ch02	2	different approach 2, different approaches 2
+different direction	4	4	ch02	2	different direction 4
+dimension	4	4	ch02	1	dimension 4
+directive	4	4	ch10	1	directive 3, directives 1
+discriminatory impact	4	4	ch02	2	discriminatory impact 2, discriminatory impacts 2
+distinction	4	4	ch01	1	distinction 4
+dnnresearch	4	2	ch02	1	DNNresearch 4
+doctrine	4	2	ch04	1	doctrine 3, Doctrine 1
+documentary	4	3	ch02	1	documentary 4
+domain	4	2	ch04	1	domain 4
+doomer community	4	1	ch13	2	Doomer community 4
+dota 2 project	4	3	ch02	3	Dota 2 project 4
+draw	4	4	ch02	1	draw 4
+drinking water	4	1	ch12	2	drinking water 4
+ea movement	4	2	ch10	2	EA movement 4
+early year	4	4	ch05	2	early years 4
+echo	4	3	ch01	1	echo 3, echoes 1
+economic crisis	4	2	prologue	2	economic crisis 4
+effective altruism	4	3	ch02	2	effective altruism 4
+effigy	4	2	ch10	1	effigy 4
+elder	4	2	ch12	1	elders 3, elder 1
+emmett shear	4	3	prologue	2	Emmett Shear 4
+emoji	4	4	prologue	1	emoji 4
+emotion	4	3	ch01	1	emotions 3, emotion 1
+employee question	4	2	prologue	2	employee questions 3, employee question 1
+encoding	4	2	ch03	1	encoding 4
+endnote	4	2	authors-note	1	endnotes 4
+endorsement	4	3	ch01	1	endorsement 4
+enough money	4	3	ch01	2	enough money 4
+enterprise	4	3	ch01	1	enterprise 2, Enterprise 1, enterprises 1
+estate	4	4	ch01	1	estate 4
+ethic	4	2	ch01	1	Ethics 2, ethics 2
+ethical ai team	4	1	ch07	3	ethical AI team 4
+ethics	4	2	ch01	1	Ethics 2, ethics 2
+ethos	4	4	ch01	1	ethos 4
+executive team	4	2	ch11	2	executive team 4
+existential threat	4	3	ch01	2	existential threat 4
+exit document	4	1	ch17	2	exit documents 4
+exploration	4	4	ch04	1	exploration 2, explorations 2
+extinction	4	4	ch01	1	extinction 4
+fairness	4	3	ch01	1	fairness 4
+fanfare	4	4	ch04	1	fanfare 4
+fate	4	4	prologue	1	fate 3, fates 1
+favor	4	4	ch04	1	favor 4
+few people	4	4	prologue	2	few people 4
+few week	4	3	ch02	2	few weeks 4
+finance	4	4	prologue	1	finance 3, finances 1
+financial independence	4	2	ch01	2	financial independence 4
+flight	4	4	ch02	1	flight 3, flights 1
+football	4	2	ch03	1	football 4
+football field	4	2	ch03	2	football fields 3, football field 1
+fore	4	4	prologue	1	fore 4
+former openai	4	3	authors-note	2	former OpenAI 4
+found member	4	3	ch02	2	founding members 3, founding member 1
+fraser	4	2	ch06	1	Fraser 4
+fraser kelton	4	2	ch06	2	Fraser Kelton 4
+fraud	4	3	ch01	1	fraud 4
+friedman	4	1	ch12	1	Friedman 4
+full version	4	2	ch02	2	full version 4
+fusion	4	3	ch06	1	fusion 4
+gary	4	4	ch04	1	Gary 4
+gary marcus	4	4	ch04	2	Gary Marcus 4
+genius	4	3	ch01	1	Genius 2, genius 2
+george	4	3	ch05	1	George 4
+ghost	4	2	ch09	1	Ghost 2, ghost 1, ghosts 1
+github copilot	4	3	ch08	2	GitHub Copilot 4
+global north	4	3	prologue	2	Global North 4
+good idea	4	4	ch02	2	best ideas 2, good idea 2
+good thing	4	4	ch01	2	best thing 4
+google employee	4	2	ch02	2	Google employees 4
+google research	4	2	ch02	2	Google Research 4
+google translate	4	4	ch04	2	Google Translate 4
+google ’s datum center	4	1	ch12	4	Google’s data center 4
+googlers	4	4	ch01	1	Googlers 4
+graduate student	4	4	ch02	2	graduate student 2, graduate students 2
+grain	4	4	ch05	1	grain 4
+grant	4	4	ch02	1	grants 3, grant 1
+grappling	4	3	authors-note	1	grappling 4
+gravity	4	3	ch06	1	gravity 4
+gray	4	3	ch03	1	Gray 2, gray 2
+grow number	4	4	ch09	2	growing number 4
+guess	4	3	ch03	1	guess 4
+guide	4	4	ch02	1	guide 4
+handing	4	3	ch11	1	handing 3, Handing 1
+handling	4	4	ch05	1	handling 4
+hannah	4	2	ch11	1	Hannah 4
+hannah wong	4	2	ch11	2	Hannah Wong 4
+hate	4	3	prologue	1	hate 4
+haven	4	3	ch03	1	haven 4
+headquarter	4	4	ch09	1	headquarters 4
+headquarters	4	4	ch09	1	headquarters 4
+healing	4	4	ch08	1	healing 4
+high school	4	4	ch02	2	high school 4
+hint	4	4	ch02	1	hint 3, hints 1
+holden	4	3	ch02	1	Holden 4
+holden karnofsky	4	3	ch02	2	Holden Karnofsky 4
+household	4	4	ch06	1	household 2, households 2
+hub	4	3	ch09	1	hub 4
+human control	4	3	ch06	2	human control 4
+image model	4	3	ch08	2	image models 3, image model 1
+imitation	4	2	ch03	1	Imitation 2, imitation 2
+implementation	4	3	ch03	1	implementation 4
+inclusive	4	4	prologue	1	inclusive 4
+indigenous community	4	2	ch12	2	Indigenous communities 3, Indigenous community 1
+indigenous group	4	2	ch12	2	Indigenous groups 4
+inequality	4	3	ch09	1	inequality 4
+influx	4	2	ch08	1	influx 4
+infrastructure team	4	3	ch06	2	infrastructure team 4
+inner working	4	3	epigraph	2	inner workings 4
+insider	4	3	ch01	1	insider 2, Insider 1, Insiders 1
+intern	4	2	ch02	1	intern 4
+internal document	4	3	ch03	2	internal document 2, internal documents 2
+invite	4	3	ch01	1	invite 4
+irony	4	4	ch04	1	irony 4
+island	4	3	ch01	1	island 3, Island 1
+israel	4	3	ch02	1	Israel 4
+janitor	4	2	ch02	1	janitor 4
+john schulman	4	4	ch09	2	John Schulman 4
+joseph	4	4	epigraph	1	Joseph 4
+judge	4	3	ch01	1	judge 3, judges 1
+kelton	4	2	ch06	1	Kelton 4
+kennedy	4	2	ch02	1	Kennedy 4
+key research	4	2	ch10	2	key research 4
+key research preview	4	2	ch10	3	key research preview 4
+label	4	4	ch04	1	label 4
+labor exploitation	4	3	ch04	2	labor exploitation 4
+laugh	4	4	ch09	1	laugh 3, laughs 1
+lead time	4	2	ch05	2	lead time 4
+learning system	4	2	ch02	2	learning systems 3, learning system 1
+leg	4	3	ch01	1	leg 3, legs 1
+length	4	4	ch06	1	length 3, lengths 1
+lift	4	4	ch04	1	lift 4
+lingo	4	3	ch03	1	lingo 4
+listening	4	3	ch01	1	listening 4
+little bit	4	4	ch09	2	little bit 4
+livingston	4	2	ch01	1	Livingston 4
+llama	4	1	ch13	1	Llama 4
+load	4	3	ch03	1	load 3, loads 1
+local community	4	1	ch12	2	local community 3, local communities 1
+logo	4	3	prologue	1	logo 4
+long hour	4	3	ch03	2	long hours 2, longer hours 2
+long run	4	3	ch05	2	long run 4
+louis	4	2	ch01	1	Louis 4
+lourd	4	1	ch17	1	Lourd 4
+low - key research preview	4	2	ch10	5	low-key research preview 4
+machine learning system	4	2	ch02	3	machine learning systems 3, machine learning system 1
+magic	4	4	epigraph	1	magic 4
+managing	4	3	ch03	1	managing 4
+maneuver	4	3	ch05	1	maneuver 4
+manual	4	3	ch06	1	manual 2, manuals 2
+many ai	4	3	ch04	2	many AI 4
+many time	4	4	ch04	2	many times 4
+many worker	4	1	ch09	2	Many workers 3, many workers 1
+math problem	4	3	ch08	2	math problems 4
+matters	4	3	ch06	1	matters 3, Matters 1
+mccarthy	4	2	ch04	1	McCarthy 4
+medicine	4	4	ch03	1	medicine 3, medicines 1
+metz	4	4	ch03	1	Metz 4
+microsoft deal	4	3	ch06	2	Microsoft deal 4
+microsoft employee	4	1	ch11	2	Microsoft employee 3, Microsoft employees 1
+misunderstanding	4	3	ch04	1	misunderstanding 3, misunderstandings 1
+mix	4	3	ch07	1	mix 4
+ml	4	3	ch05	1	ML 4
+model developer	4	3	ch02	2	model developer 2, model developers 2
+model ’s capability	4	4	ch05	3	model’s capabilities 4
+moderation work	4	1	ch09	2	moderation work 4
+modernity	4	3	prologue	1	modernity 4
+monday	4	4	prologue	1	Monday 4
+mood	4	4	prologue	1	mood 4
+more capital	4	3	ch01	2	more capital 4
+more compute	4	4	ch06	2	more compute 4
+more detail	4	4	ch01	2	more details 3, more detail 1
+more energy	4	2	ch07	2	more energy 4
+more time	4	4	ch02	2	more time 4
+most employee	4	3	prologue	2	most employees 3, Most employees 1
+much datum	4	4	ch04	2	much data 4
+murati read	4	1	prologue	2	Murati read 4
+nations	4	3	ch01	1	nations 3, Nations 1
+natural language	4	3	ch04	2	natural language 4
+net worth	4	3	ch01	2	net worth 4
+neuralink	4	4	ch02	1	Neuralink 4
+neuron	4	2	ch04	1	neurons 4
+neurosymbolic	4	1	ch04	1	neurosymbolic 4
+new ai	4	2	prologue	2	new AI 4
+new data center	4	1	ch12	3	new data center 2, new data centers 2
+new director	4	1	ch15	2	new directors 3, new director 1
+new era	4	3	prologue	2	new era 4
+new generation	4	3	ch06	2	new generation 3, newer generations 1
+new height	4	4	ch10	2	new heights 4
+new method	4	4	ch08	2	new method 3, new methods 1
+new research	4	4	ch11	2	new research 3, New research 1
+new role	4	4	ch02	2	new role 4
+new user	4	3	ch08	2	new users 3, new user 1
+new yorker	4	2	ch01	2	New Yorker 4
+next day	4	4	prologue	2	next day 4
+non - profit	4	2	ch02	3	non-profit 4
+nonprofit board	4	3	prologue	2	nonprofit board 4
+notice	4	3	ch04	1	notice 3, Notice 1
+nuclear fusion	4	3	ch06	2	nuclear fusion 4
+obama	4	3	ch01	1	Obama 4
+obligation	4	4	ch07	1	obligations 3, obligation 1
+observer	4	3	epigraph	1	observer 2, observers 2
+office hour	4	2	ch13	2	office hours 4
+open phil	4	2	ch02	2	Open Phil 4
+open philanthropy	4	3	ch02	2	Open Philanthropy 4
+openai lp	4	3	prologue	2	OpenAI LP 4
+operating	4	4	prologue	1	operating 4
+origin	4	4	ch03	1	origin 3, origins 1
+other openai executive	4	3	ch10	3	other OpenAI executives 4
+other resource	4	2	ch12	2	other resources 3, other resource 1
+other team	4	4	ch02	2	other teams 3, other team 1
+other worker	4	2	ch09	2	other workers 4
+own way	4	4	ch05	2	own way 4
+pacific	4	3	prologue	1	Pacific 4
+pair	4	3	ch03	1	pair 4
+paper clip	4	2	ch01	2	paper clip 3, paper clips 1
+paragraph	4	4	ch04	1	paragraph 2, paragraphs 2
+participation	4	3	prologue	1	participation 4
+passage	4	3	ch02	1	passages 3, passage 1
+passion	4	3	ch01	1	passion 4
+pathway	4	4	prologue	1	pathway 2, pathways 2
+pause	4	3	ch09	1	pause 4
+peer review	4	3	prologue	2	peer review 4
+penguin press	4	1	acknowledgments	2	Penguin Press 4
+penny	4	3	ch09	1	pennies 4
+perceptron	4	1	ch04	1	Perceptron 4
+phil	4	2	ch02	1	Phil 4
+pillar	4	4	ch01	1	pillars 3, pillar 1
+pioneer building	4	3	ch03	2	Pioneer Building 3, pioneer building 1
+pipeline	4	2	ch07	1	Pipeline 2, pipeline 2
+pivot	4	4	ch04	1	pivot 4
+plenty	4	3	ch12	1	plenty 4
+plethora	4	4	ch03	1	plethora 4
+police	4	4	ch02	1	police 4
+pop	4	4	ch04	1	pop 3, Pop 1
+popularity	4	3	ch04	1	popularity 4
+portfolio	4	4	ch01	1	portfolio 3, portfolios 1
+post - training	4	2	ch17	3	post-training 4
+power plant	4	2	ch12	2	power plants 4
+powerful model	4	4	ch05	2	powerful model 2, powerful models 2
+presidency	4	4	ch01	1	presidency 4
+prevention	4	2	ch02	1	prevention 4
+probe	4	2	ch04	1	probe 4
+profit structure	4	3	ch02	2	profit structure 3, profit structures 1
+progression	4	3	ch03	1	progression 4
+provider	4	3	prologue	1	provider 3, providers 1
+provision	4	1	ch17	1	provision 4
+public benefit	4	3	ch02	2	public benefit 4
+public benefit corporation	4	3	ch02	3	public benefit corporation 4
+public messaging	4	4	ch03	2	public messaging 4
+pulitzer	4	2	acknowledgments	1	Pulitzer 4
+pulitzer center	4	2	acknowledgments	2	Pulitzer Center 4
+pumping	4	3	ch01	1	pumping 4
+questioning	4	3	ch05	1	questioning 4
+queue	4	2	ch06	1	queue 4
+rank	4	4	ch10	1	ranks 4
+real estate	4	4	ch01	2	real estate 4
+reception	4	3	ch02	1	reception 4
+refugee	4	3	ch02	1	refugee 2, refugees 2
+regulator	4	2	ch13	1	regulators 4
+relation	4	4	ch05	1	relations 3, relation 1
+release strategy	4	4	ch05	2	release strategy 3, release strategies 1
+religion	4	3	epigraph	1	religion 3, religions 1
+removal	4	2	ch04	1	removal 4
+replika	4	1	ch08	1	Replika 4
+reply	4	4	prologue	1	replies 3, reply 1
+representation	4	4	ch01	1	representation 3, representations 1
+research scientist	4	4	ch04	2	research scientist 4
+reservation	4	4	ch07	1	reservations 4
+resign	4	1	prologue	1	resign 4
+restriction	4	4	ch09	1	restrictions 4
+restructuring	4	4	ch01	1	restructuring 4
+retaliation	4	3	ch01	1	retaliation 4
+review process	4	2	prologue	2	review process 4
+rewrite	4	4	ch02	1	rewrite 4
+ride	4	4	ch02	1	ride 4
+river	4	2	ch09	1	river 3, River 1
+rosewood dinner	4	1	ch02	2	Rosewood dinner 4
+route	4	3	ch03	1	route 4
+rush	4	4	ch02	1	rush 4
+safe agi	4	3	ch02	2	safe AGI 4
+safety people	4	4	ch05	2	safety people 3, Safety people 1
+saga	4	4	ch02	1	saga 4
+salt	4	1	ch12	1	salt 4
+saturday	4	3	prologue	1	Saturday 4
+scam	4	1	ch09	1	scam 2, scams 2
+second time	4	4	ch09	2	second time 4
+self - reflection	4	4	ch02	3	self-reflection 4
+sentiment	4	4	ch02	1	sentiment 3, sentiments 1
+several employee	4	4	prologue	2	Several employees 2, several employees 2
+shareholder	4	3	prologue	1	shareholders 3, shareholder 1
+shelf	4	3	epigraph	1	shelves 3, shelf 1
+shell	4	4	ch09	1	shell 4
+ship	4	4	prologue	1	ship 4
+shit	4	3	ch05	1	shit 4
+skepticism	4	4	ch05	1	skepticism 4
+skin	4	4	ch04	1	skin 4
+slate	4	4	prologue	1	slate 3, Slate 1
+small model	4	4	ch06	2	small models 1, smaller model 1, smaller models 1
+small part	4	4	ch02	2	small part 4
+social network	4	3	ch01	2	social network 3, social networks 1
+son	4	3	ch01	1	son 4
+sorry	4	4	ch04	1	sorry 2, SORRY 1, Sorry 1
+source ai	4	3	ch12	2	source AI 4
+south africa	4	3	ch04	2	South Africa 4
+sovereignty	4	3	prologue	1	sovereignty 4
+specialist	4	3	ch03	1	specialists 4
+specie	4	3	ch01	1	species 4
+speech recognition	4	3	ch03	2	speech recognition 4
+sphere	4	4	ch03	1	sphere 3, spheres 1
+sport	4	3	ch01	1	sports 4
+st.	4	2	ch01	1	St. 4
+st. louis	4	2	ch01	2	St. Louis 4
+stanford university	4	4	ch01	2	Stanford University 4
+startup fund	4	3	ch08	2	Startup Fund 4
+stereotype	4	3	ch04	1	stereotypes 4
+stick	4	3	ch05	1	stick 4
+stone	4	4	ch01	1	stone 4
+strategy officer	4	4	prologue	2	strategy officer 4
+strike	4	3	ch01	1	strikes 4
+such model	4	4	ch04	2	such models 4
+sue	4	4	ch05	1	sue 3, Sue 1
+suggestion	4	4	ch02	1	suggestion 3, suggestions 1
+suleyman	4	2	ch13	1	Suleyman 4
+summary	4	4	ch04	1	summary 3, summaries 1
+summers	4	2	prologue	1	Summers 4
+superalignment team	4	3	ch13	2	Superalignment team 4
+surveillance capitalism	4	2	ch04	2	surveillance capitalism 4
+switch	4	4	ch01	1	switch 4
+symbolic system	4	2	ch04	2	symbolic system 2, symbolic systems 2
+tab	4	4	ch01	1	tabs 3, tab 1
+tca	4	1	epilogue	1	TCA 4
+technical detail	4	3	authors-note	2	technical details 3, technical detail 1
+ten of million	4	4	ch01	3	tens of millions 4
+theoretical rogue	4	3	ch02	2	theoretical rogue 4
+theoretical rogue ai	4	3	ch02	3	theoretical rogue AI 4
+time magazine	4	4	ch05	2	Time magazine 4
+tip	4	4	ch06	1	tip 2, tips 2
+toe	4	2	ch02	1	toe 4
+toronto	4	3	ch02	1	Toronto 4
+tract	4	1	ch12	1	tracts 3, tract 1
+tradition	4	3	ch02	1	tradition 4
+transfer	4	4	ch01	1	transfer 2, transfers 2
+transform	4	4	ch02	1	transform 4
+transformative	4	2	prologue	1	transformative 4
+translate	4	4	ch04	1	Translate 4
+trauma	4	1	ch14	1	trauma 4
+trove	4	3	authors-note	1	trove 2, troves 2
+tuesday	4	2	prologue	1	Tuesday 4
+twist	4	3	ch11	1	twist 4
+unemployment	4	3	ch06	1	unemployment 4
+universe	4	4	ch01	1	universe 4
+urging	4	4	ch02	1	urging 4
+usage	4	3	ch03	1	usage 4
+user datum	4	4	ch04	2	user data 4
+user prompt	4	2	ch04	2	user prompts 4
+variety	4	4	ch01	1	variety 3, varieties 1
+various way	4	4	ch01	2	various ways 4
+vendor	4	3	ch06	1	vendor 2, vendors 2
+victory	4	3	ch01	1	victory 3, Victories 1
+visionary	4	4	ch03	1	visionary 4
+voice mode	4	1	ch17	2	voice mode 3, Voice Mode 1
+wang	4	1	ch09	1	Wang 4
+welinder	4	2	ch06	1	Welinder 4
+west	4	3	ch09	1	West 4
+whisper	4	3	ch10	1	Whisper 4
+whole world	4	2	ch01	2	whole world 4
+wide array	4	3	ch04	2	wide array 4
+william	4	3	ch04	1	William 4
+wind	4	4	prologue	1	wind 3, winds 1
+withholding research	4	2	ch05	2	withholding research 4
+worker - face platform	4	1	ch09	4	worker-facing platform 2, worker-facing platforms 2
+working hour	4	3	ch06	2	working hours 4
+world tour	4	2	ch13	2	World Tour 4
+worry	4	4	ch01	1	worries 2, worry 2
+y combinator	4	1	ch01	2	Y Combinator 4
+yann	4	4	ch04	1	Yann 4
+yann lecun	4	4	ch04	2	Yann LeCun 4
+yc company	4	2	ch01	2	YC companies 2, YC company 2
+yorker	4	2	ch01	1	Yorker 4
+zone	4	2	ch11	1	zone 4
+2x	3	1	ch08	1	2x 3
+[ sic	3	3	ch02	2	[sic 3
+abuser	3	2	ch10	1	abuser 2, abusers 1
+accent	3	3	ch01	1	accent 3
+accordance	3	2	prologue	1	accordance 3
+accounting	3	3	ch02	1	accounting 3
+accumulation	3	3	ch04	1	accumulation 3
+acquaintance	3	2	ch01	1	acquaintance 2, acquaintances 1
+acquisition	3	2	ch01	1	acquisition 2, acquisitions 1
+admiration	3	3	ch01	1	admiration 3
+advanced capability	3	1	ch13	2	advanced capabilities 2, Advanced capabilities 1
+adversary	3	3	ch04	1	adversaries 2, adversary 1
+aggressive push	3	3	prologue	2	aggressive push 3
+agnew	3	2	ch04	1	Agnew 3
+agony	3	3	ch01	1	agony 3
+ai application	3	2	prologue	2	AI applications 3
+ai community	3	3	ch07	2	AI community 3
+ai era	3	2	ch09	2	AI era 3
+ai ethic	3	2	ch01	2	AI Ethics 2, AI ethics 1
+ai ethics	3	2	ch01	2	AI Ethics 2, AI ethics 1
+ai research division	3	2	ch02	3	AI research division 3
+ai risk	3	2	ch06	2	AI risks 3
+ai safety contingent	3	1	ch06	3	AI safety contingent 3
+ai safety risk	3	2	ch05	3	AI safety risks 3
+ai talent	3	3	ch02	2	AI talent 3
+aim	3	3	ch01	1	aim 3
+air - gap computer	3	1	ch06	4	air-gapped computer 3
+alec radford	3	3	ch05	2	Alec Radford 3
+alex krizhevsky	3	3	ch02	2	Alex Krizhevsky 3
+altman ’s leadership	3	2	ch15	3	Altman’s leadership 3
+altman ’s ouster	3	3	prologue	3	Altman’s ouster 3
+altman ’s recommendation	3	1	ch13	3	Altman’s recommendations 3
+altman ’s testimony	3	1	ch13	3	Altman’s testimony 3
+analyst	3	2	ch09	1	analyst 2, analysts 1
+andrea	3	2	ch09	1	Andrea 3
+andrej	3	1	ch02	1	Andrej 3
+android	3	2	ch04	1	Android 3
+annie ’s experience	3	2	ch01	3	Annie’s experience 2, Annie’s experiences 1
+annotation platform	3	2	ch09	2	annotation platforms 3
+answer question	3	2	ch02	2	answer questions 2, Answer questions 1
+antel	3	1	ch12	1	Antel 3
+anthropomorphizing	3	1	ch04	1	anthropomorphizing 3
+ap bio	3	1	ch10	2	AP Bio 3
+api release	3	3	ch06	2	API release 3
+apollo	3	1	ch13	1	Apollo 3
+apparatus	3	3	ch04	1	apparatus 3
+aptitude	3	3	ch04	1	aptitude 2, aptitudes 1
+architecture search	3	1	ch07	2	Architecture Search 3
+asia	3	3	ch09	1	Asia 3
+aspect	3	3	ch07	1	aspects 2, aspect 1
+automation	3	3	prologue	1	automation 3
+avocado	3	1	ch10	1	avocados 3
+baby	3	3	ch09	1	baby 3
+back	3	3	ch13	1	backs 3
+bad week	3	1	ch17	2	bad week 1, bad weeks 1, worst week 1
+bag	3	3	ch01	1	bags 2, bag 1
+band	3	2	ch04	1	band 2, Band 1
+bare minimum	3	3	ch07	2	bare minimum 3
+baseline	3	3	ch06	1	baseline 3
+batchmate	3	2	ch01	1	batchmates 2, batchmate 1
+battery	3	2	ch01	1	batteries 3
+bedrock	3	3	ch04	1	bedrock 3
+believer	3	3	ch03	1	believers 3
+billy	3	2	ch05	1	Billy 3
+billy perrigo	3	2	ch05	2	Billy Perrigo 3
+bio	3	1	ch10	1	Bio 3
+biodiversity	3	1	ch12	1	biodiversity 3
+biology	3	3	ch10	1	biology 2, Biology 1
+birth	3	3	ch01	1	birth 3
+black life	3	2	ch06	2	Black Lives 3
+black life matter	3	2	ch06	3	Black Lives Matter 3
+black woman	3	2	ch02	2	Black woman 2, Black women 1
+blame	3	2	ch08	1	blame 3
+blood	3	1	ch08	1	blood 3
+blow	3	3	ch07	1	blow 3
+blue	3	3	ch10	1	blue 2, Blue 1
+board game	3	3	ch01	2	board games 3
+board seat	3	2	prologue	2	board seats 2, board seat 1
+board ’s ability	3	2	prologue	3	board’s ability 3
+boat	3	2	ch03	1	boat 2, boats 1
+bomb	3	2	ch13	1	bomb 3
+boot	3	2	ch09	1	boot 2, boots 1
+borderline personality disorder	3	1	ch14	3	borderline personality disorder 2, Borderline personality disorder 1
+boston	3	3	ch01	1	Boston 3
+bottom line	3	3	ch02	2	bottom lines 2, bottom line 1
+bound	3	3	ch04	1	bounds 3
+box	3	3	ch04	1	box 2, boxes 1
+bridge	3	3	ch10	1	bridge 3
+broad ai	3	2	ch10	2	broader AI 3
+broad ai safety	3	2	ch10	3	broader AI safety 3
+broad range	3	3	ch08	2	broad range 2, broader range 1
+brown	3	3	ch04	1	brown 2, Brown 1
+browser	3	2	ch09	1	browser 3
+brundage ’s policy research team	3	3	ch10	5	Brundage’s policy research team 2, Brundage’s policy research teams 1
+budget	3	3	ch09	1	budget 2, budgets 1
+building agi	3	3	ch06	2	building AGI 2, Building AGI 1
+button	3	3	ch09	1	button 2, buttons 1
+calculator	3	2	ch04	1	calculator 2, calculators 1
+california governor	3	3	ch01	2	California governor 3
+call center	3	1	ch09	2	call center 2, call centers 1
+canadian	3	3	ch02	1	Canadian 3
+capitalization	3	3	prologue	1	capitalization 2, capitalizations 1
+caption	3	2	prologue	1	caption 2, captions 1
+carbon emission	3	2	ch03	2	carbon emissions 3
+carnegie	3	2	ch04	1	Carnegie 3
+carnegie mellon	3	2	ch04	2	Carnegie Mellon 3
+carnegie mellon university	3	2	ch04	3	Carnegie Mellon University 3
+case scenario	3	1	ch04	2	case scenarios 2, case scenario 1
+ceiling	3	2	ch02	1	ceiling 2, ceilings 1
+cement	3	3	ch03	1	cement 3
+censorship	3	1	ch07	1	censorship 3
+central question	3	3	ch02	2	central question 3
+certainty	3	3	prologue	1	certainty 3
+charm	3	3	prologue	1	charm 3
+chat interface	3	1	ch11	2	chat interface 3
+chemistry	3	3	ch08	1	chemistry 2, Chemistry 1
+chen	3	3	ch17	1	Chen 3
+chicago boys	3	1	ch12	2	Chicago Boys 3
+chief research	3	3	ch02	2	chief research 2, Chief Research 1
+chief strategy	3	3	prologue	2	chief strategy 3
+chief strategy officer	3	3	prologue	3	chief strategy officer 3
+childhood sexual abuse	3	1	ch14	3	childhood sexual abuse 3
+chinese ai	3	2	ch05	2	Chinese AI 3
+chinese company	3	3	ch02	2	Chinese company 2, Chinese companies 1
+chronic pain	3	1	ch14	2	chronic pain 3
+circumstance	3	2	ch09	1	circumstances 3
+civil society group	3	2	ch13	3	civil society groups 3
+clarification	3	3	ch07	1	clarifications 2, clarification 1
+climb	3	3	ch01	1	climb 3
+closed door	3	3	prologue	2	closed doors 3
+closed side	3	1	ch13	2	Closed side 3
+closet	3	2	ch01	1	closet 2, closets 1
+cloud service	3	3	prologue	2	cloud services 3
+cochair	3	2	ch02	1	cochair 2, cochairs 1
+code model	3	1	ch08	2	code models 3
+coffee	3	2	ch14	1	coffee 2, Coffee 1
+cohesion	3	3	prologue	1	cohesion 3
+colony	3	2	prologue	1	colonies 2, colony 1
+columnist	3	2	ch04	1	columnist 3
+come month	3	3	ch05	2	coming months 3
+come year	3	2	ch02	2	coming years 3
+comedy	3	3	ch14	1	comedy 3
+comfort	3	3	ch06	1	comfort 3
+commercial interest	3	2	ch04	2	commercial interests 3
+commercialization strategy	3	1	ch06	2	commercialization strategy 3
+communication head	3	2	ch03	2	communications head 3
+communication team	3	3	ch01	2	communications team 3
+company ’s mission	3	2	ch10	3	company’s mission 3
+compass	3	2	ch16	1	compass 3
+complex problem	3	2	ch03	2	complex problems 2, complex problem 1
+computational resource	3	2	ch02	2	computational resources 3
+confession	3	3	ch01	1	confession 2, confessions 1
+connie gibstine	3	2	ch01	2	Connie Gibstine 3
+consciousness	3	3	ch04	1	consciousness 3
+conspiracy theory	3	3	ch04	2	conspiracy theories 2, conspiracy theory 1
+consultation	3	2	ch09	1	consultation 2, consultations 1
+consumer - face product	3	3	ch06	4	consumer-facing product 2, consumer-facing products 1
+conversion	3	1	ch18	1	conversion 3
+cooperation	3	3	prologue	1	cooperation 3
+copilots	3	2	ch10	1	Copilots 3
+copper mining	3	1	ch12	2	copper mining 3
+copyright infringement	3	3	ch05	2	copyright infringement 3
+cotton gin	3	1	ch04	2	cotton gin 3
+couch	3	2	ch03	1	couches 2, couch 1
+court	3	2	ch04	1	court 3
+cow	3	2	ch02	1	cow 2, cows 1
+crab	3	1	ch09	1	Crab 3
+creep	3	3	ch01	1	creep 3
+critic	3	3	ch04	1	critics 3
+critical role	3	3	ch10	2	critical role 3
+current and former employee	3	2	ch16	4	current and former employees 3
+current employee	3	2	ch16	2	current employee 2, current employees 1
+custom	3	3	ch02	1	custom 3
+cut - edge model	3	2	ch10	4	cutting-edge models 3
+cutting - edge model	3	2	ch10	4	cutting-edge models 3
+dangerous technology	3	3	ch02	2	dangerous technology 3
+daniel pena	3	2	ch12	2	Daniel Pena 3
+daniela amodei	3	3	ch02	2	Daniela Amodei 3
+data - annotation platform	3	2	ch09	4	data-annotation platforms 3
+data - processing	3	2	ch04	3	data-processing 3
+data collection	3	3	ch05	2	data collection 3
+data workers ' inquiry	3	1	epilogue	4	Data Workers’ Inquiry 3
+datum - annotation platform	3	2	ch09	4	data-annotation platforms 3
+datum collection	3	3	ch05	2	data collection 3
+dave willner	3	2	ch10	2	Dave Willner 3
+david	3	3	prologue	1	David 3
+deadlock	3	3	ch06	1	deadlock 3
+declaration	3	3	prologue	1	declarations 3
+deepfake	3	3	ch03	1	deepfakes 3
+defense	3	3	ch01	1	defense 3
+depiction	3	3	ch04	1	depictions 3
+deposit	3	3	ch08	1	deposit 2, deposits 1
+depth	3	3	ch08	1	depths 2, depth 1
+designer	3	2	ch03	1	designer 2, Designer 1
+destination	3	2	ch09	1	destination 2, destinations 1
+destruction	3	2	ch10	1	destruction 3
+detriment	3	3	ch02	1	detriment 3
+diamond	3	1	ch14	1	diamond 3
+different language	3	3	ch08	2	different languages 2, different language 1
+different people	3	1	ch16	2	different people 3
+different thing	3	2	ch16	2	different things 2, different thing 1
+diffusion model	3	1	ch10	2	diffusion models 3
+digital labor	3	1	ch09	2	digital labor 3
+disadvantage	3	3	ch02	1	disadvantage 3
+discord	3	1	ch09	1	Discord 3
+disposal	3	3	ch02	1	disposal 3
+distortion	3	1	ch01	1	distortion 3
+domain question	3	1	ch11	2	domain questions 3
+donald	3	3	ch02	1	Donald 3
+donald trump	3	3	ch02	2	Donald Trump 3
+dungeon	3	2	ch08	1	Dungeon 2, Dungeons 1
+dust	3	3	ch06	1	dust 2, DUST 1
+e - commerce	3	3	ch04	3	e-commerce 3
+ea people	3	1	ch10	2	EA people 3
+early access	3	3	ch05	2	early access 3
+early employee	3	3	prologue	2	earliest employees 1, early employee 1, early employees 1
+ease	3	3	ch01	1	ease 3
+east	3	2	ch09	1	East 2, east 1
+eating	3	3	ch09	1	eating 3
+economic freedom	3	2	ch03	2	economic freedom 3
+economic policy	3	1	ch12	2	economic policies 3
+economically valuable work	3	2	ch02	3	economically valuable work 3
+economist	3	3	ch04	1	Economists 1, economist 1, economists 1
+edge - case scenario	3	1	ch04	4	edge-case scenarios 2, edge-case scenario 1
+edge model	3	2	ch10	2	edge models 3
+element	3	3	ch01	1	elements 3
+elizabeth	3	1	ch14	1	Elizabeth 3
+elizabeth weil	3	1	ch14	2	Elizabeth Weil 3
+elon musk	3	3	prologue	2	Elon Musk 3
+emma	3	3	ch07	1	Emma 3
+emma strubell	3	3	ch07	2	Emma Strubell 3
+en	3	3	prologue	1	en 3
+entertainment	3	3	ch01	1	entertainment 2, Entertainment 1
+enthusiasm	3	3	ch10	1	enthusiasm 3
+environmental ministry	3	2	ch12	2	environmental ministry 3
+episode	3	3	ch02	1	episode 2, episodes 1
+equipment	3	3	ch02	1	equipment 3
+erosion	3	3	ch07	1	erosion 3
+essay	3	3	ch01	1	essays 3
+evolution	3	3	ch01	1	evolution 3
+exam	3	2	ch04	1	exams 2, exam 1
+excerpt	3	3	ch04	1	excerpts 3
+exercise	3	3	prologue	1	exercise 3
+exhaustion	3	3	prologue	1	exhaustion 3
+existential ai safety	3	1	ch10	3	existential AI safety 3
+explosion	3	3	ch07	1	explosion 3
+extent	3	3	ch05	1	extent 3
+extreme doomer	3	1	ch13	2	extreme Doomer 3
+extreme risk	3	2	ch06	2	extreme risks 3
+facial recognition	3	3	ch02	2	facial recognition 2, Facial recognition 1
+faction	3	3	ch10	1	factions 2, faction 1
+factual information	3	2	ch07	2	factual information 3
+fairwork	3	2	ch09	1	Fairwork 3
+fascination	3	3	ch01	1	fascination 3
+fashion	3	3	ch09	1	fashion 3
+fatality	3	2	ch04	1	fatalities 2, fatality 1
+fault	3	3	prologue	1	fault 3
+fault line	3	3	prologue	2	fault lines 2, fault line 1
+fedus	3	2	ch10	1	Fedus 3
+fellow leader	3	1	ch16	2	fellow leaders 3
+festival	3	3	ch01	1	festival 3
+fiasco	3	3	ch07	1	fiasco 3
+file	3	3	ch06	1	files 3
+financial support	3	2	ch01	2	financial support 3
+financial tie	3	3	ch01	2	financial ties 3
+first company	3	3	ch01	2	first company 3
+first person	3	3	ch06	2	first person 3
+first version	3	3	ch05	2	first version 3
+fiscal year	3	2	ch12	2	fiscal year 3
+flashback	3	1	ch14	1	flashbacks 3
+float point operation	3	1	ch13	3	floating point operations 3
+flower	3	3	prologue	1	flower 2, flowers 1
+fluid	3	2	ch10	1	fluid 3
+focus group	3	2	ch01	2	focus groups 3
+folk	3	3	ch01	1	folks 3
+follower	3	3	ch08	1	followers 2, follower 1
+footing	3	3	ch02	1	footing 3
+foregone	3	3	ch02	1	foregone 3
+foregone conclusion	3	3	ch02	2	foregone conclusion 3
+foresight	3	2	ch10	1	foresight 3
+former ceo	3	3	prologue	2	former CEO 3
+former colleague	3	2	ch03	2	former colleague 3
+former openai employee	3	2	ch08	3	former OpenAI employees 2, former OpenAI employee 1
+found team	3	2	ch02	2	founding team 3
+fountain	3	3	ch03	1	fountain 2, fountains 1
+fraction	3	3	ch02	1	fraction 3
+fragmentation	3	2	ch15	1	fragmentation 3
+framing	3	3	ch05	1	framing 3
+friendship	3	3	ch08	1	friendship 3
+frontier model forum	3	1	ch13	3	Frontier Model Forum 3
+fruit	3	3	ch02	1	fruits 2, fruit 1
+ftc	3	3	ch10	1	FTC 3
+full access	3	3	prologue	2	full access 3
+full control	3	2	ch02	2	full control 3
+full weight	3	3	ch03	2	full weight 3
+fundraise	3	3	ch02	1	fundraise 3
+future model	3	2	ch05	2	future models 3
+gallon	3	1	ch12	1	gallons 3
+gas	3	2	ch01	1	gas 2, gases 1
+gates demo	3	3	ch02	2	Gates Demo 3
+gen	3	1	ch08	1	gen 3
+general public	3	3	prologue	2	general public 2, General Public 1
+generative ai revolution	3	3	prologue	3	generative AI revolution 3
+generative ai system	3	3	ch04	3	generative AI systems 3
+generative ai technology	3	3	prologue	3	generative AI technologies 3
+geoffrey hinton	3	3	ch02	2	Geoffrey Hinton 3
+gideon	3	1	acknowledgments	1	Gideon 3
+gin	3	1	ch04	1	gin 3
+github’s	3	2	ch08	1	GitHub’s 3
+givewell	3	2	ch10	1	GiveWell 3
+global affair	3	3	prologue	2	global affairs 3
+global impact	3	3	authors-note	2	global impact 2, global impacts 1
+global supply	3	1	ch12	2	global supply 3
+globe	3	3	prologue	1	globe 3
+good human player	3	1	ch02	3	best human players 2, best human player 1
+good internet	3	2	ch09	2	good internet 3
+good people	3	3	ch01	2	best people 3
+good place	3	3	ch10	2	best place 1, best places 1, good place 1
+google executive	3	2	ch07	2	Google executives 3
+google i	3	1	ch17	2	Google I 3
+google spokesperson	3	1	ch07	2	Google spokesperson 3
+governance mechanism	3	3	prologue	2	governance mechanism 2, governance mechanisms 1
+governance structure	3	2	ch01	2	governance structure 3
+governor	3	3	ch01	1	governor 3
+gpt-3 api launch	3	2	ch07	3	GPT-3 API launch 3
+gpt-5	3	3	ch12	1	GPT-5 3
+grad school	3	3	ch02	2	grad school 3
+grad student	3	2	ch02	2	grad students 3
+graphic	3	1	ch02	1	graphics 3
+gratitude	3	1	acknowledgments	1	gratitude 3
+grief	3	3	ch07	1	grief 3
+grocery store	3	2	ch01	2	grocery store 3
+guard	3	3	ch03	1	guard 3
+guest	3	1	prologue	1	guests 2, guest 1
+guidance	3	3	ch01	1	guidance 3
+guideline	3	2	ch08	1	guidelines 2, Guidelines 1
+guidelines	3	2	ch08	1	guidelines 2, Guidelines 1
+gun	3	2	ch01	1	gun 2, guns 1
+habit	3	3	ch01	1	habit 2, habits 1
+hair	3	3	ch06	1	hair 3
+halt	3	2	prologue	1	halt 3
+hanna	3	1	epilogue	1	Hanna 3
+harassment	3	3	ch07	1	harassment 3
+hardware overhang	3	3	ch08	2	hardware overhang 2, Hardware overhang 1
+hat	3	3	ch04	1	hat 2, hats 1
+hate speech	3	2	prologue	2	hate speech 3
+heading	3	3	ch04	1	heading 3
+heat	3	1	ch12	1	heat 3
+herbert	3	1	ch08	1	Herbert 3
+herbert - voss	3	1	ch08	3	Herbert-Voss 3
+herzberg	3	1	ch04	1	Herzberg 3
+hill	3	2	ch01	1	hills 2, Hill 1
+hinton ’s grad student	3	2	ch02	4	Hinton’s grad students 3
+hole	3	3	prologue	1	hole 3
+honor	3	3	prologue	1	honor 3
+horizon	3	3	ch04	1	horizon 3
+hostile takeover	3	1	prologue	2	hostile takeover 2, Hostile takeover 1
+hugging	3	2	ch12	1	Hugging 3
+hugging face	3	2	ch12	2	Hugging Face 3
+human psychology	3	3	ch04	2	human psychology 2, Human psychology 1
+human right	3	3	prologue	2	Human rights 1, human right 1, human rights 1
+human value	3	2	ch01	2	human values 3
+human worker	3	3	ch04	2	human workers 3
+i/o	3	1	ch17	1	I/O 3
+identity	3	3	ch08	1	identity 2, identities 1
+ii	3	3	ch01	1	II 3
+illusion	3	2	ch04	1	illusion 3
+inflection	3	3	ch13	1	Inflection 2, inflection 1
+insecurity	3	1	ch14	1	insecurity 3
+insight	3	3	ch03	1	Insight 1, insight 1, insights 1
+insurance	3	2	ch13	1	insurance 3
+intellectual property	3	3	prologue	2	intellectual property 3
+internal number	3	1	ch07	2	internal numbers 3
+inventor	3	3	epigraph	1	inventor 3
+invitation	3	3	ch01	1	invitation 3
+iris	3	1	ch08	1	iris 2, irises 1
+irving	3	2	ch07	1	Irving 3
+isolation	3	3	ch02	1	isolation 3
+jan leike	3	3	ch10	2	Jan Leike 3
+janah	3	1	ch09	1	Janah 3
+japan	3	3	ch09	1	Japan 3
+jessica livingston	3	2	ch01	2	Jessica Livingston 3
+job security	3	3	ch02	2	job security 3
+joint	3	1	ch05	1	joints 2, joint 1
+joseph weizenbaum	3	3	epigraph	2	Joseph Weizenbaum 3
+josh	3	2	ch17	1	Josh 3
+judgment	3	2	ch05	1	judgment 2, judgments 1
+julian	3	2	ch09	1	Julian 3
+julian posada	3	2	ch09	2	Julian Posada 3
+kelsey	3	1	ch17	1	Kelsey 3
+kelsey piper	3	1	ch17	2	Kelsey Piper 3
+kenyan worker	3	2	ch09	2	Kenyan workers 3
+khan	3	1	ch10	1	Khan 3
+killing	3	3	ch04	1	killing 3
+king	3	3	ch01	1	king 3
+kitchen	3	3	ch01	1	kitchen 2, kitchens 1
+la	3	3	ch04	1	LA 1, La 1, la 1
+labor right	3	3	prologue	2	labor rights 2, Labor rights 1
+lake	3	3	ch03	1	Lake 3
+lamda	3	2	ch06	1	LaMDA 3
+landlord	3	2	ch09	1	landlord 3
+language and code model	3	1	ch08	4	language and code models 3
+large part	3	3	ch03	2	large part 3
+large repository	3	2	ch10	2	large repository 2, large repositories 1
+larry page	3	3	ch01	2	Larry Page 3
+late model	3	3	ch09	2	latest model 3
+lawmaker	3	1	ch13	1	lawmakers 3
+lead position	3	3	ch01	2	leading position 3
+league	3	3	ch05	1	League 2, leagues 1
+leap motion	3	3	ch02	2	Leap Motion 3
+learn	3	2	ch04	1	learns 3
+learner	3	2	ch15	1	learners 2, learner 1
+lecture	3	3	ch01	1	lecture 2, lectures 1
+legal entity	3	1	ch17	2	legal entity 2, legal entities 1
+liability	3	3	ch05	1	liability 3
+licensing	3	2	ch10	1	licensing 3
+life matter	3	2	ch06	2	Lives Matter 3
+lifestyle	3	2	ch01	1	lifestyle 3
+lifting	3	3	ch02	1	lifting 3
+likelihood	3	3	ch05	1	likelihood 3
+limited partnership	3	1	ch02	2	limited partnership 3
+living room	3	1	ch09	2	living room 3
+location tracking	3	1	ch01	2	location tracking 3
+london	3	3	ch01	1	London 3
+long history	3	3	ch09	2	long history 3
+los	3	3	ch01	1	Los 3
+lowercase	3	3	prologue	1	lowercase 3
+luos	3	1	ch09	1	Luos 3
+machine learn system	3	2	ch02	3	machine learning systems 3
+mafia	3	2	ch02	1	mafia 3
+magazine article	3	2	ch14	2	magazine article 3
+maneuvering	3	3	ch13	1	maneuvering 3
+manifesto	3	3	ch01	1	manifesto 3
+manipulation	3	1	ch16	1	manipulation 3
+manner	3	3	prologue	1	manner 2, manners 1
+many instance	3	1	ch16	2	many instances 3
+many parameter	3	2	ch05	2	many parameters 3
+many researcher	3	3	ch05	2	many researchers 3
+many user	3	2	ch10	2	many users 2, Many users 1
+many venezuelans	3	1	ch09	2	many Venezuelans 2, Many Venezuelans 1
+marginalized community	3	2	ch07	2	marginalized communities 3
+marina	3	2	ch12	1	Marina 3
+mars	3	2	ch01	1	Mars 3
+massive amount	3	3	ch02	2	massive amounts 3
+massive data	3	3	prologue	2	massive data 3
+massive data center	3	3	prologue	3	massive data centers 3
+master	3	3	ch07	1	master 3
+meal	3	3	ch02	1	meals 2, meal 1
+mechanical engineering	3	3	ch15	2	mechanical engineering 3
+mechanical turk	3	1	ch09	2	Mechanical Turk 3
+meditation	3	2	authors-note	1	meditation 3
+meg	3	2	ch07	1	Meg 3
+megacampuse	3	1	ch12	1	megacampuses 3
+mellon	3	2	ch04	1	Mellon 3
+mellon university	3	2	ch04	2	Mellon University 3
+membership	3	2	ch10	1	membership 3
+miceli	3	1	epilogue	1	Miceli 3
+mid-2021	3	3	ch09	1	mid-2021 3
+midjourney	3	2	ch10	1	Midjourney 3
+mighty	3	3	ch09	1	mighty 2, Mighty 1
+miles brundage	3	3	ch10	2	Miles Brundage 3
+mindset	3	3	ch04	1	mindset 3
+miracle	3	2	ch09	1	miracle 3
+misalign ai	3	3	ch02	2	misaligned AI 3
+misaligned ai	3	3	ch02	2	misaligned AI 3
+mishra	3	2	ch02	1	Mishra 3
+mit researcher	3	3	ch04	2	MIT researcher 2, MIT researchers 1
+mobility	3	2	ch11	1	mobility 3
+modality	3	2	ch10	1	modalities 3
+model capability	3	2	ch10	2	model capabilities 3
+model development	3	3	authors-note	2	model development 3
+model forum	3	1	ch13	2	Model Forum 3
+model release	3	3	ch11	2	model release 2, model releases 1
+model ’s ability	3	3	ch08	3	model’s ability 3
+model ’s training datum	3	3	ch05	4	model’s training data 3
+moderator	3	3	ch09	1	moderators 2, Moderators 1
+moderators	3	3	ch09	1	moderators 2, Moderators 1
+moral compass	3	2	ch16	2	moral compass 3
+more chip	3	2	ch02	2	more chips 3
+more employee	3	2	prologue	2	more employees 3
+more land	3	2	ch11	2	more land 3
+more power	3	2	ch12	2	more power 3
+more progress	3	3	ch02	2	more progress 3
+more question	3	2	prologue	2	more questions 3
+more research	3	2	ch06	2	more research 3
+more resource	3	3	ch01	2	more resources 3
+more worker	3	1	ch09	2	more workers 3
+morty	3	1	ch02	1	Morty 3
+motto	3	1	ch18	1	motto 3
+mozilla	3	2	ch04	1	Mozilla 3
+mturk	3	1	ch09	1	MTurk 3
+multinational	3	1	ch12	1	multinationals 3
+musk ’s departure	3	2	ch02	3	Musk’s departure 3
+mystic	3	2	prologue	1	mystic 3
+mythology	3	3	ch03	1	mythology 3
+māori people	3	1	epilogue	2	Māori people 3
+national security	3	1	ch13	2	national security 3
+natural phenomenon	3	2	ch03	2	natural phenomenon 3
+natural resource	3	3	prologue	2	natural resources 3
+nectome	3	1	ch08	1	Nectome 3
+network effect	3	2	ch01	2	network effects 3
+neural architecture	3	1	ch07	2	Neural Architecture 3
+neural architecture search	3	1	ch07	3	Neural Architecture Search 3
+neurosymbolic ai	3	1	ch04	2	neurosymbolic AI 3
+new board member	3	3	prologue	3	new board members 2, new board member 1
+new capability	3	3	ch08	2	new capabilities 2, new capability 1
+new chatbot	3	3	ch06	2	new chatbot 2, new chatbots 1
+new interest	3	3	ch07	2	new interest 3
+new job	3	2	ch09	2	new jobs 2, new job 1
+new source	3	3	ch08	2	new sources 2, new source 1
+new startup	3	2	ch01	2	new startup 3
+new task	3	2	ch06	2	new task 2, new tasks 1
+new team	3	2	ch09	2	new team 3
+new wave	3	3	ch02	2	new wave 3
+new york magazine article	3	2	ch14	4	New York magazine article 3
+new york times columnist	3	2	ch04	4	New York Times columnist 3
+new york university	3	2	ch04	3	New York University 3
+next few month	3	3	ch02	3	next few months 3
+next step	3	3	ch05	2	next step 3
+niall	3	1	acknowledgments	1	Niall 3
+niche	3	2	ch05	1	niche 3
+obsession	3	3	prologue	1	obsession 3
+offense	3	3	ch09	1	offense 2, offenses 1
+offensive content	3	2	ch06	2	offensive content 3
+olla	3	1	ch12	1	Ollas 1, olla 1, ollas 1
+online forum	3	3	ch06	2	online forum 2, online forums 1
+online presence	3	2	ch14	2	online presence 3
+op	3	3	ch12	1	op 2, ops 1
+open science	3	3	ch05	2	open science 3
+open source	3	2	ch02	2	open source 2, Open source 1
+openai competitor	3	3	prologue	2	OpenAI competitor 3
+openai leader	3	3	ch05	2	OpenAI leader 2, OpenAI leaders 1
+openai startup	3	2	ch08	2	OpenAI Startup 3
+openai startup fund	3	2	ch08	3	OpenAI Startup Fund 3
+openai ’s approach	3	2	ch06	3	OpenAI’s approach 3
+openai ’s ceo	3	3	ch03	3	OpenAI’s CEO 3
+openai ’s foresight	3	2	ch10	3	OpenAI’s foresight 3
+openai ’s nonprofit	3	3	prologue	3	OpenAI’s nonprofit 3
+openai ’s scaling	3	3	ch05	3	OpenAI’s scaling 3
+openai ’s secret	3	1	ch06	3	OpenAI’s secrets 2, OpenAI’s secret 1
+openai ’s slack	3	3	prologue	3	OpenAI’s Slack 3
+openai ’s strategy	3	3	ch03	3	OpenAI’s strategy 3
+openai ’s vision	3	1	ch04	3	OpenAI’s vision 3
+openresearch	3	1	ch08	1	OpenResearch 3
+opposite direction	3	3	ch01	2	opposite direction 3
+optimism	3	3	ch12	1	optimism 3
+optimization	3	2	ch07	1	optimization 3
+optimize version	3	1	ch11	2	optimized version 3
+organization’s	3	3	prologue	1	organization’s 3
+other hand	3	3	ch03	2	other hand 3
+other method	3	3	ch04	2	other methods 3
+other project	3	3	ch07	2	other projects 3
+outsourcing firm	3	1	ch09	2	outsourcing firms 2, outsourcing firm 1
+overhang	3	3	ch08	1	overhang 3
+oversight mechanism	3	2	ch13	2	oversight mechanisms 3
+own company	3	2	ch04	2	own company 3
+own employee	3	3	prologue	2	own employees 3
+own research	3	3	prologue	2	own research 3
+own testing	3	3	ch10	2	own testing 3
+ownership	3	3	ch14	1	ownership 3
+p.m.	3	1	prologue	1	p.m. 3
+pacific time	3	2	prologue	2	Pacific time 3
+page document	3	3	ch07	2	page document 3
+pan	3	3	ch05	1	pan 3
+pandemic hit	3	2	ch06	2	pandemic hit 3
+paradigm shift	3	2	ch05	2	paradigm shift 3
+paranoia	3	2	ch01	1	paranoia 2, paranoias 1
+participant	3	3	ch09	1	participants 3
+patience	3	3	ch09	1	patience 3
+peak	3	3	ch02	1	peak 2, peaks 1
+percent accuracy	3	2	ch17	2	percent accuracy 3
+percent chance	3	2	ch02	2	percent chance 3
+perpetuation	3	3	ch04	1	perpetuation 3
+perrigo	3	2	ch05	1	Perrigo 3
+personal investment	3	3	ch01	2	personal investment 3
+personal relationship	3	3	ch02	2	personal relationship 2, personal relationships 1
+personality disorder	3	1	ch14	2	personality disorder 3
+personnel	3	3	ch06	1	personnel 3
+pg	3	1	ch01	1	PG 3
+phd student	3	2	ch02	2	PhD students 3
+pieter	3	3	ch02	1	Pieter 3
+pieter abbeel	3	3	ch02	2	Pieter Abbeel 3
+piling	3	3	prologue	1	piling 3
+pin	3	2	ch01	1	pin 2, pins 1
+pitch	3	3	ch01	1	pitch 3
+pitfall	3	3	ch01	1	pitfalls 3
+plea	3	3	ch02	1	pleas 2, plea 1
+plot	3	1	ch12	1	plot 3
+plus program	3	1	ch09	2	Plus program 3
+pocket	3	3	ch12	1	pocket 2, pockets 1
+point operation	3	1	ch13	2	point operations 3
+policy research team	3	3	ch10	3	policy research team 2, policy research teams 1
+policy white	3	2	ch13	2	policy white 3
+policy white paper	3	2	ch13	3	policy white paper 3
+posada	3	2	ch09	1	Posada 3
+positioning	3	3	ch01	1	positioning 3
+positive side	3	1	ch03	2	positive sides 3
+post - training team	3	2	ch17	4	post-training team 3
+potable water	3	1	ch12	2	potable water 3
+power line	3	1	ch12	2	power lines 3
+powerful supercomputer	3	3	ch06	2	powerful supercomputers 3
+praise	3	3	ch10	1	praise 3
+pre - training	3	2	ch10	3	pre-training 3
+precious water	3	2	prologue	2	precious water 3
+preference	3	2	ch05	1	preferences 3
+press release	3	2	prologue	2	press release 3
+pricing	3	2	ch08	1	pricing 3
+printer	3	2	prologue	1	printer 3
+prioritization	3	2	ch02	1	prioritization 3
+private conversation	3	2	ch10	2	private conversations 3
+processing power	3	3	ch02	2	processing power 3
+processing systems	3	2	ch02	2	Processing Systems 2, processing systems 1
+product team	3	2	ch10	2	product team 2, product teams 1
+productization	3	2	ch08	1	productization 3
+profession	3	3	ch01	1	profession 2, professions 1
+profit arm	3	3	prologue	2	profit arm 3
+prophecy	3	3	ch02	1	prophecy 3
+proprietary technology	3	2	ch01	2	proprietary technology 2, proprietary technologies 1
+proximity	3	3	ch01	1	proximity 3
+psychotherapy	3	2	ch04	1	psychotherapy 3
+public announcement	3	2	prologue	2	public announcement 3
+public one	3	3	ch01	2	public one 2, public ones 1
+public school	3	2	ch09	2	public school 2, public schools 1
+public scrutiny	3	3	prologue	2	public scrutiny 3
+public water	3	1	ch12	2	public water 3
+publicity	3	3	ch02	1	publicity 3
+q.	3	1	ch04	1	Q. 3
+quantity	3	3	ch05	1	quantity 2, quantities 1
+query	3	3	ch04	1	queries 2, query 1
+r.	3	2	ch05	1	R. 3
+rain	3	1	ch12	1	rain 3
+rally	3	3	ch01	1	rally 3
+ramesh	3	1	ch10	1	Ramesh 3
+ramp	3	2	ch03	1	ramp 3
+rationality	3	3	ch01	1	rationality 2, Rationality 1
+reaction	3	2	ch01	1	reaction 2, reactions 1
+real time	3	3	prologue	2	real time 3
+realm	3	3	epigraph	1	realm 2, realms 1
+rebranding	3	1	ch04	1	rebranding 3
+recognition model	3	1	epilogue	2	recognition model 3
+recounting	3	3	ch01	1	recounting 3
+recruitment	3	3	ch02	1	recruitment 3
+recycling	3	1	ch05	1	recycling 2, Recycling 1
+red teaming	3	2	ch08	2	red teaming 3
+referendum	3	1	ch12	1	referendum 2, referendums 1
+refuse	3	3	dedication	1	refuse 3
+regulating	3	1	ch13	1	regulating 3
+regulatory scrutiny	3	2	ch15	2	regulatory scrutiny 3
+rein	3	3	ch02	1	reins 2, rein 1
+remain leadership	3	2	prologue	2	remaining leadership 3
+renewable energy	3	2	ch03	2	renewable energy 3
+reo speaker	3	1	epilogue	2	reo speakers 3
+reporting trip	3	1	acknowledgments	2	reporting trip 2, reporting trips 1
+republican	3	3	ch01	1	Republican 3
+resignation	3	3	prologue	1	resignation 3
+responsible ai	3	2	ch07	2	responsible AI 3
+rhythm	3	2	ch09	1	rhythms 2, rhythm 1
+ria	3	3	ch04	1	Ria 3
+ria kalluri	3	3	ch04	2	Ria Kalluri 3
+rice	3	3	ch06	1	rice 3
+rift	3	3	prologue	1	rift 2, rifts 1
+roadblock	3	3	ch04	1	roadblocks 3
+robert	3	3	ch01	1	Robert 3
+robot	3	2	ch02	1	robot 2, robots 1
+robotic hand	3	3	ch02	2	robotic hand 3
+rod	3	2	ch01	1	Rod 2, rod 1
+roommate	3	2	ch06	1	roommates 2, roommate 1
+roster	3	3	prologue	1	roster 3
+ryan	3	3	ch05	1	Ryan 3
+safety contingent	3	1	ch06	2	safety contingent 3
+safety reason	3	3	ch09	2	safety reasons 3
+safety risk	3	2	ch05	2	safety risks 3
+safety work	3	3	ch06	2	safety work 3
+sama worker	3	2	ch09	2	Sama workers 3
+samantha	3	2	ch10	1	Samantha 3
+same performance	3	3	ch04	2	same performance 3
+same strategy	3	3	ch06	2	same strategy 3
+sample	3	2	ch01	1	samples 2, sample 1
+samuel	3	3	ch01	1	Samuel 3
+sasha	3	3	ch12	1	Sasha 3
+sasha luccioni	3	3	ch12	2	Sasha Luccioni 3
+satya	3	3	prologue	1	Satya 3
+satya nadella	3	3	prologue	2	Satya Nadella 3
+savvy	3	2	ch01	1	savvy 3
+scale employee	3	1	ch09	2	Scale employee 3
+scale spokesperson	3	1	ch09	2	Scale spokesperson 3
+scaling strategy	3	3	ch02	2	scaling strategy 3
+scandal	3	3	ch06	1	scandal 3
+scarlett	3	1	ch17	1	Scarlett 3
+scarlett johansson	3	1	ch17	2	Scarlett Johansson 3
+schmidt	3	1	ch09	1	Schmidt 3
+scientific merit	3	1	ch04	2	scientific merit 3
+scope	3	3	ch09	1	scope 3
+scratch	3	3	ch02	1	scratch 3
+screening	3	2	ch09	1	screening 3
+script	3	3	ch02	1	script 2, scripts 1
+seattle	3	3	ch02	1	Seattle 3
+secrecy	3	3	ch06	1	secrecy 3
+seekingarrangement	3	1	ch14	1	SeekingArrangement 3
+self - fulfil prophecy	3	3	ch02	4	self-fulfilling prophecy 3
+self - harm	3	2	ch05	3	self-harm 3
+senior adviser	3	2	ch02	2	senior adviser 2, senior advisers 1
+several other	3	3	ch05	2	several others 3
+several week	3	2	ch02	2	several weeks 2, Several weeks 1
+severity	3	3	ch09	1	severity 3
+sexuality	3	3	ch01	1	sexuality 3
+shadow	3	3	prologue	1	shadow 3
+shivon	3	3	ch02	1	Shivon 3
+shivon zilis	3	3	ch02	2	Shivon Zilis 3
+sic	3	3	ch02	1	sic 3
+side effect	3	1	ch02	2	side effects 3
+similarity	3	2	ch05	1	similarity 2, similarities 1
+single chip	3	2	ch02	2	single chip 3
+single model	3	2	ch02	2	single model 3
+single word	3	3	ch01	2	single word 3
+skip	3	3	prologue	1	Skip 2, skip 1
+slack channel	3	3	ch06	2	Slack channel 2, Slack channels 1
+slavery	3	3	ch04	1	slavery 3
+slew	3	3	prologue	1	slew 3
+small amount	3	3	ch01	2	small amounts 2, Small amounts 1
+small handful	3	3	prologue	2	small handful 3
+small number	3	3	ch08	2	small number 3
+smart	3	3	ch01	1	smart 2, Smart 1
+smartphone	3	1	ch12	1	smartphone 3
+smile	3	2	ch03	1	smile 3
+society group	3	2	ch13	2	society groups 3
+song	3	2	ch04	1	Song 2, song 1
+sony	3	2	ch14	1	Sony 3
+sophomore	3	2	ch01	1	sophomore 3
+sound board	3	2	ch10	2	sounding board 3
+sounding board	3	2	ch10	2	sounding board 3
+spacex factory	3	1	ch01	2	SpaceX factory 3
+specter	3	3	ch05	1	specter 3
+spotlight	3	3	ch02	1	spotlight 2, Spotlight 1
+spur	3	3	ch03	1	spur 3
+stack	3	2	ch08	1	stacks 2, Stack 1
+stakeholder	3	3	ch05	1	stakeholders 2, stakeholder 1
+stanford researcher	3	2	ch05	2	Stanford researcher 2, Stanford researchers 1
+states	3	2	ch12	1	States 2, states 1
+statistic	3	2	ch04	1	statistics 3
+stature	3	3	ch01	1	stature 3
+stellar	3	3	ch02	1	stellar 3
+stem	3	3	ch01	1	stem 2, STEM 1
+steve dowling	3	3	ch06	2	Steve Dowling 3
+steve jobs	3	2	prologue	2	Steve Jobs 3
+sticker	3	2	prologue	1	stickers 3
+stop sign	3	1	ch04	2	stop sign 2, stop signs 1
+storage	3	3	ch03	1	storage 3
+strain	3	3	ch04	1	strain 2, strains 1
+strawberry	3	2	ch16	1	Strawberry 3
+strong governance	3	1	ch15	2	stronger governance 2, strong governance 1
+stronghold	3	3	ch02	1	stronghold 2, strongholds 1
+structural change	3	3	ch03	2	structural changes 3
+stunt	3	2	ch05	1	stunts 2, stunt 1
+subject line	3	2	ch02	2	Subject line 2, subject line 1
+successful people	3	1	epigraph	2	successful people 2, Successful people 1
+successor	3	3	prologue	1	successor 3
+suicide	3	3	ch04	1	suicide 2, suicides 1
+suite	3	3	prologue	1	suite 3
+sun	3	2	ch02	1	sun 2, Sun 1
+superassistant product	3	2	ch10	2	Superassistant product 3
+supplier	3	3	prologue	1	supplier 3
+survey	3	3	prologue	1	survey 2, surveys 1
+survival	3	3	ch03	1	survival 3
+surviving	3	3	prologue	1	surviving 3
+swallow	3	3	ch02	1	swallow 3
+sway	3	3	ch02	1	sway 3
+symbolist	3	1	ch04	1	symbolists 3
+symptom	3	3	ch09	1	symptom 2, symptoms 1
+syndrome	3	2	ch11	1	Syndrome 2, syndrome 1
+synthetic csam	3	1	ch10	2	synthetic CSAM 3
+t - shirt	3	3	ch01	3	T-shirts 3
+takeover	3	1	prologue	1	takeover 3
+tale	3	3	ch01	1	tale 2, tales 1
+tasha	3	3	prologue	1	Tasha 3
+taste	3	3	ch02	1	taste 2, tastes 1
+te reo speaker	3	1	epilogue	3	te reo speakers 3
+teaming	3	2	ch08	1	teaming 3
+tech blogger	3	2	ch01	2	tech blogger 3
+tech giant ’s executive	3	3	ch08	4	tech giant’s executives 3
+tech review	3	2	ch03	2	Tech Review 3
+techno	3	3	prologue	1	techno 3
+technological abuse	3	2	ch14	2	technological abuse 3
+technology ’s benefit	3	3	ch03	3	technology’s benefits 3
+teen	3	3	ch01	1	teen 2, teens 1
+termination	3	3	ch09	1	Terminations 1, termination 1, terminations 1
+territory	3	1	ch12	1	territories 2, territory 1
+texas	3	3	ch07	1	Texas 3
+text generation	3	1	ch05	2	text generation 3
+text generator	3	1	ch04	2	Text generators 2, text generators 1
+thought experiment	3	2	ch02	2	thought experiment 2, thought experiments 1
+tier	3	3	ch03	1	tier 2, tiers 1
+times columnist	3	2	ch04	2	Times columnist 3
+tironi	3	1	ch12	1	Tironi 3
+tooling	3	2	ch10	1	tooling 3
+top ai	3	1	ch02	2	top AI 3
+tor	3	1	ch16	1	Tor 3
+trade - off	3	3	ch02	3	trade-offs 3
+tragedy	3	2	ch12	1	tragedy 3
+trainer	3	1	ch10	1	trainer 3
+trait	3	1	ch01	1	trait 3
+transcribed	3	3	ch05	1	transcribed 3
+transformer - base model	3	3	ch07	4	Transformer-based models 3
+trauma therapist	3	1	ch14	2	trauma therapist 3
+triumph	3	3	prologue	1	triumph 2, triumphs 1
+tune	3	3	ch07	1	tune 3
+tuning	3	3	ch03	1	tuning 3
+turbo	3	3	ch11	1	Turbo 3
+ture test	3	2	ch03	2	Turing test 3
+turk	3	1	ch09	1	Turk 3
+tweak	3	3	ch06	1	tweak 3
+twitch	3	3	prologue	1	Twitch 3
+typical tech	3	1	ch16	2	typical tech 3
+typo	3	1	ch06	1	typo 3
+uc	3	3	ch05	1	UC 3
+uc berkeley	3	3	ch05	2	UC Berkeley 3
+unfold	3	3	prologue	1	unfold 3
+unhappy	3	2	ch04	1	unhappy 2, UNHAPPY 1
+unified	3	3	ch02	1	unified 2, Unified 1
+unit	3	3	ch02	1	units 3
+unprecedented scale	3	3	prologue	2	unprecedented scale 3
+uphill battle	3	3	ch07	2	uphill battle 3
+urgency	3	3	ch02	1	urgency 3
+us dollar	3	1	ch09	2	US dollars 3
+user behavior	3	3	ch10	2	user behavior 2, user behaviors 1
+utawala	3	1	ch09	1	Utawala 3
+utility company	3	1	ch12	2	utility companies 2, Utility companies 1
+valuable work	3	2	ch02	2	valuable work 3
+variable	3	3	ch02	1	variables 2, variable 1
+various ai	3	2	ch10	2	various AI 3
+victim	3	2	ch12	1	victims 2, victim 1
+voss	3	1	ch08	1	Voss 3
+vulnerability	3	2	ch04	1	vulnerabilities 2, vulnerability 1
+waste	3	2	ch04	1	waste 3
+watson	3	1	ch04	1	Watson 3
+weakness	3	2	ch04	1	weaknesses 2, weakness 1
+weed	3	3	ch09	1	weeds 3
+white man	3	2	ch02	2	white men 3
+whole thing	3	3	ch05	2	whole thing 3
+wholesale	3	2	ch04	1	wholesale 3
+wing	3	1	ch12	1	wing 3
+wojciech	3	3	ch02	1	Wojciech 3
+wojciech zaremba	3	3	ch02	2	Wojciech Zaremba 3
+world today	3	3	ch03	2	world today 3
+yc batchmate	3	2	ch01	2	YC batchmates 2, YC batchmate 1
+yc founder	3	1	ch01	2	YC founders 2, YC founder 1
+york magazine article	3	2	ch14	3	York magazine article 3
+york times columnist	3	2	ch04	3	York Times columnist 3
+york university	3	2	ch04	2	York University 3
+young age	3	3	ch01	2	young age 3
+youth	3	2	ch09	1	youth 3
+youtube video	3	3	ch04	2	YouTube videos 3

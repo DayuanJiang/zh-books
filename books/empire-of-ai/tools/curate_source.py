@@ -33,6 +33,10 @@ EMOJI = {"Turkey emoji": "🦃", "Parrot emoji": "🦜", "counterclockwise arrow
 # A stray opening quote follows two of the emoji in the EPUB.
 QUOTES = {"🦜“”": "🦜”", "🔄“,”": "🔄,”"}
 MARKER = re.compile(r"ZZNOTE(\d+)ZZ")
+# Two author's notes marked with an asterisk sit at the end of their chapter, after a "Skip Notes" link.
+STAR_REF = re.compile(r"\[\[\\\*\]\]\(c\w+\.xhtml#\w+\)")
+STAR_NOTE = re.compile(r"(?m)^\[\\\*\]\(c\w+\.xhtml#\w+\) (.*)\n?")
+SKIP = re.compile(r"(?m)^\[Skip Notes\]\(c\w+\.xhtml\)\n?")
 BACK_LINK = re.compile(r"\[GO TO NOTE REFERENCE IN TEXT\]\((c\w+\.xhtml)(?:#([\w-]+))?\)")
 CLOSING = "?!’”*"
 
@@ -76,6 +80,19 @@ def place(text, start, phrase):
     while i < len(text) and text[i] in CLOSING:
         i += 1
     return i
+
+
+def star_notes(text, notes):
+    """Turn the asterisk notes into markers too; their text is appended to notes."""
+    bodies = STAR_NOTE.findall(text)
+    refs = STAR_REF.findall(text)
+    if len(bodies) != len(refs):
+        raise SystemExit(f"error: {len(refs)} asterisk references but {len(bodies)} asterisk notes")
+    text = SKIP.sub("", STAR_NOTE.sub("", text))
+    for body in bodies:
+        text = STAR_REF.sub(f"ZZNOTE{len(notes)}ZZ", text, count=1)
+        notes.append(body)
+    return text
 
 
 def add_footnotes(text, notes, stats):
@@ -131,7 +148,7 @@ def main(epub_path):
             path.unlink()
             continue
         entry["id"] = RENAME.get(entry["id"], entry["id"])
-        path.write_text(emoji(add_footnotes(tidy(entry, path.read_text()), notes, stats)))
+        path.write_text(emoji(add_footnotes(star_notes(tidy(entry, path.read_text()), notes), notes, stats)))
         kept.append(entry)
     left = [p.name for p in EN.glob("*.md") if MARKER.search(p.read_text())]
     if left or sum(stats.values()) != len(notes):
@@ -141,7 +158,7 @@ def main(epub_path):
     (BOOK / "assets" / "images" / "cover.jpg").write_bytes(zipfile.ZipFile(epub_path).read("cover1.jpeg"))
     config.update(chapters=kept, cover="assets/images/cover.jpg", start="prologue")
     book_config.save(BOOK, config)
-    print(f"{len(kept)} sections kept; {len(notes)} notes became footnotes: {stats}")
+    print(f"{len(kept)} sections kept; {len(notes)} notes (endnotes and asterisk notes) became footnotes: {stats}")
 
 
 if __name__ == "__main__":
