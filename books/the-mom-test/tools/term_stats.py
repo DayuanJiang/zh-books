@@ -131,6 +131,11 @@ COUNTS = [
     ("Inbox 0", r"\bInbox 0\b", False),
     ("7 degrees of separation", r"\b7 degrees\b", False),
     ("Gordian Knot", r"\bGordian Knot\b|(?<!double-)\bknot\b", False),
+    # added after translating, from the editors' suggestions
+    ("rewarding / personally rewarding", r"\brewarding\b", False),
+    ("best guess / best-guess", r"\bbest[- ]guess", False),
+    ("beliefs", r"\bbeliefs?\b", False),
+    ("exact quote / key quotes", r"\b(?:exact|key)(?: customer)? quotes?\b", False),
 ]
 
 

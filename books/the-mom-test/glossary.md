@@ -11,7 +11,7 @@
 - **书名**：用《》，每节第一次出现时括注原题，原题用斜体，例如《四步创业法》（*4 Steps to the E.piphany*）。有中译本的用中译本书名。
 - **数字和金额**：见“全书统一的写法”。
 - **称呼**：作者对读者说话用“你”，不用“您”。your mom 写“你妈妈”，不写“你妈”。
-- **示例对话**：每句一段，说话人加粗，后面是中文冒号，台词放在中文引号里，作者的旁白用斜体放在台词后面，和英文一样：`**儿子：**“妈，妈，我有个生意点子，能跟你说说吗？” *我要把自尊心亮出来了，千万别伤我的心。*`。说话人统一这样写：You 写“你”，Them 写“对方”，Me 写“我”，Mom 写“妈妈”，Son 写“儿子”，Your Team 写“你的团队”。台词前后括号里的舞台说明，例如 (Back at the office)、(More delicious workflow data)，照原样放在括号里译出。原文个别台词没有引号（第 3 章两句），照原文不加。
+- **示例对话**：每句一段，说话人加粗，后面是中文冒号，台词放在中文引号里，作者的旁白用斜体放在台词后面，和英文一样：`**儿子：**“妈，妈，我有个生意点子，能跟你说说吗？” *我要把自尊心亮出来了，千万别伤我的心。*`。说话人统一这样写：You 写“你”，Them 写“对方”，Me 写“我”，Mom 写“妈妈”，Son 写“儿子”，Your Team 写“你的团队”。对话前的加粗标签：A bad conversation 写“糟糕的对话”，A (really, really) bad conversation 写“（非常、非常）糟糕的对话”，A good conversation 写“好的对话”，An ambiguous conversation 写“模棱两可的对话”，“Does-this-problem-matter” questions 写“判断‘这个问题要不要紧’的提问”。台词前后括号里的舞台说明，例如 (Back at the office)、(More delicious workflow data)，照原样放在括号里译出。原文个别台词没有引号（第 3 章两句），照原文不加。
 - **经验法则**：每节末尾的 *Rule of thumb:* 写成 `*经验法则*：`，斜体只包住“经验法则”四个字，冒号放在斜体外面，后面直接接正文。冒号不能放进斜体：阅读器用 markdown-it 按 CommonMark 渲染，`*经验法则：*客户` 这样结尾的星号前面是全角标点、后面紧跟汉字，斜体不会生效，页面上会露出星号。加粗也一样：第 3 章两句没有引号的台词写成 `**你**：`，有引号的台词照“示例对话”的写法（`**你：**“`，后面是引号，没有这个问题）。第 1 章译完后发现并改正（原来写的是 *经验法则：*）。
 - **列表和引用块**：列表的项数、嵌套层级和列表符号照英文写。速查表 “The process before, during and after the meeting” 下面三个连着的列表，中间那个英文用 `*`，中文也必须用 `*`，否则 Markdown 会把三个列表合成一个，中英两边对不上。示范邮件是引用块，每封一个，空行处的 `>` 照写。
 - **原文的引号和括注**：直引号和弯引号，中文一律用“”。示范邮件里括注的斜体标签，(*vision*) 写成（*愿景*），对照“Vision / Framing / Weakness / Pedestal / Ask”一行。
@@ -43,7 +43,7 @@
 
 ## 全书统一的写法
 
-参照仓库里其他书译完后统一下来的写法，结合这本书先定下来，各章从一开始就照这里写；译完后有新的不一致，再补在这里。
+参照仓库里其他书译完后统一下来的写法，结合这本书先定下来，各章从一开始就照这里写；全书译完后编辑提出的问题和统一的写法，见下一节“全书统一的写法（译完后定）”。
 
 - **数字**：一到十，以及带“几、十几、数百、上千”的约数，用汉字（三条规则、三个大问题、两周、五分钟、几十次谈话）；11 以上的确数用阿拉伯数字（20 次谈话、90 分钟）；年份、日期、钟点、金额、百分比、评分刻度一律用阿拉伯数字（35%、1 到 5 分）。范围的两头只要有一个大于十，都用阿拉伯数字，中间写“到”：10-15 minutes 写“10 到 15 分钟”，3-5 conversations 写“三到五次谈话”。#1、#2 写“第 1 条”“第 2 条”。
 - **金额**：换算成中文的万、亿，币种照原文：$40 写“40 美元”，$50k 写“5 万美元”，$5-50k 写“5000 到 5 万美元”，£100/month 写“每月 100 英镑”，£1.2k 写“1200 英镑”，£120,000 写“12 万英镑”，$10,000/month 写“每月 1 万美元”。口语的 bucks 是美元：10 million bucks 写“1000 万美元”，half a million bucks 写“50 万美元”。2 or 3 grand 写“两三千美元”。
@@ -54,6 +54,24 @@
 - **英文缩写**：B2B、CRM、CSV、PDF、PR、HR、CTO、VC、UX 照写；第一次出现时，原文自己括注了解释的（CRM (contact management)、CSV (data file)），中文照样括注。PR 第一次出现时写“公关（PR）”，VC 写“风险投资人（VC）”。PhD 写“博士”，PhD student 写“博士生”。
 - **代词**：对话里泛指的 they、them 写“对方”或“他们”；说话人 Them 一律写“对方”。
 - **作者的笑话和双关**：ba-dum tish 这类拟声照意思译（“咚咚锵”）；Hack it 一节 hack 的双关见核心概念表的 hack 一行。七度分隔照原文写“七度”，可以加译者注说明通行说法是六度。
+
+## 全书统一的写法（译完后定）
+
+各章译完、审校完后，编辑提出了一些需要全书统一的写法。每一条都对照英文和各章现在的中文核对过，统一如下；和术语有关的说明也补进了核心概念表的相应行。
+
+- **作者大写的专名**：句子里的 Keeping it Casual 写“轻松随意”，Keep it Casual 写“保持轻松随意”，单独的 Advancement 写“推进”，都加引号（第 3、7、8 章）。Commitment & Advancement 写“承诺与推进”，不加引号（第 1 章）。小写的 keep it casual 照普通说法译。
+- **作者命名的概念**：第一次出现时括注原名，例如悲情问题（The Pathos Problem）、会面反模式（The Meeting Anti-Pattern）、客户切分（Customer Slicing）。第 4 章会面反模式的括注和解释“反模式”的译者注都保留。客户开发、精益创业照中文通行的说法写，引言第一次出现时直接写中文；引言区分客户对话（customer conversation，小写）和客户开发（Customer Development，大写）的那一句保留括注。
+- **速查表和正文**：速查表照抄正文的句子和列表项（[review/terms/repeats.tsv](review/terms/repeats.tsv) 列出的各条），全书审校完后逐条核对过，各处一字不差；以后改了正文，速查表要跟着改。速查表 Commitment 一条的英文比第 5 章多了 meaningful amounts of time 和 reputational risk，两处照各自的原文译：第 5 章“对方拿出自己看重的东西，比如时间、声誉或金钱，表明自己是认真的。”，速查表“对方付出自己看重的东西，表明自己是认真的，比如花上相当多的时间、承担声誉风险，或者掏钱。”
+- **反复出现的引语**：“Don’t call me, I’ll call you.” 写“别给我打电话，我会打给你”（引言一处，第 5 章两处）。这句话出现在段落中间，repeats.tsv 只收整段和整个列表项，所以记在这里。
+- **代词**：英文用单数 they、them 指一个人时（例如 that person、the person we’re talking to、an advertiser 后面的 they），中文写“对方”，或者去掉“一位”这类单数词，让前后的人称一致。
+- **口头禅**：作者自己催读者时的 dang，用“给我”表达不耐烦，例如“别磨蹭了，赶紧给我去把公司做起来”（第 8 章）；书里满腹牢骚的角色说的 gosh derned 可以写“该死的”。
+- **on track / off track**：按语境用口语说法。stay on track 写“不偏离正题”，keep the discussion on track 写“不跑题”，keep on track、keep it on track 写“不跑偏”，go off track 写“跑偏”“走偏”，get back on track 写“拉回正轨”“回到正轨”。
+- **nefarious**：引言 go wrong in a nefarious way 写“出错的方式很阴险”，第 5 章 nefarious compliments 写“坑人的恭维”。两处搭配的对象不同，各照语境译。
+- **traditional business person**：引言写“传统企业出身的商务人员”（traditional business or sales person 写“传统企业出身的商务或销售人员”）。
+- **翻页**：第 5 章 turn the page 照原文写“翻到下一页”，和旁边的英文一致。
+- **小节标题**：编辑请主会话确认的小节标题，例如第 4 章“会面反模式”“会面要谈多久？”“综合运用”，第 6 章“主动去找他们”“找个好由头”“想点巧办法”，第 8 章“整个流程”“怎样记下来”“记在哪儿”“这些事做起来很快”，和章标题、速查表的说法一致，保持现在的写法。
+- **致谢里的人名**：致谢的 Pete、Tom Stone、Tim Barnes 和第 6 章示范邮件、开场白里的 Pete、Tom、Tim 是否同一人，原文没说，译名照人名表写（皮特、汤姆·斯通、蒂姆·巴恩斯；第 6 章写皮特、汤姆、蒂姆）。
+- **其他**：数字、金额、百分比、人名括注、书名括注、平台名、对话的说话人和经验法则的格式，全书审校完后按上一节和“体例”逐章核对过，各章写法一致。
 
 ## 核心概念
 
@@ -70,7 +88,7 @@
 | fishing for compliments | 讨夸奖 | 有意寻求认可，想听别人说你的想法好；速查表 Mistakes and symptoms 第一项同 |  | ch02 | 6 | 初定 |
 | fluff / fluffy | 空话 / 空泛的 | 第二种坏数据：笼统的说法、假设和对未来的许诺。fluff-inducing question 译“引出空话的问题”。第 2 章 “3 cuddly shapes” 拿 fluff（绒毛）开玩笑，可译“三种软绵绵的样子” | 废话 | ch02 | 30 | 初定 |
 | generic / generics | 笼统 / 笼统的说法 | “我通常”“我总是”“我从不”这类概括。generic question 译“笼统的问题”，start more generic 译“从更宽泛的问题问起”。第 1 章说菜谱的 generic set of recipes、generic recipes 指大众化的基础菜谱，和 niche recipes（小众菜谱）相对，译“家常菜谱” | 通用 | ch01 | 29 | 初定 |
-| hypothetical | 假设性的 / 假设 | “我可能会”“我也许会”这类说法；hypothetical question 译“假设性问题”，hypothetical la-la-land 译“假设的幻境” |  | ch01 | 10 | 初定 |
+| hypothetical | 假设性的 / 假设 | “我可能会”“我也许会”这类说法；hypothetical question 译“假设性问题”，hypothetical la-la-land 译“假设的幻境”。作名词、指对方给的假设性说法时写“假设性的回答”（第 1 章 opinions and hypotheticals 写“看法和假设性的回答”）；第 2 章列举空话的种类时（generics, hypotheticals, and the future）写“假设” |  | ch01 | 10 | 初定 |
 | specifics in the past | 过去的具体事情 | 妈妈测试第二条：问已经发生过的具体事情，别问笼统的情况或对未来的看法 |  | ch01 | 3 | 初定 |
 | opinion | 看法 | 对方对你的想法、对未来的主观判断。Opinions are worthless. 译“看法一文不值” | 意见（feedback 译“反馈”） | ch01 | 17 | 初定 |
 | idea | 想法 | 你的生意想法；也是第三种坏数据（对方提的想法）。business idea 译“生意点子” | 创意 | introduction | 101 | 初定 |
@@ -85,27 +103,27 @@
 | ego | 自尊心 | expose your ego 译“把自尊心亮出来”，your ego is on the line 译“你的自尊心押在了上面” | 自我（心理学术语）、自负 | ch01 | 7 | 初定 |
 | pitch / pitching / pitch mode / pitchy | 推销 / 推销模式 / 推销味重 | 向对方兜售你的想法。slip into pitch mode 译“一不小心进入推销模式”，Cut off pitches 译“打住推销”，startup pitches 译“创业公司的推销” | 路演（只在指向投资人的正式演示时用） | ch01 | 21 | 初定 |
 | false positive / false negative | 假阳性 / 假阴性 | 第 2 章开头的定义：假阴性是以为想法不行其实行，假阳性是以为自己对了其实不对 | 误报 | introduction | 10 | 初定 |
-| signal | 信号 | 对话里透露出的线索，包括情绪、定价、需求；mixed signals 译“相互矛盾的信号” |  | ch01 | 31 | 初定 |
+| signal | 信号 | 对话里透露出的线索，包括情绪、定价、需求；mixed signals 译“相互矛盾的信号”，mixed feedback 写“反馈相互矛盾”；第 7 章 inconsistent feedback 指各人的反馈拼不到一起，写“反馈彼此对不上” |  | ch01 | 31 | 初定 |
 | lukewarm | 不冷不热 | lukewarm response / signal 译“不冷不热的反应 / 信号” |  | ch01 | 7 | 初定 |
 | zoom / premature zoom | 聚焦 / 过早聚焦 | 还没确认对方在乎，就盯住一个具体问题追问细节。zoom in 译“聚焦”，zoom back out 译“退回去看全局”；第 3 章小标题 Look before you zoom 可译“先看全局，再聚焦” | 缩放、放大 | ch02 | 18 | 初定 |
 | the elephant (in the room) | 房间里的大象 | 大家心知肚明却回避的关键问题；第 3 章小标题 Look at the elephant 可译“正视房间里的大象” |  | ch03 | 3 | 初定 |
 | failure point | 可能失败的环节 | 生意成败取决于的几个环节，任何一个不成立都要大改想法 | 故障点 | ch01 | 3 | 初定 |
 | de-risk | 降低风险 | de-risking and validating the business 译“降低风险、验证生意” |  | ch03 | 2 | 初定 |
 | product risk / market risk | 产品风险 / 市场风险 | 产品风险：能不能做出来、做大、留住用户；市场风险：有没有人要、肯不肯付钱、人够不够多 |  | ch03 | 9 | 初定 |
-| must-solve problem / nice-to-have | 非解决不可的问题 / 有了更好的东西 | 前者对应止痛药，后者对应维生素；must-solve-right-now 译“必须马上解决的” | 刚需（这个流行词和作者的语气不合，不用） | ch03 | 7 | 初定 |
+| must-solve problem / nice-to-have | 非解决不可的问题 / 有了更好的东西 | 前者对应止痛药，后者对应维生素；must-solve-right-now 译“必须马上解决的”。nice-to-have 形容一个问题时写“能解决最好、不解决也无妨的”（第 3 章） | 刚需（这个流行词和作者的语气不合，不用） | ch03 | 7 | 初定 |
 | painkiller / vitamin | 止痛药 / 维生素 | 第 3 章的比喻 |  | ch03 | 2 | 初定 |
-| 3 big questions / list of 3 | 三个大问题 / 三问清单 | 每批谈话前和团队定好的三个最重要的问题；Prepare your list of 3 译“准备好你的三问清单”，big 3 learning goals 译“三个最想弄清的问题” |  | ch03 | 12 | 初定 |
-| Keeping it casual | 轻松随意 | 第 4 章：把见面变成随意的聊天，不约正式会面。keep it casual 译“保持轻松随意”；作者大写成专名（Keeping it Casual）时也用这个译法，句子里容易和普通说法混在一起时加引号 | 随便（带贬义） | ch03 | 14 | 初定 |
-| The Meeting Anti-Pattern | 会面反模式 | 作者借软件工程的“反模式”：把每次和客户交谈的机会都塞进日程表里，变成正式会面。第 8 章 a common anti-pattern 也译“反模式” |  | ch04 | 3 | 初定 |
-| meeting | 会面 | 和客户、投资人等的见面。sales meeting 译“销售会面”，product meeting 译“产品会面”，formal meeting 译“正式会面”；calendar block 译“日程表里的一个时段”；Good meeting / bad meeting 译“好会面，坏会面” | 会议（团队内部开会、行业会议才用） | introduction | 131 | 初定 |
-| formal / formality | 正式 / 拘泥形式 | 作者反对的做法：约正式会面、按访谈提纲提问。Symptoms of formality 译“过于正式的症状”，Being too formal 译“太正式” |  | introduction | 17 | 初定 |
+| 3 big questions / list of 3 | 三个大问题 / 三问清单 | 每批谈话前和团队定好的三个最重要的问题；Prepare your list of 3 译“准备好你的三问清单”，big 3 learning goals 译“三个最想弄清的问题”。第 4 章 figured out the big questions 写“定好了要问的几个大问题”，意思是定下要问什么，和第 3 章的三个大问题相同 |  | ch03 | 12 | 初定 |
+| Keeping it casual | 轻松随意 | 第 4 章：把见面变成随意的聊天，不约正式会面。keep it casual 译“保持轻松随意”。作者在句子里大写成专名时加引号：Keeping it Casual 写“轻松随意”，Keep it Casual 写“保持轻松随意”；小写的普通说法不加引号 | 随便（带贬义） | ch03 | 14 | 初定 |
+| The Meeting Anti-Pattern | 会面反模式 | 作者借软件工程的“反模式”：把每次和客户交谈的机会都塞进日程表里，变成正式会面。第 4 章第一次出现时括注 The Meeting Anti-Pattern，并加译者注解释“反模式”。第 8 章 a common anti-pattern 也译“反模式” |  | ch04 | 3 | 初定 |
+| meeting | 会面 | 和客户、投资人等的见面。sales meeting 译“销售会面”，product meeting 译“产品会面”，formal meeting 译“正式会面”；calendar block 译“日程表里的一个时段”；Good meeting / bad meeting 译“好会面，坏会面”；fix a bad meeting 写“补救坏会面”（第 5 章小节标题“怎样补救一次坏会面”，第 6 章开头“怎样补救坏会面”） | 会议（团队内部开会、行业会议才用） | introduction | 131 | 初定 |
+| formal / formality | 正式 / 拘泥形式 | 作者反对的做法：约正式会面、按访谈提纲提问。Symptoms of formality 译“过于正式的症状”，Being too formal 译“太正式”。名词 formality 指要去掉的东西时写“拘泥形式的东西”（引言“一点点凿掉和人交谈时那些拘泥形式的东西和尴尬”，第 4 章“所有拘泥形式的东西”）；表示程度时写“正式”“过于正式” |  | introduction | 17 | 初定 |
 | commitment / commit | 承诺 | 第 5 章：对方拿出自己看重的东西（时间、声誉、金钱），表明自己是认真的。time / reputation / financial commitment 译“时间上的承诺 / 拿声誉作的承诺 / 资金承诺”；commit to it 译“为它作出承诺”。第 4 章普通意义的 a big time commitment 译“要花很多时间” | 许诺（promise） | ch01 | 53 | 初定 |
-| advancement / advance | 推进 | 第 5 章：把销售关系推进到下一步，作者说这是销售里的说法。push for advancement 译“争取推进”；Commitment & Advancement 作专名时译“承诺与推进” | 进步、晋升 | ch01 | 20 | 初定 |
+| advancement / advance | 推进 | 第 5 章：把销售关系推进到下一步，作者说这是销售里的说法。push for advancement 译“争取推进”；Commitment & Advancement 作专名时译“承诺与推进”，不加引号；单独的 Advancement 在句子里作专名时加引号写“推进”（第 8 章） | 进步、晋升 | ch01 | 20 | 初定 |
 | promise | 许诺 | 对未来的口头保证，属于空话。future-promise statement 译“对未来的许诺”，fluffy future promises 译“空泛的未来许诺” | 承诺（commitment） | ch01 | 11 | 初定 |
 | next steps | 下一步 | 见面结束时约好的后续安排；clear next steps 译“明确的下一步” |  | ch04 | 24 | 初定 |
 | currency | 货币 | 第 5 章 The currencies of conversation 的比喻：对方为你付出的东西，主要有时间、声誉风险和现金；think in terms of currency 译“从货币的角度想” |  | ch05 | 5 | 初定 |
-| reputation risk | 声誉风险 | 对方拿自己的声誉冒险，例如把你引荐给老板或公开推荐你 |  | ch05 | 6 | 初定 |
-| letter of intent / pre-order / deposit | 意向书 / 预订 / 订金 | 三种资金承诺；pre-purchase 也译“预订”。意向书原文括注 non-legal but gentlemanly agreement，译“没有法律约束、凭君子风度的购买约定” | 定金（法律上有特定含义） | ch01 | 10 | 初定 |
+| reputation risk | 声誉风险 | 对方拿自己的声誉冒险，例如把你引荐给老板或公开推荐你。用作对方付出的东西时写“承担声誉风险”（速查表 Commitment 一条的 reputational risk） |  | ch05 | 6 | 初定 |
+| letter of intent / pre-order / deposit | 意向书 / 预订 / 订金 | 三种资金承诺；pre-purchase 也译“预订”。意向书原文括注 non-legal but gentlemanly agreement，译“没有法律约束、凭君子风度的购买约定”。pre-order 作名词、指拿到手的一份预订时写“预订单”（第 1 章 the deposit or pre-order in hand 写“订金或预订单一到手”）；说这种做法本身时写“预订” | 定金（法律上有特定含义） | ch01 | 10 | 初定 |
 | lead (n.) / zombie leads | 潜在客户、线索 / 僵尸线索 | 销售意义的 lead 按上下文译“潜在客户”或“线索”：qualified leads 译“合格的潜在客户”，cold leads 译“不认识的潜在客户”，real leads 译“真正的潜在客户”；第 1 章 promising leads 指值得追下去的线索。zombie leads 指一直和你见面、说好话，却从不掏钱的潜在客户（或投资人） | 动词 lead（引导） | ch01 | 14 | 初定 |
 | friend-zoned | 被发好人卡 | 第 5 章的比喻：对方对你客客气气，就是不买；get out of the friend-zone 译“摆脱好人卡” | 朋友区（直译读者看不懂） | ch05 | 2 | 初定 |
 | funnel / pipeline | 漏斗 / 销售管道 | acquisition funnel 译“获客漏斗”，real-world funnel 译“现实中的销售漏斗” |  | ch05 | 5 | 初定 |
@@ -116,6 +134,7 @@
 | segmentation | 客户细分 | 第 7 章小标题和速查表 Customer segmentation |  | ch07 | 6 | 初定 |
 | Customer Slicing / slice | 客户切分 / 切分 | 第 7 章作者命名的做法：把客户群一层层切成更具体的小群，直到知道他们是谁、去哪儿找。第一次出现时括注 Customer Slicing | 切片 | ch07 | 8 | 初定 |
 | who-where pair | “谁”和“在哪儿”的组合 | 好的客户群要同时知道是谁、在哪儿找得到 |  | ch07 | 2 | 初定 |
+| rewarding / personally rewarding | 有成就感 | 第 7 章选客户群的三大标准中的第三条：围绕这群人做生意，让你自己有成就感。Rewarding for us to build a business around 写“围绕他们来做一门生意，让我们有成就感”，personally rewarding 写“做起来让你自己有成就感” | 值得、有利可图（profitable 是第一条标准） | ch07 | 2 | 初定 |
 | demographic | 人口特征 / 人群 | demographic data 译“人口统计数据”，demographic groups 译“按人口特征划分的人群”，demographic constraint 译“人口特征上的限定” |  | ch03 | 6 | 初定 |
 | workaround | 变通办法 | 客户现在自己凑合着用的解决办法；符号 ⤴ 的说明也用这个译法 | 权宜之计 | ch01 | 9 | 初定 |
 | makeshift / home-brew / duct-tape solution | 临时凑合的办法 / 自制的土办法 / 胶带粘起来的办法 | 早期布道者的特征之一：已经自己拼凑出解决办法。duct-tape prototype 译“胶带粘起来的原型” |  | ch01 | 6 | 初定 |
@@ -125,12 +144,12 @@
 | purchasing process / buying criteria | 采购流程 / 购买标准 | purchasing criteria 同 buying criteria |  | ch01 | 9 | 初定 |
 | enterprise / B2B / consumer | 企业 / B2B / 消费者 | enterprise sales 译“企业销售”，enterprise software 译“企业软件”，consumer products 译“面向消费者的产品”，in the consumer space 译“在消费者市场” |  | ch01 | 14 | 初定 |
 | intro / warm intro | 引荐 / 熟人引荐 | make intros 译“帮忙引荐”；warm intro 指通过共同的熟人介绍；intro train 译“一连串的引荐”；Creating warm intros 译“争取熟人引荐” | 介绍（产品介绍） | ch01 | 24 | 初定 |
-| cold (calls, emails, conversations, approaches) | 陌生（电话、邮件、对话、接触） | 主动联系不认识的人。cold calls 译“陌生电话”，cold conversations 译“和陌生人的谈话” | 冷淡 | ch06 | 12 | 初定 |
+| cold (calls, emails, conversations, approaches) | 陌生（电话、邮件、对话、接触） | 主动联系不认识的人。cold calls 译“陌生电话”，cold conversations 译“和陌生人的谈话”，cold leads 译“不认识的潜在客户”。第 6 章投资人的 cold intros 指把你引荐给投资人自己也不认识的人，写“把你引荐给他们并不认识的人” | 冷淡 | ch06 | 12 | 初定 |
 | serendipity / serendipitous | 偶遇 / 意外的 | Seizing serendipity 译“抓住偶遇的机会”，serendipitous encounters 译“偶然的相遇”，serendipitous learning 译“意外的收获” |  | ch03 | 4 | 初定 |
 | landing page | 落地页 | 第 6 章。同一段的 value proposition 译“价值主张”，conversion rate 译“转化率”，metrics 译“指标” |  | ch06 | 3 | 初定 |
 | framing / frame | 定调 | 约见面和见面开头时，说明这次见面是为了什么、你处在什么阶段，让对方有合适的预期。Asking for and framing the meeting 译“约见面并定调”，frame expectations 译“给对方的预期定调” | 框架、陷害 | ch06 | 14 | 初定 |
 | Vision / Framing / Weakness / Pedestal / Ask | 愿景 / 定调 / 示弱 / 捧高对方 / 请求帮助 | 第 6 章约见面的五个要素。示范邮件里括注的斜体标签照这一列写，(*ask*) 写“（*请求*）”，(*authority*) 写“（*权威*）”。口诀 Very Few Wizards Properly Ask [for help] 保留英文（五个词的首字母对应五个要素），后面括注中文意思和对应关系 |  | ch06 | 14 | 初定 |
-| advisor / the advisory flip | 顾问 / 换上找顾问的心态 | 第 6 章：别抱着找客户的心态去谈，改为寻找懂行业的顾问；the sales-advisor switch 同义，译“从销售到顾问的转换”。industry advisors 译“行业顾问”，advisory board 译“顾问委员会” |  | introduction | 16 | 初定 |
+| advisor / the advisory flip | 顾问 / 换上找顾问的心态 | 第 6 章：别抱着找客户的心态去谈，改为寻找懂行业的顾问；the sales-advisor switch 同义，译“从销售到顾问的转换”。industry advisors 译“行业顾问”，advisory board 译“顾问委员会”；industry and customer advisors 写“行业顾问，以及能给你当顾问的客户” |  | introduction | 16 | 初定 |
 | opportunity cost | 机会成本 |  |  | ch06 | 2 | 初定 |
 | learning bottleneck | 信息瓶颈 | 第 8 章：对客户的了解全卡在一个人脑子里，传不到团队。Being a learning bottleneck 译“成为信息瓶颈”，bottleneck（动词）译“卡住信息” | 学习瓶颈 | ch08 | 7 | 初定 |
 | prepping / reviewing | 会前准备 / 复盘 | 第 8 章的两个环节；review your notes with your team 译“和团队一起复盘笔记”，Prep questions 译“准备时要问的问题” | 审查、评论 | ch04 | 25 | 初定 |
@@ -138,7 +157,10 @@
 | job-to-be-done | 待完成的任务 | 客户想办成的事，出自“待完成的任务”（jobs to be done）理论 | 工作 | ch08 | 2 | 初定 |
 | going through the motions | 走过场 | Signs you’re just going through the motions 译“你只是在走过场的迹象” |  | ch08 | 3 | 初定 |
 | desk research | 案头调研 | 上网、查资料就能回答的问题，先自己查 |  | ch08 | 3 | 初定 |
-| validation / validate | 验证 / 肯定 | 用证据确认想法成立，译“验证”；作者批评的 taken it as validation，说的是把恭维当成了想法成立的证据，译“当成了对想法的肯定” |  | ch01 | 13 | 初定 |
+| best guess / best-guess | 最佳猜测 | 信息还不够时先做出的判断。第 7 章 take your best guess、make a best-guess 写“做出最佳猜测”，第 8 章和速查表 Create a series of best guesses 写“列出一系列最佳猜测” |  | ch07 | 5 | 初定 |
+| beliefs | 认识 | 第 8 章：你对客户和生意已有的一套判断，每次谈话后更新。an existing set of beliefs 写“一套认识”，update your beliefs 写“更新你的认识”。第 3 章 Learning that your beliefs are wrong 按语境写“发现自己原先认定的事情是错的” | 看法（opinion，指对方的看法） | ch03 | 5 | 初定 |
+| exact quote / key quotes | 原话 / 关键原话 | 第 8 章记笔记和复盘：对方一字不差说出的话。write down exact quotes 写“把原话一字不差地记下来”，key customer quotes 写“客户的关键原话”；泛指的 quote 按语境译（that amazing quote 写“一句精彩的话”） |  | ch08 | 6 | 初定 |
+| validation / validate | 验证 / 肯定 | 用证据确认想法成立，译“验证”；作者批评的 taken it as validation，说的是把恭维当成了想法成立的证据，译“当成了对想法的肯定”，“对想法的肯定”只用于这种把恭维误当成证据的情形。第 3 章 data which seems like validation 写“看起来像是验证了你的想法” |  | ch01 | 13 | 初定 |
 | visionary leap | 凭远见迈出的一步 | 了解客户之后，自己构想解决方案的那一步；take the leap 按上下文译“迈出这一步” |  | ch01 | 5 | 初定 |
 | Rule of thumb | 经验法则 | 每节末尾的斜体标签，写成 `*经验法则*：`，冒号在斜体外面（原因见体例“经验法则”一条） |  | ch01 | 38 | 初定 |
 | hack | 巧招 | 结语 Hack it 一节：hack 既有“砍”的意思，也指取巧的捷径，作者拿亚历山大斩断戈尔迪之结的故事双关。小标题可译“快刀斩乱麻”，a hack 译“一记巧招”，hack through the knot 译“一刀斩断这个结” |  | ch06 | 4 | 初定 |
@@ -178,5 +200,5 @@
 | Lafley/Martin’s strategy book | 雷富礼和马丁讲战略的书 | 原文没写书名，指《宝洁制胜战略》（*Playing to Win*）；正文照原文不补书名，需要时加译者注 |
 | momtestbook.com / thestartuptoolkit.com / foundercentric.com / heisenbergmedia.com | 照写 | 2013 年的网址，链接地址不动 |
 | London / Tokyo / UK / Costa Rica / Kiev | 伦敦 / 东京 / 英国 / 哥斯达黎加 / 基辅 |  |
-| Africa / the Indian rice belt / America | 非洲 / 印度的水稻产区 / 美国 |  |
+| Africa / the Indian rice belt / America | 非洲 / 印度的水稻产区 / 美国 | the Indian rice belt 作定语时可省掉“的”，第 7 章写“印度水稻产区的一个村子” |
 | Christmas / the Sunday paper | 圣诞节 / 周日的报纸 |  |

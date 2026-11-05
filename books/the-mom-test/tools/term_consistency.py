@@ -30,7 +30,7 @@ TERMS = [
     ("false positive", r"\bfalse positives?\b", False, ["假阳性"]),
     ("false negative", r"\bfalse negatives?\b", False, ["假阴性"]),
     ("deflect", r"\bdeflect", False, ["挡开"]),
-    ("anchor", r"\banchor", False, ["锚定", "锚点"]),
+    ("anchor", r"\banchor", False, ["锚定", "锚点", "抓住"]),
     ("feature request", r"\bfeature requests?\b", False, ["功能需求"]),
     ("feature creep", r"\bfeature[- ]creep\b", False, ["功能蔓延"]),
     ("The Pathos Problem", r"\bPathos Problem\b", True, ["悲情问题"]),
@@ -40,7 +40,7 @@ TERMS = [
     ("elephant", r"\belephant\b", False, ["房间里的大象", "大象"]),
     ("product risk", r"\bproduct risks?\b", False, ["产品风险"]),
     ("market risk", r"\bmarket risks?\b", False, ["市场风险"]),
-    ("must-solve", r"\bmust-solve\b", False, ["非解决不可"]),
+    ("must-solve", r"\bmust-solve\b", False, ["非解决不可", "必须马上解决"]),
     ("Keeping it casual", r"\bkeep(?:ing|s)? it casual\b", False, ["轻松随意"]),
     ("anti-pattern", r"\banti-pattern\b", False, ["反模式"]),
     ("commitment", r"\bcommitments?\b", False, ["承诺"]),
@@ -65,6 +65,11 @@ TERMS = [
     ("opportunity cost", r"\bopportunity cost\b", False, ["机会成本"]),
     ("job-to-be-done", r"\bjob-to-be-done\b", False, ["待完成的任务"]),
     ("Rule of thumb", r"\bRule of thumb\b", False, ["经验法则"]),
+    # added after translating, from the editors' suggestions
+    ("rewarding", r"\brewarding\b", False, ["有成就感"]),
+    ("best guess", r"\bbest[- ]guess", False, ["最佳猜测"]),
+    ("exact / key quotes", r"\b(?:exact|key)(?: customer)? quotes?\b", False, ["原话"]),
+    ("Don't call me, I'll call you", r"\bDon[’']t call me\b", False, ["别给我打电话，我会打给你"]),
 ]
 
 
