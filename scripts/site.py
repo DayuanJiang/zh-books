@@ -88,6 +88,9 @@ def check(key):
         for command in config.get("checks", []) + config.get("build", []):
             run(command, cwd=folder, env=custom_env(key))
         return
+    if not publishable(config, True):
+        print(f"{key}: nothing translated yet, skipping the build check")
+        return
     # A book with no finished chapter yet is checked as a draft build, the same way the site skips it.
     drafts = [] if publishable(config, False) else ["--drafts"]
     if drafts:
