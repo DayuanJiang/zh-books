@@ -6,11 +6,11 @@
 
 ## 体例
 
-- **人名**：用 [review/terms/people-zh.tsv](review/terms/people-zh.tsv) 的译名。每章第一次出现时在中文名后括注英文原名，例如“罗伯特·姆努金（Robert Mnookin）”，之后只写中文。只有名的人（Anna、Benjie、Julie）也照此括注。名人也照常括注。作者自己写“克里斯·沃斯”，不括注。
+- **人名**：用 [review/terms/people-zh.tsv](review/terms/people-zh.tsv) 的译名。每章第一次出现时在中文名后括注英文原名，例如“罗伯特·姆努金（Robert Mnookin）”，之后只写中文。只有名的人（Anna、Benjie、Julie）也照此括注。名人也照常括注；孙子这样的中国古人和耶稣基督这样的宗教人物不括注（见“全书统一的写法（译完后定）”）。作者自己写“克里斯·沃斯”，不括注。
 - **机构、产品、地名**：见下面“机构、产品与地名”。没有通行中文名的公司和产品照写原名，和汉字之间加空格。
 - **书名、报刊、电影、报告**：正文里用《》，每章第一次出现时括注原题，原题用斜体，例如《谈判力》（*Getting to Yes*）；报告、文章的原题保留引号，不用斜体。《纽约时报》《华盛顿邮报》、CNN 这些常见媒体不括注。书名和影片的译法见“书名与影片”。
-- **数字**：一到十，以及带“几、十几、数百、上千”的约数，用汉字（三个小时、十几年）；11 以上的确数用阿拉伯数字（144 名学生、27 楼）；年份、日期、钟点、金额、百分比一律用阿拉伯数字（1993 年 9 月 30 日、上午 8 点半、65%）。数字和汉字之间加空格。
-- **金额**：整数的大额换算成万、亿：$150,000 写“15 万美元”，$10 million 写“1000 万美元”，$100 billion 写“1000 亿美元”。带零头的精确数照写阿拉伯数字，不换算，千位不加逗号，以免丢掉作者强调的“零头”效果：$4,751 写“4751 美元”，$37,263 写“37263 美元”，€15,321.37 写“15321.37 欧元”。$1.99 和 $2.00 照写“1.99 美元”“2.00 美元”。
+- **数字**：一到十，以及带“几、十几、数百、上千”的约数，用汉字（三个小时、十几年）；11 以上的确数用阿拉伯数字（144 名学生、27 楼）；年份、日期、钟点、金额、百分比一律用阿拉伯数字（1993 年 9 月 30 日、上午 8 点半、65%），表示“完全”的口语说法“百分之百”除外。数字和汉字之间加空格。补充规定见“全书统一的写法（译完后定）”。
+- **金额**：整数的大额换算成万、亿：$150,000 写“15 万美元”，$10 million 写“1000 万美元”，$100 billion 写“1000 亿美元”。带零头的精确数（1 万以上、个位或十位不是 0 的数）照写阿拉伯数字，不换算，千位不加逗号，以免丢掉作者强调的“零头”效果：$4,751 写“4751 美元”，$37,263 写“37263 美元”，€15,321.37 写“15321.37 欧元”。$1.99 和 $2.00 照写“1.99 美元”“2.00 美元”。
 - **单位**：英制单位照原文，必要时括注公制，例如“6 英尺 2 英寸、250 磅（约 1.88 米、113 公斤）”“华氏 70 度（约 21 摄氏度）”。
 - **对话、脚本和粗话**：人质谈判的对话、电话和邮件按原文的语气译，口语就译成口语；Holy shit、asshole、bullshit 这类粗话保留力度。第 4 章的筹款电话脚本保留“筹款人：”“史密斯先生：”这样的说话人标记。
 - **回译**：原文用英语转述的中文典故，回到中文原文：Sun Tzu 的 the supreme art of war: to subdue the enemy without fighting 写“不战而屈人之兵，善之善者也”；第 5 章的 Sleeping in the same bed and dreaming different dreams 写“同床异梦”。
@@ -39,16 +39,53 @@
 
 ## 全书统一的写法
 
-下面几条是译前定的，各章译完后由编辑补充。
+下面几条是译前定的。各章译完后补充的写法，见下一节“全书统一的写法（译完后定）”。
 
 - **人名的简称**：一个人在章内第二次出现时，原文只写名的写名，只写姓的写姓，例如 Amy 写“埃米”，Mnookin 写“姆努金”。和作者同名的克里斯·沃茨，第二次出现以后写“沃茨”；只写 Chris 的地方（第 2 章博比说的 Where’s Chris?）写“克里斯”，读者能从上下文分清。第 8 章的 Jesus（赫苏斯·布埃诺）不要写成“耶稣”。
 - **头衔**：lead international kidnapping negotiator 写“首席国际绑架案谈判专家”；Supervisory Special Agent 写“监督特工”；FBI director 写“联邦调查局局长”；FBI agent 写“FBI 特工”，agents 写“特工”；deputy attorney general 写“司法部副部长”；secretary of state 写“国务卿”；lieutenant（纽约警察局）写“副队长”。
 - **代词**：作者泛指谈判者时 he、she、they 交替使用，中文写“对方”“谈判者”或“他”，不刻意跟着原文换性别。
-- **章号**：原文的 Chapter 9 写“第 9 章”。第 1 章 The Book 一节说第 4 章讲“没错”和总结、第 5 章讲“不”，实际正好相反；第 3 章说身体语言“在第 9 章细讲”，实际在第 8 章；第 8 章 As we discussed in Chapter 5，三种“是”其实在第 4 章；第 9 章 the FM DJ Voice I talked about in Chapter 3，这种语调其实在第 2 章。这些地方正文照原文译，在后面加译者注说明实际的章号。
+- **章号**：原文的 Chapter 9 写“第 9 章”。第 1 章 The Book 一节说第 4 章讲“没错”和总结、第 5 章讲“不”，实际正好相反；第 3 章说身体语言“在第 9 章细讲”，实际在第 8 章；第 8 章 As we discussed in Chapter 5，三种“是”其实在第 4 章；第 9 章 the FM DJ Voice I talked about in Chapter 3：这种语调的特点在第 2 章讲解，第 3 章开头哈莱姆那起案子里作者用过这种语调，但没有讲它的特点（第 9 章 `[^t1]` 照这个意思写）。这些地方正文照原文译，在后面加译者注说明实际的章号。
 - **原文前后不一的清单**：第 2 章说 It’s just four simple steps，列了五步；第 9 章说阿克曼模型 has only four steps，列了六步。照原文译，加译者注说明。
 - **其他原文疑点**（记在 [review/source.md](review/source.md)）：第 9 章的 complementary PDF 按 complimentary 的意思写“免费的 PDF”；第 4 章脚本少了句号、少了 to 的地方，中文照通顺的句子写，不加注。
 - **“是”“不”“没错”**：作者把 “Yes”“No”“That’s right” 当作概念讨论的地方，中文加引号写“是”“不”“没错”；“没错”只用来译 That’s right，别处的 right、exactly、sure 写“对”“确实”“当然”，以免读者把普通的附和当成作者说的那两个字。
 - **网址**：http://info.blackswanltd.com/3-types 照写。
+
+## 全书统一的写法（译完后定）
+
+各章译完后，编辑提出了一些各章写法不一、或者体例没有说清的地方，统一如下。块号按 `tools/term_consistency.py` 的编号；写着“已改”的地方，zh-cn 里已经改好。
+
+- **小节标题**：各章 zh-cn 里现在的小节标题全部确认，照现在的写法定稿，例如第 2 章“让精神分裂的人平静下来”“慢。下。来。”“声音”，第 3 章“在订满的航班上拿到座位，再顺便升个舱”，第 7 章“怎样*拿不到*钱”。The 7-38-55 Percent Rule 照术语表写“7-38-55 法则”，Percent 不译。
+- **数字**：
+  - 原文的 decades 不带约数词时写阿拉伯数字（two decades 写“20 年”）；带 more than 的写“二十多年”“三十多年”；泛指的 decades 写“几十年”；a decade of 写“十年来”。
+  - 第 5 章萨巴亚说的 five hundred years（第 28、31、48 块）按确数写“500 年”，三处一致，不改成“五百年”。
+  - 100 percent 表示“完全”的口语说法，写“百分之百”（with us 100 percent 写“百分之百站在我们这边”）；概率、比例和出价里的百分比照写“100%”（第 1 章第 103 块，第 6 章第 111 块，第 9 章的 65%、85%、95%、100%，第 10 章第 219、220 块的入住率）。要改的三处：第 6 章第 54 块“100% 不理性”，第 8 章第 27 块“100% 站在我们这边”，第 8 章第 82 块“100% 支持”。
+  - 折扣照写百分比：ten percent 写“便宜 10%”，不换成“打九折”（第 8 章第 162 块）。
+- **金额**：1 万以上的数，只要个位和十位都是 0，就照“整数的大额”换算成万：$134.5k 写“13.45 万美元”，$143k 写“14.3 万美元”，$127,000 写“12.7 万美元”，$32,500 写“3.25 万美元”。照写全部阿拉伯数字的，是作者当作“不整的数”来用的精确数，个位或十位不是 0：37263 美元、37893 美元、30812 欧元、28346 欧元、23567 欧元、15321.37 欧元。1 万以下的数照写阿拉伯数字（4751 美元、9499 美元、1829 美元）。要改的一处：第 8 章第 36 块“16500 美元”写成“1.65 万美元”。
+- **句式**：“与其说……不如说……”“并不在于……而在于……”和“不是……而是……”同属体例禁用的对比句式，改成直接的说法。第 3 章第 128 块、第 6 章第 95 块已经改过。还要改的四处：第 2 章第 35 块（这与其说是投降计划，不如说是逃跑计划）、第 8 章第 69 块（与其说是靠我们高明的策略，不如说是碰上了好运气）、第 10 章第 59 块（谈判与其说是跟对手比赛，不如说更像走钢丝）、第 10 章第 181 块（他最主要的利益，并不在于谈一笔用人质换钱的交易）。
+- **译者注和原文的史实错误**：保留现有四条纠正史实的译者注：第 1 章 `[^t1]`（阿蒂卡的死者）和 `[^t3]`（特沃斯基和卡尼曼的任职学校），第 7 章 `[^t2]`（萨巴亚死的时间），第 10 章 `[^t2]`（复活和升天相隔 40 天）。标准是：书中叙述的具体史实（人数、日期、任职的机构、宗教常识）明显写错，读者会信以为真的，加译者注。研究出处有出入（第 2 章怀斯曼的服务员实验）、前后说法小有出入（第 2 章的 car 和 van，第 5 章本吉是军官还是警官）、排印错误，照原文译，不加注，记在 [review/source.md](review/source.md)。俗语和典故的意思下文已经讲清的（第 8 章 W. C. 菲尔兹那句话，第 9 章的 Golden Rule），也不加注。
+- **人名**：
+  - 中国古人回到汉字，不括注英文拼法：Sun Tzu 写“孙子”。耶稣基督、上帝这类宗教人物也不括注。已改：第 3 章第 45 块，第 10 章第 116 块。
+  - 一个人在章内先只出现名、后面才出现全名时，名第一次出现时括注名，全名第一次出现时再括注全名，例如第 2 章第 117 块“多米尼克（Dominick）”、第 118 块“多米尼克·米西诺（Dominick Misino）”。同一个全名在章内再次出现时不再括注（第 10 章第 180 块的威廉·格里芬）。
+  - 第 4 章电话脚本里第一次出现的人名照常括注：“奥巴马（Obama）总统”“史密斯先生（Mr. Smith）”。
+  - Ben Ottenhoff 只写名时照人名表写“本”，句子要安排得不会读成“本来”的“本”，照第 4 章第 142、145 块现在的写法（“在我的课上，本读了……”“好在本这个人很聪明”“本的故事”）。
+- **头衔和称呼**：
+  - CEO 一律写“首席执行官”。已改：第 5 章第 116、117、120 块。
+  - politician、political figure 写“政界人物”；原文带贬义或语境明显负面时写“政客”（第 3 章第 42 块围攻希拉里的 pundits and politicians，第 7 章第 45、61、63 块的 crooked、sleazy politician）。
+  - 绑匪或对方指定的 negotiator 也写“谈判者”，政府任命的写“谈判代表”（第 7 章第 23 块的马来西亚参议员，第 6 章第 75 块的伊朗前核谈判代表）。已改：第 8 章第 29 块。
+- **aggressive 和 assertive**：assertive 写“强势”（强势型、直接强势的语调）；aggressive 按上下文写“咄咄逼人”“气势汹汹”“凶”“强硬”，不写“强势”，读者才分得清这两种特质。已改：第 7 章第 104 块。
+- **aloud**：label it aloud、speaking them aloud 写“说出来”“说出口”“开口”，不写“大声”。已改：第 1 章第 160 块。
+- **diffuse / defuse**：diffuse 写“化解”；两个词对照出现时（第 3 章第 75 块），diffuse 写“冲淡”，defuse 写“拆掉……的引信”。defuse 单独出现时写“化解”（第 1 章第 160 块）或“拆掉……的引信”（第 3 章第 136 块）都可以。
+- **强调**：原文用全大写强调的词，中文用粗体（第 3 章第 109 块“**您的**华盛顿红皮队”）。原文已经用文字说明是大字的（第 9 章 “YOU WIN” in big letters），照常写“你赢了”。
+- **其他说法**：
+  - moving beyond / go outside the negotiating table 写“走到谈判桌之外”“到谈判桌之外”，不用“走出谈判桌”；compare notes 写“交流一下各自听到了什么”（第 10 章）。
+  - country clearance 写“国别许可”，第一次出现时括注英文（第 3 章）。
+  - 成对出现的 presenting / underlying dynamic 写“外显的动因 / 潜在的动因”（第 3 章第 127 块）；单独出现的 underlying dynamic 按上下文写，例如第 7 章第 122 块“藏在背后的症结”。
+  - anticipatory labels 写“抢先一步的标注”（第 3 章）。
+  - well-being 和 safety、trust 并列时写“舒适感”，和“安全感”分开（第 3 章第 113、200 块）；人质的 well-being 写“安全”“平安无恙”。
+  - work-for-hire 写“雇佣作品”，第 2 章第 60 块括注原文并加译者注；作者的原话 We don’t do work-for-hire 写“我们不做雇佣作品”。
+  - 第 5 章：sting operation 写“诱捕行动”；Tagalog 写“他加禄语”；quarterback、lineman、linebacker 写“四分卫”“锋线球员”“线卫”；subtle epiphany 写“不易察觉的顿悟”；the world according to … 写“……眼中的世界”。
+  - 作者叫好时说的 Bang! 写“漂亮！”，别写成拟声词“砰”（第 4 章第 128 块）；Bingo! 按上下文写“成了！”“就是它！”“中了！”。
+  - 各章自己的写法选择（第 4 章“屁用没有”的力度、“听不到‘不’，就别往下谈”不押韵、“两个字母”的括注、“停顿”加引号，第 7 章第 15、107 块两个问句措辞略有不同，第 8 章第 70 块“人质生还情况询问”和第 107 块 When/What 的括注，第 10 章第 146 块 follow-ability 写“让人愿意追随你”），照各章现在的写法。
 
 ## 核心概念
 
@@ -56,7 +93,7 @@
 
 | 英文 | 首选译法 | 适用的意思 | 不要混同 | 首次出现 | 出现次数 | 状态 |
 | --- | --- | --- | --- | --- | --- | --- |
-| negotiation / negotiate / negotiator | 谈判 / 谈判 / 谈判者 | 书里的谈判泛指一方想从另一方得到东西的任何互动，日常对话也算；FBI 和警方的 negotiator 写“谈判专家” | 协商、交涉 | ch01 | 537 | 初定 |
+| negotiation / negotiate / negotiator | 谈判 / 谈判 / 谈判者 | 书里的谈判泛指一方想从另一方得到东西的任何互动，日常对话也算；FBI 和警方的 negotiator 写“谈判专家”；绑匪或对方指定的 negotiator 也写“谈判者”，政府任命的写“谈判代表” | 协商、交涉 | ch01 | 537 | 初定 |
 | counterpart | 对方 | 作者对谈判另一方的中性叫法；需要强调身份时写“谈判对方”；复数也写“对方” | 对手（adversary、opponent）、同行 | ch01 | 228 | 初定 |
 | the other side / the other party | 对方 / 另一方 | 和 counterpart 同指 |  | ch01 | 87 | 初定 |
 | adversary / opponent | 对手 | 带敌对意味；第 4 章吉姆·坎普用 adversary 指 counterpart（his word for counterpart），那里括注原文 | 对方（counterpart）、敌人（enemy） | ch01 | 22 | 初定 |
@@ -88,7 +125,7 @@
 | forced empathy | 强制共情 | 第 8 章：用“我该怎么做到呢？”或报出自己的名字，让对方不得不从你的角度看问题 |  | ch08 | 2 | 初定 |
 | emotional intelligence | 情商 | emotional intelligence on steroids 写“加强版的情商” | 情绪智力（学术译法，书里不用） | ch01 | 6 | 初定 |
 | active listening | 积极倾听 | 心理咨询的通用译法；行为改变阶梯模型的第一阶段 | 主动聆听 | ch01 | 6 | 初定 |
-| Behavioral Change Stairway Model (BCSM) | 行为改变阶梯模型（BCSM） | FBI 危机谈判小组的模型，五个阶段：积极倾听、共情、融洽关系、影响、行为改变 |  | ch05 | 4 | 初定 |
+| Behavioral Change Stairway Model (BCSM) | 行为改变阶梯模型（BCSM） | FBI 危机谈判小组的模型，五个阶段：积极倾听、共情、融洽关系、影响、行为改变；原文只写 the Behavioral Change Stairway、没有 Model 时，写“行为改变阶梯”（第 5 章第 12 块） |  | ch05 | 4 | 初定 |
 | rapport | 融洽关系 | establish rapport 写“建立融洽关系”；口语处可写“关系拉近了” | 信任（trust） | ch01 | 20 | 初定 |
 | unconditional positive regard | 无条件积极关注 | 卡尔·罗杰斯的概念，心理咨询的通用译法 |  | ch01 | 4 | 初定 |
 | Late-Night FM DJ Voice | 深夜电台 DJ 的语调 | 低沉、柔和、缓慢、语调下沉的说话方式；DJ voice 简写“DJ 语调” | 深夜电台主持人的声音（中文版的译法） | ch01 | 14 | 初定 |
@@ -96,12 +133,12 @@
 | downward / upward inflection | 语调下沉 / 语调上扬 | downward-inflecting statement 写“语调下沉的陈述句” |  | ch02 | 10 | 初定 |
 | mirroring / mirror | 镜像模仿 / 镜像 | 重复对方刚说的最后三个词（或最关键的一到三个词）；名词 a mirror 写“镜像”，动词 mirror 写“用镜像回应” | 照镜子；重复对方的话（中文版的译法） | ch01 | 53 | 初定 |
 | isopraxism | 同步行为（isopraxism） | 镜像模仿的学名，第一次出现时括注 |  | ch02 | 1 | 初定 |
-| labeling / label | 标注 | 给对方的情绪起个名字并说出来；名词 a label 写“一句标注”；mislabel 写“故意标错”；第 3 章标题的 Label It 写“把它标注出来” | 贴标签（中文含贬义）、标签化 | ch01 | 97 | 初定 |
-| It seems like … / It sounds like … / It looks like … | 似乎…… / 听起来…… / 看起来…… | 标注的三种固定开头，全书统一 | 我听到……（I’m hearing that，作者说不要用） | ch01 | 40 | 初定 |
+| labeling / label | 标注 | 给对方的情绪起个名字并说出来；名词 a label 写“一句标注”；mislabel 写“故意标错”；第 3 章标题的 Label It 写“把它标注出来”；anticipatory labels 写“抢先一步的标注”。第 10 章第 153 块 we label it in ways that allow us to dismiss it 是日常的贬义用法，写“贴个标签”“这个标签” | 贴标签（中文含贬义）、标签化；这一栏只针对作者讲的标注技巧 | ch01 | 97 | 初定 |
+| It seems like … / It sounds like … / It looks like … | 似乎…… / 听起来…… / 看起来…… | 标注的三种固定开头，全书统一；人物在普通对话里用 It seems like 标注时也写“似乎”，位置可以挪到句中，更像口语（第 1 章第 63 块、第 3 章第 175 块）；It seems 用作普通说法、不起标注作用时（第 3 章第 35 块 It seems like wizardry），按意思写“看起来”“好像” | 我听到……（I’m hearing that，作者说不要用） | ch01 | 40 | 初定 |
 | accusation audit | 指责清单 | 把对方可能说你的最坏的话列出来，抢在对方之前说出口；做这件事写“列一份指责清单” | 指控审查、控告审计 | ch01 | 10 | 初定 |
 | taking the sting out | 先拔刺 | 辩护律师在开场陈述里先把当事人的弱点都说出来 |  | ch03 | 1 | 初定 |
-| presenting / underlying (behavior, emotion) | 外显的 / 潜在的 | 第 3 章：看得见的行为和驱动它的情绪；presenting behavior 写“外显行为”，underlying emotion 写“潜在情绪” |  | ch03 | 10 | 初定 |
-| dynamic | 局面 / 互动 / 心理作用（按上下文） | 书里很常见，指双方之间正在形成的局面，或互惠这类心理作用，没有固定译法；negative dynamics 写“负面的局面” | 动力、动力学 | ch01 | 39 | 初定 |
+| presenting / underlying (behavior, emotion) | 外显的 / 潜在的 | 第 3 章：看得见的行为和驱动它的情绪；presenting behavior 写“外显行为”，underlying emotion 写“潜在情绪”；成对的 presenting / underlying dynamic 写“外显的动因 / 潜在的动因” |  | ch03 | 10 | 初定 |
+| dynamic | 局面 / 互动 / 心理作用（按上下文） | 书里很常见，指双方之间正在形成的局面，或互惠这类心理作用，没有固定译法；negative dynamics 写“负面的局面”；第 8 章三次法则那句 whatever dynamic you’re trying to drill into，drill into 取 drill something into someone（反复灌输，让人记牢）的意思，写“反复强化的……心理作用” | 动力、动力学；drill into 不理解成“深入挖掘” | ch01 | 39 | 初定 |
 | neural resonance | 神经共振 |  |  | ch03 | 3 | 初定 |
 | words, music, and dance | 言辞、音乐和舞蹈 | 指话语、语调和肢体语言 |  | ch03 | 1 | 初定 |
 | Effective Pauses / Minimal Encouragers | 有效停顿 / 简短鼓励语 | 第 5 章列出的积极倾听手段；鼓励语指“是”“好”“嗯”“我明白”这类短句 |  | ch05 | 2 | 初定 |
@@ -149,7 +186,7 @@
 | illusion of control | 掌控的错觉 | 让对方以为自己掌控着局面；第 7 章标题写“营造掌控的错觉” | 控制错觉（心理学术语） | ch01 | 14 | 初定 |
 | unbelief / suspend unbelief | 不信 / 放下不信 | 凯文·达顿的说法：对对方的话主动抵触、完全拒绝；暗用 suspend disbelief（姑且信之） | 怀疑（doubt） | ch07 | 8 | 初定 |
 | showdown | 对峙 |  |  | ch07 | 7 | 初定 |
-| hostage mentality | 人质心态 | 觉得自己失去控制时的防御或反击 |  | ch07 | 2 | 初定 |
+| hostage mentality | 人质心态 | 觉得局面不在自己掌控之中时的防御或反击（第 7 章第 133 块的写法），“失去控制”容易被读成情绪失控 |  | ch07 | 2 | 初定 |
 | fight-or-flight / reptilian brain / limbic system / neocortex | 战斗或逃跑 / 爬行动物脑 / 边缘系统 / 新皮层 |  |  | ch07 | 7 | 初定 |
 | reciprocity | 互惠 | norm of reciprocity 写“互惠规范” |  | ch02 | 13 | 初定 |
 | behind the table / Level II players | 桌子后面的人 / 第二层级的参与者 | 不在谈判桌上，却能促成或阻挠执行的人 |  | ch07 | 7 | 初定 |
@@ -202,7 +239,7 @@
 
 | 英文 | 首选译法 | 适用的意思 | 不要混同 | 首次出现 | 出现次数 | 状态 |
 | --- | --- | --- | --- | --- | --- | --- |
-| negotiation style / Analyst / Accommodator / Assertive | 谈判风格 / 分析型 / 迁就型 / 强势型 | 第 9 章的三种类型；指人时写“分析型的人”“迁就型的人”“强势型的人”；小写的 assertive 写“强势” | 包容型、果断型 | ch04 | 43 | 初定 |
+| negotiation style / Analyst / Accommodator / Assertive | 谈判风格 / 分析型 / 迁就型 / 强势型 | 第 9 章的三种类型；指人时写“分析型的人”“迁就型的人”“强势型的人”；小写的 assertive 写“强势”；aggressive 按上下文写“咄咄逼人”“气势汹汹”“凶”“强硬”，不写“强势” | 包容型、果断型 | ch04 | 43 | 初定 |
 | “I am normal” paradox | “我很正常”悖论 |  |  | ch09 | 1 | 初定 |
 | Golden Rule / Black Swan rule | 黄金法则 / 黑天鹅法则 |  |  | ch09 | 2 | 初定 |
 | taking a punch / punching back | 挨一拳 / 回击 |  |  | ch09 | 14 | 初定 |
@@ -277,6 +314,7 @@
 | Supervisory Special Agent (SSA) | 监督特工（SSA） |  |
 | SWAT / NYPD / TARU | 特警队（SWAT）/ 纽约市警察局（NYPD）/ 技术支援响应组（TARU） |  |
 | CIA / State Department / U.S. Court of Appeals | 中央情报局 / 国务院 / 美国联邦上诉法院 |  |
+| OGA (Other Government Agency) | 其他政府机构（OGA） | 美国政府和军方内部对中央情报局的代称；第 7 章第 35 块的正文和译者注 `[^t1]` |
 | U.S. Park Police / 82nd Airborne | 美国公园警察 / 第 82 空降师 |  |
 | The Black Swan Group | 黑天鹅集团 | 作者的咨询公司 |
 | Harvard Law School / Harvard Business School | 哈佛法学院 / 哈佛商学院 |  |
@@ -288,6 +326,8 @@
 | Philippine National Police Special Action Force / Scout Rangers | 菲律宾国家警察特别行动部队 / 侦察游骑兵 |  |
 | Chase Manhattan Bank / Security Trust Company | 大通曼哈顿银行 / 安全信托公司 |  |
 | Girl Scouts | 女童子军 | Girl Scout cookies 写“女童子军饼干” |
+| St. Thomas More prep school | 圣托马斯·莫尔预科学校 | 第 5 章，在康涅狄格州；St. Thomas More School 写“圣托马斯·莫尔学校” |
+| 1993 World Trade Center bombing | 1993 年世贸中心爆炸案 | 第 5 章 |
 | Washington Redskins / New York Giants / FedEx Field | 华盛顿红皮队 / 纽约巨人队 / 联邦快递球场 |  |
 | Dallas Mavericks / Washington Wizards / Washington Capitals | 达拉斯独行侠队 / 华盛顿奇才队 / 华盛顿首都人队 | 独行侠队 2017 年以前中文多作“小牛队” |
 | NFL / NFL Players Association (NFLPA) / NBA | NFL / NFL 球员工会 / NBA |  |
