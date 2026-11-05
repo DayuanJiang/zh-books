@@ -56,6 +56,10 @@ jobs:
     needs: [framework, check]
     if: github.event_name != 'pull_request' && github.ref == 'refs/heads/main'
     runs-on: ubuntu-latest
+    # Pages takes one deployment at a time: later runs wait for the current one.
+    concurrency:
+      group: pages
+      cancel-in-progress: false
     permissions:
       pages: write
       id-token: write
