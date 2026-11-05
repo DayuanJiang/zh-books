@@ -17,18 +17,18 @@
   },
   "start": "introduction",
   "chapters": [
-    {"id": "dedication", "file": "06-dedication.md", "status": "todo"},
-    {"id": "introduction", "file": "08-introduction.md", "status": "draft"},
-    {"id": "ch01", "number": 1, "file": "09-1-the-problem-of-extreme.md", "status": "todo"},
-    {"id": "ch02", "number": 2, "file": "10-2-the-checklist.md", "status": "todo"},
-    {"id": "ch03", "number": 3, "file": "11-3-the-end-of-the-master-builder.md", "status": "todo"},
-    {"id": "ch04", "number": 4, "file": "12-4-the-idea.md", "status": "todo"},
-    {"id": "ch05", "number": 5, "file": "13-5-the-first-try.md", "status": "todo"},
-    {"id": "ch06", "number": 6, "file": "14-6-the-checklist-factory.md", "status": "todo"},
-    {"id": "ch07", "number": 7, "file": "15-7-the-test.md", "status": "todo"},
-    {"id": "ch08", "number": 8, "file": "16-8-the-hero-in-the-age-of.md", "status": "todo"},
-    {"id": "ch09", "number": 9, "file": "17-9-the-save.md", "status": "todo"},
-    {"id": "acknowledgments", "file": "19-acknowledgments.md", "status": "todo"},
-    {"id": "about-the-author", "file": "20-about-the-author.md", "status": "todo"}
+    {"id": "dedication", "file": "06-dedication.md", "status": "review"},
+    {"id": "introduction", "file": "08-introduction.md", "status": "review"},
+    {"id": "ch01", "number": 1, "file": "09-1-the-problem-of-extreme.md", "status": "review"},
+    {"id": "ch02", "number": 2, "file": "10-2-the-checklist.md", "status": "review"},
+    {"id": "ch03", "number": 3, "file": "11-3-the-end-of-the-master-builder.md", "status": "review"},
+    {"id": "ch04", "number": 4, "file": "12-4-the-idea.md", "status": "review"},
+    {"id": "ch05", "number": 5, "file": "13-5-the-first-try.md", "status": "review"},
+    {"id": "ch06", "number": 6, "file": "14-6-the-checklist-factory.md", "status": "review"},
+    {"id": "ch07", "number": 7, "file": "15-7-the-test.md", "status": "review"},
+    {"id": "ch08", "number": 8, "file": "16-8-the-hero-in-the-age-of.md", "status": "review"},
+    {"id": "ch09", "number": 9, "file": "17-9-the-save.md", "status": "review"},
+    {"id": "acknowledgments", "file": "19-acknowledgments.md", "status": "review"},
+    {"id": "about-the-author", "file": "20-about-the-author.md", "status": "review"}
   ]
 }

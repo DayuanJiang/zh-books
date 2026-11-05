@@ -46,3 +46,37 @@
 | --- | --- | --- |
 | 第 17 块，注释 1 | EPUB 里 “his heart suddenly stopped.*” 只有星号，没有注释文字 | 已记在 `review/source.md`：注释文字按美国版第 4 页的脚注补回，英国版纸质书没有核对。中文按补回的文字翻译 |
 | 第 6 块 | His blood pressure was barely detectible | detectible 是 detectable 的异体拼写，不算错误，`en/` 照原文保留，意思照常翻译 |
+
+## 2. 双语审校
+
+- 执行者：另一个独立上下文的 agent（Opus 5.5），没有参与翻译。审校意见由编辑 agent（Opus 5.5）逐条对照英文和中文核实后处理。
+- 范围：全章 55 块（1 个标题、54 个段落）和 7 条注释、2 条译者注，对照原文逐块检查意义、数字、单位换算、人名、术语、注释格式和体例。
+- 发现：13 条；核实后采纳 13 条（其中 4 条按另拟的改法修改），不采纳 0 条。意义问题 5 条，表达问题 7 条，术语 1 条：
+  - 第 48 块 “the most common being simple administrative errors, like missed calendar dates and clerical screwups, as well as errors in applying the law”：适用法律时出的错和事务性差错是并列的两类，原译把它接在“比如”的例子后面，像是第三个例子。采纳，改为“是简单的事务性差错（比如错过日程上的期限、文书上出了岔子），以及适用法律时出的错”。
+  - 第 49 块 “we are happy to have people simply make their best effort”：原译“心满意足”说重了，“根本还不存在”的“根本”是原文没有的强调，定语也太长。采纳，另拟改法：“如果在某种情况下，还没有人知道怎样做最好，那么大家只要尽力而为，我们也就满意了。”审校者建议的“我们就能接受”比 happy 弱，没有用。
+  - 第 7 块 “So now they *were* crashing into the operating room”：原译“真的要冲进手术室了”读起来像将要发生，和后面已经在做的动作对不上，也少了和第 5 块呼应的“火速”。采纳，改为“这下，他们*真的*火速冲进了手术室”。
+  - 第 13 块 “The other guy at the costume party”：原译“另一个人”看不出指的是和病人起冲突、捅了他的人。采纳，改为“化装派对上跟他起冲突的那个人扮的是一名士兵，还带着一把刺刀”。
+  - 第 42 块 “we had little idea of how to treat it”：原译“不太知道”说轻了，和上一段同样的 had little idea（“几乎一无所知”）不一致。采纳，改为“一旦有人心脏病发作，我们也几乎不知道该怎么治”。
+  - 第 52、53 块 “best-trained surgeons”“most highly trained”：“训练最有素”拆开了固定说法“训练有素”。采纳，另拟改法：两处都写“训练最扎实”，第 53 块和后面的“技术最高超、工作最勤奋”句式一致；审校者为第 53 块建议的“受过最严格训练”没有用。
+  - 第 52 块 “Far from it.”：原译“差得远呢”容易读成个人能力还差得远，意思正好相反。采纳，并入前句写“个人能力都远远算不上我们的主要困难”。
+  - 第 49 块 “gave these failures so unmerciful a name”：原译“一个这样不留情面的名字”语序别扭。采纳问题，另拟改法：只改成“这样一个不留情面的名字”，名字“无能”仍放在句子后面，保留原文用破折号把这个词放在句末的效果。
+  - 第 23 块 “But John had the patient’s abdomen completely open … and he told the anesthesiologist so”：原译“被约翰完全打开”是翻译腔的被字句，“他也这样告诉了”的“也”没有对应。采纳，改为“可约翰已经把病人的腹腔完全打开了，里面没有出血，他把这一点告诉了麻醉科医生”。
+  - 第 53 块 “not to mention demoralizing and frustrating”：原译缺主语。采纳，改为“更不用说它们有多让人泄气、多让人沮丧了”。
+  - 第 37 块 “is—and will remain—outside our understanding and control”：“现在在”两个“在”相连。采纳，改为“现在超出我们的理解和掌控，将来也仍会如此”。
+  - 第 47 块 “our greatest difficulties and stresses in medicine … the enormous strains”：“我们在医学上”按术语表补成“我们医生”；stresses 和 strains 原来都译“压力”，后一处改为“沉重负担”，也和第 53 块的“知识……也成了我们的重负”相应。采纳。
+  - 第 27 块 “heard good air movement on both sides of the chest”：“两侧胸腔的呼吸音都很好”不像临床说法。采纳，另拟改法：写“两侧呼吸音都很清晰”。审校者建议的“清楚”偏口语，排除气胸要看两侧都听得到呼吸音，“清晰”更贴近。
+- 审校者的总体判断：译文整体质量很高，可以作为全书的样章。`site.py status` 显示 55/55 块、7/7 条注释，标题和术语表一致；事实、数字和单位换算都核对无误（200 磅约 90 公斤、两英寸约 5 厘米、一英尺约 30 厘米、100 倍、90 分钟、30%、45%、60%、36%、2004 年到 2007 年）；人名首次出现都括注了英文，写法和 `people-zh.tsv` 一致；术语按术语表处理；7 条注释的标记位置、引语和英文出处都没有问题；两条译者注准确、必要；正文没有破折号和禁用句式。发现的意义问题都是细节，其余是可以更顺的表达，都只需局部修改。译者列为待定的“该死”“那就是清单”“碘伏”三处，审校者认为可以保留。
+
+## 3. 中文通读
+
+- 执行者：编辑 agent（Opus 5.5）。
+- 范围：采纳审校意见后，顺着中文从标题读到第 55 块和全部注释，检查连贯、重复、指代和全章的人名、术语是否一致。
+- 发现并修改（每处都回查了英文）：
+  - 第 52 块 “The capability of individuals is not proving to be our primary difficulty”：句首的“事实证明”和第 46 块 “is proving brutally hard” 的“事实证明”只隔几段，读着重复。第 52 块改为“现在看来”，is proving 表示从经验中显出来的情况，意思不变。
+  - 第 40 块 “We knew little about what caused them or what could be done to remedy them”：原译“知之甚少，也不太知道……”把同一个 knew little 说成一重一轻，和第 42 块的改动是同一个问题。改为“疾病是什么引起的，能做些什么来医治，我们都知之甚少”。
+- 检查过、没有改的地方：约翰、戈罗维茨、麦金太尔首次出现括注英文，之后只写中文；asystole 写“心脏停搏”，cardiac arrest 写“心搏骤停”，和英文的区分一致；第 3 块“创伤急救团队”和第 6 块“创伤团队”指同一个团队，第二次用简称，读者不会误会；第 48 块三次“看到这一点”照原文 You see it 的排比保留。
+- 检查：`site.py status` 仍显示 55/55、7/7；正文没有破折号，也没有“不是……而是……”句式；`tools/term_consistency.py` 没有发现不符合约定译法的块。第 1 节“照体例处理的地方”引的“这下，他们*真的*要冲进手术室了”已按第 2 节的审校意见改为“这下，他们*真的*火速冲进了手术室”。
+
+## 状态
+
+没有未解决的意义问题。第 1 节列出的待定处理（“该死”“那就是清单”“碘伏”、eptitude 和 Code Blue 的译者注、两条术语表建议）属于风格和全书体例的选择，留给用户确认样章时决定；阅读器校样（第 4 节）还没有做。
