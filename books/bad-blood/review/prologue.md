@@ -74,3 +74,17 @@
 - 没有未解决的意义问题。
 - 等用户决定的写法问题：“*one hundred and sixty-five million dollars*”要不要改成“*一亿六千五百万美元*”。译者和审校者都倾向维持术语表的“*1.65 亿美元*”，正文目前按术语表写。
 - 第 4 节阅读器校样还没有做；发布前要运行 `python3 scripts/site.py fonts bad-blood`。
+
+## 第三轮：GPT-6 Astra 独立审校
+
+- 审校者：GPT-6 Astra，通过 Codex 运行，只读，和译者属于不同的模型家族。
+- 发现：4 条。逐条找到中英文对应的句子，读过上下文后核实：成立并修改 4 条，不成立 0 条。
+- 成立并修改：
+  - “The three-year-old startup had progressed from an ambitious idea Holmes had dreamed up in her Stanford dorm room to an actual product a huge multinational corporation was interested in using.” 原译“这家创业公司成立才三年，起初只是霍姆斯在斯坦福大学宿舍里想出来的一个雄心勃勃的设想，如今已经成了一件真正的产品，有一家庞大的跨国公司想要采用”，主语是公司，读下来成了“公司成了一件产品”。审校者建议“已把……设想变成了真正的产品”，同时换掉了“雄心勃勃”“庞大”，还加了“而且”。编辑改了两个动词，让公司从头到尾都是主语，“起初……如今”仍然对应 progressed from … to：“这家创业公司成立才三年，起初只有霍姆斯在斯坦福大学宿舍里想出来的一个雄心勃勃的设想，如今已经做出了一件真正的产品，有一家庞大的跨国公司想要采用。”
+  - “She might be young, but she was surrounded by an all-star cast.” 原译“她也许年轻，身边却是一支全明星阵容”。这里的 might 表示让步，“也许”读起来像是拿不准她的年龄；术语表“句式”一条也规定这种句式写“虽说……，却……”或“虽然……，但……”。改为“她虽说年轻，身边却是一支全明星阵容。”审校者建议的“虽然……，却……”换成了术语表的写法。
+  - “he figured they were in the realm of the plausible if the company executed perfectly” 原译“他觉得，只要公司执行得完美无缺，这些数字也还说得过去”，“执行”后面缺了宾语，照搬了英文 execute 的不及物用法。审校者建议“只要公司把各项计划执行得尽善尽美，这些预测仍有可能实现”，后半句也一起改了；原译的“说得过去”已经表达了 plausible，编辑保留后半句，补上宾语：“他觉得，只要公司把计划执行得完美无缺，这些数字也还说得过去。”
+  - “That was certainly what the investors he brought by were led to believe.” 原译“他带来参观的投资人，当然也被引导着这么相信”，“被引导着这么相信”照搬了英文的被动结构。led to believe 在这里指投资人被演示误导了。审校者建议“他带来参观的投资人无疑也受了误导，以为结果是实时测出来的”，后半句把上一句的内容重说了一遍，编辑改为“他带来参观的投资人无疑也受了误导，都是这么以为的。”
+- 不成立，保留原译：无。
+- 按全书统一的写法修改：1 处。注释 2 的粗体引子原来是“他以专家证人的身份作证”，和正文对不上：正文是“他以专家证人的身份就香烟的成瘾性作证”，引子删掉了中间的“就香烟的成瘾性”。按“脚注的粗体引子照录中文正文”一条，引子改为正文原句“他以专家证人的身份就香烟的成瘾性作证”。“表示让步的 might be X, but Y”一条落在发现 2 那一句上，已经算在上面。其余各条都对照过，本章已经符合：9 个人名第一次出现时都括注了原文在那个位置的写法（都是全名），注释里的人名照写英文（Tim Kemp），注释 1 的 PST 写“太平洋时间”，注释里的邮件主题照写英文，the drug’s maker 写“制药公司”，chief financial officer、senior vice president 按头衔一条写“首席财务官”“高级副总裁”，数字一到十用汉字、11 以上的确数用阿拉伯数字。
+- 对英文原文的疑问：无。
+- 核实与修改：agent（Opus 5.5）。改完后运行 `python3 scripts/site.py status bad-blood`，序章显示 37/37 块、4/4 条注释；`tools/term_consistency.py` 在本章没有报出缺少约定译法的块；全章中文没有破折号，也没有体例禁用的对比句式。

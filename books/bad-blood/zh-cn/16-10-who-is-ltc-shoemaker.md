@@ -20,7 +20,7 @@
 
 在陆军的 18 年职业生涯中，舒梅克遇到过不少人，他们似乎认为，民间适用的法规管不到军方，军方想怎么搞医学研究就怎么搞。事实根本不是这样，不过这并不等于说过去从没出过这种事。二战期间，五角大楼在美国士兵身上试验过芥子气；20 世纪 60 年代，又在囚犯身上试验过橙剂。但军方不受监督、随心所欲地搞医学实验的日子，早就一去不复返了。
 
-比如，20 世纪 90 年代的塞尔维亚冲突期间，五角大楼特意先征得 FDA 的同意，才向部署在巴尔干的部队提供一种预防蜱传脑炎的实验性疫苗。而且，只有自愿接种的士兵才打了这种疫苗。同样，2003 年，陆军和 FDA 密切合作，让驻伊拉克的士兵可以用上一种预防肉毒毒素的研究性疫苗。当时，人们非常担心萨达姆·侯赛因（Saddam Hussein）囤积了这种致命的生物战剂，而这种很有前景的疫苗出自德特里克堡的研究人员之手，尚未获得 FDA 批准。
+比如，20 世纪 90 年代的塞尔维亚冲突期间，五角大楼特意先征得 FDA 的同意，才向部署在巴尔干的部队提供一种预防蜱传脑炎的实验性疫苗。而且，只有自愿接种的士兵才打了这种疫苗。同样，2003 年，陆军和 FDA 密切合作，让驻伊拉克的士兵可以用上一种预防肉毒毒素中毒的研究性疫苗。当时，人们非常担心萨达姆·侯赛因（Saddam Hussein）囤积了这种致命的生物战剂，而这种很有前景的疫苗出自德特里克堡的研究人员之手，尚未获得 FDA 批准。
 
 在这两个例子里，陆军都征询了机构审查委员会（IRB）的意见。这是军方内部的一个委员会，负责监督医学研究，确保研究安全、合乎伦理。如果 IRB 认定一项拟议中的研究没有重大风险，FDA 通常会允许它进行，前提是研究严格按照委员会审查并批准过的方案开展。
 
@@ -78,7 +78,7 @@ FDA 一直认为，监管实验室自建检测（简称 LDT）是它的职权。
 
 几个小时后，马蒂斯读到伊丽莎白的邮件，勃然大怒。他把邮件转给了埃林·埃德加（Erin Edgar）上校[^12]。埃德加是中央司令部的军医主任，也是马蒂斯指派负责促成 Theranos 实地测试的副官。马蒂斯附上的一段话，透着他的怒气：
 
-> 埃林：舒梅克中校是谁？这到底是怎么回事？……我一直在想办法尽快让这台设备在战区接受测试，合法，也合乎伦理。我需要知道，这次来访是不是真像下面说的那样，我们又该怎么克服这个新障碍……说到底，下面这些说法准不准确，我需要掌握实打实的情况。如果我得见舒梅克中校和曼中校（LTC Mann），好让他们解释我怎么就在推动不道德或违法的事情了，请安排个时间，等我回美国[原文如此][^t1]后，让他们到坦帕来见我（我在战区要待得比原定的返回日期更久）。谢谢，M
+> 埃林：舒梅克中校是谁？这到底是怎么回事？……我一直在想办法尽快让这台设备在战区接受测试，合法，也合乎伦理。我需要知道，这次来访是不是真像下面说的那样，我们又该怎么克服这个新障碍……说到底，下面这些说法准不准确，我需要掌握实打实的情况。如果我得见舒梅克中校和曼中校（LTC Mann），好让他们解释我怎么就在推动不道德或违法的事情了，请安排个时间，等我回美国[原文如此][^t1]后，让他们到坦帕来见我（我还得在战区多待一阵，回国日期会比原定的晚）。谢谢，M
 
 CMS 检查员的这次突击来访，让伊丽莎白摆出了开战的架势。她给埃德加上校打电话，威胁要起诉舒梅克。埃德加把她的威胁转告了这位德特里克堡的同事，也告诉了他检查的消息。他还转发给舒梅克[^13]伊丽莎白写给马蒂斯的邮件，连同马蒂斯看后附上的那段话。
 
@@ -100,14 +100,14 @@ CMS 检查员的这次突击来访，让伊丽莎白摆出了开战的架势。�
 
 然而，在接下来的几个月里，Theranos 莫名其妙地没有利用送到手边的这个机会。2013 年 3 月马蒂斯将军从军中退役时，用去除了身份信息的剩余样本做的那项研究还没开始。几个月后，埃德加上校调任美国陆军传染病医学研究所所长，研究依然没有启动。Theranos 似乎就是没法把事情理顺。
 
-2013 年 7 月，舒梅克中校从陆军退役。在他的欢送仪式上，德特里克堡的同事们送给他一张“幸存证书”，表彰他有勇气当面和马蒂斯据理力争，还活着回来了。他们还送了他一件 T 恤，正面写着一个问题：“给四星上将做完汇报还活着，接下来干什么？”答案印在背面：“退休，扬帆驶向夕阳。”
+2013 年 7 月，舒梅克中校从陆军退役。在他的欢送仪式上，德特里克堡的同事们送给他一张“幸存证书”，表彰他有勇气当面和马蒂斯据理力争，还活着回来了。他们还送了他一件 T 恤，正面写着一个问题：“给 4 星上将做完汇报还活着，接下来干什么？”答案印在背面：“退休，扬帆驶向夕阳。”
 
 [^1]: **在战场上使用 Theranos 设备：** Carolyn Y. Johnson, “Trump’s Pick for Defense Secretary Went to the Mat for the Troubled Blood-Testing Company Theranos,” *Washington Post,* December 1, 2016.
 [^2]: **经上司同意：** David Shoemaker 于 2012 年 6 月 14 日东部时间上午 10:16 发给 Sally Hojvat 的邮件，主题为“Seeking regulatory advice regarding Theranos (UNCLASSIFIED)”。
 [^3]: **霍伊瓦特把他的询问转发给了：** Sally Hojvat 于 2012 年 6 月 15 日东部时间上午 11:43 发给 Elizabeth Mansfield、Katherine Serrano、Courtney Lias、Alberto Gutierrez、Don St. Pierre 和 David Shoemaker 的邮件，主题为“FW: Seeking regulatory advice regarding Theranos (UNCLASSIFIED)”。
 [^4]: **可实际上，它并没有这样做：** Office of Public Health Strategy and Analysis, Office of the Commissioner, Food and Drug Administration, “The Public Health Evidence for FDA Oversight of Laboratory Developed Tests: 20 Case Studies,” November 16, 2015.
 [^5]: **20 世纪 90 年代，情况变了：** Ibid.
-[^6]: **古铁雷斯把舒梅克的邮件转给了：** Alberto Gutierrez 于 2012 年 7 月 15 日东部时间下午 4:36 发给 Judith Yost、Penny Keller 和 Elizabeth Mansfield 的邮件，主题为“FW: Seeking regulatory advice regarding Theranos (UNCLASSIFIED)”。
+[^6]: **古铁雷斯把舒梅克的邮件转给了：** Alberto Gutierrez 于 2012 年 6 月 15 日（原文作 7 月）东部时间下午 4:36 发给 Judith Yost、Penny Keller 和 Elizabeth Mansfield 的邮件，主题为“FW: Seeking regulatory advice regarding Theranos (UNCLASSIFIED)”。
 [^7]: **约斯特和凯勒觉得，不妨：** Judith Yost 于 2012 年 6 月 18 日东部时间上午 11:46 发给 Penny Keller 和 Sarah Bennett 的邮件，主题为“RE: Seeking regulatory advice regarding Theranos (UNCLASSIFIED)”。
 [^8]: **这个差事落到了加里·山本头上：** Penny Keller 于 2012 年 6 月 18 日东部时间下午 5:48 发给 Gary Yamamoto 的邮件，主题为“FW: Seeking regulatory advice regarding Theranos (UNCLASSIFIED)”。
 [^9]: **两个月后，2012 年 8 月 13 日：** Gary Yamamoto 于 2012 年 8 月 15 日东部时间下午 2:03 发给 Penny Keller 和 Karen Fuller 的邮件，主题为“RE: Theranos update?”。
