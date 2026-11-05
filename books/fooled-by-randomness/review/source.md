@@ -85,3 +85,5 @@ uv run --project framework/tools python -I books/fooled-by-randomness/tools/chec
 - **empiri-cism**：第 7 章脚注里的 your “empiri-cism” 也可能是作者有意用连字符拆开这个词，强调“经验”的本义；现在按换行连字符处理，连成 empiricism，翻译时可以再斟酌。
 - **漏掉的空格**：这些错误无法判断是出版社的电子书本来就有，还是转换造成的。补上空格不改变意思，所以都补上了。
 - **参考文献的格式**：作者、年份、页码之间常缺空格，书名的斜体范围也不完全统一，照原样保留。
+
+- 书末注释“阿拉伯的怀疑论者”一条的 al-Ghazl 是乱码，和参考文献一样改成 al-Ghazālī（翻译完成后补改）。

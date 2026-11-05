@@ -270,7 +270,7 @@ While the two problems are identical (it is clear that you need to check only th
 
 ## Chapter 13
 
-**Arabic skeptics:** al-Ghazl (1989).
+**Arabic skeptics:** al-Ghazālī (1989).
 
 **Rozan’s book:** Rozan (1999).
 
