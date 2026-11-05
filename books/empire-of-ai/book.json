@@ -21,7 +21,7 @@
     {"id": "dedication", "file": "03-dedication.md", "status": "todo"},
     {"id": "epigraph", "file": "04-epigraph.md", "status": "todo"},
     {"id": "authors-note", "file": "05-author-s-note.md", "status": "todo"},
-    {"id": "prologue", "file": "06-prologue-a-run-for-the-throne.md", "status": "todo"},
+    {"id": "prologue", "file": "06-prologue-a-run-for-the-throne.md", "status": "draft"},
     {"id": "ch01", "number": 1, "file": "08-chapter-1-divine-right.md", "status": "todo"},
     {"id": "ch02", "number": 2, "file": "09-chapter-2-a-civilizing-mission.md", "status": "todo"},
     {"id": "ch03", "number": 3, "file": "10-chapter-3-nerve-center.md", "status": "todo"},
