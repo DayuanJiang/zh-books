@@ -72,6 +72,8 @@ def main(epub_path):
     total_src = total_en = 0
     print(f"{'section':18} {'EPUB':>6} {'en/':>6} {'diff':>5}  paragraphs  breaks  footnotes")
     for entry in config["chapters"]:
+        if entry["id"] not in FILES:
+            continue  # the appendix comes from the US edition (apply_us_edition.py)
         text = (BOOK / "en" / entry["file"]).read_text()
         footnotes += [(entry["id"], body) for _, body in FOOTNOTE.findall(text)]
         src_pars, src_it, src_breaks = source_page(epub, FILES[entry["id"]])
@@ -123,8 +125,8 @@ def main(epub_path):
         problems += 1
         print(f"  footnotes have {footnote_words} words; page numbers, repairs and the restored note explain {expected}")
     problems += missing + (extra != [STAR[2]])
-    leftovers = [entry["file"] for entry in config["chapters"]
-                 if re.search(r"ZZNOTE|xhtml|\\\*|\*\*", (BOOK / "en" / entry["file"]).read_text())]
+    leftovers = [entry["file"] for entry in config["chapters"] if entry["id"] in FILES
+                 and re.search(r"ZZNOTE|xhtml|\\\*|\*\*", (BOOK / "en" / entry["file"]).read_text())]
     if leftovers:
         problems += 1
         print(f"  markers, EPUB links or bold left in {leftovers}")

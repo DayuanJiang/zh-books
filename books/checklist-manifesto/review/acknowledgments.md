@@ -89,3 +89,19 @@
   - 留给主会话决定的事项：前两轮留下的两项（Sudhir Joseph 的拼写、达尔齐勋爵是否写全名）都由“人名补充”一条定下，已在第 1 节“未决”、“原文疑点”表、第 2 节和“状态”一节标为已定。
 - 对英文原文的疑问：审校者指出第 8 块的 “Sidhir Joseph” 是拼写错误，应为 Sudhir Joseph。核实属实，第 1 节后面的“原文疑点”表已经记下，术语表和 `people-zh.tsv` 也有说明；中文已写“苏迪尔·约瑟夫（Sudhir Joseph）”，英文照原样保留，本轮不再另作处理。
 - 核实与修改：agent（Opus 5.5）。本轮没有改动中文文件，只更新了本审校记录。运行 `python3 scripts/site.py status checklist-manifesto`，本节显示 review，11/11 块已译，原文没有注释。`tools/term_consistency.py` 在本节只标出第 4 块的 “name: Geoff Smart”，仍是 “Smart, tough, and tireless” 造成的误报。中文正文没有破折号，也没有体例禁用的对比句式。
+
+## 补全后的改动
+
+- 日期和执行者：2026-11-05，Claude（Opus 5.5）。用户提供了美国 Picador 版的 MOBI，比较方法和全书的结果见 [source.md](source.md) 的“用更好的来源补全（2026-11-05）”。英文的改动由 `tools/apply_us_edition.py` 完成，中文由人工修改。这一节写的块号都是改动以后的块号，写明“原来的”除外。
+- 英国 EPUB 在纸质版换页处断开的一段按美国版合成一段：原来的第 3、4 块（more coherence. / Laura Schoenherr）合成第 3 块。中文的两块直接接成一块。
+- 块号：原来的第 5 到 11 块减 1。
+- 复查：改完后 `python3 scripts/site.py status checklist-manifesto` 显示本节 10/10，全书 665/665；`python3 scripts/site.py check checklist-manifesto` 通过。
+
+## 2. 双语审校（补全部分）
+
+- 审校者：agent（Opus 5.5），2026-11-05。审校者没有参与这次补全和翻译，对照的是改动以后的 `en/` 和 `zh-cn/`；英文改动里涉及意思的地方，另外在美国 EPUB 的原文里查过。
+- 方法：逐块对照英文读中文，核对意思、遗漏、数字、人名、术语、脚注和中文是否通顺，也查了有没有破折号和体例禁用的对比句式；合并和拆开的段落还核对了断处和接缝。
+- 范围：合并的第 3 块。
+- 结果：接缝处“……让思路更连贯。劳拉·舍恩赫尔（Laura Schoenherr）是我才华出众、不知疲倦的研究助理。”通顺，人名的括注不变。`tools/term_consistency.py` 报告本块没有“斯玛特”，那是 Smart, tough, and tireless 里的 Smart 被当成了杰夫·斯玛特的名字，不需要改。
+- 没有发现需要改的地方，本节没有修改。
+- 复查：改完后 `python3 scripts/site.py status checklist-manifesto` 显示本节 10/10，全书 14 节都是 review，665/665；`python3 scripts/site.py check checklist-manifesto` 通过。

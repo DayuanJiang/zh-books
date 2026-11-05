@@ -25,7 +25,7 @@
   - Testimony of Captain X, … → X 机长的证词，……
   - 引言第 1 条脚注 Identifying details were changed at John’s request. → 应约翰的要求，书中改动了可以辨认身份的细节。
 - **脚注标记**：`[^n]` 放在中文里对应词句的后面，编号与英文一致。注释引用的话以引号结束时，标记放在右引号后面。
-- **译者注**：写成 `[^t1]:`，在正文里引用。需要译者注的地方：eptitude、Code Blue、operating theater 的字面意思、the right stuff 和书名的关系、世卫组织清单的中文官方名、原文疑点（第 3 章注释 3 的网址，以及“全书统一的写法（译完后定）”里列出的几处已经查证的史实错误）。
+- **译者注**：写成 `[^t1]:`，在正文里引用。需要译者注的地方：eptitude、Code Blue、operating theater 的字面意思、the right stuff 和书名的关系、世卫组织清单的中文官方名、原文疑点（第 3 章注释 3 的网址，以及“全书统一的写法（译完后定）”里列出的几处已经查证的史实错误）、附录四张清单图片里的文字（每张一条，挂在图片上方的中文小标题后面，写明图中文字的译文和版权页注明的提供者）。
 - **分隔线**：分隔线 `---` 只写在英文文件里。
 - **破折号和句式**：中文译文不用破折号（——），原文的破折号按意思改成逗号、冒号、括号或另起一句；也不用“不是……而是……”这种句式，换成直接的说法。
 
@@ -44,6 +44,7 @@
 | ch07 | 7. The Test | 第 7 章 试验 |
 | ch08 | 8. The Hero in the Age of Checklists | 第 8 章 清单时代的英雄 |
 | ch09 | 9. The Save | 第 9 章 救回一命 |
+| appendix | Appendix: Example Checklists | 附录：清单示例 |
 | acknowledgments | Acknowledgments | 致谢 |
 | about-the-author | About the Author | 关于作者 |
 
@@ -84,7 +85,7 @@
 - **指称词语本身的斜体**：原文用斜体指称一个词本身的地方（*clinic*、*ineptitude*、*negligence*、*checklist*），中文改用引号；表示强调的斜体保留。
 - **地名和机构名连写**：机构名前面有地名时，中间加“的”或者用“位于”，例如“位于波士顿的美国医疗保健改进研究所”“加利福尼亚州尔湾的帕伯莱投资基金”；地名本来就是机构名一部分的（哥伦布儿童医院、底特律接收医院、奥克兰市立医院）照写。
 - **脚注常见格式补充**：X data for YEAR 写“YEAR 的 X 数据”，X 是来源，保留原文，例如“2003 年和 2008 年的 U.S. Census 数据”。
-- **原文疑点和译者注**：原文的史实错误会让读者误解事件经过、而且已经查证的，正文照原文译，加译者注说明，例如第 8 章泛美客机当时在滑行，第 6 章第 62 块收放襟翼的人和方向，第 6 章第 77 块做机械改动的应是罗尔斯·罗伊斯；还没有查实的，或者不影响理解的（第 6 章第 15 块的说话人，第 3 章麦克纳马拉/萨尔维亚公司的起始年份和阻尼器的悬挂方式，第 2 章克拉根福算不算小城），记在各节审校记录的“原文疑点”表里，正文不加注。纸质版换页留下的断段（第 5 章第 57、58 块，第 8 章第 25、26 块）英文照原样保留，中文也分成两块。
+- **原文疑点和译者注**：原文的史实错误会让读者误解事件经过、而且已经查证的，正文照原文译，加译者注说明，例如第 6 章第 62 块收放襟翼的人和方向，第 6 章第 77 块做机械改动的应是罗尔斯·罗伊斯；还没有查实的，或者不影响理解的（第 6 章第 15 块的说话人，第 3 章麦克纳马拉/萨尔维亚公司的起始年份和阻尼器的悬挂方式，第 2 章克拉根福算不算小城），记在各节审校记录的“原文疑点”表里，正文不加注。美国 Picador 版的文字已经改正的两处（第 1 章第 4 块体外循环两根管子的用途，第 8 章第 65 块泛美客机当时在滑行），英文照美国版改过，中文跟着改，原来的两条译者注删掉，见 [review/source.md](review/source.md) 的“用更好的来源补全（2026-11-05）”。英国 EPUB 在纸质版换页处断开的段落（第 2 章三处，第 5 章两处，第 7 章一处，第 8 章两处，致谢一处）按美国版合成一段，中文也合成一块；英国 EPUB 连在一起的三处（第 2、4、7 章各一处）按美国版分成两段，中文也分开。
 
 ## 核心概念
 
@@ -140,7 +141,7 @@
 | bird strike | 鸟击 | dual bird strikes 写“两台发动机同时遭鸟击” |  | ch08 | 2 | 初定 |
 | fly-by-wire | 电传操纵 | fly-by-wire control system 写“电传操纵系统” |  | ch08 | 2 | 初定 |
 | uncommanded rollback | 非指令性推力回退 | 发动机没有收到指令就自行降到最低功率；rolled back to minimal power 写“推力回退到最小” |  | ch06 | 2 | 初定 |
-| safe surgery checklist | 安全手术清单 | 第 5 到 9 章的主角：三个暂停点、19 项检查的手术清单；WHO safe surgery checklist 写“世卫组织安全手术清单”。中国大陆卫生部门采用的官方中文版叫《手术安全核对表》，第一次出现加译者注说明 | 手术核对表 | ch05 | 20 | 初定 |
+| safe surgery checklist | 安全手术清单 | 第 5 到 9 章的主角：三个暂停点、19 项检查的手术清单；WHO safe surgery checklist 写“世卫组织安全手术清单”。中国大陆原卫生部 2010 年印发的《手术安全核查制度》（卫办医政发〔2010〕41 号）要求填写的表格叫《手术安全核查表》，第一次出现加译者注说明 | 手术核对表 | ch05 | 20 | 初定 |
 | Safe Surgery Saves Lives | “安全手术拯救生命”项目 | 世卫组织的全球项目，中文名采用世卫组织中文资料的说法 |  | acknowledgments | 2 | 初定 |
 | before anesthesia / before incision / sign-out / time-out | 麻醉前 / 切皮前 / 离室前核对 / 暂停核对 | 安全手术清单的三个暂停点：麻醉前、切皮前、离开手术室前；Before Incision check 写“切皮前核对”；sign-out 写“离室前核对”；called a time-out 写“叫停，开始核对” |  | ch07 | 10 | 初定 |
 | Cleared for Takeoff | “准予起飞” | 哥伦布儿童医院的切皮前清单，以及盖在手术刀上的小金属牌 |  | ch05 | 3 | 初定 |
@@ -212,7 +213,7 @@
 | Meadowlands Xanadu / SnowPark | 梅多兰兹仙乐都 / 照写原名 | 新泽西州东卢瑟福 |
 | Citicorp building (Citigroup) | 花旗中心 | 原文 Citicorp (now Citigroup) building 写“花旗公司（现在叫花旗集团）大楼”，之后写“花旗中心” |
 | Bethlehem Steel | 伯利恒钢铁公司 |  |
-| Clash Detective / Project Center | 照写原名 | 建筑软件，第一次出现括注中文意思（碰撞侦探、项目中心） |
+| Clash Detective / Project Center | 照写原名 | 建筑软件，第一次出现括注中文意思（碰撞侦探、项目中心）；美国 Picador 版写作 ProjectCenter，英文和中文都照英国版写 Project Center |
 | C&E Hardware / Richland Avenue / Athens, Ohio | C&E 五金店 / 里奇兰大道 / 俄亥俄州阿森斯 | 作者童年 |
 | Hurricane Katrina / New Orleans / Plaquemines Parish / Jefferson Parish | 卡特里娜飓风 / 新奥尔良 / 普拉克明堂区 / 杰斐逊堂区 |  |
 | Federal Emergency Management Agency (FEMA) | 联邦紧急事务管理署（FEMA） | 之后写 FEMA |
@@ -243,6 +244,7 @@
 | Hudson River / George Washington Bridge | 哈得孙河 / 乔治·华盛顿大桥 | miracle on the Hudson 写“哈得孙河奇迹” |
 | Tenerife / Canary Islands | 特内里费 / 加那利群岛 | 1977 年的特内里费空难 |
 | Cessna | 塞斯纳 |  |
+| Colorado Flight Center | 科罗拉多飞行中心（Colorado Flight Center） | 附录第 2 张清单（飞行中发动机失效）的提供者，见美国版的版权页；只在附录的译者注里出现 |
 | Jet A-1 | Jet A-1 航空煤油 |  |
 | Pabrai Investment Funds / Aquamarine Capital Management | 帕伯莱投资基金 / Aquamarine 资本管理公司 |  |
 | Berkshire Hathaway / Cort Furniture / Enron | 伯克希尔·哈撒韦公司 / Cort 家具公司 / 安然公司 |  |

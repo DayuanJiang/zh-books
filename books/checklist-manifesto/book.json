@@ -5,7 +5,7 @@
   "reader": "bilingual",
   "summary": "外科医生葛文德从手术室、航空、建筑、餐厅和投资等行业的实例出发，说明一张简单的清单怎样帮助专业人员在复杂的工作中少犯本可避免的错误。",
   "facts": [
-    "引言、9 章与致谢",
+    "引言、9 章、附录与致谢",
     "中英逐段对照"
   ],
   "cover": "assets/images/cover.jpg",
@@ -28,6 +28,7 @@
     {"id": "ch07", "number": 7, "file": "15-7-the-test.md", "status": "review"},
     {"id": "ch08", "number": 8, "file": "16-8-the-hero-in-the-age-of.md", "status": "review"},
     {"id": "ch09", "number": 9, "file": "17-9-the-save.md", "status": "review"},
+    {"id": "appendix", "file": "18-appendix-example-checklists.md", "status": "review"},
     {"id": "acknowledgments", "file": "19-acknowledgments.md", "status": "review"},
     {"id": "about-the-author", "file": "20-about-the-author.md", "status": "review"}
   ]

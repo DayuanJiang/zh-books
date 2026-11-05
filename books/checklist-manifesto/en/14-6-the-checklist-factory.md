@@ -98,7 +98,7 @@ The wording should be simple and exact, Boorman went on, and use the familiar la
 
 To some extent, we had covered this territory in drafting our surgery checklist. No question, it needed some trimming, and many items on the list could be sharper and less confusing. I figured we could fix it easily. But Boorman was adamant about one further point: no matter how careful we might be, no matter how much thought we might put in, a checklist has to be tested in the real world, which is inevitably more complicated than expected. First drafts always fall apart, he said, and one needs to study how, make changes, and keep testing until the checklist works consistently.
 
-This is not easy to do in surgery, I pointed out. Not in aviation, either, he countered. You can’t unlatch a cargo door in mid-flight and observe how a crew handles the consequences. But that’s why they have flight simulators, and he offered to show me one.
+This is not easy to do in surgery, I pointed out. Not in aviation, either, he countered. You can’t unlatch a cargo door in midflight and observe how a crew handles the consequences. But that’s why they have flight simulators, and he offered to show me one.
 
 I tried not to seem like a kid who’d just been offered a chance to go up to the front of the plane and see the cockpit. Sure, I said. That sounds neat.
 
