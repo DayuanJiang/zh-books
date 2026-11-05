@@ -1,0 +1,86 @@
+term	chinese	count	chapters	first	example	decided by
+Edison / Edisons	Edison	97	17	ch02	“We tried everything else and it failed, so let’s call it the Edison,” she said.	Claude（初定）
+miniLab	miniLab	55	11	ch08	Elizabeth christened the machine she assigned them to build the “miniLab.”	Claude（初定）
+4S	4S	11	4	ch08	Elizabeth even gave the miniLab a Jobs-inspired code name: the 4S.	Claude（初定）
+Theranos 1.0	Theranos 1.0	10	4	prologue	Shaunak gradually let down his guard and allowed that the Theranos 1.0, as Elizabeth had christened the blood-testing system, didn’t always work.	Claude（初定）
+gluebot / glue robot	点胶机器人	5	1	ch02	But he didn’t want to waste time building one from scratch, so he ordered a three-thousand-dollar glue-dispensing robot from a company in New Jersey called Fisnar.	Claude（初定）
+nanotainer	nanotainer（微型采血管）	21	5	ch13	Elizabeth called it the “nanotainer.”	Claude（初定）
+cartridge	卡盒	45	10	prologue	Then he would transfer the blood to a white plastic cartridge the size of a credit card.	Claude（初定）
+reader	读取器	40	8	prologue	The box was called a reader.	Claude（初定）
+TheraPatch / patch	贴片	11	4	ch01	Drawing from new technologies she had learned about during her internship and in Robertson’s classes, she wrote a patent application for an arm patch that would simultaneously diagnose medical conditions and treat them.	Claude（初定）
+six-blade	“六刀片”机	2	2	ch14	This Frankenstein machine was called the “six-blade,” a term borrowed from the computer industry, where stacking servers on top of one another is common to save space and energy.	Claude（初定）
+wellness center	健康中心	14	9	ch09	Per Theranos’s instructions, they were to be called wellness centers and had to look “better than a spa.”	Claude（初定）
+Project T-Rex / Project Beta / Project Stanford	“霸王龙计划” / “贝塔计划” / “斯坦福计划”	6	3	ch07	J were unveiling “Project Beta,” the code name for the Theranos pilot, to senior Walgreens executives.	Claude（初定）
+Frat Pack / Therabros	“兄弟会帮” / “Thera 兄弟”	9	4	ch08	They rented a house together near the Palo Alto country club and became known inside Theranos as “the Frat Pack.”	Claude（初定）
+Jurassic Park / Normandy	“侏罗纪公园” / “诺曼底”	16	7	ch14	Sunny and Elizabeth viewed its conventional machines as dinosaurs that would soon be rendered extinct by Theranos’s revolutionary technology, so they called it “Jurassic Park.”	Claude（初定）
+Eagle One / Eagle Two	“一号鹰” / “二号鹰”	2	1	ch17	Their code name for her was “Eagle One.” (Sunny was “Eagle Two.”) The Audi had no license plates—another nod to Steve Jobs, who used to lease a new Mercedes every six months to avoid having plates.	Claude（初定）
+extra-ordinary	*非*凡	1	1	prologue	She liked to use the term “extra-ordinary,” with “extra” written in italics and a hyphen for emphasis, to describe the Theranos mission in her emails to staff.	Claude（初定）
+blood test / blood testing	血液检测	125	26	prologue	The former IBM executive was in charge of bioinformatics at Theranos, a startup with a cutting-edge blood-testing system.	Claude（初定）
+test result	检测结果	38	19	prologue	Patients would prick their fingers several times a day and the readers would beam their blood-test results to the trial’s sponsor.	Claude（初定）
+finger-stick / fingerstick	指尖采血	45	15	ch04	Billed as the “iPod of healthcare,” the Edison is a semi-portable immunochemistry platform capable of performing multiplexed protein assays on a fingerstick sample of human or animal whole blood… I bought these units recently when I thought I was at risk of succumbing to septic shock.	Claude（初定）
+venous draw / venipuncture	静脉采血	14	9	ch07	Each blood draw was an exercise in torture because his veins were collapsing.	Claude（初定）
+lab / laboratory	实验室	296	24	prologue	He and Elizabeth had worked together in Robertson’s research lab at Stanford.	Claude（初定）
+clinical lab / CLIA lab	临床实验室 / CLIA 实验室	21	9	ch07	As familiar as he was with drugstores, though, Hunter’s real expertise was with clinical laboratories.	Claude（初定）
+lab director / laboratory director	实验室主任	11	4	ch09	You have a mediocre Lab Director taking up for a sub-par CLS for whatever reasons.	Claude（初定）
+assay	检测 / 检测方法	26	10	ch02	This blood-testing technique was known as a chemiluminescent immunoassay. (In laboratory speak, the word “assay” is synonymous with “blood test.”) The technique was not new: it had been pioneered in the early 1980s by a professor at Cardiff University.	Claude（初定）
+immunoassay	免疫测定	21	9	ch02	This blood-testing technique was known as a chemiluminescent immunoassay. (In laboratory speak, the word “assay” is synonymous with “blood test.”) The technique was not new: it had been pioneered in the early 1980s by a professor at Cardiff University.	Claude（初定）
+general chemistry	常规生化检测	7	3	ch12	Ian had been head of the general chemistry group, which was in charge of creating new blood tests beyond the immunoassays they’d developed for the Edison, when Elizabeth fired him.	Claude（初定）
+analyzer	分析仪	38	12	ch08	To be sure, there were already portable blood analyzers on the market.	Claude（初定）
+Siemens ADVIA	西门子 ADVIA 分析仪	12	3	ch14	Daniel told Alan that he and Gong, who went by Sam, were going to tinker with the ADVIA 1800, one of the lab’s commercial analyzers.	Claude（初定）
+spectrophotometer / cytometer	分光光度计 / 细胞仪	9	3	ch08	In addition to the Edison’s photomultiplier tube, the new device would need to cram three other laboratory instruments in one small space: a spectrophotometer, a cytometer, and an isothermal amplifier.	Claude（初定）
+pipette	移液器	18	4	ch02	Tony fastened a pipette—a slender translucent tube used to transfer or measure out small quantities of liquid—to the robot and programmed it to make the movements that a chemist would make in the lab.	Claude（初定）
+microfluidics	微流控	13	7	ch01	The compromise was a cartridge-and-reader system that blended the fields of microfluidics and biochemistry.	Claude（初定）
+dilute / dilution	稀释	39	10	ch02	The quantity of blood they were allowed to work with was so small that it had to be diluted with a saline solution to create more volume.	Claude（初定）
+reagent / antibody	试剂 / 抗体	15	8	ch01	Pumps inside the reader would push the blood through tiny channels in the cartridge and into little wells coated with proteins known as antibodies.	Claude（初定）
+proficiency testing	能力验证	34	8	ch16	All clinical laboratories must submit three times a year to something called “proficiency testing,” an exercise designed to ferret out labs whose testing isn’t accurate.	Claude（初定）
+quality control	质控	20	6	ch09	They included ignoring manufacturers’ instructions for how to handle reagents; putting expired reagents in the same refrigerator as current ones; running patient tests on lab equipment that hadn’t been calibrated; improperly performing quality-control runs on an analyzer; doing tasks he hadn’t been trained to do; and contaminating a bottle of Wright’s stain, a mixture of dyes used to differentiate blood cell types.	Claude（初定）
+validation	验证	22	8	ch04	To that effect, each deal provided for an initial tryout, a so-called validation phase.	Claude（初定）
+coefficient of variation (CV)	变异系数（CV）	11	3	ch16	The data collected were used to calculate each Edison blood test’s coefficient of variation, or CV.	Claude（初定）
+sensitivity / equivocal zone	灵敏度 / 灰区	9	1	ch16	The accuracy of those tests is gauged by their sensitivity—the measure of how often they correctly label someone with the disease as positive.	Claude（初定）
+reference range / normal range	参考范围 / 正常范围	3	2	ch19	As it turned out, it was another false alarm: the potassium value Sonora Quest reported that evening was much lower than the Theranos result and well within the normal range.	Claude（初定）
+hemolysis	溶血	3	2	ch14	Alan suspected the cause of the latter was a phenomenon known as “hemolysis,” which occurs when red blood cells burst and release extra potassium into the sample.	Claude（初定）
+dead volume / throughput	死体积 / 通量	3	1	ch14	In industry jargon, this was known as having a “high throughput.”	Claude（初定）
+pathologist	病理医生	7	6	ch07	He’d even arranged for a pathologist to be on standby at the hospital to write the order and draw their blood.	Claude（初定）
+clinical laboratory scientist (CLS)	临床检验技师（CLS）	9	4	ch09	The lab was run by an awkward pathologist named Arnold Gelb, who went by Arne (pronounced “Arnie”), and staffed with a handful of clinical laboratory scientists, or CLSs—lab technicians who are certified by the state to handle human samples.	Claude（初定）
+phlebotomist	采血员	7	2	ch09	Instead, it had stationed two phlebotomists there to draw blood, and the samples they collected were couriered across San Francisco Bay to Palo Alto for testing.	Claude（初定）
+lab associate	实验室助理	5	3	ch16	There were no physical barriers between the two groups, so Tyler could hear the chatter among the lab associates.	Claude（初定）
+CLIA	CLIA	23	9	ch07	It had initially represented that its blood tests would qualify as “waived” under the Clinical Laboratory Improvement Amendments, the 1988 federal law that governed laboratories.	Claude（初定）
+CMS	CMS	33	6	ch07	It was a big difference: laboratory-developed tests lay in a gray zone between the FDA and another federal health regulator, the Centers for Medicare and Medicaid Services.	Claude（初定）
+FDA	FDA	59	11	ch02	The lawyers weren’t of much help when he asked them, so he looked up Food and Drug Administration regulations on his own and decided that a “for research use only” sticker was probably the most appropriate.	Claude（初定）
+laboratory-developed test (LDT)	实验室自建检测（LDT）	12	3	ch07	Now, Theranos was changing its tune and saying the tests it would be offering in Walgreens stores were “laboratory-developed tests.”	Claude（初定）
+inspection / survey	检查	58	7	ch09	Although the ultimate enforcer of CLIA was the Centers for Medicare and Medicaid Services, the federal agency delegated most routine lab inspections to states.	Claude（初定）
+deficiencies / sanctions	缺陷 / 处罚	7	4	ch06	But unlike in Mexico, it wasn’t clear that Theranos’s activities in Thailand were sanctioned by local authorities.	Claude（初定）
+institutional review board (IRB)	机构审查委员会（IRB）	6	1	ch10	In both instances, the army consulted an institutional review board, or IRB—a committee within the military that monitors medical research to ensure that it is conducted safely and ethically.	Claude（初定）
+Medicare / Medicaid	联邦医疗保险 / 医疗补助	15	9	ch07	It was a big difference: laboratory-developed tests lay in a gray zone between the FDA and another federal health regulator, the Centers for Medicare and Medicaid Services.	Claude（初定）
+startup	创业公司	53	17	prologue	The former IBM executive was in charge of bioinformatics at Theranos, a startup with a cutting-edge blood-testing system.	Claude（初定）
+founder / cofounder	创始人 / 联合创始人	30	14	prologue	Elizabeth Holmes, Theranos’s twenty-two-year-old founder, had flown to Switzerland and shown off the system’s capabilities to executives at Novartis, the European drug giant.	Claude（初定）
+venture capitalist / venture capital	风险投资人 / 风险投资	27	12	prologue	Lucas, the venture capitalist who had groomed billionaire software entrepreneur Larry Ellison and helped him take Oracle Corporation public in the mid-1980s.	Claude（初定）
+funding round / Series B	融资 / B 轮	12	8	prologue	Theranos had just closed its third round of funding.	Claude（初定）
+valuation	估值	12	5	prologue	The most impressive number was its new valuation: one hundred and sixty-five million dollars.	Claude（初定）
+unicorn	独角兽	8	4	ch15	She called them “unicorns.”	Claude（初定）
+hockey-stick forecast	曲棍球棒式预测	1	1	prologue	VCs even had a term for it: the hockey-stick forecast.	Claude（初定）
+vaporware	雾件	1	1	epilogue	The term “vaporware” was coined in the early 1980s to describe new computer software or hardware that was announced with great fanfare only to take years to materialize, if it did at all.	Claude（初定）
+stealth mode	隐身模式	2	2	ch12	The reason she and Sunny invoked for this way of operating was that Theranos was “in stealth mode,” but it made no sense to Ian.	Claude（初定）
+board / director	董事会 / 董事	92	21	prologue	The chairman of her board was Donald L.	Claude（初定）
+general counsel	总法律顾问	7	6	ch02	Standing next to her was Michael Esquivel, a sharply dressed, fast-talking lawyer who had joined Theranos a few months earlier as its general counsel from Wilson Sonsini Goodrich & Rosati, Silicon Valley’s premier law firm.	Claude（初定）
+pharmaceutical company / drugmaker	制药公司	24	12	prologue	The company had just completed its first big live demonstration for a pharmaceutical company.	Claude（初定）
+secrecy / silo	保密 / 各自封闭的部门	16	11	ch02	Elizabeth liked to keep information compartmentalized so that only she had the full picture of the system’s development.	Claude（初定）
+black turtleneck	黑色高领毛衣	7	6	ch03	From that point on, she came to work in a black turtleneck and black slacks most days.	Claude（初定）
+patent / patent interference	专利 / 专利抵触程序	80	11	ch01	Drawing from new technologies she had learned about during her internship and in Robertson’s classes, she wrote a patent application for an arm patch that would simultaneously diagnose medical conditions and treat them.	Claude（初定）
+trade secrets	商业秘密	19	7	ch02	It requested that the court issue a temporary restraining order against the three former employees, appoint a special master “to ensure that they do not use or disclose Plaintiff’s trade secrets,” and award Theranos five different types of monetary damages.	Claude（初定）
+confidentiality agreement / NDA	保密协议	15	11	ch02	She required not just employees to sign nondisclosure agreements, but anyone else who entered Theranos’s offices or did business with it.	Claude（初定）
+lawsuit / litigation	诉讼	41	16	ch02	Within days, she was laying the groundwork for a lawsuit.	Claude（初定）
+deposition	取证证词	14	7	authors-note	Some chapters rely on records from legal proceedings, such as deposition testimony.	Claude（初定）
+affidavit	宣誓书	13	4	ch18	Alan read the bold heading at the top: “AFFIDAVIT OF ALAN BEAM.”	Claude（初定）
+anti-SLAPP	反 SLAPP 动议	1	1	ch11	Laura Brill, the partner who was handling their case, wanted to file an anti-SLAPP motion to try to get the Theranos suit thrown out as frivolous, which would have cost an additional $500,000 with little assurance that it would succeed.	Claude（初定）
+whistleblower	吹哨人	3	2	ch18	He’d gone a step further two days earlier and called a law firm in Washington, D.C., that specialized in representing corporate whistleblowers, but the person who answered the phone was a “client services specialist.”	Claude（初定）
+source (journalism)	消息来源	44	12	prologue	The new valuation, in particular, was a source of great pride.	Claude（初定）
+on the record / deep background	公开具名 / 深度背景	11	5	ch19	Both had been extremely nervous and had only agreed to talk on deep background.	Claude（初定）
+tip	线报	17	8	ch02	Elizabeth wanted the Theranos technology to work with just a drop of blood pricked from the tip of a finger.	Claude（初定）
+No surprises	“不搞突然袭击”	1	1	ch19	At the Journal, we had a cardinal rule called “No surprises.”	Claude（初定）
+la mattanza	la mattanza（屠鱼仪式）	5	1	ch22	“Did I ever tell you about la mattanza?” he asked.	Claude（初定）
+Hippocratic Oath	希波克拉底誓言	2	1	ch18	“You and I took the Hippocratic Oath, which is to first do no harm.	Claude（初定）
+the Journal	《华尔街日报》	76	14	ch05	Fuisz sent one copy of the explosive memo to Baxter’s board of directors and another to the Wall Street Journal, which published a front-page story about it.	Claude（初定）
+Silicon Valley / the Valley	硅谷	56	17	prologue	A rumpled dresser with piercing green eyes and a laid-back personality, he was a veteran of Silicon Valley’s technology scene.	Claude（初定）
+fraud	欺诈	9	8	ch05	When Enron’s fraudulent practices were exposed and it went bankrupt in December of that year, he lost his job like thousands of other employees.	Claude（初定）
+H-1B visa	H-1B 签证	1	1	ch14	Most were on H-1B visas and dependent on their continued employment at the company to remain in the country.	Claude（初定）
