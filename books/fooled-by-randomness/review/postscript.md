@@ -48,7 +48,7 @@
 ## 2. 双语审校
 
 - 执行者：另一个独立上下文的 agent（Opus 5.5），没有参与翻译。
-- 范围：对照英文逐块读完全节 34 块和译者注 [^t1]（现在的 [^t2]），核对了意思、数字和金额、人名、术语、交叉引用、斜体和格式，也检查了破折号、“不是……而是……”句式和半角标点，并运行 `python3 scripts/site.py status fooled-by-randomness` 确认 34/34。审校者没有改动文件，发现交给编辑逐条核实后处理。
+- 范围：对照英文逐块读完全节 34 块和译者注 [^t1]（现在的 [^t2]），核对了意思、数字和金额、人名、术语、交叉引用、斜体和格式，也检查了破折号、体例禁用的对比句式和半角标点，并运行 `python3 scripts/site.py status fooled-by-randomness` 确认 34/34。审校者没有改动文件，发现交给编辑逐条核实后处理。
 - 发现：22 条；核实后采纳 21 条，不采纳 0 条；另有 1 条（标题）意见成立，按分工交主会话处理。编辑逐条对照了英文和中文，每条指出的问题都确实存在，所以没有不采纳的，其中几条换了改法。
   - 第 14 块 “We can’t even know that he didn’t destabilize the economy by increasing the risk of future inflation.”：采纳，换了改法。原译“没法确定，他没有因为加大了未来通胀的风险而破坏经济的稳定”里，“没有因为……而……”会被读成“他破坏经济稳定，原因和通胀风险无关”。原文的意思是我们排除不了他这样做过，改成“我们甚至没法排除这样的可能：他加大了未来通胀的风险，反倒破坏了经济的稳定。”
   - 第 33 块 “if Hillel could teach him the Torah while the student was standing on one leg”：采纳，换了改法。原译“能不能在他单腿站着的工夫里”分不清是谁单腿站着；审校者建议的“在自己单腿站着的工夫里”，“自己”仍可能指希勒尔。改成直接引语：“这让我想起希勒尔拉比（Rabbi Hillel）的故事。有个特别懒的人来问希勒尔：‘趁我单腿站着的工夫，您能把《托拉》教给我吗？’”（正文用的是双引号）
@@ -64,7 +64,7 @@
   - 其余 10 条照建议改，或只动了个别字：第 2 块写“有的是我淋浴时想到的，有的是在我听过的那几场无聊的哲学讲座上想到的”；第 11 块 “to be taller than average” 写“个子比一般人高”；第 12 块 “The problem is as old as leadership.” 写“自从有了领导者，就有了这个问题。”；第 19 块 “about every, say, thirty-five minutes” 写“他只知道火车大致多久一班，比如说，大约每 35 分钟一班”；第 21 块 “the internal treadmill effects of constantly trying to improve on their consumption of goods by seeking higher and higher levels of sophistication” 写“不停地追求越来越讲究的东西，想让自己的消费一再升级”；第 21 块 “wealth causes them to increase their dependence” 写“财富似乎反倒让他们更不自由了”，和前半句“能自由选择住在哪里”呼应；第 23 块 “some people might be involuntarily turned into optimizers” 写“有些人可能身不由己，成了追求最优的人”；第 29 块 “It does not promise a fixed rate, but one that can fluctuate a bit before the bank starts intervening.” 写“它不承诺汇率固定不变：汇率可以先波动一点，然后央行才出手干预。”；第 30 块 “Say you always have the same threshold of reactions.” 的“假如”改成“假设”，这一句本身没有结果分句；第 32 块 “in spite of the insults” 写“尽管我没少骂 MBA”，insults 比“挖苦”重。
   - 标题 “Postscript: Three Afterthoughts in the Shower”：意见成立，原题的 in the Shower（淋浴时）没有译出，术语表这一行的英文也少了 in the Shower。第一行要照术语表“各节标题”写，术语表归主会话修改，所以本节暂不改，见“状态”。
 - 审校者还核对了第 20 块的译者注（现在的 [^t2]），建议保留；第 2 章区分牙医的本事和俄罗斯轮盘赌，审校者核对过第 2 章原文，原文没有错。
-- 审校者的总体判断：这一节译得扎实可靠，可以进入中文通读。全部 34 块和 1 条译者注逐块看完，没有漏译、增译或主次颠倒；100 万美元、2 亿美元、2003 年、35 分钟、17 句、第 18 个和各个钟点都对；人名照 people-zh.tsv 写，本节第一次出现时都括注了英文；反向法则、空架子、宽客、遍历性、大数定律、满意即止、布里丹之驴、打字机前的猴子、赢家通吃、幂律都和术语表一致；没有破折号、“不是……而是……”句式和半角标点。语气贴近样章，反讽和口语都保留了，例如“钱说了算”“其余的，据说都只是哲学”。要改的主要是第 14、33、7、10 块几处读者可能误解的地方，另有十几处照搬英文结构的生硬句子。标题和第 6 块的章号两件事请主会话决定。
+- 审校者的总体判断：这一节译得扎实可靠，可以进入中文通读。全部 34 块和 1 条译者注逐块看完，没有漏译、增译或主次颠倒；100 万美元、2 亿美元、2003 年、35 分钟、17 句、第 18 个和各个钟点都对；人名照 people-zh.tsv 写，本节第一次出现时都括注了英文；反向法则、空架子、宽客、遍历性、大数定律、满意即止、布里丹之驴、打字机前的猴子、赢家通吃、幂律都和术语表一致；没有破折号、体例禁用的对比句式和半角标点。语气贴近样章，反讽和口语都保留了，例如“钱说了算”“其余的，据说都只是哲学”。要改的主要是第 14、33、7、10 块几处读者可能误解的地方，另有十几处照搬英文结构的生硬句子。标题和第 6 块的章号两件事请主会话决定。
 
 ## 3. 中文通读
 
@@ -79,7 +79,7 @@
   - 第 21 块 “increase their dependence” 写“更不自由”，第 24 块 “rich but as dependent as a slave” 写“像奴隶一样受制于人”：两处英文的说法和上下文不同，前一处对应“自由选择住在哪里”，后一处有“奴隶”作比，分别保留。
   - 第 33 块希勒尔的话照作者的英文直译成“*你不愿意别人对你做的事，就不要对别人做；其余的都只是注释*”。作者说这是他的转述，译者自检时留给审校斟酌的成语“己所不欲，勿施于人”就不换了。
   - 人名：理查德·格拉索（Richard Grasso）、西蒙（Simon）、希勒尔拉比（Rabbi Hillel）只在第一次出现时括注，第二次提到希勒尔只写中文；术语“空架子”“宽客”“反向法则”“公司政治手腕”“遍历性”“大数定律”“满意即止”“追求最优的人”“最大化者”“生成器”全节写法一致。
-- 修改后的检查：`python3 scripts/site.py status fooled-by-randomness` 显示 postscript 为 34/34；用 `framework/tools/book.py` 的 `compile_chapter` 编译本节，34 个单元、2 条译者注 t1 和 t2 都能解析；全节没有破折号，没有“不是……而是……”句式，中文旁边没有半角标点；`tools/term_consistency.py` 全书检查 1707 处，没有报出本节的块。`python3 scripts/site.py check fooled-by-randomness` 的草稿构建通过，本节状态还是 `todo`，没有进入构建。
+- 修改后的检查：`python3 scripts/site.py status fooled-by-randomness` 显示 postscript 为 34/34；用 `framework/tools/book.py` 的 `compile_chapter` 编译本节，34 个单元、2 条译者注 t1 和 t2 都能解析；全节没有破折号，没有体例禁用的对比句式，中文旁边没有半角标点；`tools/term_consistency.py` 全书检查 1707 处，没有报出本节的块。`python3 scripts/site.py check fooled-by-randomness` 的草稿构建通过，本节状态还是 `todo`，没有进入构建。
 
 ## 状态
 
@@ -89,3 +89,21 @@
   - `book.json` 里本节的状态还是 `todo`，请按流程修改。
 - 请用户决定的：两条译者注 [^t1]、[^t2] 是否保留。编辑倾向于保留，理由是中文读者照着章号去找会找不到，或者会看到和第 11 章不一样的说法。
 - 还没做的：阅读器校样（第 4 节）；发布前运行 `python3 scripts/site.py fonts fooled-by-randomness`。
+
+## 第三轮：GPT-6 Astra 独立审校
+
+- 审校者：GPT-6 Astra，通过 Codex 运行，只读，和译者属于不同的模型家族。
+- 发现：6 条。逐条找到中英文对应的句子，读过上下文后核实：成立并修改 4 条，不成立 2 条。
+- 成立并修改：
+  - 第 8 块 “By some argument, the boss of the company may be unskilled labor but one who presents the necessary attributes of charisma”：原译“公司的老板也许算是不需要技能的劳动力”，“不需要技能”说的是这份工作的要求；原文后半句 “but one who presents...” 说他本人具备个人魅力，前后对照的是这个人有没有本事，上一句也在说首席执行官的能力和业绩联系薄弱。审校者建议的“并没有什么专业本领”丢掉了 unskilled labor 这个劳动经济学的说法，和上文的厨师、工人、清洁工对不上，所以换了改法，改一个词：“公司的老板也许算是没有技能的劳动力”。
+  - 第 5 块 “the cook at the company headquarters or the factory worker will exhibit their direct abilities with minimal uncertainty”：原译“他们直接的本事显露出来时，几乎不带什么不确定性”，“直接的本事”不通顺，“显露出来时不带不确定性”也别扭。审校者建议的“判断时几乎没有什么不确定性”多出了“判断”，换了改法：“他们的本事是直接显露出来的，几乎没有什么不确定性”。
+  - 第 7 块 “owing to the repetitive aspect of their efforts, their process converges rapidly to results”：原译“由于他们做的事有重复性，他们的过程很快就会收敛到结果上”，一句里两个“他们”，“他们的过程”读着生硬。审校者建议的“结果很快就能可靠地反映过程的好坏”替作者解释了 converge，丢掉了作者借用的数学说法，所以保留“收敛到结果上”，前半句改成：“由于他们做的事一再重复，过程很快就会收敛到结果上”。
+  - 第 20 块 “A slightly random schedule prevents us from optimizing and being exceedingly efficient, particularly in the wrong things.”：原译“时刻表稍微随机一点，就能让我们没法去优化，没法效率过高，尤其是在不对的事情上”，“没法效率过高”搭配不当，“不对的事情”容易读成做错事、做坏事。审校者建议的“事事追求最优”多出了“事事”，“时间安排”也和上文一直在说的时刻表脱节，所以换了改法：“时刻表稍微随机一点，我们就没法追求最优，没法把效率提得过高，尤其是在那些不该这样做的事情上”。“追求最优”和本节 optimizer 的译法“追求最优的人”一致。
+- 不成立，保留原译：
+  - 第 21 块 “The cook no longer deserves the three stars given to him by the Michelin guide”：审校者建议写“《米其林指南》（*Michelin guide*）”。原文用正体、小写 guide，指的是给餐厅评星的机构；中文“米其林指南”不加书名号也是通行的叫法。括注规则针对原文排成斜体书名的原题，这一处用不上，所以保留“米其林指南”。
+  - 第 33 块 “if Hillel could teach him the Torah”：审校者建议写“《托拉》（*Torah*）”。原文 the Torah 是正体，和经书的通常排法一样；本书第 9 章的 the Bible 写“《圣经》”，也没有括注。保留“《托拉》”，和《圣经》的处理一致。
+- 按全书统一的写法修改：1 处。第 2 块 “reciting *verbatim* his lecture notes” 的 verbatim 是英文里常用的拉丁语词，按“外文词”一条译成中文、用正体，“*一字不差*地照着讲稿念”改为“一字不差地照着讲稿念”，和第 2 章的“本身”（per se）、第 3 章的“事先”（a priori）一样。改后中文 16 处斜体，英文 17 处，差的就是这一处。另外核对过其余各条：标题已经是术语表定的“后记 淋浴时的三点想法”，前面“状态”里关于标题的待办已经解决；数字、人名括注（理查德·格拉索、西蒙、希勒尔拉比）、布里丹之驴（Buridan’s donkey）的括注位置、宽客（quant）、进化、内心的跑步机效应、两条译者注的格式和括注落在外层括号里的写法都符合规定，不用改。
+- 对英文原文的疑问：
+  - 审校者提出的第 6 块 “ergodicity in Chapter 8” 的章号、第 20 块 satisficing “a blend of satisfying and maximizing” 的说法、第 10 块 “As a matter a fact” 漏了 of，前几轮已经记在“原文疑点”里，前两处各有一条译者注。
+  - 新增一处：第 8 块 “The link between the skill of the CEO and the results of the company are tenuous.” 的主语是 link，动词应为 is。不影响意思，照原意译“联系十分薄弱”。
+- 核实与修改：agent（Opus 5.5）。改完后运行 `python3 scripts/site.py status fooled-by-randomness`，postscript 显示 34/34，全书 1294/1294；`tools/term_consistency.py` 全书检查 1705 处，没有报出本节的块；用 markdown-it 按 CommonMark 渲染，中文没有露出的星号；全节没有破折号和体例禁用的对比句式。

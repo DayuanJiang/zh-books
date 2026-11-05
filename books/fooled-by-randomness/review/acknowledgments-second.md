@@ -39,7 +39,7 @@
   - 第 5 块 “leaving him with the muffins and other unfashionable food (and nothing to drink)”：原译“（而且没什么可喝的）”容易理解成“没什么好喝的”；原文是一点喝的也没留给他，因为咖啡和水都被作者喝了。采纳，改为“（一点喝的也没给他留）”。
   - 第 5 块 “network externalities make religions and fads fare incrementally better in their second editions than brand-new ones”：incrementally better 说的是第二版比全新的东西多占一份优势，原译“而且优势逐步递增”另外加进了优势随时间扩大的意思。采纳，改为“会比全新推出的东西多占一些优势”。
   - 第 7 块 “Ramaswami Ambarish and Lester Siegel showed me (with their suspiciously unnoticed work) that …”：原译“不受注意得可疑的研究”不合中文语法。问题属实。审校者建议把说明放进括号，插在长句中间；现在把它拆成前一个分句：“Ramaswami Ambarish 和 Lester Siegel 有一项研究，一直没人注意，冷落得让人起疑；他们用这项研究向我表明：……”，后面那句长的结论读起来不再被括号打断。
-- 审校者的总体判断：十个分节逐块对照英文读完，总体质量很高，可以进入中文通读。每一块都已译完，中英逐块对应；没有破折号、“不是……而是……”句式和混进中文的半角标点；写 keep 的亲友同事照写英文，名单的人数和顺序跟原文一致；网络外部性、信息瀑布、临界点这些术语和 23 个世纪这类数字都正确。没有发现事实、数字、否定或人物关系上的错误。
+- 审校者的总体判断：十个分节逐块对照英文读完，总体质量很高，可以进入中文通读。每一块都已译完，中英逐块对应；没有破折号、体例禁用的对比句式和混进中文的半角标点；写 keep 的亲友同事照写英文，名单的人数和顺序跟原文一致；网络外部性、信息瀑布、临界点这些术语和 23 个世纪这类数字都正确。没有发现事实、数字、否定或人物关系上的错误。
 
 ## 3. 中文通读
 
@@ -52,3 +52,17 @@
 
 - 没有未解决的意义问题。
 - 阅读器校样还没有做；`book.json` 里本节的状态由主会话修改。
+
+## 第三轮：GPT-6 Astra 独立审校
+
+- 审校者：GPT-6 Astra，通过 Codex 运行，只读，和译者属于不同的模型家族。
+- 发现：4 条。逐条找到中英文对应的句子，读过上下文后核实：成立并修改 4 条，不成立 0 条。其中 1 条问题属实，措辞另作了调整。
+- 成立并修改：
+  - 第 6 块 “which had the effect of “pushing” me to the next critical point of intellectual drive”：原译“这两次交谈把我“推”到了智识冲劲的下一个临界点”，“智识冲劲”搭配生硬。采纳审校者的建议，改为“这两次交谈把我的求知热情“推”到了下一个临界点”；作者打了引号的“推”和第 10 章的术语“临界点”都保留。
+  - 第 6 块 “(b) Kahneman’s important work is on utility theory (in its different stages) with consequences on such significant things as happiness.”：原译“卡尼曼的重要研究是关于效用理论（在其不同阶段）的，对幸福这样的重大问题都有影响”，“是关于……的”被括号截断，“都有影响”的“都”也没有着落。问题属实。审校者建议“卡尼曼的重要研究涉及效用理论的不同阶段”，这样会去掉作者的括号；现写“卡尼曼的重要研究讲的是效用理论（涉及它的各个阶段），对幸福这样的重大问题也有影响”，括号保留，“它”和英文的 its 一样指效用理论，不替作者断定是哪几个阶段。
+  - 第 7 块 “the childhood friend who was my sounding board with my early introspections on randomness two decades ago”：原译“20 年前我刚开始反省随机性时”，“反省”是检查自己的过错，对象不能是随机性。采纳，改为“20 年前我刚开始思索随机性时”。
+  - 第 11 块 “Given their zeal, I doubt that many mistakes are left; however, those that remain are mine.”：原译“我怀疑书里已经剩不下多少错误”，中文的“怀疑”既可以读成“猜想”，也可以读成“不相信”，后一种读法正好和原意相反。采纳，改为“我想书里已经没剩下多少错误”，后半句“不过，剩下的错误都归我”不变。
+- 不成立，保留原译：无。
+- 按全书统一的写法修改：0 处。逐条对照了术语表的“全书统一的写法”和“全书统一的写法（译完后定）”：数字“23 个世纪”“20 年前”“第 10 章”用阿拉伯数字，“两次晚饭”“一个世纪”用汉字，符合规定；《平面国》（*Flatland*）、《非理性繁荣》（*Irrational Exuberance*）、《卑鄙的基因》（*Mean Genes*）在本节第一次出现时括注了斜体原题，指本书的 Fooled 写《随机漫步的傻瓜》，和第 8 章一样不括注；有中文译名的 13 人在本节第一次出现时括注英文，写 keep 的亲友同事照写英文，和 people-zh.tsv 一致；Nobel economists 写“诺贝尔经济学奖得主”，evolutionary 写“进化”，heuristic、critical point、network externalities、informational cascades、skeptical empiricist 照术语表写；斜体旁边没有会让 CommonMark 闭合不了的标点；没有破折号、体例禁用的对比句式和混进中文的半角标点。
+- 对英文原文的疑问：审校者也指出第 9 块 “Levantine-tradder-mathematician-physicist” 里的 tradder 是 trader 的笔误。上面“原文疑点”表里已经记过，中文按 trader 译作“交易员”，`en/` 不改。
+- 核实与修改：agent（Opus 5.5）。改完后运行 `python3 scripts/site.py status fooled-by-randomness`，本节显示 11/11，全部块已翻译，原文没有注释；全书 1294/1294 块已翻译。

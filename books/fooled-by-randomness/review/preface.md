@@ -10,7 +10,7 @@
   - `tools/term_consistency.py`：本节没有提示。
   - 用 markdown-it（CommonMark）渲染中英两个文件：中文 29 处斜体，英文 29 处。英文的 *Newsweek* 在中文按体例写《新闻周刊》，不用斜体；英文 “affirming the consequent” 那一处的星号没有被解析成斜体（见“原文疑点”），中文按原意写成斜体的“*肯定后件*”。中文渲染后没有残留的星号，链接只有 `[亚马逊](http://amazon.com)` 一处，URL 和英文相同。
   - 在 `/tmp` 的一份副本里把本节设成草稿，用 `framework/tools/build.py --drafts` 构建通过。`site.py check fooled-by-randomness` 也通过。
-  - 本节没有破折号，没有“不是……而是……”句式，中文里没有半角标点，也没有嵌套括号。
+  - 本节没有破折号，没有体例禁用的对比句式，中文里没有半角标点，也没有嵌套括号。
 - 发现并修改：
   - 第 22 块 “If I write that I doubt that my neighbor’s success is devoid of some measure, small or large, of luck”：草稿写成“我怀疑他的成功里没有运气成分”，中文的“怀疑……没有”会被读成“我猜他的成功里没有运气”，意思正好反了。改为“我不相信他的成功能和运气毫不沾边，不管运气的分量是大是小”。
   - 第 13 块 “but they are by far the most interesting”：初稿“到目前为止它是最有意思的一个”把 by far（远远超过）误解成了“迄今为止”，改为“不过它比其他陷阱有意思得多”。
@@ -88,7 +88,7 @@
     - 第 3 块 “did not come from a writer whom I had intimately frequented over the years”：“一直亲近的作家”会被读成和作家本人有私交，改为“多年来反复研读、十分熟悉的作家”。定语因此变长，整句改为“我尽量只用这样的引语：它们是自然而然从记忆里冒出来的，出自我多年来反复研读、十分熟悉的作家”。
     - 第 15 块 “people who did not fare well in life, through no fault of their own”：“却并非自己过错的人”缺了主语，改为“那些人生不顺、错又不在自己的人”，比建议里的“错却不在自己”顺口。
   - 不采纳：无。
-- 审校者的总体判断：译文忠实、完整，读起来基本自然，可以小改后进入中文通读。30 块中英对得上；人名、术语、书名、机构名、数字、斜体和外文引语的处理都合乎体例；没有破折号，没有“不是……而是……”句式。问题以措辞为主，没有严重误译；意思上的细微偏差有五处：两处“算不上”、“补得最多的是第 11 章”、财经广播节目写成了电台、“多年来一直亲近的作家”。
+- 审校者的总体判断：译文忠实、完整，读起来基本自然，可以小改后进入中文通读。30 块中英对得上；人名、术语、书名、机构名、数字、斜体和外文引语的处理都合乎体例；没有破折号，没有体例禁用的对比句式。问题以措辞为主，没有严重误译；意思上的细微偏差有五处：两处“算不上”、“补得最多的是第 11 章”、财经广播节目写成了电台、“多年来一直亲近的作家”。
 
 ## 3. 中文通读
 
@@ -104,10 +104,29 @@
   - 第 22 块 “logic does not require empirical verification” 写“经验验证”，第 30 块 “empirical validity” 写“实证依据”。前者是哲学里的常见说法；后者紧挨着“经验法则”，用“实证”读起来不绕。两处语境不同，保留。
   - 第 9 块 “A reader turned pen pal made me rediscover …”：这位笔友的性别原文没有说，“是他让我”按中文泛指的习惯写“他”，保留。
 - 一致性：人名在本节第一次出现时都括注英文，之后只写中文，沃伦·巴菲特、塔勒布、蒙田、笛卡尔、布赖恩·莱勒的第二次出现都核对过。运气、能力、机遇、被随机性愚弄、胡话、实干者、敬业精神、黑天鹅、稀有事件、过往业绩、往返谬误、俄罗斯轮盘赌的写法全节一致；`tools/term_consistency.py` 对本节没有提示。
-- 检查：`python3 scripts/site.py status fooled-by-randomness` 显示 preface 30/30；全节没有破折号，没有“不是……而是……”句式，没有半角标点。`site.py check fooled-by-randomness` 的草稿构建通过，提示字体子集缺字，发布前要运行 `site.py fonts`。
+- 检查：`python3 scripts/site.py status fooled-by-randomness` 显示 preface 30/30；全节没有破折号，没有体例禁用的对比句式，没有半角标点。`site.py check fooled-by-randomness` 的草稿构建通过，提示字体子集缺字，发布前要运行 `site.py fonts`。
 
 ## 状态
 
 - 没有未解决的意义问题。双语审校指出的五处意思偏差都已改正，中文通读没有发现新的意思问题，也没有新的原文疑点。
 - 译者自检留给主会话的几项还没有定：第 28 块“纳西姆（Nassim）”的括注是否保留；《百万富翁的智慧》和书末注释主题词“百万富翁的头脑”怎样统一；第 15 块 “brother-in-law” 写“姐夫”，是在几种姻亲里选了一种，原文没有说明是哪一种；三个小标题“给赢家加仓”“为（一些）读者正名”“错过一场恶作剧”的确认；英文第 20 块的斜体标记是否修正。
 - 阅读器校样还没有做；`book.json` 里本节的状态（现在是 todo）由主会话修改。
+
+## 第三轮：GPT-6 Astra 独立审校
+
+- 审校者：GPT-6 Astra，通过 Codex 运行，只读，和译者属于不同的模型家族。
+- 发现：6 条（意思 3 条，措辞 3 条）。逐条找到中英文对应的句子，读过上下文后核实：成立并修改 4 条，不成立 2 条。
+- 成立并修改：
+  - 第 21 块 “That all millionaires were persistent, hardworking people does not make persistent hard workers become millionaires”：原译“所有百万富翁都是坚持不懈、勤奋工作的人，并不能让坚持不懈、勤奋工作的人都变成百万富翁”。逗号后面的“并不能让”没有主语，按中文的习惯会接上前一分句的“所有百万富翁”，读成百万富翁没法让勤奋的人变成百万富翁。审校者建议改成“不能据此推断”，可作者在这里特意用了表示因果的 make，接的是上一句“把*必要的*东西和起因果作用的东西混为一谈”，所以保留“让……变成”，补上主语。新译：“所有百万富翁都是坚持不懈、勤奋工作的人，这一点并不能让坚持不懈、勤奋工作的人都变成百万富翁”。
+  - 第 22 块 “only that a large population of random investors will *almost necessarily* produce someone with his track records *just by luck*”：原译“一大群随机的投资者里”。“随机的”放在指人的名词前面，中文常读成“随机抽出来的”，例如“随机的路人”；作者说的是投资决定全凭随机的人，对应前面“构造一群智力欠佳的人”的思想实验。审校者建议的“一大群随机作出投资决策的人里”偏长。新译：“一大群随机投资的人里”。
+  - 第 25 块 “this guy Taleb believes that stock analysts are just random forecasters”：原译“股票分析师不过是随机的预测者”，问题和上一条相同。改成说预测本身是随机的，也和后面“随机挑三只股票来谈”接得上。新译：“股票分析师不过是在随机地做预测”（审校者建议“在随机给出预测”，意思相同）。
+  - 第 29 块 “However, media journalism is less standardized than it appears; it attracts a significant segment of thoughtful people”：原译“不过，媒体新闻并不像看上去那样千篇一律”。能吸引有思想的人进来、让他们摆脱商业体制的是这个行业，“媒体新闻”指的是报道内容。按审校者的建议，新译：“不过，新闻业并不像看上去那样千篇一律”，和第 2 章、第 3 章、第 9 章 journalism 的写法一致。第 24 块 “the book’s aggressive warning against media journalism” 写“提防媒体新闻”，说的是读者该提防的报道，保留。
+- 不成立，保留原译：
+  - 第 3 块 “This comes straight from the gut”：审校者认为“这本书全凭直觉写成”改变了原意，建议写“这本书写的是我的肺腑之言”。from the gut 说的是凭本能、未经推敲，下文紧接着讲作者写第一版时定的规矩：只写亲眼见过或自己想出来的东西，删掉像是跑了一趟图书馆才写出来的段落，凡是像干活的一律不要，正是凭直觉写的意思。“肺腑之言”强调真诚，偏离了这一层。上一轮双语审校已经把“完全出自本能”改成现在的写法，保留。
+  - 第 11 块 “Probability is not a mere computation of odds on the dice or more complicated variants”：审校者认为 odds 指几率，“赔率”把概率和赌注的回报混在一起，建议改成“各种结果出现的概率”。全书把 odds 统一写成“赔率”（第 1、2、3、6、9、11、12、13 章），第 13 章章首提要的 “probability is not about the odds” 写“概率和赔率无关”，和这一句前后呼应；“赔率”在赌博的语境里也常用来指胜算。改成“概率”以后，这句会变成“概率的意义远不止计算……的概率”，作者拿赌桌上的计算和概率对比的意思就没了。保留。
+- 按全书统一的写法修改：2 处。
+  - 第 9 块座右铭 “*my principal activity is to tease those who take themselves and the quality of their knowledge too seriously.*”：按“take knowledge seriously 写‘当真’”，“取笑那些把自己和自己知识的质量看得太重的人”改为“取笑那些把自己和自己知识的质量太当真的人”，和标题“别太把知识当真”呼应。
+  - 第 7 块 “much of what he was saying was just backfit explanations concocted ex post by his deluded mind”：按“backfit 按上下文写‘倒推出来的’”，“在事后编出来、倒过来套上去的解释”改为“在事后倒推、编造出来的解释”，和第 26 块“倒推出来的逻辑”一致。
+  - 其余各条核对过，这一节已经合乎规定：Nassim 出现在别人的话里，写“纳西姆（Nassim）”；brother-in-law 写“姐夫”；书名写《百万富翁的智慧》。译者自检和中文通读留给主会话的这三项，统一写法里已经有了结论。数字（16 世纪、十年、五百年、一千多名、三只股票、50 多万读者）合乎规定，“五百年”是 half a millennium 的约数。《新闻周刊》不括注。ex post 写“事后”，用正体；*dialogue de sourds*、*Homo sum* 保留斜体并括注中文。本节非生物学意义的 evolution、evolve 写“我个人的变化”“变成成功的商人”，第 3 章、第 13 章同类的用法也按上下文写成“演变”“演进”，保留。“休谟（Hume）的归纳问题”和书末注释“古德曼（Goodman）的归纳之谜”写法相同，保留。本节没有需要加译者注的地方。
+- 对英文原文的疑问：审校者提了两条，都已经记在本记录的原文疑点表里：第 6 块 “less, far less, random that it actually is” 的 that 应为 than；第 29 块 “Kojo Anandi” 可能是 Kojo Nnamdi 的误拼，照 people-zh.tsv 写“科乔·阿南迪（Kojo Anandi）”。本轮没有新的疑点。
+- 核实与修改：agent（Opus 5.5）。改完后运行 `python3 scripts/site.py status fooled-by-randomness`：preface 30/30，本节没有注释；全书 1294/1294 块已译。用 markdown-it 渲染本节，29 处斜体，没有残留的星号；中英两个文件都是 59 行，块的对应没有变；没有破折号，没有体例禁用的对比句式。

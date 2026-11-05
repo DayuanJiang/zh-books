@@ -43,6 +43,7 @@
 | 第 185 块（Shizgal 1999） | Brain Simulation Rewards | 应为 Brain Stimulation Reward（脑刺激奖赏）。照抄原文。 |
 | 第 215 块（Tyszka and Zielonka 2002） | Taszka, T. | 作者是 Tadeusz Tyszka（查过论文 PDF），应拼作 Tyszka。照抄原文。 |
 | 第 220 块（Tversky and Kahneman 1971） | *Psychology Bulletin* | 期刊名是 Psychological Bulletin。照抄原文。 |
+| 第 229 块（Weinberg 2001） | *Facing Up: Science and Its Cultural Adversaries.* Working Paper. Harvard University. | 这是哈佛大学出版社 2001 年出版的文集（查过哈佛大学出版社和 Internet Archive 的书目），原文把它标成了工作论文（Working Paper）。第三轮审校时补进。照抄原文。 |
 | 第 237 块（Zajdenweber 2000） | *L’économie des extrèmes* | 法文应为 extrêmes。照抄原文。 |
 | 第 238 块（Zajonc 1980） | Preferences Need No Infderences | 应为 Inferences。照抄原文。 |
 | 第 239 块（Zajonc 1984） | *American Psychologist,* 39, 117–123, 114. | 这篇文章刊在第 39 卷第 2 期，页码是 117 到 123（查过出版信息）。后面的 “, 114” 含义不明，疑为多余。照抄原文。 |
@@ -78,3 +79,15 @@
   - 破折号：同意审校者的看法，条目里的 “———”、“—” 和 “–” 属于照抄的英文书目信息，按术语表的体例保留。请主会话确认后关闭这一项。
   - 原文笔误是否在中文版更正：仍由主会话决定。要改的话，第 20 块的 Carillo 要和第 17、92、234 块一起改，Schleifer 和 Taszka 要和 `review/terms/people-zh.tsv` 一起改；第 105 块如果更正，书末注释“相对地位与绝对地位”一条的引用也要一起处理。
 - 还没做的：阅读器校样（第 4 节）。`book.json` 里本节的状态仍是 `todo`，由主会话修改。
+
+## 第三轮：GPT-6 Astra 独立审校
+
+- 审校者：GPT-6 Astra，通过 Codex 运行，只读，和译者属于不同的模型家族。
+- 发现：0 条。审校者逐块核对了全节，认为译文没有问题：标题照“各节标题”写“参考文献”，239 条文献照抄英文，条目里的 “———”“—”“–” 属于术语表允许的英文书目格式。逐块找到中英文对应的句子，读过上下文后复核：成立并修改 0 条，不成立 0 条。另外，审校者列了 20 条对英文原文的疑问，见下面“对英文原文的疑问”。
+- 成立并修改：无。
+- 不成立，保留原译：无。
+- 按全书统一的写法修改：0 处。逐条对照后本节已经符合：用脚本比较中英两个文件，除第一行标题外逐字节相同，符合“参考文献条目和书末注释的‘作者（年份）’引用照抄原文，原文的笔误也照抄”这一条；Brocas and Carillo、Schleifer、Taszka、Kahneman, Knetsch and Thaler (1986) 的题目和 Keynes 两条的年份、页码都照原文保留，中文版不加说明；标题“参考文献”和“各节标题”一致；本节没有中文句子，所以数字、人名括注、破折号和体例禁用的对比句式这几条没有可改的地方。
+- 对英文原文的疑问：审校者列了 20 条，逐条对照英文和上面的“原文疑点”表：
+  - 19 条表里已经有了，说法和表里一致：缺后引号的 6 条，Carillo，WinnerTake-All，Weatley，Facts, Fiction and Forecast，Kahneman, Knetsch and Thaler (1986) 的作者和题目对不上，Keynes (1937) 的题目和页码，Keynes 的初版年份，Kreps 应为 Krebs，Springder-Verlag，Mathew，Schleifer，Searle, John, J.，Sen (1977) 漏了 Fools，Shizgal (1999) 的 Brain Simulation Rewards，Taszka，Psychology Bulletin，Infderences，Zajonc (1984) 页码后多出的 114。
+  - 1 条是新的，补进了表里：第 229 块 Weinberg (2001) 写作 “*Facing Up: Science and Its Cultural Adversaries.* Working Paper. Harvard University.”。查了哈佛大学出版社和 Internet Archive 的书目，这是哈佛大学出版社 2001 年出版的文集，原文把它标成了工作论文。书名和年份都对，读者按这一条能找到书末注释“公共知识分子与科学知识分子”一条引用的 Weinberg (2001)。按体例照抄原文，中文文件没有更正。现在“原文疑点”表里一共 26 项。
+- 核实与修改：agent（Opus 5.5）。本轮没有改动 `zh-cn/30-references.md`，只在本记录的“原文疑点”表里补了第 229 块一行。运行 `python3 scripts/site.py status fooled-by-randomness`，本节显示 240/240 块已译，原文没有注释。

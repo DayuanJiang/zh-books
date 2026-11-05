@@ -104,3 +104,25 @@
   - 术语表“体例”里粗体主题词的例子 `**后见之明偏差：**` 渲染不出来，建议改成 `**后见之明偏差**：`（译者自检“未决”第一条）。
   - 译者自检“未决”里其余几条仍待决定：芒福德文章的括注用斜体还是引号、Nozik 是否改成 Nozick、en/ 里 al-Ghazl 的乱码、[^t1] 是否保留。
   - 这一节在 `book.json` 里仍是 `todo`，需要改成 `review` 才能在阅读器里校样；第 4 节“阅读器校样”还没有做。
+
+## 第三轮：GPT-6 Astra 独立审校
+
+- 审校者：GPT-6 Astra，通过 Codex 运行，只读，和译者属于不同的模型家族。
+- 发现：8 条。逐条找到中英文对应的句子，读过上下文后核实：成立并修改 8 条，不成立 0 条。其中第 8、26、119、124 块的四条采纳了审校的意思，换了更贴近原文的写法。
+- 成立并修改：
+  - 第 8 块「蒙田与笛卡尔」，“the so-called Cartesian mind corresponds to someone with an appetite for certainties”：原译“可所谓的笛卡尔式头脑，对应的却是一个渴求确定性的人”，“头脑对应一个人”搭配生硬。改为“可所谓的笛卡尔式头脑，指的却是渴求确定性的人”。审校建议的“可所谓具有笛卡尔式头脑的人，却渴求确定性”丢掉了“这个称呼指的是什么人”的意思，没有采用。
+  - 第 23 块「可错性与不可错论」，皮尔士的话 “Nothing can be more completely contrary to a philosophy, the fruit of a scientific life, than infallibilism”：原译“对于一种作为科学生涯之果实的哲学来说，没有什么比不可错论更与它背道而驰了”，“作为……之果实的”这层修饰读起来拗口。改为“对于一种积一生科学工作而成的哲学来说，没有什么比不可错论更与它背道而驰了”，后半句不变。
+  - 第 26 块，“Even more vicious results have been shown by researchers who studied how much people would *pay* to lower other people’s income”：原译“他们得出的结果更加恶毒”，恶毒的是研究揭示出来的行为，“结果恶毒”搭配不当。改为“他们发现的行为更加恶毒”。
+  - 第 92 块「非线性动力学」，“Sornette goes beyond just characterizing the process as fat-tailed”：原译“索内特（Sornette）不只是把这个过程描述为厚尾”。术语表“只出现一两次、没有收进表里的说法”规定 fat tails 写“肥尾”，序言也写“肥尾”。改为“索内特（Sornette）不只是说这个过程具有肥尾，说它的概率分布……”。译者自检列出的新定说法里的“厚尾”随之作废。
+  - 第 101 块，“Another problem is seen in Arrow’s voter’s impossibility theorem.”：原译“另一个问题见于阿罗（Arrow）的投票不可能定理。”people-zh.tsv 的说明写“阿罗不可能定理”，术语表也规定哥德尔定理这类通行的科学术语不括注人名。改为“另一个问题见于阿罗不可能定理。”
+  - 第 119 块，“show evidence of a cheater detection module”：原译“这证明存在一个识别欺骗者的模块”，把“提供了证据”说成了“证明”，语气比原文强。改为“这表明存在一个识别欺骗者的模块”。
+  - 第 119 块，“we adapted to the enforcement of cooperative tasks and are quick at identifying free riders”：原译“我们适应了执行合作任务，很快就能认出搭便车的人”，读者会理解成我们自己去做合作的事。enforcement 指确保每个人都尽到合作的义务，这样才和后面认出搭便车的人连得上。改为“我们已经适应了督促大家完成合作任务，很快就能认出搭便车的人”。
+  - 第 124 块「享乐跑步机」，“If things do not accumulate well then it follows that humans should follow a different set of strategies.”：原译“如果事情不能很好地累积，那么人类就应该采取另一套策略。”“事情”指代空泛。前一句说的是糟糕的一天就能抹掉过去所有成功的效果，改为“如果成功的效果累积不起来，那么人类就应该采取另一套策略。”审校建议的“成功带来的满足感”比原文多了一层解释，没有采用。
+- 不成立，保留原译：没有。
+- 按全书统一的写法修改：1 处。另有 2 处和上面的审校发现重合（第 92 块的“肥尾”、第 101 块的“阿罗不可能定理”），记在上面。
+  - 第 76 块的粗体主题词 “Goodman’s riddle of induction”：原译 `**古德曼（Goodman）的归纳之谜**`。“全书统一的写法（译完后定）”规定，带人名的说法里，这个人恰好在本节第一次出现时，英文括注放在整个说法后面，例如布里丹之驴（Buridan’s donkey）；people-zh.tsv 也写明 Goodman 只在这个说法里出现。改为 `**古德曼的归纳之谜（Goodman’s riddle of induction）**`，用框架的 markdown-it 渲染，粗体正常闭合。
+  - 其余规定逐条对过，这一节已经符合：数字（一到十用汉字；“4 倍”是幂指数为 2 时算出来的比值，“6 点”是骰子的点数，照写阿拉伯数字）、书名和文章的括注（芒福德的文章括注用引号）、人名在本节第一次出现时括注英文、文献引用照抄原文的笔误（Taszka、Schleifer、Nozik、Knetch、Damasion）、粗体斜体旁边的标点、per se 写“本身”、译者注 [^t1] 的格式、take ... seriously 写“当真”或“认真对待”、evolution 写“进化”。
+- 对英文原文的疑问：审校提出 4 条，都已经记在上面的“原文疑点”表里（第 52 块的 hycocampus、第 76 块的 grue、第 86 块的夏普比率和变异系数、第 94 块帕累托一段的幂次）。审校补充了两点，记在这里，译文照旧：
+  - 第 76 块：古德曼给 grue 下的定义以“在时刻 *t* 之前有没有被观察过”为条件（在 *t* 之前被观察过并且是绿色，或者没有被观察过并且是蓝色），并不要求同一个东西到了 *t* 就变色。作者的说法在这一点上也和原定义不同。
+  - 第 86 块：夏普比率的分子通常是相对于基准（例如无风险利率）的超额收益，变异系数是标准差除以均值。按作者自己给的定义（收益除以标准差），两者才互为倒数；按哪一种定义，两者都算不上同一个概念。
+- 核实与修改：agent（Opus 5.5）。改完后运行 `python3 scripts/site.py status fooled-by-randomness`，notes 一行是 154/154，全书 28 节、1294/1294 块都已译完；用框架的 markdown-it 逐块渲染，没有残留的星号；全文没有破折号，也没有体例禁用的对比句式。
