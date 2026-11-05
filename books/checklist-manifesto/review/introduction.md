@@ -38,7 +38,7 @@
   - 第 10 块 “Crap.” 译作“该死。”，第 32 块 “that’s how states execute prisoners” 译作“美国各州处决犯人，用的就是这个办法”，补出了“美国”。
   - 第 55 块，引言的最后一句 “It is a checklist.” 译作“那就是清单。”，另一个可选的说法是“那就是一张清单。”，后者更突出这个东西的简单。
   - 第 44 块 eptitude 的译法“有能”和译者注 [^t2] 的写法，以及 Code Blue 的译者注 [^t1]，样章认可后各章照此处理。
-  - 建议在术语表里补两条，留给主会话决定：heart attack 全书统一写“心脏病发作”（本章正文出现 9 次）；原文用斜体指称词语本身的地方，中文改用引号。
+  - 建议在术语表里补两条，留给主会话决定：heart attack 全书统一写“心脏病发作”（本章正文出现 9 次）；原文用斜体指称词语本身的地方，中文改用引号。**已定**：术语表核心概念表规定 heart attack 写“心脏病发作”，heart attack patients 写“心脏病发作的病人”；“全书统一的写法（译完后定）”的“指称词语本身的斜体”一条规定中文改用引号。本章按这两条执行，见第三轮。
 
 ## 原文疑点
 
@@ -46,6 +46,7 @@
 | --- | --- | --- |
 | 第 17 块，注释 1 | EPUB 里 “his heart suddenly stopped.*” 只有星号，没有注释文字 | 已记在 `review/source.md`：注释文字按美国版第 4 页的脚注补回，英国版纸质书没有核对。中文按补回的文字翻译 |
 | 第 6 块 | His blood pressure was barely detectible | detectible 是 detectable 的异体拼写，不算错误，`en/` 照原文保留，意思照常翻译 |
+| 第 34 块 | they also gave intravenous calcium and inhaled doses of a drug called albuterol, which act more quickly. The potassium levels dropped rapidly. | 第三轮审校者指出：静脉钙剂的作用是保护心肌，并不降低血钾；美国急诊医师学会（ACEP）的药理资料写雾化沙丁胺醇约 30 分钟内起效，胰岛素加葡萄糖约 15 分钟内开始降钾，沙丁胺醇并不更快。也有研究（PubMed 10084465）测到吸入沙丁胺醇 3 到 5 分钟后血钾就开始下降，钙剂对心脏的保护也是几分钟内见效，原文的说法大体站得住。不影响读者理解这次抢救，正文照原文译，不加译者注 |
 
 ## 2. 双语审校
 
@@ -75,8 +76,30 @@
   - 第 52 块 “The capability of individuals is not proving to be our primary difficulty”：句首的“事实证明”和第 46 块 “is proving brutally hard” 的“事实证明”只隔几段，读着重复。第 52 块改为“现在看来”，is proving 表示从经验中显出来的情况，意思不变。
   - 第 40 块 “We knew little about what caused them or what could be done to remedy them”：原译“知之甚少，也不太知道……”把同一个 knew little 说成一重一轻，和第 42 块的改动是同一个问题。改为“疾病是什么引起的，能做些什么来医治，我们都知之甚少”。
 - 检查过、没有改的地方：约翰、戈罗维茨、麦金太尔首次出现括注英文，之后只写中文；asystole 写“心脏停搏”，cardiac arrest 写“心搏骤停”，和英文的区分一致；第 3 块“创伤急救团队”和第 6 块“创伤团队”指同一个团队，第二次用简称，读者不会误会；第 48 块三次“看到这一点”照原文 You see it 的排比保留。
-- 检查：`site.py status` 仍显示 55/55、7/7；正文没有破折号，也没有“不是……而是……”句式；`tools/term_consistency.py` 没有发现不符合约定译法的块。第 1 节“照体例处理的地方”引的“这下，他们*真的*要冲进手术室了”已按第 2 节的审校意见改为“这下，他们*真的*火速冲进了手术室”。
+- 检查：`site.py status` 仍显示 55/55、7/7；正文没有破折号，也没有体例禁用的对比句式；`tools/term_consistency.py` 没有发现不符合约定译法的块。第 1 节“照体例处理的地方”引的“这下，他们*真的*要冲进手术室了”已按第 2 节的审校意见改为“这下，他们*真的*火速冲进了手术室”。
 
 ## 状态
 
-没有未解决的意义问题。第 1 节列出的待定处理（“该死”“那就是清单”“碘伏”、eptitude 和 Code Blue 的译者注、两条术语表建议）属于风格和全书体例的选择，留给用户确认样章时决定；阅读器校样（第 4 节）还没有做。
+没有未解决的意义问题。第 1 节列出的待定处理（“该死”“那就是清单”“碘伏”、eptitude 和 Code Blue 的译者注、两条术语表建议）属于风格和全书体例的选择，留给用户确认样章时决定（其中两条术语表建议后来已经由术语表定下，见第 1 节）；阅读器校样（第 4 节）还没有做。
+
+## 第三轮：GPT-6 Astra 独立审校
+
+- 审校者：GPT-6 Astra，通过 Codex 运行，只读，和译者属于不同的模型家族。
+- 发现：6 条。逐条找到中英文对应的句子，读过上下文后核实：成立并修改 4 条，不成立 2 条。6 条里 5 条是表达问题，1 条是数字问题，没有发现意思译错的地方。
+- 成立并修改：
+  - 第 43 块 “prescribing a statin to lower cholesterol and inflammation”：原译“开他汀类药物降低胆固醇和炎症”，“降低”和“炎症”搭配不当。改为“开他汀类药物降低胆固醇、减轻炎症”。审校者建议的写法多了“水平”两个字，没有用。
+  - 第 48 块 “and as a result so has our struggle to deliver on them”：原译“相应地，要把它们兑现出来也越来越吃力”，“兑现”能搭配承诺，搭配不了知识和本领。审校者建议“要把这些知识和本领用好”，同一句前面已经写了“知识和本领”，所以改为“相应地，要让它们真正发挥作用也越来越吃力”。第 47 块的“兑现科学的承诺”对应 making good on its promise，搭配没有问题，保留。
+  - 第 52 块 “It is not clear how we could produce substantially more expertise than we already have.”：原译“我们很难想象，还能怎样培养出比现在多得多的专业能力”，“能力”一般说强弱，不说多少。审校者建议整句改写为“还能怎样在现有基础上大幅提高人们的专业能力”，改动大于需要，这里把“多得多”改为“强得多”：“我们很难想象，还能怎样培养出比现在强得多的专业能力。”
+  - 第 53 块 “the volume and complexity of what we know has exceeded our individual ability to deliver its benefits correctly, safely, or reliably”：原译“我们掌握的知识数量庞大、复杂万分，个人已经没有能力正确、安全、可靠地把它的好处兑现出来”，“把好处兑现出来”是 deliver 的字面译法，“复杂万分”比原文说得重，原文“超出了个人的能力”这层关系也没有译出来。审校者建议的写法太长，又把一件事拆成“运用这些知识、发挥其效用”两件。改为“我们掌握的知识数量之多、复杂程度之高，已经超出了我们每个人的能力，谁都没法单靠自己正确、安全、可靠地让这些知识造福于人”。
+- 不成立，保留原译：
+  - 第 42 块 “spend the rest of his or her life at home as a cardiac cripple”，原译“回家做个心脏残疾的人，度过余生”。审校者认为生硬，建议“回到家里，余生都因心脏受损而活动受限”。cripple 是很重的说法，作者用它说明当年心脏病发作的病人前景多么黯淡；“残疾”保留了这份分量，意思也清楚。建议的改法换成了平淡的临床描述，丢了原文的口气。属于风格选择，保留原译。
+  - 第 43 块 “at least a dozen effective ways”，原译“至少有十几种有效的办法”。审校者认为 a dozen 是 12，应写“至少有 12 种”。这里的 a dozen 是整数概数，作者随后举的例子是六种；写成“12 种”反倒像一个确切的统计。按全书统一的写法，带“十几”的约数用汉字，第 1 节也把“十几种”列为约数。保留原译。
+- 按全书统一的写法修改：3 处，都回查了英文。
+  - 第 41 块 “Even as recently as the 1950s, we had little idea of how to prevent or treat them”：按“其他说法”一条，had little idea 写“几乎不知道”或“知之甚少”，原译“还几乎一无所知”改为“还知之甚少”。第 42 块的“我们也几乎不知道该怎么治”已经符合，不改。
+  - 第 44 块 “heart attack patients undergoing cardiac balloon therapy should have it done within ninety minutes of arrival at a hospital”：按核心概念表 heart attack patients 写“心脏病发作的病人”，原译“接受心脏球囊治疗的心脏病发作病人，应该在到达医院后 90 分钟内完成治疗”改为“心脏病发作的病人如果接受心脏球囊治疗，应该在到达医院后 90 分钟内进行”，语序调整后句子更顺。“完成治疗”改为“进行”的原因见下面“对英文原文的疑问”。
+  - 第 49 块 “What do you mean half of heart attack patients don’t get their treatment on time?”：同一条，原译“什么叫一半的心脏病发作病人没能及时得到治疗？”改为“什么叫心脏病发作的病人有一半没能及时得到治疗？”。
+  - 其余各条逐一核对过，本章已经符合：数字（两天、五秒钟、四个小时、十几种、十多年、上千处用汉字；15 分钟、20 分钟、90 分钟、100 倍、60、70、80 个小时用阿拉伯数字）；人名首次出现括注英文，注释里的人名照写英文；第 47 块的 we 补成“我们医生”；asystole 写“心脏停搏（asystole）”，cardiac arrest 写“心搏骤停”；sterile drapes 写“无菌单”；expert clinicians 写“临床专家”；best-trained、most highly trained 写“训练最扎实”；We knew little 写“知之甚少”；*ineptitude*、*negligence*、*heartlessness* 改用引号；an average hospital 写“一家普通的医院”，和 a random hospital 那一条无关；注释开头引号里的词句和正文对应。第 1 节留给主会话决定的两条术语表建议已经由术语表定下，在原处注明“已定”。
+- 对英文原文的疑问：审校者提出两条。
+  - 第 34 块，静脉钙剂和吸入沙丁胺醇“起效更快”，随后血钾迅速下降：审校者指出钙剂保护心肌，并不降低血钾，沙丁胺醇按指南约 30 分钟内起效。核实后认为原文的说法大体站得住（钙剂对心脏的保护几分钟内见效，也有研究测到吸入沙丁胺醇 3 到 5 分钟后血钾就开始下降），而且不影响读者理解这次抢救。按“原文疑点和译者注”一条，记入本记录的“原文疑点”表，正文照原文译，不加译者注。
+  - 第 44 块和注释 4，“should have it done within ninety minutes” 和段末 “and get started” 的计时终点：审校者认为两处说法不一致。核实后认为英文前后一致：注释 4 和注释 5 的研究讲的都是 door-to-balloon time，也就是从进医院到第一次用球囊扩张血管的时间；have it done 指做上这项治疗，get started 指开始治疗，说的是同一个时间点。前后矛盾的是中文：原译“90 分钟内完成治疗”像是整个治疗都要在 90 分钟内结束，和段末的“然后开始治疗”对不上，已经改为“90 分钟内进行”（见上一条）。英文不算原文疑点，没有记入表里。
+- 核实与修改：agent（Opus 5.5）。改完后运行 `python3 scripts/site.py status checklist-manifesto`，introduction 显示 55/55 块、7/7 条注释，块和注释都已翻译，块数和注释编号没有变化。`tools/term_consistency.py` 没有发现本章有不符合约定译法的块。中文仍然没有破折号，也没有禁用的对比句式。
