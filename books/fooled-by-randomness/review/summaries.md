@@ -1,0 +1,79 @@
+# 各章概要（summaries）审校记录
+
+全节 29 个块（1 个一级标题、14 个章标题、14 段概要），原文没有注释，中文没有加译者注；中英逐块对应（`site.py status` 显示 29/29）。
+
+## 1. 译者自检
+
+- 执行者：translation agent（Opus 5.5），译者本人。
+- 范围：全节 29 块，从一级标题“各章概要”到第 14 章的概要，对照原文逐段检查漏译、增译、否定、条件、数字、行为主体、比较对象、术语义项和人名。另外运行了 `python3 scripts/site.py status fooled-by-randomness`（summaries 为 29/29）、`python3 scripts/site.py check fooled-by-randomness`（草稿构建通过，只提示这本书还没有生成字体子集）和 `tools/term_consistency.py`（本节初稿标出 2 个块，处理见下面）；也查过本节没有破折号，没有体例禁用的对比句式，中文里没有半角标点。
+- 做法：用脚本核对过，英文 14 段概要和各章开头的斜体内容提要逐字相同。按术语表“各章概要”一条，译文也要和各章开头的译文相同：
+  - 已经译好的第 1、2、3、5、6、7、9、11、13、14 章，概要照抄各章开头的中文，只去掉表示斜体的星号（英文概要也不是斜体）。照抄后又用脚本逐字比对过，连同下面第 8、10 章的两段，12 段全部一致。
+  - 第 8 章和第 10 章的中文文件在本节译完时由其他译者新建，开头的内容提要已经写好，本节改成照抄它们。第 8 章：“幸存者偏差的三个例子。为什么该住在公园大道上的人寥寥无几。邻家的百万富翁衣衫单薄。专家扎堆。”第 10 章：“生活那种非线性的残酷。搬进贝莱尔，染上名流富豪的恶习。为什么微软的比尔·盖茨（Bill Gates）也许不是他那一行里最好的（不过请别把这个事实告诉他）。让驴饿肚子。”
+  - 第 4、12 章还没有中文文件，概要由本节自己翻译，见下面“译法上的选择”。
+  - 章标题照术语表“各节标题”一列写，例如 “One: If You’re So Rich, Why Aren’t You So Smart?” 写“第 1 章 你这么有钱，怎么不够聪明？”，第 5 章和第 10 章标题里的破折号改成冒号。用脚本比对过，已有中文文件的 12 章，一级标题都和本节对应的章标题一致。
+- 发现并修改：
+  - 第 25 块（第 12 章）“On gamblers’ ticks crowding up my life”：初稿写“谈塞满我生活的那些赌徒怪癖”，`term_consistency.py` 按术语表找“赌徒的怪癖”没有找到，改为“谈赌徒的怪癖怎样塞满了我的生活”，和章标题的“赌徒的怪癖”一致。
+  - 第 9 块（第 4 章）“On extending the Monte Carlo generator”：初稿写“谈怎样扩展蒙特卡罗生成器”，“怎样”是原文没有的，删掉，写“谈扩展蒙特卡罗生成器”。
+  - 第 9 块 “Why the aesthete in me loves to be fooled by randomness”：初稿 loves 写“乐于”，语气偏弱，改为“喜欢”，和第 4 章正文 “There are instances where I like to be fooled by randomness” 的意思对上。
+  - 第 17 块（第 8 章）：初稿写“幸存者偏差的三个例证。为什么只有极少数人应该住在公园大道。邻家的百万富翁穿得十分单薄。专家扎堆。”，后来发现第 8 章的译文已经有了开头的内容提要，按逐字相同的要求改成照抄第 8 章的写法。两种写法意思相同。
+  - 第 21 块（第 10 章）：初稿写“生活中非线性的残酷。……为什么微软的比尔·盖茨（Bill Gates）在他那一行里未必是最好的（不过请别把这件事告诉他）。让驴挨饿。”，同样改成照抄第 10 章开头的写法。对照过原文，“The nonlinear viciousness of life” 写“生活那种非线性的残酷”，“may not be the best” 写“也许不是……最好的”，“Depriving donkeys of food” 写“让驴饿肚子”，意思都没有出入。
+- 译法上的选择（第 4、12 章，由本节翻译）：
+  - 第 4 章 “produce artificial thinking and compare it with rigorous nonrandom constructs”：artificial 和第 3 章概要的 “artificial history”（人造的历史）保持一致，写“人造的思想”；constructs 指严谨推出来的科学论证，写“严谨的、非随机的构造”。“The science wars enter the business world” 按术语表写“科学大战进入了商界”。aesthete 写“唯美主义者”。
+  - 第 12 章 “How I am the fool of all fools, except that I am aware of it”：the fool of all fools 按术语表写“傻瓜中的傻瓜”；How I am 写“为什么说我是”，“我怎样是”在中文里不通。“Dealing with my genetic unfitness” 的 unfitness 是进化意义上的不适应（和第 5 章“最不适者生存”同一个词根），写“对付我在基因上的不适应”。“No boxes of chocolate under my trading desk” 写“我的交易台底下没有一盒盒的巧克力”，对应第 12 章正文 “there are no chocolate boxes under my trading desk”。taxi-cab English 按术语表写“出租车英语”。
+- 人名：和 `review/terms/people-zh.tsv` 核对过。本节每个人名都只出现一次，按体例都在中文名后括注英文；照抄的各章译文里括注本来就有：维克多·尼德霍夫（Victor Niederhoffer）、索罗斯（Soros）、波普尔（Popper）、尼禄·图利普（Nero Tulip）、拿破仑（Napoleon）、监察官加图（Cato the censor）、卡尔内阿德斯（Carneades）、德·诺布瓦先生（Monsieur de Norpois）、罗伯特·默顿（Robert Merton）、蒙泰朗（Montherlant）。第 10 章照抄的译文里也有“比尔·盖茨（Bill Gates）”。“瑞典国王”是称号，按表不括注；“梭伦的警告”“帕斯卡的赌注”是术语，和第 7 章开头一样不括注。
+- 术语：本节用到的条目都和术语表一致（地位排序、稀有事件、或然历史、蒙特卡罗模拟、蒙特卡罗生成器、抽样理论、科学大战、达尔文主义、归纳问题、偏态、认知不透明、经验主义、演绎、幸存者偏差、生日悖论、江湖骗子、敬业精神、赌徒的怪癖、出租车英语、傻瓜中的傻瓜、斯多葛主义、个人风度）。`term_consistency.py` 还标出第 28 块的章标题 “Bacchus Abandons Antony” 里没有“巴克斯”：这个标题按术语表“各节标题”写“酒神离弃安东尼”，没有改。
+- 未决：
+  - 第 4、12 章还没有中文文件。这两章的译者译开头的斜体内容提要时，可以照抄本节的译文；如果他们另有写法，请主会话把本节第 9、25 块改成和各章开头一致。第 8 章和第 10 章还在翻译中，以后如果改了开头的内容提要，本节第 17、21 块也要跟着改。
+  - 第 17 块（第 8 章）“The millionaire next door has very flimsy clothes” 暗指《邻家的百万富翁》这本书论据站不住（flimsy 也有“站不住脚”的意思）。照抄的“衣衫单薄”里“单薄”也能指论据薄弱，保留了这层双关，very 没有译出；请双语审校判断是否需要补上。
+  - 第 9 块的“严谨的、非随机的构造”读起来偏抽象，也可以写成“严谨的、非随机的论证”，请双语审校判断。
+  - 第 25 块 “How I am the fool of all fools” 写成“为什么说我是傻瓜中的傻瓜”，How 换成了“为什么说”，请双语审校判断。
+  - `book.json` 里 summaries 的状态还是 `todo`，由主会话修改。发布前要运行 `python3 scripts/site.py fonts fooled-by-randomness`。
+  - 双语审校、中文通读和阅读器校样还没有做。
+
+## 2. 双语审校
+
+- 执行者：另一个独立上下文的 agent（Opus 5.5），没有参与翻译。
+- 范围：全节 29 块（1 个一级标题、14 个章标题、14 段概要），对照英文逐块读完；本节没有注释。审校者还核对了章标题和术语表“各节标题”一列、人名和 `people-zh.tsv`、术语和术语表，查了破折号和禁用句式，并用脚本把 14 段概要和各章中文文件开头的斜体提要逐字比对。
+- 发现：9 条；编辑逐条对照英文和相关章节的正文核实后，采纳 8 条，不采纳 1 条。
+  - 采纳的例子：
+    - 第 9 块（第 4 章）“compare it with rigorous nonrandom constructs”：审校者指出，本节和第 4 章开头的提要有五处写法不同，按术语表“各章概要”一条，两处必须逐字相同；另外 constructs 写“构造”，中文读者会理解成结构。第 4 章正文说随机生成器“不可能随机地构造出科学话语”（it is not possible randomly to construct a scientific one），这里指严谨的论述。本节改为“再拿这些思想和严谨的、非随机的论述作比较”。另外四处保留本节的写法：“我身上那个唯美主义者”和第 4 章正文“我身上那个热爱诗歌和语言的人”（The poetry and language lover in me）一致；“谈扩展”没有加原文没有的“怎样”；“让它产出”“这些思想”“进入了商界”和第 4 章的写法意思相同。第 4 章开头的提要要由主会话改成和本节相同。
+    - 第 29 块（第 14 章）“the illusion of victory of man against randomness”：原译“它是人战胜了随机性的幻觉”可以读成“人战胜了（随机性的幻觉）”。第 14 章正文说，有尊严的态度会让失败和胜利显得同样英勇，斯多葛主义是“人想要和概率扯平的尝试”。改为“它是一种让人觉得自己战胜了随机性的幻觉”。
+    - 第 25 块（第 12 章）“How I am the fool of all fools, except that I am aware of it”：“为什么说……只不过……”前后接不上。照已认可的第 1 章样章的做法（“How things in modern life may change rather rapidly”写成陈述句），去掉“为什么说”，写“我是傻瓜中的傻瓜，只不过我自己意识到了这一点”。审校者建议后半句写“心里清楚”；原译“意识到了这一点”贴近 aware，读起来也通顺，保留。
+    - 第 25 块 “Dealing with my genetic unfitness”：“基因上的不适应”容易读成不习惯。第 7 章正文说“从基因上说，我们并不适于保持理性”（we are not genetically fit to be rational），作者的意思是天生不够适应。改为“对付我在基因上的先天不足”。
+    - 第 5 块（第 2 章）“the randomness wisdom of a Frenchman with steady bathing habits”：“对随机性的智慧”搭配不顺，改为“在随机性上的智慧”。这个法国人是第 2 章的让-帕特里斯，正文说他有梭伦的智慧，懂得随机性。
+    - 第 23 块（第 11 章）“A little more on journalistic pollution”：“新闻界的污染”可以理解成新闻界受了污染。第 11 章“概率与媒体”一节讲记者给纯属噪声的股市波动编造解释，说的是新闻造成的污染。改为“再谈谈新闻造成的污染”。
+    - 第 17 块（第 8 章）“The millionaire next door has very flimsy clothes”：very 漏译，改为“邻家的百万富翁衣衫实在单薄”。“单薄”仍然暗指《邻家的百万富翁》那本书论据单薄。
+    - 第 27 块（第 13 章）“The same Robert Merton putting the author on the map”：`people-zh.tsv` 里 Robert C. Merton 的译名是“罗伯特·C. 默顿”，原文这里只写 Robert Merton，第 13 章正文也写“罗伯特·默顿博士”。采纳审校者的意见，正文保留“罗伯特·默顿（Robert Merton）”，请主会话在人名表这一行的 note 里注明。
+  - 不采纳的例子：
+    - 第 29 块（第 14 章）“It is so easy to be heroic”：审校者认为“当英雄是如此容易”照搬了英文句式，建议写“当英雄其实很容易”或“当英雄原来这么容易”。“是如此容易”在书面中文里很常见，读者能顺畅读懂，也保留了 so 的语气；建议里的“其实”“原来”添上了原文没有写出的转折或意外。这一条属于措辞偏好，没有改。
+- 审校者的总体判断：这一节译文可靠，可以进入下一步。没有发现意义错误、否定错误、数字错误或整句漏译；14 个章标题和术语表一致，第 5、10 章标题里的破折号已经改成冒号，人名和术语都符合人名表和术语表，全节没有破折号和禁用句式。违反体例的只有第 4 章：本节概要和第 4 章开头的提要对不上。其余 8 条是小问题。审校者提醒，概要和各章开头的提要必须逐字相同，本节的改动都要由主会话同步到对应章节开头。
+
+## 3. 中文通读
+
+- 执行者：编辑 agent（Opus 5.5）。
+- 范围：采纳审校意见以后，从“各章概要”标题读到第 14 章的概要，看行文是否通顺、有没有重复、指代是否清楚、人名和术语前后是否一致。
+- 发现并修改：
+  - 第 5 块（第 2 章）“How almost all great ideas concerning random outcomes are against conventional sapience”：原译“关于随机结果的伟大思想，为什么几乎都和传统的见识相悖”，和第 12 章那一句的毛病一样，How 引出的是一个陈述，原文没有问原因。第 2 章的中文文件在本次通读期间已经把开头的提要改成“关于随机结果的伟大思想，几乎全都和传统的见识相悖”，本节照这个写法改。对照过原文，almost all 写“几乎全都”，意思完整。
+  - 其余各块读下来通顺，没有发现重复或指代不清。检查过的地方：每个人名在本节只出现一次，都括注了英文；“索罗斯（Soros）”“罗伯特·默顿（Robert Merton）”照原文的写法，只写姓或不写中间名的缩写；“和观点结婚”和第 13 章正文的“和自己的观点结了婚”一致；“谈没有叫的狗”和第 9 章小节标题“没有叫的狗”一致。第 11 章概要开头写“谈谈”，和其他各章的“谈……”略有不同，这是第 11 章开头提要的写法，意思没有问题，保留。
+  - 每一处改动都回查过英文原文和对应章节的正文。
+- 检查：`python3 scripts/site.py status fooled-by-randomness` 显示 summaries 29/29，中英逐块对应；全节没有破折号，也没有“不是……而是……”句式。
+
+## 原文疑点
+
+| 位置 | 原文 | 处理 |
+| --- | --- | --- |
+| 第 23 块（第 11 章概要） | A Brain Made in Brooklyn. | 第 11 章正文没有和这句对应的内容。全书另外两处提到布鲁克林（第一部分开头的 Brooklyn English，第 5 章一个在布鲁克林长大的交易员），都和这里无关，疑似第一版内容提要留下的一句（第 11 章的审校记录也这样记）。和第 11 章开头一样，照字面写“布鲁克林制造的大脑”。 |
+
+## 状态
+
+- 没有未解决的意义问题。
+- 待主会话处理：本节现在和六章开头的斜体提要不一致，要把这几章的提要改成和本节逐字相同。要改的地方如下，提要两端的斜体星号照旧保留：
+  - 第 2 章（`zh-cn/07-2-a-bizarre-accounting-method.md`）：“对随机性的智慧”改为“在随机性上的智慧”。
+  - 第 4 章（`zh-cn/09-4-randomness-nonsense-and-the.md`）：整段改为“谈扩展蒙特卡罗生成器，让它产出人造的思想，再拿这些思想和严谨的、非随机的论述作比较。科学大战进入了商界。为什么我身上那个唯美主义者喜欢被随机性愚弄。”
+  - 第 8 章（`zh-cn/15-8-too-many-millionaires-next.md`）：“衣衫单薄”改为“衣衫实在单薄”。
+  - 第 11 章（`zh-cn/18-11-randomness-and-our-mind-we.md`）：“新闻界的污染”改为“新闻造成的污染”。
+  - 第 12 章（`zh-cn/20-12-gamblers-ticks-and-pigeons.md`）：“为什么说我是傻瓜中的傻瓜”改为“我是傻瓜中的傻瓜”，“基因上的不适应”改为“基因上的先天不足”。
+  - 第 14 章（`zh-cn/22-14-bacchus-abandons-antony.md`）：“它是人战胜了随机性的幻觉”改为“它是一种让人觉得自己战胜了随机性的幻觉”。
+  - 这几章的编辑可能也在同时修改开头的提要（第 2 章就在本次通读期间改过一处），主会话同步之前请再逐字比对一次，两边统一成同一种写法。
+- 请主会话在 `people-zh.tsv` 里 Robert C. Merton 一行的 note 里注明：原文只写 Robert Merton 时写“罗伯特·默顿”。
+- `book.json` 里 summaries 的状态还是 `todo`，阅读器校样还没有做。发布前要运行 `python3 scripts/site.py fonts fooled-by-randomness`。
