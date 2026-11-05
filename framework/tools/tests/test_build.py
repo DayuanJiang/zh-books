@@ -4,6 +4,7 @@ import shutil
 import tempfile
 import unittest
 
+import book
 import build
 import config as book_config
 import new_book
@@ -62,6 +63,25 @@ class BuildTests(unittest.TestCase):
         index = json.loads((self.out / "assets/search-index.json").read_text())
         self.assertIn({"route": "/zh-cn/01-one", "chapter": "第一章", "title": "本章小结与要点", "anchor": "chapter-recap",
                        "text": "本章讲了一件事。 - 第一条要点 - 第二条要点"}, index)
+
+    def test_whole_italic_paragraph_under_the_title_gets_a_role(self):
+        lead = "# One\n\n*A lead. In sentences.*\n\nText.\n"
+        subtitle = "# One\n\n*How to Do It . . . Well*\n\nText.\n"
+        zh = "# 一\n\n*导语。*\n\n正文。\n"
+        roles = [book.compile_chapter("ch01", en, zh, "en")["units"][1]["role"] for en in (lead, subtitle)]
+        self.assertEqual(roles, ["chapter-lead", "chapter-subtitle"])
+
+    def test_roles_json_overrides_the_rules(self):
+        (self.root / "en" / "01-one.md").write_text("# One\n\n*To my family*\n")
+        (self.root / "zh-cn" / "01-one.md").write_text("# 第一章\n\n*献给我的家人*\n")
+        unit = book.compile_chapter("ch01", "# One\n\n*To my family*\n", "# 第一章\n\n*献给我的家人*\n", "en")["units"][1]
+        (self.root / "roles.json").write_text(json.dumps({unit["id"]: {"role": "plain", "why": "献辞"}}))
+        build.build(self.root, self.out)
+        chapter = json.loads((self.out / "assets/reader-content/ch01.json").read_text())
+        self.assertEqual(chapter["units"][1]["role"], "plain")
+        (self.root / "roles.json").write_text(json.dumps({unit["id"]: {"role": "fancy"}}))
+        with self.assertRaisesRegex(ValueError, "unknown roles"):
+            build.build(self.root, self.out)
 
     def test_draft_build_marks_untranslated_blocks(self):
         build.build(self.root, self.out, drafts=True)

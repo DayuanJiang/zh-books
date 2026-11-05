@@ -24,6 +24,11 @@ CREDIT = re.compile(r"^\**\s*(Written|Edited) by\b")
 ATTRIBUTION = re.compile(r"^(?:—|--|——)\s*\S")
 CODE_LABEL = re.compile(r"^[\w./-]+\.\w+:$")
 PRISM_ALIASES = {"c++": "cpp", "golang": "go", "sh": "bash", "shell": "bash"}
+WHOLE_ITALIC = re.compile(r"\*[^*].*\*", re.S)
+ELLIPSIS = re.compile(r"\.\s?\.\s?\.|…")
+SENTENCE_END = re.compile(r"[.!?](?=[\s\"”’)]|$)")
+# Roles a book's roles.json may set for a paragraph, overriding the rules (None: an ordinary paragraph).
+JUDGED_ROLES = {"chapter-subtitle", "chapter-lead", "plain", "subheading", None}
 
 
 def normalize(text):
@@ -215,9 +220,16 @@ def render(block, language, image_root):
     return with_notes(rendered, language)
 
 
-def roles(units):
-    """Presentational roles the reader styles: credits, epigraph, captions, subheadings, attributions."""
+def opening_role(plain):
+    """A whole-italic paragraph right under the chapter title: one phrase is a subtitle, sentences are a lead."""
+    return "chapter-lead" if SENTENCE_END.search(ELLIPSIS.sub(" ", plain)) else "chapter-subtitle"
+
+
+def roles(units, judged=None):
+    """Presentational roles the reader styles: credits, epigraph, captions, subheadings, attributions, and the
+    subtitle or lead under a chapter title. `judged` maps unit ids to roles decided case by case (roles.json)."""
     first_section = next((i for i, u in enumerate(units) if u["kind"] == "heading" and u["level"] >= 2), len(units))
+    title = next((i for i, u in enumerate(units) if u["kind"] == "heading" and u["level"] == 1), None)
     for index, unit in enumerate(units):
         if unit["kind"] != "paragraph":
             continue
@@ -233,11 +245,16 @@ def roles(units):
         elif (index < first_section and units[index + 1:index + 2] and ATTRIBUTION.match(normalize(units[index + 1]["sourcePlain"]))
               and all(u["kind"] != "paragraph" or u.get("role") == "credit" for u in units[:index])):
             unit["role"] = "epigraph"
+        elif title is not None and index == title + 1 and WHOLE_ITALIC.fullmatch(unit["source"].strip()):
+            unit["role"] = opening_role(plain)
         elif re.fullmatch(r"\*\*.+\*\*|\*[^*].*\*", unit["source"].strip(), flags=re.S) and len(plain) < 120 and "\n" not in unit["source"].strip():
             unit["role"] = "subheading"
+    for unit in units:
+        if judged and unit["id"] in judged:
+            unit["role"] = judged[unit["id"]]
 
 
-def compile_chapter(key, source_text, target_text, image_root, partial=False):
+def compile_chapter(key, source_text, target_text, image_root, partial=False, judged=None):
     """partial=True accepts a translation that stops early; untranslated units get "pending": true."""
     source_blocks, source_notes = parse(source_text)
     target_blocks, target_notes = parse(target_text)
@@ -264,7 +281,7 @@ def compile_chapter(key, source_text, target_text, image_root, partial=False):
         if block.kind == "code":
             unit["language"] = PRISM_ALIASES.get(block.extra["info"], block.extra["info"])
         units.append(unit)
-    roles(units)
+    roles(units, judged)
     for unit in units:
         del unit["sourcePlain"]
         if unit.get("targetPlain") is None:

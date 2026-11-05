@@ -348,7 +348,8 @@
   }
 
   const ROLE_CLASSES = { credit: "chapter-credit", attribution: "reader-attribution", caption: "reader-caption",
-    epigraph: "chapter-epigraph", subheading: "reader-subheading", "code-label": "reader-code-label" };
+    epigraph: "chapter-epigraph", subheading: "reader-subheading", "code-label": "reader-code-label",
+    "chapter-subtitle": "reader-chapter-subtitle", "chapter-lead": "reader-chapter-lead", plain: "reader-plain" };
 
   function withAttributes(html, classes, language) {
     return html.replace(/^<([a-z0-9]+)/, '<$1 class="' + classes.trim() + '" lang="' + language + '"');

@@ -165,10 +165,10 @@ body.close .content { margin-left: 0; }
 .markdown-section ul, .markdown-section ol { padding-left: 1.5em; }
 .markdown-section li { margin: .3em 0; }
 .markdown-section strong { color: var(--ink); font-weight: 600; }
-/* Emphasis: Chinese never slants; terms are set in the sans face at a heavier weight, as printed
-   Chinese books do. English keeps the conventional italic. Both stay in the ink color. */
-.markdown-section em { color: var(--ink); font-style: normal; font-family: var(--ui-font); font-weight: 600; }
-.markdown-section em:lang(en) { font-style: italic; font-family: inherit; font-weight: inherit; }
+/* Emphasis: Chinese never slants; it keeps the body face and weight and takes the accent color.
+   English keeps the conventional italic in the surrounding color. */
+.markdown-section em { color: var(--accent); font-style: normal; }
+.markdown-section em:lang(en) { color: inherit; font-style: italic; }
 /* Links keep the text color and show a thin accent underline; the term itself stays readable. */
 .markdown-section a { color: inherit; font-weight: inherit; text-decoration: underline; text-decoration-color: var(--accent); text-decoration-thickness: 1px; text-underline-offset: 3px; }
 .markdown-section a:hover { color: var(--accent); }
@@ -198,6 +198,10 @@ body[data-reading-mode="bilingual"] .markdown-section .reader-attribution.transl
 .markdown-section .reader-caption { font-family: var(--ui-font); color: var(--muted); font-size: 13px; line-height: 1.7; margin: 12px 0 24px; }
 .markdown-section .reader-attribution { font-family: var(--ui-font); color: var(--muted); font-size: 12px; text-align: right; }
 .markdown-section .reader-subheading { margin-top: 30px; font-weight: 600; }
+/* Under a chapter title: a subtitle keeps the emphasis color; a lead and other plain italic paragraphs do not. */
+.markdown-section .reader-chapter-subtitle { margin-top: -0.2em; font-weight: 600; }
+.markdown-section .reader-chapter-lead { color: var(--muted); }
+.markdown-section .reader-chapter-lead em, .markdown-section .reader-plain em { color: inherit; }
 body[data-reading-mode="chinese"] .translated-source { display: none !important; }
 body[data-reading-mode="chinese"] .reader-original-title,
 body[data-reading-mode="chinese"] .heading-original { display: none; }

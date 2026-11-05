@@ -99,6 +99,18 @@ def check_svg(path, chapter, mobile, section=None, story=False):
                 raise ValueError(f"Missing marker: {path}: {ref}")
 
 
+def judged_roles(root):
+    """Paragraph roles decided case by case, from roles.json: {"<unit id>": {"role": ..., "why": ...}}."""
+    path = root / "roles.json"
+    if not path.exists():
+        return {}
+    judged = {key: value["role"] for key, value in json.loads(path.read_text()).items()}
+    unknown = {role for role in judged.values() if role not in book.JUDGED_ROLES}
+    if unknown:
+        raise ValueError(f"roles.json: unknown roles {sorted(unknown)}; use one of {sorted(r for r in book.JUDGED_ROLES if r)} or null")
+    return judged
+
+
 def included(config, drafts):
     """Chapters to publish: finished ones, plus unfinished translations when previewing drafts."""
     return [c for c in config["chapters"] if c["status"] == "done" or (drafts and c["status"] != "todo")]
@@ -115,6 +127,7 @@ def compile_book(root, config, out, drafts=False):
     content.mkdir(parents=True, exist_ok=True)
     variants_out.mkdir(parents=True, exist_ok=True)
     chapters, guides = [], {}
+    judged = judged_roles(root)
     for entry in included(config, drafts):
         key, n, file = entry["id"], entry.get("number"), entry["file"]
         source, translation = root / "en" / file, root / "zh-cn" / file
@@ -124,7 +137,7 @@ def compile_book(root, config, out, drafts=False):
         text = source.read_text()
         parent = Path(file).parent.as_posix()
         image_root = "en/" + parent if parent != "." else "en"
-        chapter = book.compile_chapter(key, text, translation.read_text(), image_root, partial=partial)
+        chapter = book.compile_chapter(key, text, translation.read_text(), image_root, partial=partial, judged=judged)
         recap = root / "recaps" / f"{key}.md"
         if recap.exists():
             # A summary and takeaways written by the translator, shown after the chapter and marked as such.

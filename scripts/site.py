@@ -244,6 +244,9 @@ def main():
     p.add_argument("--force", action="store_true")
     sub.add_parser("status").add_argument("book")
     sub.add_parser("fonts").add_argument("book")
+    p = sub.add_parser("roles", help="list whole-italic paragraphs for a model or person to judge (roles.json)")
+    p.add_argument("book")
+    p.add_argument("--all", action="store_true")
     sub.add_parser("sync-skill").add_argument("--check", action="store_true", help="only report differences")
     args = parser.parse_args()
 
@@ -271,6 +274,11 @@ def main():
         tool("status.py", BOOKS / args.book)
     elif args.command == "sync-skill":
         sync_skill(args.check)
+    elif args.command == "roles":
+        book_or_exit(args.book)
+        result = subprocess.run(TOOLS + ["python", str(REPO / "framework" / "tools" / "roles.py"), str(BOOKS / args.book),
+                                         *(["--all"] if args.all else [])])
+        return result.returncode
     elif args.command == "fonts":
         book_or_exit(args.book)
         run(TOOLS + ["--with", "fonttools", "--with", "brotli", "python", str(REPO / "framework" / "tools" / "fonts.py"), str(BOOKS / args.book)])

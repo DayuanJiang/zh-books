@@ -75,6 +75,7 @@ description: Translate or polish a whole book in the zh-books repository, chapte
 
 ```bash
 python3 scripts/site.py fonts <id>    # 译文里出现了新的汉字时，重新生成字体子集
+python3 scripts/site.py roles <id>    # 列出要判断的整段斜体，判断结果写进 roles.json，直到输出 []
 python3 scripts/site.py check <id>    # 和 CI 一样的严格检查
 ```
 
