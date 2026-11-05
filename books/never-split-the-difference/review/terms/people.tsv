@@ -1,0 +1,126 @@
+name	pattern	only in	mentions	chapters	first
+Chris Voss	\bVoss\b|\bChris\b(?! Watts)		25	8	ch01
+Robert Mnookin	\bMnookin\b|\bRobert\b(?! Mnookin)|\bBob\b	ch01	16	1	ch01
+Gabriella Blum	\b(?:Gabriella\ Blum|Blum|Gabriella)\b		5	1	ch01
+Sheila Heen	\b(?:Sheila\ Heen|Heen|Sheila)\b		5	1	ch01
+Andy	\bAndy\b(?! [A-Z][a-z])		9	1	ch01
+Roger Federer	\b(?:Roger\ Federer|Federer)\b		1	1	ch01
+Richard Nixon	(?<!Jim )\bNixon\b		1	1	ch01
+George Giffe Jr.	\bGiffe\b		6	1	ch01
+Roger Fisher	\b(?:Roger\ Fisher|Fisher)\b		2	1	ch01
+William Ury	\b(?:William\ Ury|Ury)\b		2	1	ch01
+Amos Tversky	\b(?:Amos\ Tversky|Tversky|Amos)\b		4	2	ch01
+Daniel Kahneman	\b(?:Daniel\ Kahneman|Kahneman)\b		8	2	ch01
+Randy Weaver	\b(?:Randy\ Weaver|Weaver|Randy)\b		1	1	ch01
+David Koresh	\b(?:David\ Koresh|Koresh|David)\b		1	1	ch01
+Philip B. Heymann	\b(?:Philip\ B\.\ Heymann|Heymann|Philip)\b		1	1	ch01
+Louis Freeh	\b(?:Louis\ Freeh|Freeh|Louis)\b		1	1	ch01
+Fred Lanceley	\b(?:Fred\ Lanceley|Lanceley|Fred)\b		1	1	ch01
+Gary Noesner	\b(?:Gary\ Noesner|Noesner|Gary)\b		2	2	ch01
+Charlie Beaudoin	\b(?:Charlie\ Beaudoin|Beaudoin|Charlie)\b		1	1	ch02
+Joe	\bJoe\b	ch02	15	1	ch02
+Chris Watts	\bChris Watts\b|\bWatts\b		32	2	ch02
+George A. Miller	\bMiller\b	ch02	1	1	ch02
+Bobby Goodwin	\b(?:Bobby\ Goodwin|Goodwin|Bobby)\b		13	1	ch02
+Omar Abdel-Rahman	\bBlind Sheikh\b		1	1	ch02
+Dominick Misino	\b(?:Dominick\ Misino|Misino|Dominick)\b		11	1	ch02
+Richard Wiseman	\b(?:Richard\ Wiseman|Wiseman)\b		1	1	ch02
+Oprah Winfrey	\b(?:Oprah\ Winfrey|Winfrey|Oprah)\b		1	1	ch02
+Hillary Clinton	\b(?:Hillary\ Clinton|Clinton|Hillary)\b		2	1	ch03
+Sun Tzu	\bSun Tzu\b		1	1	ch03
+Matthew Lieberman	\b(?:Matthew\ Lieberman|Lieberman|Matthew)\b		1	1	ch03
+TJ	\bTJ\b(?! [A-Z][a-z])		10	1	ch03
+Anna	\bAnna\b(?! [A-Z][a-z])		28	1	ch03
+Mark	\bMark\b(?! Cuban)	ch03	5	1	ch03
+Angela	\bAngela\b(?! [A-Z][a-z])		11	1	ch03
+Ryan B.	\bRyan\b		17	1	ch03
+Wendy	\bWendy\b(?! [A-Z][a-z])		6	1	ch03
+Amy Bonderow	\b(?:Amy\ Bonderow|Bonderow|Amy)\b		8	1	ch04
+Martin	\bMartin\b	ch04	1	1	ch04
+Jim Camp	\bCamp\b	ch04	3	1	ch04
+Joe Businessman	\bJoe\b	ch04	4	1	ch04
+Russell Crowe	\b(?:Russell\ Crowe|Crowe|Russell)\b		1	1	ch04
+Norman Vincent Peale	\b(?:Norman\ Vincent\ Peale|Peale|Norman)\b		1	1	ch04
+Eddie	\bEddie\b(?! [A-Z][a-z])		1	1	ch04
+Jim Snyder	\bJim\b(?! Camp)|\bSnyder\b	ch04	13	1	ch04
+Daryl	\bDaryl\b(?! [A-Z][a-z])		10	1	ch04
+Marti Evelsizer	\b(?:Marti\ Evelsizer|Evelsizer|Marti)\b		8	1	ch04
+Ben Ottenhoff	\b(?:Ben\ Ottenhoff|Ottenhoff|Ben)\b		5	1	ch04
+Mr. Smith	\bSmith\b(?! [A-Z][a-z])		5	1	ch04
+Barack Obama	\b(?:Barack\ Obama|Obama|Barack)\b		2	1	ch04
+Mark Cuban	\bCuban\b		1	1	ch04
+Jeffrey Schilling	\b(?:Jeffrey\ Schilling|Schilling|Jeffrey)\b		21	2	ch05
+Carl Rogers	\b(?:Carl\ Rogers|Rogers|Carl)\b		2	1	ch05
+Chuck Regini	\b(?:Chuck\ Regini|Regini|Chuck)\b		2	2	ch05
+Jim Nixon	\bJim Nixon\b		1	1	ch05
+Abu Sabaya	\bSabaya\b		57	2	ch05
+Muammar Gaddafi	\b(?:Muammar\ Gaddafi|Gaddafi|Muammar)\b		2	1	ch05
+Benjie	\bBenjie\b(?! [A-Z][a-z])		31	1	ch05
+Brandon Voss	\bBrandon\b		12	2	ch05
+Emily	\bEmily\b(?! [A-Z][a-z])		2	1	ch05
+Jean-Bertrand Aristide	\b(?:Jean\-Bertrand\ Aristide|Aristide|Jean\-Bertrand)\b		1	1	ch06
+Phillip Snyder	\bPhillip Snyder\b		1	1	ch06
+Herb Cohen	\b(?:Herb\ Cohen|Cohen|Herb)\b		9	1	ch06
+Don A. Moore	\bMoore\b	ch06	2	1	ch06
+Antonio Damasio	\b(?:Antonio\ Damasio|Damasio|Antonio)\b		1	1	ch06
+Robin Williams	\b(?:Robin\ Williams|Williams|Robin)\b		4	1	ch06
+Pablo Picasso	\bPicasso\b		1	1	ch06
+Seyed Hossein Mousavian	\b(?:Seyed\ Hossein\ Mousavian|Mousavian|Seyed)\b		1	1	ch06
+René Descartes	\bDescartes\b		1	1	ch06
+Billy Wilder	\b(?:Billy\ Wilder|Wilder|Billy)\b		5	1	ch06
+Raymond Chandler	\b(?:Raymond\ Chandler|Chandler|Raymond)\b		8	1	ch06
+Jerry	\bJerry\b(?! [A-Z][a-z])		4	1	ch06
+Anwar Sadat	\b(?:Anwar\ Sadat|Sadat|Anwar)\b		1	1	ch06
+Angel Prado	\b(?:Angel\ Prado|Prado|Angel)\b		21	1	ch06
+Martin Burnham	\bMartin\b|(?<!Gracia )\bBurnham\b	ch07, ch08	17	2	ch07
+Gracia Burnham	\bGracia\b		6	1	ch07
+Guillermo Sobero	\b(?:Guillermo\ Sobero|Sobero|Guillermo)\b		5	1	ch07
+Gloria Macapagal-Arroyo	\bArroyo\b		2	1	ch07
+Arlyn dela Cruz	\b(?:Arlyn\ dela\ Cruz|Cruz|Arlyn)\b		1	1	ch07
+Robert Mueller	\b(?:Robert\ Mueller|Mueller)\b		2	1	ch07
+George W. Bush	\b(?:George\ W\.\ Bush|Bush)\b		1	1	ch07
+Ediborah Yap	\b(?:Ediborah\ Yap|Yap|Ediborah)\b		1	1	ch07
+Kevin Dutton	\bDutton\b		2	1	ch07
+Robert Estabrook	\b(?:Robert\ Estabrook|Estabrook)\b		1	1	ch07
+José	\bJosé\b(?! [A-Z][a-z])		26	1	ch08
+Julie	\bJulie\b(?! [A-Z][a-z])		22	1	ch08
+Kevin Rust	\bKevin\b|\bRust\b	ch08	4	1	ch08
+Kelly	\bKelly\b(?! [A-Z][a-z])		3	1	ch08
+Alastair Onglingswan	\b(?:Alastair\ Onglingswan|Onglingswan|Alastair)\b		17	1	ch08
+Aaron	\bAaron\b(?! [A-Z][a-z])		12	1	ch08
+Albert Mehrabian	\b(?:Albert\ Mehrabian|Mehrabian|Albert)\b		1	1	ch08
+Carlo Collodi	\b(?:Carlo\ Collodi|Collodi|Carlo)\b		2	1	ch08
+Deepak Malhotra	\b(?:Deepak\ Malhotra|Malhotra|Deepak)\b		5	2	ch08
+W. C. Fields	\bW\. C\. Fields\b		1	1	ch08
+Kathy	\bKathy\b(?! [A-Z][a-z])		2	1	ch08
+Jesus Bueno	\bJesus\b(?! Christ)|\bBueno\b		8	1	ch08
+Joaquin	\bJoaquin\b(?! [A-Z][a-z])		28	1	ch08
+Bruno	\bBruno\b(?! [A-Z][a-z])		27	1	ch08
+Stan	\bStan\b(?! [A-Z][a-z])		1	1	ch09
+Keenon	\bKeenon\b(?! [A-Z][a-z])		7	1	ch09
+Tony	\bTony\b(?! [A-Z][a-z])		1	1	ch09
+Samantha	\bSamantha\b(?! [A-Z][a-z])		1	1	ch09
+Mike Tyson	\bTyson\b		2	1	ch09
+Farouq	\bFarouq\b(?! [A-Z][a-z])		9	1	ch09
+Marwan Sinaceur	\b(?:Marwan\ Sinaceur|Sinaceur|Marwan)\b		1	1	ch09
+Larissa Tiedens	\b(?:Larissa\ Tiedens|Tiedens|Larissa)\b		1	1	ch09
+Daniel Ames	\b(?:Daniel\ Ames|Ames)\b		1	1	ch09
+Abbie Wazlawek	\b(?:Abbie\ Wazlawek|Wazlawek|Abbie)\b		1	1	ch09
+Mike Ackerman	\bMike\b(?! Tyson)|\bAckerman\b(?! (?:model|system|plan|process|offers?|[Bb]argaining|guys))		4	1	ch09
+Howard Raiffa	\b(?:Howard\ Raiffa|Raiffa|Howard)\b		2	1	ch09
+Mishary	\bMishary\b(?! [A-Z][a-z])		11	1	ch09
+William Griffin	\b(?:William\ Griffin|Griffin)\b		20	1	ch10
+Clint Van Zandt	\bVan Zandt\b|\bClint\b		6	1	ch10
+Jim O’Brien	\b(?:Jim\ O’Brien|O’Brien)\b		2	1	ch10
+Margaret Moore	\bMoore\b	ch10	5	1	ch10
+Nassim Nicholas Taleb	\b(?:Nassim\ Nicholas\ Taleb|Taleb|Nassim)\b		2	1	ch10
+Willem de Vlamingh	\b(?:Willem\ de\ Vlamingh|Vlamingh|Willem)\b		1	1	ch10
+Steve Jobs	\b(?:Steve\ Jobs|Jobs|Steve)\b		1	1	ch10
+Donald Trump	\b(?:Donald\ Trump|Trump|Donald)\b		1	1	ch10
+Dwight Watson	\b(?:Dwight\ Watson|Watson|Dwight)\b		21	1	ch10
+Winnie Miller	\bWinnie\b		1	1	ch10
+Jesus Christ	\bChrist\b		2	1	ch10
+Ted Leonsis	\b(?:Ted\ Leonsis|Leonsis|Ted)\b		1	1	ch10
+Ellen Langer	\b(?:Ellen\ Langer|Langer|Ellen)\b		1	1	ch10
+Peter Bergen	\b(?:Peter\ Bergen|Bergen|Peter)\b		1	1	ch10
+Max H. Bazerman	\b(?:Max\ H\.\ Bazerman|Bazerman|Max)\b		1	1	ch10

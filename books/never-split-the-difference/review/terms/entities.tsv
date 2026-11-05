@@ -1,0 +1,656 @@
+entity	label	count	chapters	first
+Black Swan	EVENT	7	1	ch10
+Late-Night	EVENT	1	1	ch02
+Olympic	EVENT	1	1	ch01
+Olympics	EVENT	1	1	ch01
+Their World	EVENT	1	1	ch04
+World Trade Center	EVENT	1	1	ch05
+post-MBA	EVENT	1	1	ch06
+the Iraq War	EVENT	1	1	ch10
+the Late-Night FM DJ Voice	EVENT	1	1	ch01
+the “No	EVENT	1	1	ch08
+the “No” series	EVENT	1	1	ch08
+the Abu Sayyaf	FAC	5	1	ch07
+the Black Swan	FAC	4	2	ch01
+Accommodator	FAC	2	1	ch09
+Ackerman	FAC	1	1	ch09
+Camp	FAC	1	1	ch04
+King Street	FAC	1	1	ch10
+Seventh Avenue	FAC	1	1	ch02
+St. Thomas	FAC	1	1	ch05
+company”—in	FAC	1	1	ch08
+the Burnham-Sobero	FAC	1	1	ch07
+the Counterfeit “Yes.	FAC	1	1	ch08
+the Golden Rule	FAC	1	1	ch09
+the National Mall	FAC	1	1	ch10
+Griffin	GPE	12	1	ch10
+New York	GPE	11	6	ch01
+Philippines	GPE	11	4	ch01
+Quantico	GPE	10	4	ch04
+the United States	GPE	10	6	ch01
+Manila	GPE	9	3	ch05
+U.S.	GPE	8	5	ch01
+Haiti	GPE	7	2	ch06
+MR	GPE	7	1	ch04
+n’t	GPE	7	6	ch04
+Iran	GPE	6	1	ch06
+America	GPE	5	3	ch04
+Benjie	GPE	5	1	ch05
+Ecuador	GPE	5	1	ch08
+Pittsburgh	GPE	5	3	ch04
+Washington	GPE	5	3	ch07
+California	GPE	4	3	ch01
+New York City	GPE	4	4	ch02
+ZOPA	GPE	4	2	ch01
+Austin	GPE	3	1	ch03
+Bingo	GPE	3	3	ch05
+Charleston	GPE	3	1	ch10
+D.C.	GPE	3	3	ch07
+Kansas	GPE	3	2	ch07
+Miami	GPE	3	1	ch09
+Palmas	GPE	3	2	ch07
+Baltimore	GPE	2	1	ch03
+Boston	GPE	2	2	ch01
+Brandon	GPE	2	1	ch05
+Canada	GPE	2	1	ch03
+Colombia	GPE	2	2	ch06
+Dallas	GPE	2	1	ch03
+Dos Palmas	GPE	2	2	ch07
+Florida	GPE	2	2	ch01
+Hollywood	GPE	2	2	ch06
+Jacksonville	GPE	2	1	ch01
+Japan	GPE	2	1	ch06
+Kansas City	GPE	2	2	ch01
+Los Angeles	GPE	2	2	ch03
+Port-au-Prince	GPE	2	1	ch06
+Texas	GPE	2	2	ch01
+The United States	GPE	2	2	ch01
+Virginia	GPE	2	2	ch04
+Waco	GPE	2	1	ch01
+amygdala	GPE	2	1	ch03
+Atlanta	GPE	1	1	ch10
+Australia	GPE	1	1	ch10
+Bahamas	GPE	1	1	ch01
+Berkeley	GPE	1	1	ch06
+Brooklyn	GPE	1	1	ch02
+Cambridge	GPE	1	1	ch01
+Carroll Street	GPE	1	1	ch02
+Confused	GPE	1	1	ch10
+Connecticut	GPE	1	1	ch05
+Counterfeit	GPE	1	1	ch08
+Descartes	GPE	1	1	ch06
+Dubai	GPE	1	1	ch09
+Egypt	GPE	1	1	ch06
+Exploit	GPE	1	1	ch10
+Holland	GPE	1	1	ch02
+IV	GPE	1	1	ch07
+Idaho	GPE	1	1	ch01
+India	GPE	1	1	ch06
+Israel	GPE	1	1	ch06
+Istanbul	GPE	1	1	ch02
+Jolo Island	GPE	1	1	ch05
+Labeling	GPE	1	1	ch01
+London	GPE	1	1	ch10
+Louisiana	GPE	1	1	ch08
+Manhattan	GPE	1	1	ch04
+Massachusetts	GPE	1	1	ch01
+Michigan	GPE	1	1	ch06
+Mindanao	GPE	1	1	ch07
+Mirroring	GPE	1	1	ch01
+Munich	GPE	1	1	ch01
+Nashville	GPE	1	1	ch01
+Negative Leverage	GPE	1	1	ch10
+North Carolina	GPE	1	1	ch10
+Oakland	GPE	1	1	ch01
+Ohio	GPE	1	1	ch10
+Pakistan	GPE	1	1	ch06
+Pearl Harbor	GPE	1	1	ch10
+Pinocchio	GPE	1	1	ch08
+Playful	GPE	1	1	ch02
+Psychotherapy	GPE	1	1	ch01
+Rochester	GPE	1	1	ch10
+Rome	GPE	1	1	ch01
+Salsa	GPE	1	1	ch09
+Samantha	GPE	1	1	ch09
+Saudi Arabia	GPE	1	1	ch08
+Savannah	GPE	1	1	ch10
+Seoul	GPE	1	1	ch05
+South Carolina	GPE	1	1	ch10
+Spain	GPE	1	1	ch08
+St. Martin Parish	GPE	1	1	ch08
+TARU	GPE	1	1	ch02
+Tennessee	GPE	1	1	ch01
+Truly	GPE	1	1	ch08
+Turkey	GPE	1	1	ch02
+Upgrade	GPE	1	1	ch03
+Van Zandt	GPE	1	1	ch10
+Vietnam	GPE	1	1	ch08
+Watson	GPE	1	1	ch10
+Wichita	GPE	1	1	ch07
+ZOPAs	GPE	1	1	ch09
+bang	GPE	1	1	ch07
+earwitness”—and	GPE	1	1	ch02
+not?—and	GPE	1	1	ch08
+the United Arab Emirates	GPE	1	1	ch06
+us	GPE	1	1	ch10
+English	LANGUAGE	3	2	ch01
+Tagalog	LANGUAGE	2	1	ch05
+Arabic	LANGUAGE	1	1	ch04
+Chapter 9	LAW	3	3	ch01
+the Rule of Three	LAW	3	1	ch08
+Chapter 10	LAW	2	2	ch01
+Chapter 2	LAW	2	2	ch01
+Chapter 3	LAW	2	2	ch01
+Chapter 5	LAW	2	2	ch01
+Chapter 7	LAW	2	2	ch01
+Chapter 4	LAW	1	1	ch01
+Chapter 6	LAW	1	1	ch01
+Chapter 8	LAW	1	1	ch01
+Level II	LAW	1	1	ch08
+No Such Thing as Fair In	LAW	1	1	ch06
+Superfund	LAW	1	1	ch10
+the Negotiation One Sheet	LAW	1	1	ch01
+Benjie	LOC	7	1	ch05
+Harlem	LOC	7	1	ch03
+Watts	LOC	3	1	ch02
+the Middle East	LOC	3	2	ch01
+Abu Sayyaf	LOC	2	1	ch07
+Americas	LOC	1	1	ch06
+Attica	LOC	1	1	ch01
+Beltway	LOC	1	1	ch10
+Black Swan	LOC	1	1	ch10
+Caribbean	LOC	1	1	ch06
+Negative	LOC	1	1	ch10
+North America	LOC	1	1	ch04
+Northeast	LOC	1	1	ch03
+the Mira River	LOC	1	1	ch08
+the Ultimatum Game	LOC	1	1	ch06
+Black Swans	NORP	18	2	ch01
+Philippine	NORP	18	2	ch05
+Sabaya	NORP	18	2	ch05
+American	NORP	11	6	ch01
+Swans	NORP	10	2	ch05
+Haitian	NORP	6	1	ch06
+Christian	NORP	5	1	ch10
+Chinese	NORP	4	4	ch03
+French	NORP	4	2	ch03
+Abu Sayyaf	NORP	3	2	ch05
+Colombian	NORP	3	1	ch08
+Islamic	NORP	3	1	ch05
+NYPD	NORP	3	3	ch01
+Americans	NORP	2	1	ch07
+Ecuadoran	NORP	2	1	ch08
+Egyptian	NORP	2	2	ch02
+Filipino	NORP	2	1	ch05
+Japanese	NORP	2	1	ch07
+Muslims	NORP	2	1	ch05
+Abu Sabaya	NORP	1	1	ch05
+Argentine	NORP	1	1	ch04
+Californian	NORP	1	1	ch05
+Christians	NORP	1	1	ch10
+Danish	NORP	1	1	ch09
+Democrats	NORP	1	1	ch04
+Dutch	NORP	1	1	ch10
+Filipinos	NORP	1	1	ch05
+German	NORP	1	1	ch01
+Iranian	NORP	1	1	ch06
+Iranians	NORP	1	1	ch06
+Islamist	NORP	1	1	ch01
+Islamists	NORP	1	1	ch07
+Israeli	NORP	1	1	ch01
+Korean	NORP	1	1	ch05
+Libyan	NORP	1	1	ch05
+Malaysian	NORP	1	1	ch07
+Palestinian	NORP	1	1	ch01
+Republican	NORP	1	1	ch04
+Romans	NORP	1	1	ch01
+Spanish	NORP	1	1	ch05
+Swiss	NORP	1	1	ch06
+Western	NORP	1	1	ch05
+Western European	NORP	1	1	ch05
+difference”—can	NORP	1	1	ch06
+keep”—can	NORP	1	1	ch08
+reptilian	NORP	1	1	ch07
+FBI	ORG	78	10	ch01
+ABC	ORG	24	1	ch03
+Harvard	ORG	18	4	ch01
+Bruno	ORG	9	1	ch08
+Marti	ORG	7	1	ch04
+CNU	ORG	6	2	ch05
+SWAT	ORG	6	2	ch02
+Coca-Cola	ORG	5	1	ch10
+Sabaya	ORG	5	2	ch05
+Schilling	ORG	4	2	ch05
+The Black Swan Group	ORG	4	3	ch01
+CIA	ORG	3	3	ch05
+Georgetown	ORG	3	1	ch09
+Harvard Business School	ORG	3	3	ch08
+JTTF	ORG	3	2	ch04
+Kahneman	ORG	3	1	ch01
+the FBI Academy	ORG	3	3	ch04
+Al Qaeda	ORG	2	1	ch07
+American Airlines	ORG	2	1	ch03
+Anger	ORG	2	1	ch09
+CFO	ORG	2	1	ch03
+CNN	ORG	2	2	ch05
+Chase Manhattan Bank	ORG	2	2	ch02
+Disney	ORG	2	1	ch06
+Georgetown University	ORG	2	1	ch03
+Harvard Law School	ORG	2	1	ch01
+Malhotra	ORG	2	2	ch08
+NYPD	ORG	2	1	ch02
+Prospect Theory	ORG	2	2	ch01
+Tactical Empathy	ORG	2	1	ch01
+Toyota	ORG	2	2	ch09
+the Abu Sayyaf	ORG	2	1	ch05
+the Joint Terrorism Task Force	ORG	2	2	ch04
+the Washington Monument	ORG	2	1	ch10
+the XYZ Committee	ORG	2	1	ch04
+ABC Corp.	ORG	1	1	ch03
+ATM	ORG	1	1	ch02
+Aladdin	ORG	1	1	ch06
+BCSM	ORG	1	1	ch05
+Brandon	ORG	1	1	ch05
+Bureau	ORG	1	1	ch04
+Calm the Schizophrenic Our Negotiation Operation Center	ORG	1	1	ch02
+CareFrontation	ORG	1	1	ch04
+CareFronting	ORG	1	1	ch04
+Career Success	ORG	1	1	ch05
+Chase	ORG	1	1	ch02
+Columbia Business School	ORG	1	1	ch06
+Columbia University	ORG	1	1	ch09
+Command	ORG	1	1	ch02
+Confirmation	ORG	1	1	ch04
+Confrontation	ORG	1	1	ch02
+Create Trust	ORG	1	1	ch03
+Create a Subtle Epiphany	ORG	1	1	ch05
+Create the Illusion of Control How to	ORG	1	1	ch07
+Crisis Negotiation Team	ORG	1	1	ch04
+Crisis Negotiation Unit	ORG	1	1	ch05
+DJ	ORG	1	1	ch02
+Discover the Emotional Drivers	ORG	1	1	ch06
+Disney’s Aladdin	ORG	1	1	ch06
+Dodge	ORG	1	1	ch08
+Dominick	ORG	1	1	ch02
+Downs	ORG	1	1	ch01
+FBI Pittsburgh	ORG	1	1	ch07
+FedEx Field	ORG	1	1	ch03
+Federal Law Enforcement	ORG	1	1	ch01
+Giants	ORG	1	1	ch03
+Girl Scouts	ORG	1	1	ch03
+Halfway	ORG	1	1	ch01
+Harvard Law School’s Winter Negotiation Course	ORG	1	1	ch01
+Hostage Rescue	ORG	1	1	ch01
+Hostage Rescue Team	ORG	1	1	ch05
+INSEAD	ORG	1	1	ch09
+ISIS	ORG	1	1	ch10
+Lincoln Tunnels	ORG	1	1	ch02
+MBA	ORG	1	1	ch09
+MSU	ORG	1	1	ch02
+Martin	ORG	1	1	ch07
+Minimal Encouragers	ORG	1	1	ch05
+Mishary	ORG	1	1	ch09
+NBA	ORG	1	1	ch06
+NFL	ORG	1	1	ch06
+NFLPA	ORG	1	1	ch06
+NYPD’s Technical Assistance Response Unit	ORG	1	1	ch02
+Negotiate	ORG	1	1	ch07
+Negotiating a Rent Cut after	ORG	1	1	ch09
+Neutralize the Negative, Reinforce the Positive Labeling	ORG	1	1	ch03
+Normative	ORG	1	1	ch10
+Normative Leverage	ORG	1	1	ch10
+No”—so	ORG	1	1	ch04
+Old-School Negotiation Hostage	ORG	1	1	ch01
+PDF	ORG	1	1	ch09
+Philippine Scout Rangers	ORG	1	1	ch07
+Philippine TV	ORG	1	1	ch07
+Pinocchio	ORG	1	1	ch08
+Post	ORG	1	1	ch10
+Prepare	ORG	1	1	ch09
+Princeton University	ORG	1	1	ch03
+Rainmaker	ORG	1	1	ch06
+Randy Weaver’s Ruby Ridge	ORG	1	1	ch01
+Repeat	ORG	1	1	ch02
+Rochester	ORG	1	1	ch10
+SSA	ORG	1	1	ch05
+Spark Their Interest	ORG	1	1	ch06
+St. Thomas More School	ORG	1	1	ch05
+Stanford University	ORG	1	1	ch09
+Success	ORG	1	1	ch08
+Summaries and Paraphrasing	ORG	1	1	ch01
+Swiss Army	ORG	1	1	ch02
+Taleb	ORG	1	1	ch10
+Taliban	ORG	1	1	ch10
+The Coca-Cola	ORG	1	1	ch10
+The FBI Academy	ORG	1	1	ch05
+The Pinocchio Effect	ORG	1	1	ch08
+The Scout Rangers	ORG	1	1	ch07
+The Similarity Principle Research	ORG	1	1	ch10
+The Three Types of Leverage I’m	ORG	1	1	ch10
+The Voice	ORG	1	1	ch02
+Thinking, Fast and	ORG	1	1	ch01
+Tufts	ORG	1	1	ch01
+U.S. Park Police	ORG	1	1	ch10
+UCLA	ORG	1	1	ch08
+USB	ORG	1	1	ch03
+Uncovering Unknown Unknowns	ORG	1	1	ch10
+Washington Capitals	ORG	1	1	ch10
+Washington Post	ORG	1	1	ch07
+Washington Wizards	ORG	1	1	ch10
+Willem de Vlamingh	ORG	1	1	ch10
+X Corp.	ORG	1	1	ch06
+XYZ Committee	ORG	1	1	ch04
+an Accusation Audit On	ORG	1	1	ch03
+eBay	ORG	1	1	ch08
+iPad	ORG	1	1	ch10
+inn	ORG	1	1	ch08
+the Behavioral Change Stairway	ORG	1	1	ch05
+the Behavioral Change Stairway Model	ORG	1	1	ch05
+the Best Alternative	ORG	1	1	ch01
+the Black Swans	ORG	1	1	ch10
+the Certainty Effect	ORG	1	1	ch06
+the Coca-Cola	ORG	1	1	ch10
+the Critical Incident Response Group	ORG	1	1	ch01
+the Dallas Mavericks	ORG	1	1	ch04
+the Department of State	ORG	1	1	ch03
+the FM DJ Voice	ORG	1	1	ch09
+the Federal Bureau of Investigation	ORG	1	1	ch01
+the Girl Scouts	ORG	1	1	ch03
+the Haas School of Business	ORG	1	1	ch06
+the Harvard Negotiation Project	ORG	1	1	ch01
+the Harvard Negotiation Research Project	ORG	1	1	ch01
+the Israel Defense Forces	ORG	1	1	ch01
+the Israeli Knesset	ORG	1	1	ch06
+the Israeli National Security Council	ORG	1	1	ch01
+the Lincoln Memorial	ORG	1	1	ch10
+the Massachusetts Institute of Technology	ORG	1	1	ch01
+the Memphis Bar Association	ORG	1	1	ch06
+the Muslim Brotherhood	ORG	1	1	ch03
+the New York City FBI Crisis Negotiation Team	ORG	1	1	ch03
+the New York City Police Department	ORG	1	1	ch01
+the New York Giants	ORG	1	1	ch03
+the New York Times	ORG	1	1	ch07
+the Philippine National Police	ORG	1	1	ch08
+the Philippine National Police’s Special Action Force	ORG	1	1	ch05
+the Pittsburgh Division	ORG	1	1	ch04
+the Pittsburgh Police Department’s Hostage Negotiation Team	ORG	1	1	ch04
+the Predictably Unpredictable	ORG	1	1	ch10
+the Security Trust Company	ORG	1	1	ch10
+the State Department	ORG	1	1	ch08
+the Two Words That Immediately Transform Any Negotiation How	ORG	1	1	ch05
+the U.S. Court of Appeals	ORG	1	1	ch01
+the U.S. Embassy	ORG	1	1	ch07
+the United Nations	ORG	1	1	ch02
+the University of California	ORG	1	1	ch03
+the University of California,	ORG	1	1	ch06
+the University of Chicago	ORG	1	1	ch01
+the Vietnam Veterans Memorial	ORG	1	1	ch10
+the Washington Post	ORG	1	1	ch10
+the Washington Redskins	ORG	1	1	ch03
+the White House	ORG	1	1	ch04
+Chris Watts	PERSON	29	2	ch02
+Joaquin	PERSON	28	1	ch08
+Anna	PERSON	26	1	ch03
+José	PERSON	26	1	ch08
+Julie	PERSON	21	1	ch08
+Angel	PERSON	20	1	ch06
+Watson	PERSON	19	1	ch10
+Bruno	PERSON	18	1	ch08
+Joe	PERSON	17	2	ch02
+Chris	PERSON	16	5	ch01
+Alastair	PERSON	15	1	ch08
+Ryan	PERSON	15	1	ch03
+Aaron	PERSON	12	1	ch08
+Bobby	PERSON	12	1	ch02
+Mnookin	PERSON	12	1	ch01
+Angela	PERSON	11	1	ch03
+Jim	PERSON	11	1	ch04
+Daryl	PERSON	10	1	ch04
+Andy	PERSON	9	1	ch01
+Brandon	PERSON	9	2	ch05
+Dominick	PERSON	9	1	ch02
+Farouq	PERSON	9	1	ch09
+Ackerman	PERSON	8	3	ch01
+Benjie	PERSON	8	1	ch05
+Cohen	PERSON	8	1	ch06
+Key Lessons	PERSON	8	8	ch02
+Chandler	PERSON	7	1	ch06
+Keenon	PERSON	7	1	ch09
+Amy	PERSON	6	1	ch04
+Jesus	PERSON	6	1	ch08
+Sabaya	PERSON	6	2	ch05
+Schilling	PERSON	6	1	ch05
+Wendy	PERSON	6	1	ch03
+Mark	PERSON	5	1	ch03
+Martin	PERSON	5	2	ch04
+Ben	PERSON	4	1	ch04
+Dos Palmas	PERSON	4	1	ch07
+Gracia	PERSON	4	1	ch07
+Jeffrey Schilling	PERSON	4	2	ch05
+Jerry	PERSON	4	1	ch06
+Martin Burnham	PERSON	4	2	ch07
+Moore	PERSON	4	1	ch10
+Sheila	PERSON	4	1	ch01
+Smith	PERSON	4	1	ch04
+Wilder	PERSON	4	1	ch06
+Burnhams	PERSON	3	1	ch07
+Giffe	PERSON	3	1	ch01
+Guillermo Sobero	PERSON	3	1	ch07
+Jeff Schilling	PERSON	3	1	ch05
+Kahneman	PERSON	3	1	ch01
+Kelly	PERSON	3	1	ch08
+Van Zandt	PERSON	3	1	ch10
+Voss	PERSON	3	1	ch01
+Williams	PERSON	3	1	ch06
+Abu Sabaya	PERSON	2	2	ch05
+Abu Sayyaf	PERSON	2	1	ch05
+Alastair Onglingswan	PERSON	2	1	ch08
+Amos Tversky	PERSON	2	2	ch01
+Amy Bonderow	PERSON	2	1	ch04
+Austin	PERSON	2	1	ch03
+Chris Voss	PERSON	2	2	ch03
+Daniel Kahneman	PERSON	2	2	ch01
+Deepak Malhotra	PERSON	2	2	ch08
+Gabriella Blum	PERSON	2	1	ch01
+Gary Noesner	PERSON	2	2	ch01
+Getting	PERSON	2	1	ch01
+Girl Scout	PERSON	2	1	ch03
+Gracia Burnham	PERSON	2	1	ch07
+Jedi	PERSON	2	1	ch02
+Jim Camp	PERSON	2	1	ch04
+Joe Businessman	PERSON	2	1	ch04
+Kathy	PERSON	2	1	ch08
+Kevin	PERSON	2	1	ch08
+Mike Tyson	PERSON	2	1	ch09
+Obama	PERSON	2	1	ch04
+William Griffin	PERSON	2	1	ch10
+Abbie Wazlawek	PERSON	1	1	ch09
+Ackerman Bargaining	PERSON	1	1	ch09
+Active Listening	PERSON	1	1	ch01
+Albert Mehrabian	PERSON	1	1	ch08
+Angel Prado	PERSON	1	1	ch06
+Antonio Damasio	PERSON	1	1	ch06
+Anwar Sadat	PERSON	1	1	ch06
+Appendix	PERSON	1	1	ch01
+Arlyn dela Cruz	PERSON	1	1	ch07
+Arroyo	PERSON	1	1	ch07
+Assertive	PERSON	1	1	ch09
+Bang	PERSON	1	1	ch07
+Ben Ottenhoff	PERSON	1	1	ch04
+Bias	PERSON	1	1	ch01
+Billy Wilder	PERSON	1	1	ch06
+Blink	PERSON	1	1	ch01
+Blum	PERSON	1	1	ch01
+Bob	PERSON	1	1	ch01
+Bobby Goodwin	PERSON	1	1	ch02
+Burnham	PERSON	1	1	ch08
+Carl Rogers	PERSON	1	1	ch05
+Carlo Collodi	PERSON	1	1	ch08
+Charlie Beaudoin	PERSON	1	1	ch02
+Cheshire	PERSON	1	1	ch01
+Chuck	PERSON	1	1	ch07
+Chuck Regini	PERSON	1	1	ch05
+Clint Van Zandt	PERSON	1	1	ch10
+Clinton	PERSON	1	1	ch03
+DJ	PERSON	1	1	ch02
+Dad	PERSON	1	1	ch09
+Daniel Ames	PERSON	1	1	ch09
+David Koresh’s Branch Davidian	PERSON	1	1	ch01
+Dominick Misino	PERSON	1	1	ch02
+Don A. Moore	PERSON	1	1	ch06
+Donald Trump	PERSON	1	1	ch10
+Downs v. United States	PERSON	1	1	ch01
+Dutton	PERSON	1	1	ch07
+Dwight Watson	PERSON	1	1	ch10
+Ediborah Yap	PERSON	1	1	ch07
+Ellen Langer	PERSON	1	1	ch10
+Finding Leverage	PERSON	1	1	ch10
+Fred Lanceley	PERSON	1	1	ch01
+Gaddafi	PERSON	1	1	ch05
+Genius	PERSON	1	1	ch04
+George A. Miller	PERSON	1	1	ch02
+George Giffe Jr.	PERSON	1	1	ch01
+George W. Bush	PERSON	1	1	ch07
+Girl Scouts	PERSON	1	1	ch03
+Gloria Macapagal-Arroyo	PERSON	1	1	ch07
+Herb Cohen	PERSON	1	1	ch06
+Hillary Clinton	PERSON	1	1	ch03
+Howard	PERSON	1	1	ch09
+Howard Raiffa	PERSON	1	1	ch09
+I’m Ryan	PERSON	1	1	ch03
+Jean-Bertrand Aristide	PERSON	1	1	ch06
+Jeffrey	PERSON	1	1	ch05
+Jerks	PERSON	1	1	ch08
+Jesus Bueno	PERSON	1	1	ch08
+Jesus Christ	PERSON	1	1	ch10
+Jim Nixon	PERSON	1	1	ch05
+Jim O’Brien	PERSON	1	1	ch10
+Jim Snyder	PERSON	1	1	ch04
+John Deere	PERSON	1	1	ch10
+Kevin Dutton	PERSON	1	1	ch07
+Kevin Rust	PERSON	1	1	ch08
+Labels	PERSON	1	1	ch03
+Larissa Tiedens	PERSON	1	1	ch09
+Learn	PERSON	1	1	ch04
+Loss Aversion	PERSON	1	1	ch01
+Louis Freeh	PERSON	1	1	ch01
+Luckily Julie	PERSON	1	1	ch08
+Malhotra	PERSON	1	1	ch10
+Margaret Moore	PERSON	1	1	ch10
+Mark Cuban	PERSON	1	1	ch04
+Marti Evelsizer	PERSON	1	1	ch04
+Marwan Sinaceur	PERSON	1	1	ch09
+Matthew Lieberman	PERSON	1	1	ch03
+Max H. Bazerman	PERSON	1	1	ch10
+Mike	PERSON	1	1	ch09
+Mike Ackerman	PERSON	1	1	ch09
+Mind	PERSON	1	1	ch01
+Mother Nature	PERSON	1	1	ch04
+Muammar Gaddafi	PERSON	1	1	ch05
+Mueller	PERSON	1	1	ch07
+Nassim Nicholas Taleb	PERSON	1	1	ch10
+Nixon	PERSON	1	1	ch01
+Norman Vincent Peale	PERSON	1	1	ch04
+Ole Miss	PERSON	1	1	ch03
+Oprah Winfrey	PERSON	1	1	ch02
+Oscar	PERSON	1	1	ch10
+Peter Bergen	PERSON	1	1	ch10
+Philip B. Heymann	PERSON	1	1	ch01
+Phillip Snyder	PERSON	1	1	ch06
+Problem	PERSON	1	1	ch05
+Raymond Chandler	PERSON	1	1	ch06
+Redskins	PERSON	1	1	ch03
+Remain	PERSON	1	1	ch08
+Richard Wiseman	PERSON	1	1	ch02
+Robert	PERSON	1	1	ch01
+Robert Estabrook	PERSON	1	1	ch07
+Robert Mnookin	PERSON	1	1	ch01
+Robert Mueller	PERSON	1	1	ch07
+Robin Williams	PERSON	1	1	ch06
+Roger Federer	PERSON	1	1	ch01
+Roger Fisher	PERSON	1	1	ch01
+Rogers	PERSON	1	1	ch05
+Ruby Ridge	PERSON	1	1	ch01
+Russell Crowe	PERSON	1	1	ch04
+Ryan B.	PERSON	1	1	ch03
+Say Tony	PERSON	1	1	ch09
+Seyed Hossein Mousavian	PERSON	1	1	ch06
+Sheila Heen	PERSON	1	1	ch01
+Slow	PERSON	1	1	ch01
+Spotting Liars	PERSON	1	1	ch08
+Stan	PERSON	1	1	ch09
+Steve Jobs	PERSON	1	1	ch10
+Strategic Umbrage	PERSON	1	1	ch09
+Summarize	PERSON	1	1	ch05
+Sun Tzu	PERSON	1	1	ch03
+Superman	PERSON	1	1	ch04
+Ted Leonsis	PERSON	1	1	ch10
+That’s Sabaya	PERSON	1	1	ch05
+Tons	PERSON	1	1	ch01
+Trigger	PERSON	1	1	ch05
+Tversky	PERSON	1	1	ch01
+Ury	PERSON	1	1	ch01
+Volunteer	PERSON	1	1	ch04
+W. C. Fields	PERSON	1	1	ch08
+William Ury	PERSON	1	1	ch01
+Winnie Miller	PERSON	1	1	ch10
+Z.	PERSON	1	1	ch06
+babysitter	PERSON	1	1	ch06
+chuck	PERSON	1	1	ch08
+gray van	PERSON	1	1	ch02
+mug	PERSON	1	1	ch06
+s Rochester	PERSON	1	1	ch10
+Accommodator	PRODUCT	3	1	ch09
+F-bomb	PRODUCT	3	1	ch06
+Classic	PRODUCT	1	1	ch09
+Crown Victoria	PRODUCT	1	1	ch02
+F	PRODUCT	1	1	ch06
+F-word	PRODUCT	1	1	ch06
+Jeeps	PRODUCT	1	1	ch08
+Sobero	PRODUCT	1	1	ch07
+The F-Word:	PRODUCT	1	1	ch06
+The Old Testament	PRODUCT	1	1	ch01
+the Ultimatum Game	PRODUCT	1	1	ch06
+Fair	WORK_OF_ART	3	1	ch06
+That’s Right	WORK_OF_ART	3	1	ch05
+HelpLine	WORK_OF_ART	2	1	ch04
+MBA	WORK_OF_ART	2	2	ch05
+Accommodator, Assertive	WORK_OF_ART	1	1	ch09
+Ackerman guys”—never Mike	WORK_OF_ART	1	1	ch09
+Avoid a Showdown	WORK_OF_ART	1	1	ch07
+Black Swan	WORK_OF_ART	1	1	ch10
+Blind Sheikh	WORK_OF_ART	1	1	ch02
+Charming Everyone Else	WORK_OF_ART	1	1	ch08
+F	WORK_OF_ART	1	1	ch06
+Fear and Learning	WORK_OF_ART	1	1	ch10
+Get Face Time Black Swans	WORK_OF_ART	1	1	ch10
+Get Your Counterparts	WORK_OF_ART	1	1	ch08
+Get Your Way	WORK_OF_ART	1	1	ch02
+Great	WORK_OF_ART	1	1	ch10
+Lessons of Waco	WORK_OF_ART	1	1	ch01
+Life Is Negotiation	WORK_OF_ART	1	1	ch01
+Loss Aversion	WORK_OF_ART	1	1	ch06
+Negotiation Genius	WORK_OF_ART	1	1	ch10
+No Neediness: Having the Ready-to-Walk Mindset	WORK_OF_ART	1	1	ch09
+No” Is Protection Think	WORK_OF_ART	1	1	ch04
+Picasso	WORK_OF_ART	1	1	ch06
+Salsa Red Pearl	WORK_OF_ART	1	1	ch09
+Sleeping in the same	WORK_OF_ART	1	1	ch05
+Split-Second Persuasion	WORK_OF_ART	1	1	ch07
+Start with NO	WORK_OF_ART	1	1	ch04
+That’s Right” Is Great	WORK_OF_ART	1	1	ch05
+The Black Swan	WORK_OF_ART	1	1	ch10
+The Book Like	WORK_OF_ART	1	1	ch01
+The Power of Hopes and Dreams Once	WORK_OF_ART	1	1	ch10
+The Rule of Three I’m	WORK_OF_ART	1	1	ch08
+What’s Martin’s dad	WORK_OF_ART	1	1	ch07
+Where’s Chris?	WORK_OF_ART	1	1	ch02
+YOUR Washington Redskins	WORK_OF_ART	1	1	ch03
+Yes”—Master “No	WORK_OF_ART	1	1	ch04
+You Can Negotiate Anything	WORK_OF_ART	1	1	ch06
+You’re Right	WORK_OF_ART	1	1	ch05
+Zone of Possible Agreement	WORK_OF_ART	1	1	ch09
+a Nobel Prize	WORK_OF_ART	1	1	ch01
+hardball	WORK_OF_ART	1	1	ch01
+the Crises Negotiation, Crises Management, Behavioral Sciences	WORK_OF_ART	1	1	ch01
+the Framing Effect	WORK_OF_ART	1	1	ch01

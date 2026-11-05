@@ -1,0 +1,31 @@
+{
+  "title": "掌控谈话",
+  "originalTitle": "Never Split the Difference: Negotiating As If Your Life Depended On It",
+  "authors": "Chris Voss, Tahl Raz",
+  "reader": "bilingual",
+  "summary": "前联邦调查局国际绑架案首席谈判专家讲他在人质谈判中练成的方法：战术共情、镜像、标注、校准式提问，以及怎样把这些用在商务谈判和日常生活里。",
+  "facts": [
+    "10 章",
+    "中英逐段对照"
+  ],
+  "cover": "assets/images/cover.jpg",
+  "listed": true,
+  "chapterMaps": false,
+  "source": {
+    "epub": "book.epub",
+    "sha256": "7c4429e0da351cb5b2e1e394128975e0e774ebf2df8ee7865c4d2e611e810ed7"
+  },
+  "start": "ch01",
+  "chapters": [
+    {"id": "ch01", "number": 1, "file": "01-1-the-new-rules.md", "status": "draft"},
+    {"id": "ch02", "number": 2, "file": "02-2-be-a-mirror.md", "status": "todo"},
+    {"id": "ch03", "number": 3, "file": "03-3-don-t-feel-their-pain-label-it.md", "status": "todo"},
+    {"id": "ch04", "number": 4, "file": "04-4-beware-yes-master-no.md", "status": "todo"},
+    {"id": "ch05", "number": 5, "file": "05-5-trigger-the-two-words-that.md", "status": "todo"},
+    {"id": "ch06", "number": 6, "file": "06-6-bend-their-reality.md", "status": "todo"},
+    {"id": "ch07", "number": 7, "file": "07-7-create-the-illusion-of-control.md", "status": "todo"},
+    {"id": "ch08", "number": 8, "file": "08-8-guarantee-execution.md", "status": "todo"},
+    {"id": "ch09", "number": 9, "file": "09-9-bargain-hard.md", "status": "todo"},
+    {"id": "ch10", "number": 10, "file": "10-10-find-the-black-swan.md", "status": "todo"}
+  ]
+}
