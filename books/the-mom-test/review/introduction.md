@@ -79,3 +79,20 @@
 - 本节没有未解决的意义问题，也没有原文疑点。
 - 还要等用户确认的译法（来自译者自检，这次没有变化）：“Hello,” 写“你好：”；小标题 “Why another book on talking and selling?” 和 “A note on scope & terminology” 的译法；“textbooks and check books” 不加译者注；客户开发、精益创业第一次出现时要不要括注英文。formality 一项已照术语表改为“拘泥形式”，不再需要确认。
 - 阅读器校样还没有做；`book.json` 里本节的状态由主会话修改。
+
+## 第三轮：GPT-6 Astra 独立审校
+
+- 审校者：GPT-6 Astra，通过 Codex 运行，只读，和译者属于不同的模型家族。
+- 发现：0 条。审校者逐块核对了全部中英文，总体意见是“译文完整、准确，未发现需要修改的实质问题”，也没有提出对英文原文的疑问。没有需要逐条找中英文核实的条目：成立并修改 0 条，不成立 0 条。
+- 成立并修改：无。
+- 不成立，保留原译：无。
+- 按全书统一的写法修改：0 处。对照术语表“全书统一的写法”和“全书统一的写法（译完后定）”两节逐条核对了本节，各条都已经照规定写：
+  - 数字：3 years 写“三年”，a hundred times over 写“上百次”；本节没有金额、章节引用和平台名。
+  - 人名和书名括注：史蒂夫·布兰克（Steve Blank）、《四步创业法》（*4 Steps to the E.piphany*）、《创业者手册》（*The Startup Owner’s Manual*）都只在第一次出现时括注一次。
+  - 作者命名的概念：客户开发、精益创业第一次出现时直接写中文；区分客户对话（customer conversation，小写）和客户开发（Customer Development，大写）的一句保留括注。
+  - 单条规定：“Don’t call me, I’ll call you.” 写“别给我打电话，我会打给你”；go wrong in a nefarious way 写“出错的方式很阴险”；traditional business or sales person 写“传统企业出身的商务或销售人员”；formality 写“拘泥形式的东西”。
+- 按体例“破折号和句式”一条另改 2 处。英文的 “X, not Y” 在其他各章都改成了直接的说法，例如第 2 章“你要的是事实和承诺，用不着恭维”，第 8 章“和客户交谈是一种工具，你没有义务非做不可”；全书只剩本节这两句还写成“是 X，不是 Y”的对比句式，照其他各章改成直接的说法：
+  - “Firstly, I’m a techie, not a sales guy.”：原译“第一，我是搞技术的，不是干销售的。”，改为“第一，我是搞技术的，干销售是外行。”下一句“我性格内向，天生不擅长应付会面”接着说他不会和人打交道，前后连贯。
+  - “Finally, this is a practical handbook, not a theoretical tome.”：原译“最后，这是一本实用手册，不是厚重的理论著作。”，改为“最后，这是一本实用手册，不讲厚重的理论。”后面举的例子（怎样找到可以交谈的人、怎样一边记笔记一边专心听）都是实际做法，和改后的说法接得上。
+- 对英文原文的疑问：无。审校者没有提出；核实时也没有发现影响理解的笔误，`review/source.md` 的“原文疑点”里没有本节的条目。
+- 核实与修改：agent（Opus 5.5）。改完后运行 `python3 scripts/site.py status the-mom-test`：引言 38/38 块已翻译，原文没有注释，注释一栏为空；全书 873/873 块已翻译。`tools/term_consistency.py` 没有标出本节的块。全节仍然没有破折号。
