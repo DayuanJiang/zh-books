@@ -17,16 +17,16 @@
   },
   "start": "introduction",
   "chapters": [
-    {"id": "introduction", "file": "01-introduction.md", "status": "todo"},
-    {"id": "ch01", "number": 1, "file": "02-1-the-mom-test.md", "status": "draft"},
-    {"id": "ch02", "number": 2, "file": "03-2-avoiding-bad-data.md", "status": "todo"},
-    {"id": "ch03", "number": 3, "file": "04-3-asking-important-questions.md", "status": "todo"},
-    {"id": "ch04", "number": 4, "file": "05-4-keeping-it-casual.md", "status": "todo"},
-    {"id": "ch05", "number": 5, "file": "06-5-commitment-and-advancement.md", "status": "todo"},
-    {"id": "ch06", "number": 6, "file": "07-6-finding-conversations.md", "status": "todo"},
-    {"id": "ch07", "number": 7, "file": "08-7-choosing-your-customers.md", "status": "todo"},
-    {"id": "ch08", "number": 8, "file": "09-8-running-the-process.md", "status": "todo"},
-    {"id": "conclusion", "file": "10-conclusion-and-cheatsheet.md", "status": "todo"},
-    {"id": "acknowledgments", "file": "11-acknowledgements.md", "status": "todo"}
+    {"id": "introduction", "file": "01-introduction.md", "status": "review"},
+    {"id": "ch01", "number": 1, "file": "02-1-the-mom-test.md", "status": "review"},
+    {"id": "ch02", "number": 2, "file": "03-2-avoiding-bad-data.md", "status": "review"},
+    {"id": "ch03", "number": 3, "file": "04-3-asking-important-questions.md", "status": "review"},
+    {"id": "ch04", "number": 4, "file": "05-4-keeping-it-casual.md", "status": "review"},
+    {"id": "ch05", "number": 5, "file": "06-5-commitment-and-advancement.md", "status": "review"},
+    {"id": "ch06", "number": 6, "file": "07-6-finding-conversations.md", "status": "review"},
+    {"id": "ch07", "number": 7, "file": "08-7-choosing-your-customers.md", "status": "review"},
+    {"id": "ch08", "number": 8, "file": "09-8-running-the-process.md", "status": "review"},
+    {"id": "conclusion", "file": "10-conclusion-and-cheatsheet.md", "status": "review"},
+    {"id": "acknowledgments", "file": "11-acknowledgements.md", "status": "review"}
   ]
 }
