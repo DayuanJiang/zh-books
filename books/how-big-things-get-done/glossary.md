@@ -4,7 +4,7 @@
 
 ## 体例
 
-- **人名**：用 [review/terms/people-zh.tsv](review/terms/people-zh.tsv) 的译名。每节第一次出现时在中文名后括注英文原名，例如“弗兰克·盖里（Frank Gehry）”，之后只写中文。原文只有名的人（第 3 章的戴维和德博拉、献辞里的卡丽莎）也照这个办法。表里标 keep 的人（Edwin Chan、Tensho Takemori 等）照写原名。脚注里的人名照写原文。
+- **人名**：用 [review/terms/people-zh.tsv](review/terms/people-zh.tsv) 的译名。每节第一次出现时在中文名后括注英文原名，例如“弗兰克·盖里（Frank Gehry）”，之后只写中文。原文只有名的人（第 3 章的戴维和德博拉、献辞里的卡丽莎）也照这个办法。表里收的虚构人物（詹姆斯·邦德）也照这个办法。表里标 keep 的人（Edwin Chan、Tensho Takemori 等）照写原名。脚注里的人名照写原文。
 - **叙述者**：书里的“我”是傅以斌，合著者丹·加德纳不以第一人称出现；we 有时指作者和他的研究团队，有时泛指人们，按上下文译“我们”或省略。
 - **机构、产品、地名**：见下面“机构、产品与地名”。没有通行中文名的公司和产品照写原名，和汉字之间加空格。
 - **书名、报刊、电影、歌曲、论文**：正文里用《》，每节第一次出现时括注原题，原题用斜体，例如《权力掮客》（*The Power Broker*）；文章、论文的原题保留引号，不用斜体，例如赫希曼的文章《隐藏之手原理》（“The Principle of the Hiding Hand”）。常见报刊不括注，见“全书统一的写法”。已有中译本的书用中译本的书名，见“书名与作品”。脚注里的出处保留原文，不加书名号。
@@ -19,8 +19,9 @@
   - For an overview, see Appendix A. → 概述见附录 A。
   - For more on X, see Y → 关于 X 的更多内容，见 Y
   - 第 1 章注释 30 解释了 author interview 的意思：由两位作者之一或两人一起做的访谈，译“作者访谈”。
+  - 出处串的标点见“全书统一的写法（译完后定）”。
 - **脚注标记**：`[^n]` 放在中文里对应词句的后面，编号与英文一致。引文以引号结束时，标记放在右引号后面。
-- **译者注**：写成 `[^t1]:`，在正文里引用。需要译者注的地方：引言标题 California Dreamin’ 来自同名歌曲；第 5 章标题 Are You Experienced? 是亨德里克斯的专辑名；拉丁语 festina lente 和 experiri；inchstone 仿 milestone 造词；Empty State Building 和 Empire State Building 的谐音；Hiding Hand 仿“看不见的手”（Invisible Hand）；Oprah-speak；第 2 章注释 9 的 Sharot Tali 是 Tali Sharot 的名姓颠倒；引言注释 12 的 John Tauranc 应为 Tauranac。
+- **译者注**：写成 `[^t1]:`，在正文里引用；定义的写法和标记的位置见“全书统一的写法（译完后定）”。全书现有的译者注：引言标题 California Dreamin’ 来自同名歌曲，注释 12 的 John Tauranc 应为 Tauranac；第 1 章铁律示意图里的英文，normal distribution 的双关，拉丁语 festina lente，富兰克林 1758 年的原文只写到骑手；第 2 章萨默维尔要求的面积和“一半在六个月内建成”与史料不符，注释 9 的 Sharot Tali 是 Tali Sharot 的名姓颠倒；第 3 章 Oprah-speak；第 4 章 experiri；第 5 章标题 Are You Experienced? 是亨德里克斯的专辑名，Big O 和 Big Owe 的谐音；第 6 章 Empty State Building 和 Empire State Building 的谐音，inchstone 仿 milestone 造词；第 7 章 Hiding Hand 仿“看不见的手”（Invisible Hand）；第 9 章两张图里的英文，正文的几个升温度数和 IPCC 图 SPM.6 对不上，小节标题 Blowin’ in the Wind 是鲍勃·迪伦的歌；结语里 heuristic 和 Eureka! 都来自 heuriskein；致谢里的 guapa。
 - **“下一页”**：附录 A 的 The table on the next page 和第 9 章的 The chart on the next page 指纸质版的版面，阅读器里表格和图就在后面，译“下表”“下图”。
 - **图片和表格**：图片只在英文文件里，替代文字不译。附录 A 的表头和项目类型译成中文，数字照写。
 - **分隔线**：分隔线 `---` 只写在英文文件里。
@@ -69,7 +70,7 @@
 
 ## 全书统一的写法
 
-翻译开始前先定下的写法，各章都照此执行；译完后编辑提出的新问题，补在这一节。
+翻译开始前先定下的写法，各章都照此执行；译完后编辑提出的新问题，定在下一节“全书统一的写法（译完后定）”。
 
 - **数字**：一到十，以及带“几、十几、数百、上千”的约数，用汉字（两座桥、五个月、几十个项目）；11 以上的确数用阿拉伯数字（25 种项目类型、258 个项目、24 小时），万和亿前面的数字也用阿拉伯数字（1.6 万多个项目、2 万所学校）；年份、日期、钟点、金额、百分比一律用阿拉伯数字（凌晨 4 点、86 美元、0.5%）。原文用英文单词写的数（fourteen years、twenty-six-story、one hundred projects）同样按这条规则转换：14 年、26 层、100 个项目。倍数写成“是原来的 N 倍”；百分比照原文写“超支 157%”“降低 35% 到 40%”。范围不用连接号，写“5 到 10”“35% 到 40%”。
 - **书名、报刊括注**：每节第一次出现时括注原题，原题用斜体；文章、论文的原题保留引号，不用斜体。《纽约时报》《华尔街日报》《纽约客》《卫报》《连线》《哈佛商业评论》这些常见报刊不括注；其他刊物（《纽约书评》*The New York Review of Books*、《新闻日报》*Newsday*、《旧金山纪事报》*San Francisco Chronicle*、《蒙特利尔公报》*Montreal Gazette*）每节第一次出现时括注。
@@ -77,8 +78,23 @@
 - **平台名**：写 Twitter，不写“推特”；Facebook、Instagram 照写原名。
 - **头衔**：CEO 写“首席执行官”，chairman 写“董事长”，executive 按上下文写“高管”；governor 写“州长”，premier of New South Wales 写“新南威尔士州州长”，mayor 写“市长”；secretary of the interior 写“内政部长”，secretary of defense 写“国防部长”，secretary of state 写“国务卿”；parliamentary budget officer（加拿大）写“议会预算官”。作者简介里 knighted by the Queen of Denmark 写“获丹麦女王授予爵士勋位”。
 - **项目和阶段**：project 一律写“项目”；planning 写“规划”，plan 写“计划”，planner 写“规划者”；delivery 写“实施”，deliver 按上下文写“完成”“建成”“交付”，on time and on budget 写“按期、不超预算”。project leader 写“项目负责人”，project management 写“项目管理”。
-- **引号里的说法**：原文用引号标出的说法和作者造的词（“Think slow, act fast”“break-fix cycle”“one of those”“honest numbers”），中文也加引号，第一次出现括注原文。
-- **原文疑点**：引言注释 12 的 John Tauranc（注释 16 作 Tauranac）、第 2 章注释 9 的 Sharot Tali、致谢里的 Juan de Dios Ortúza（应为 Ortúzar）照原文保留，前两处加译者注；索引里的 Del Ray 正文作 Del Rey，译文照正文。原文疑点的完整清单见 [review/source.md](review/source.md)。
+- **引号里的说法**：原文用引号标出的说法和作者造的词（“Think slow, act fast”“break-fix cycle”“one of those”“honest numbers”），中文也加引号，每节第一次出现时括注原文。
+- **原文疑点**：引言注释 12 的 John Tauranc（注释 16 作 Tauranac）、第 2 章注释 9 的 Sharot Tali、致谢里的 Juan de Dios Ortúza（应为 Ortúzar）照原文保留，前两处加译者注；索引里的 Del Ray 正文作 Del Rey，译文照正文。导入时发现的原文疑点见 [review/source.md](review/source.md)，翻译时发现的记在各节审校记录 `review/<章节 id>.md` 的“原文疑点”表里。
+
+## 全书统一的写法（译完后定）
+
+各节译完后，编辑提出了一些各节写法不一、或者术语表没有写到的地方，统一如下：
+
+- **译者注的写法**：定义一律以“译者注：”开头。正文同一处已有原注标记时，译者注标记紧跟在后面，例如“比地球上任何一座建筑都高[^12][^t2]”“过度自信的物种[^9][^t2]”，注释正文里不另加括号说明。章题和小节标题的译者注放在正文里第一处呼应标题的地方，例如引言的“敢做大梦[^t1]”，或者放在章首导语的第一句后面。译者注里提到的外文词用正体（festina lente、inchstone、heuriskein、guapa），书名照书名的体例用斜体。
+- **脚注里的出处**：“见”“另见”后面的出处串照英文原样写，出处之间的分号、and 和逗号都照英文写，例如第 7 章注释 9 的“……1, 3, 7, 13; and ……”。出处在注释末尾时，末尾的英文句点照样保留；出处后面接着写中文时，出处末尾用中文标点，例如“……614–18。写给喜欢数学和统计的读者：……”“……164–68；另见 Gary Klein, ……”。出处以网址结尾、后面接中文句号时，网址和句号之间空一格。
+- **数字**：引语和名言里的整万数也照“数字”一条写阿拉伯数字，例如爱迪生的“我并没有失败 1 万次”。
+- **官员和高管**：official 指政府里的人写“官员”，指公司里的人写“高层管理人员”或“高管”，例如港铁的 a top official 写“一位高层管理人员”。
+- **延误**：名词 delay / delays 写“延误”（一连串的延误、早期延误、延误和超支）；动词 delay 按上下文写“推迟”“拖延”“耽误”；说项目 late、years delayed 时可以写“延期完工”“推迟了好几年”。
+- **低于预算**：under budget 写“低于预算”或“花的钱比预算少”，胡佛水坝的 a little under budget 写“略低于预算”；“不超预算”“没有超出预算”只用于 on budget。
+- **预计耗资**：at an estimated cost of、would cost 这类说法写“预计耗资”“预计为”；名词 estimated cost 写“估算成本”；“估计”只用于一般说法。
+- **项目类型名**：附录 A 的表格和正文写全称，fossil thermal power 写“化石燃料火电”，energy transmission 和 electricity transmission 写“输电”，hydroelectric dams 写“水电站大坝”，nonhydroelectric dams 写“非水电大坝”。第 9 章那张从肥尾到瘦尾的图上印的是简称，译者注照图上的字写，Thermal 写“火电”，Dam 写“大坝”。
+- **其他说法**：bullet train to nowhere 写“通往无处的子弹头列车”（引言、第 2 章）；Just do it 写“想做就做”（第 2 章，第 7 章的小节标题）；calculated risk taking 写“经过权衡的冒险”，take calculated risks 写“冒经过权衡的风险”（第 2 章、第 5 章）；cut the tail 写“砍掉尾部”（第 6 章、第 9 章；第 9 章原文加了引号，中文也加引号并括注原文）；a machine for jumping to conclusions 写“急于下结论的机器”，和本仓库《思考，快与慢》第 7 章标题相同；best practice 写“最佳实践”。
+- **原文的事实出入**：作者原文和史料有出入的地方，正文都照原文译，记在各节审校记录的“原文疑点”表里；出入会影响读者理解时才加译者注（第 1 章富兰克林的谚语、第 2 章五角大楼的面积、第 9 章 IPCC 的升温度数）。第 4 章说 Ed Catmull 当时是皮克斯的首席执行官（其实是总裁），第 5 章伦敦和洛杉矶举办奥运的次数，引言帝国大厦的 17%（按名义金额算是 18%），都照原文译，不加注。
 
 ## 核心概念
 
@@ -101,7 +117,7 @@
 | honest numbers | “诚实的数字” | 沃尔特·威廉斯的说法，第 1 章小节标题写“诚实的数字” |  | ch01 | 2 | 初定 |
 | black swan / black swan management | 黑天鹅 / 黑天鹅管理 | 塔勒布的概念：概率低、后果严重的事件；黑天鹅管理是作者提出的做法，第 6 章小节标题 |  | ch01 | 27 | 初定 |
 | normal distribution / bell curve | 正态分布 / 钟形曲线 | Gaussian 写“高斯分布” |  | ch01 | 10 | 初定 |
-| fat tail / fat-tailed | 肥尾 / 肥尾的 | 极端结果远多于正态分布的分布；fat-tailed distribution 写“肥尾分布” | 厚尾（统一用肥尾） | ch01 | 35 | 初定 |
+| fat tail / fat-tailed | 肥尾 / 肥尾的 | 极端结果远多于正态分布的分布；fat-tailed distribution 写“肥尾分布”；作谓语写“是肥尾的”“被称为‘肥尾’类型” | 厚尾（统一用肥尾） | ch01 | 35 | 初定 |
 | thin-tailed | 瘦尾 | 和肥尾相对，第 9 章小节标题 Thin-Tailed Projects 写“瘦尾项目” | 薄尾（统一用瘦尾） | ch09 | 2 | 初定 |
 | tail | 尾部 | 分布的尾部；in the tail 写“落在尾部”；tail risk 写“尾部风险” |  | ch01 | 40 | 初定 |
 | regression to the mean / regression to the tail | 均值回归 / 向尾部回归 | 前者是统计学概念，和《思考，快与慢》同；后者是作者仿前者造的说法，第 6 章小节标题 |  | ch01 | 7 | 初定 |
@@ -182,8 +198,8 @@
 | scale-free scalability / scale up | 无标度的可扩展性 / 扩大规模 | 作者的说法：同样的做法放大缩小都适用，第 9 章小节标题 | 规模化 | ch08 | 18 | 初定 |
 | one huge thing / many small things | 一个庞然大物 / 许多小东西 | 第 9 章开头两节的标题和全章的对照 |  | ch09 | 19 | 初定 |
 | repetition / repeat | 重复 | Repeat, repeat, repeat 写“重复，重复，再重复” | 迭代（iteration） | ch01 | 36 | 初定 |
-| bespoke / bespokeness | 定制 / 定制化 | 量身定制、没有标准部件；custom 也写“定制” |  | ch05 | 11 | 初定 |
-| heuristic | 启发式 | 简单的经验法则，和《思考，快与慢》同；结语写“11 条启发式” | 启发法 | ch02 | 15 | 初定 |
+| bespoke / bespokeness | 定制 / 定制化 | 量身定制、没有标准部件；custom 也写“定制”；bespoke 和 custom 并列时写“量身定做”（“定制”和“量身定做”），tailored suit 写“量身定做的西装” |  | ch05 | 11 | 初定 |
+| heuristic | 启发式 | 简单的经验法则，和《思考，快与慢》同；结语写“11 条启发式”；结语注释 3 的 positive / negative heuristics 写“正面启发式”“负面启发式”，recognition heuristic 写“再认启发式”，take-the-best heuristic 写“择优启发式”，availability heuristic 和 anchoring heuristic 写“可得性启发式”“锚定启发式” | 启发法 | ch02 | 15 | 初定 |
 | leadership / project leader | 领导力 / 项目负责人 | project leadership 写“项目领导力” | 项目经理（project manager） | ch02 | 23 | 初定 |
 | climate crisis / climate change | 气候危机 / 气候变化 | 第 9 章小节标题 Climate Crisis 写“气候危机” |  | ch01 | 16 | 初定 |
 | renewable energy / wind power / solar power | 可再生能源 / 风电 / 太阳能发电 | offshore wind farm 写“海上风电场”，wind turbine 写“风力涡轮机” |  | ch04 | 61 | 初定 |

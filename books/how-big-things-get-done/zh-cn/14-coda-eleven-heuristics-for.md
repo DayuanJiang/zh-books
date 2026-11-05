@@ -55,4 +55,4 @@
 [^5]: Ed Catmull, *Creativity, Inc: Overcoming the Unseen Forces That Stand in the Way of True Inspiration* (New York: Random House, 2014), 315.
 [^6]: medianwandel, “WWDC 1997: Steve Jobs About Apple’s Future,” YouTube, October 19, 2011, https://www.youtube.com/watch?v=qyd0tP0SK6o.
 
-[^t1]: 译者注：严格地说，heuristic 和 *Eureka!* 来自同一个古希腊语动词 heuriskein（发现、找到）；*Eureka!* 是这个动词的一种变位形式，意思是“我找到了”。
+[^t1]: 译者注：严格地说，heuristic 和 Eureka! 来自同一个古希腊语动词 heuriskein（发现、找到）；Eureka! 是这个动词的一种变位形式，意思是“我找到了”。
