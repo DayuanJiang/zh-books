@@ -1,6 +1,6 @@
 # AI 帝国
 
-凯伦·郝（Karen Hao）《Empire of AI: Dreams and Nightmares in Sam Altman's OpenAI》（Penguin Press，2025）的中英对照译本，从英文原文直接翻译。
+郝珂灵（Karen Hao）《Empire of AI: Dreams and Nightmares in Sam Altman's OpenAI》（Penguin Press，2025）的中英对照译本，从英文原文直接翻译。
 
 ## 来源与许可
 
