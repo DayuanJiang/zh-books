@@ -127,7 +127,7 @@
 - **章首概览和章末回顾**：每章一份 `assets/diagrams/chNN.json`，写明这一章要回答的问题、分几块、各块的关系，以及章末的几幕故事。构建时生成桌面和手机两套 SVG，文字超出版式预算就构建失败。数据的写法照着 `books/swe-at-google/assets/diagrams/` 里的例子。图标从 `framework/tools/icons.json` 里选；要用新的 Lucide 图标，运行 `uv run --project framework/tools python framework/tools/fetch_reader_assets.py`。
 - **小节细节图**：手工画的 SVG 和它的说明数据放在 `assets/diagrams/sections/`，用 `afterParagraph` 指定插在哪一段后面。
 - **代码改写**：书里的 Java、C++、Go 示例要配 Python 写法时，在 `assets/code-variants/<章节 id>/` 下放 `NN.java` 和 `NN.py`；没有对应写法的放 `NN.skip`，写明原因。
-- **字体**：阅读器的正文用思源宋体，按每本书用到的字符裁剪，放在这本书的 `assets/fonts/` 里并提交。译文新增了字符而字体没有重新生成时，严格构建会失败，并提示运行 `site.py fonts`。
+- **字体**：阅读器的正文用思源宋体，按每本书用到的字符裁剪，放在这本书的 `assets/fonts/` 里并提交。译文或章末小结新增了字符而字体没有重新生成时，严格构建会失败，并提示运行 `site.py fonts`。
 
 ## 每章的小结与要点
 

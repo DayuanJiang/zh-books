@@ -30,8 +30,9 @@ def book_characters(root, chapters):
     chars = {chr(c) for c in range(0x20, 0x7F)}
     chars |= {chr(c) for c in range(0x3000, 0x3040)}  # CJK symbols and punctuation
     chars |= {chr(c) for c in range(0xFF01, 0xFF5F)}  # fullwidth ASCII variants
-    for path in (root / "zh-cn").rglob("*.md"):
-        chars |= set(path.read_text())
+    for folder in ("zh-cn", "recaps"):
+        for path in (root / folder).rglob("*.md"):
+            chars |= set(path.read_text())
     for entry in chapters:
         file = entry["file"]
         parent = Path(file).parent.as_posix()
