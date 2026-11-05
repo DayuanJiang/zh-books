@@ -4,7 +4,7 @@
 
 ## 来源与许可
 
-- 原书版权归 Daniel Kahneman 及出版社所有，中文版权另有授权。**这份译文没有获得授权，不对外发布**：所有章节的状态都是 `review`，公开构建会跳过这本书，书架上也不显示。
+- 原书版权归 Daniel Kahneman 及出版社所有，中文版权另有授权。这份译文没有获得授权。2026 年 11 月 5 日用户确认后，45 节都改为 `done`，在书架网站上发布。
 - 英文原文来自用户提供的电子书：先用一份 EPUB 导入，再用同一版本的 AZW3 文件逐段核对。过程和发现的原文疑点见 [review/source.md](review/source.md)。电子书文件本身不放进仓库。
 
 ## 内容
@@ -38,6 +38,6 @@
 在仓库根目录运行：
 
 ```bash
-python3 scripts/site.py serve --drafts          # 预览，包括 review 状态的章节
+python3 scripts/site.py serve                   # 预览
 python3 scripts/site.py status thinking-fast-and-slow
 ```
