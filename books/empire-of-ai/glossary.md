@@ -50,6 +50,21 @@
 
 译者读完一章后，如果觉得标题另有更贴切的译法，在汇报里提出，由主会话统一修改。
 
+## 全书统一的写法（译完后定）
+
+各章译完后，编辑提出了一些各章写法不一的地方，统一如下：
+
+- **数字**：一到十，以及带“几、十几、数百、上千”的约数，用汉字（两天后、十天后、几十名员工）；11 以上的确数用阿拉伯数字（800 人、24 小时、36 个多小时），万和亿前面的数字也用阿拉伯数字（1 万名员工、1.5 万多倍）；年份、日期、金额、百分比一律用阿拉伯数字。倍数写“增长到原来的 N 倍”，不写“增长了 N 倍”。
+- **书名、报刊括注**：每章第一次出现时括注原题，原题用斜体，例如《休克主义》（*The Shock Doctrine*）；文章、论文、博客文章的原题保留引号，不用斜体。《纽约时报》《华尔街日报》《华盛顿邮报》《大西洋月刊》《连线》《时代》《麻省理工科技评论》《纽约客》这些常见报刊不括注。
+- **人名**：名人也照常在每章第一次出现时括注英文。脚注里的人名，无论在出处里还是在说明句里，一律照写英文。“拜登政府”“特朗普政府”这类说法不括注。
+- **平台名**：写 Twitter（改名后写 X），不写“推特”；“推文”“发推文”照用。
+- **inference**：和 reasoning 同时出现时写“推理（运行模型）”。
+- **头衔**：cochairman 写“联席董事长”（spurned former cochairman 写“当年被 OpenAI 拒绝的前联席董事长”）；communications team 写“传播团队”，VP of communications 写“传播副总裁”；微软的 corporate vice president 写“全球资深副总裁”；fellow（OpenAI 的研究项目）写“研究学员”。
+- **机构和项目**：Open Philanthropy 照写原名；Deployment Safety Board 写“部署安全委员会（DSB）”；Preparedness Framework 写“准备度框架”，Preparedness team 写“准备度团队”；OpenAI Startup Fund 写“OpenAI 创业基金（OpenAI Startup Fund）”；responsible AI 写“负责任 AI”，ethical AI team 写“伦理 AI 团队”；universal basic income 写“全民基本收入（UBI）”，之后写 UBI；state actors 写“国家行为体”。
+- **其他说法**：Doomerism 写“末日论”；water withdrawal 写“取水量”，water consumption 写“耗水量”；hardware overhang 写“硬件过剩”；data flywheel 写“数据飞轮”。
+- **代词**：书里用 they 指代的人（例如 Emma Strubell），中文不用“她”或“他”，写名字或“两人”这类说法。
+- **原文已更正的地方**：作者在书出版后公开更正过的句子（第 12 章两处用水数据），正文按更正后的意思译出，原文的写法和更正写进译者注。
+
 ## 核心概念
 
 | 英文 | 首选译法 | 适用的意思 | 不要混同 | 首次出现 | 出现次数 | 状态 |
@@ -159,3 +174,6 @@
 | Kenya / Chile / Uruguay / Colombia / Venezuela | 肯尼亚 / 智利 / 乌拉圭 / 哥伦比亚 / 委内瑞拉 |  |
 | Atacama Desert / Santiago / Nairobi | 阿塔卡马沙漠 / 圣地亚哥 / 内罗毕 |  |
 | Māori / te reo Māori | 毛利人 / 毛利语 |  |
+| Emerson Collective / Open Philanthropy / Sequoia / Founders Fund | 爱默生集体（Emerson Collective）/ 照写原名 / 红杉资本 / 创始人基金 |  |
+| Universidad de la República (Uruguay) | 乌拉圭共和国大学 |  |
+| Twitter / X | Twitter / X | 不写“推特” |
