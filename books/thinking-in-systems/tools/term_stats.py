@@ -322,6 +322,7 @@ TERMS = {
     "dynamics / dynamic": (r"(?<!system )(?<!systems )\bdynamics?\b", False),
     "decoupled / de-coupled": (r"\bde-?coupl\w+", False),
     "inventory": (r"\binventor(?:y|ies)\b", False),
+    "just-in-time": (r"\bjust-in-time\b", False),
     "capital / capital stock": (r"\bcapital\b", False),
     "depreciation / lifetime": (r"\bdepreciat\w+|\blifetimes?\b", False),
     "renewable / nonrenewable resource": (r"\b(?:non)?renewable\b", False),
@@ -399,6 +400,8 @@ TERMS = {
     "holistic / reductionist": (r"\b(?:un)?holistic\b|\breductionis\w+", False),
     "sustainability / sustainable": (r"\bsustainab\w+", False),
     "GNP": (r"\bGNP\b", True),
+    "throughput": (r"\bthroughput\b", False),
+    "fertility / mortality": (r"\bfertility\b|\bbirth ?rates?\b|\bmortality\b|\bdeath ?rates?\b", False),
     "thermostat / furnace": (r"\bthermostats?\b|\bfurnaces?\b", False),
 }
 

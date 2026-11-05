@@ -23,7 +23,7 @@
   - 第 1 章脚注 2 写“粗体词的定义见附录的术语表。”
 - **脚注标记**：`[^n]` 放在中文里对应词句的后面，编号与英文一致。第 1 章的星号注释是脚注 2，所以第 1 章的脚注 3 到 6 对应原书注释 2 到 5。
 - **粗体定义**：正文用粗体排出、附录术语表收录的 18 个词，中文也用粗体，并在第一次出现的这一处括注英文，例如“**存量**（stock）”。页边原理是整句粗体，中文也整句粗体。
-- **页边原理和附录汇总**：页边原理（引文块里的粗体句子）在附录 Summary of Systems Principles 里又出现一次。英文相同的，中文一字不差；英文略有不同的（例如第 1 章的 decoupled and to be independent 和附录的 de-coupled and independent），中文也只在这些地方不同。对照表见 [review/terms/principles.tsv](review/terms/principles.tsv)。第 5 章的八种陷阱、第 6 章的十二个杠杆点、第 7 章的十五条准则，在附录里也各出现一次，译名照下面“两处出现的标题”。
+- **页边原理和附录汇总**：页边原理（引文块里的粗体句子）在附录 Summary of Systems Principles 里又出现一次。英文相同的，中文一字不差；英文略有不同的（例如第 1 章的 decoupled and to be independent 和附录的 de-coupled and independent），中文也只在这些地方不同。对照表见 [review/terms/principles.tsv](review/terms/principles.tsv)。第 4 章开头页边方框里没有加粗的两句（Our models do have a strong congruence with the world、Our models fall far short of representing the real world fully），表里标作 summary only，其实和附录一字不差，中文也一字不差。第 5 章的八种陷阱、第 6 章的十二个杠杆点、第 7 章的十五条准则，在附录里也各出现一次，译名照下面“两处出现的标题”。
 - **斜体**：原文用斜体强调的词句，中文也用 `*…*` 标出（阅读器把中文斜体显示成加重的无衬线字体）。附录模型方程里斜体的模型变量名译成中文，保留斜体，例如 *water in tub(t)* 写 *浴缸里的水量(t)*。
 - **图题和图号**：图题开头的 Figure 12. 写“图 12：”。分图上方的 A: Growth 这类标签写“A：增长”。正文里的 (See Figure 46.) 写“（见图 46。）”，Figures 14–20 写“图 14 到 20”。图片里的英文不改。
 - **硬换行**：附录“干预系统的位置”和模型方程的段落，每行行尾有两个空格，中文照样保留，行数相同。两首诗（第 3 章斯威夫特、第 4 章博尔丁）也是一行一个硬换行。
@@ -122,7 +122,7 @@
 
 ## 全书统一的写法
 
-开始翻译前先定下来的写法。译完后编辑再提出各章不一致的地方，补在这一节。
+开始翻译前先定下来的写法。译完后编辑提出的各章不一致的地方，统一写在下一节“全书统一的写法（译完后定）”。
 
 - **数字**：一到十，以及带“几、十几、数百、上千”的约数，用汉字（三种东西、几十年）；11 以上的确数用阿拉伯数字（49 幅图、30 年）；万和亿前面的数字也用阿拉伯数字（66 亿人）；年份、日期、钟点、金额、百分比、温度一律用阿拉伯数字。原文用英文单词写的章号（Chapter One、Chapters One and Two）写“第 1 章”“第 1 章和第 2 章”。倍数写“增长到原来的 N 倍”，不写“增长了 N 倍”；doubling 写“翻一番”或“增长一倍”。
 - **书名、报刊括注**：每节第一次出现时括注原题，原题用斜体。《国际先驱论坛报》（International Herald Tribune）是作者 1992 年那一周读的报纸，第 5、6 章的署名行里反复出现，一律不括注。指本书时，*Thinking in Systems* 写《系统之美》，沿用中文版书名。
@@ -138,6 +138,32 @@
 - **原文疑点**：`review/source.md` 列出的原文疑点（多一个词、少一个词、拼错的词），译文按正确的意思译，不加注。附录模型方程里两处可能写错的图号（For Figures 14–20、for Figures 30–40），照原文写，各加一条译者注说明应为哪几幅图。
 - **报纸摘录**：第 5、6 章引的 1992 年报纸，引文里方括号中的补充（[when taxes are expected to be higher]）照样用方括号译出。
 
+## 全书统一的写法（译完后定）
+
+各节译完后，编辑在报告里提出了一些全书范围的问题，2026-11-05 统一如下。写着“已改”的地方已经用脚本改进 zh-cn/；写着“待改”的要看上下文改，留给下一轮各节的编辑；其余各条，现在的译文已经这样写，以后改动时照这里。
+
+- **数字**（补充上一节的“数字”一条）：
+  - 并列比较的一组数据（统计数字、计量数字，在同一句里，或者连着几句列出），只要有一个数用阿拉伯数字，其余一到十的数也用阿拉伯数字，例如第 2 章“每 1000 人出生 21 人、死亡 9 人”，第 4 章“猪是 4 年一个周期，牛是 7 年，可可树是 11 年”“要花 3 到 8 年……可能有 5 年……10 到 15 年”“施 10 磅肥料，产量会增加 2 蒲式耳”。叙述和举例里的数字照常按一到十写汉字，见下面年龄一条。
+  - 范围的两端用同一种写法：两端都在十以内写汉字（六到十年），有一端在 11 以上就都用阿拉伯数字（10 到 15 年、10 到 20 年）。评分的刻度照写阿拉伯数字（1 到 5、0 到 100）。
+  - 年龄和年数按每个数自己的大小写，十以内写汉字，11 以上写阿拉伯数字，同一句里也这样，例如第 6 章“五岁的孩子会长到六岁，64 岁的人会长到 65 岁”。
+  - 举例时随口列出的几个整数统一写汉字，例如第 1 章 three or five or twenty stocks 写“三个、五个或者二十个”。
+  - 带“大约”“大概”的约数，数字照确数的写法：大约十个零件、大约 1000 个零件、大概 150 年。虚指的整百、整千写汉字：另外一千个账户、做过上百次、两百年来。
+  - 附录模型方程里的参数、初始值和时间照写阿拉伯数字（*感知延迟* = 5 天、时间从 6 到 10）。正文和图题叙述同一件事时照常写汉字，例如“感知延迟从五天缩短到两天”；第 1 章图 7 图题“5 分钟后开始进水”改成了“五分钟后开始进水”（已改）。模型时间里 11 以上的序数写阿拉伯数字（第 25 天、第 40 年）。
+  - 叙述里的序数写汉字（第一个问题、第三轮循环、前十条诫命之外的第十一条）；章号和图号写阿拉伯数字（第 1 章、图 30）。
+- **第 5 章方框和附录“摆脱系统陷阱”**：八种陷阱的“陷阱”“出路”两段，英文几乎相同，中文以附录的写法为准，两处逐字相同（第 5 章 19 段已照附录改，已改）。有两处照第 5 章正文的用词：公地悲剧的出路写“监管所有使用者对这种资源的取用”，和正文的“监管公地”一致；富者愈富的出路写“采取拉平赛场的政策”，和正文的“拉平赛场”一致（附录这两处已改）。英文不同的地方，中文也只在这里不同：政策阻力一段第 5 章写 system stock（“把系统存量拉向”“把存量拉得”），附录写 system state（“系统状态”）；滑向低绩效的出路第 5 章多了 Use the same structure to（“用同样的结构，让系统滑向高绩效！”）。以后改其中一处，另一处要跟着改。
+- **页边原理**：第 4 章 Everything we think we know about the world is a model 写“我们对世界自以为知道的一切，都是模型”，第 4 章开头的“三条真理”第 1 条和页边方框都照附录改了（已改）。第 3 章的四条页边原理照附录写，附录里连续体、限制作用最大、层层限制、预见就必不可少、有限理性、反映真实的世界这几句照第 4 章写，以后改任何一处，另一处跟着改。
+- **保持绝对的标准**：keep standards absolute 写“坚持绝对的标准”，Keep performance standards absolute 写“坚持绝对的绩效标准”。第 5 章正文原来的“让标准保持绝对”（已改），第 7 章和附录本来就这样写。
+- **出生率和生育率**：第 2 章人口模型的 fertility 是每年每 1000 人的出生人数，人口学上叫“出生率”，和 birth rate 同样写“出生率”，fertility loop 写“出生回路”。只有联合国预测一句的 average fertility 说的是平均每名妇女生几个孩子，保留“生育率”。第 2 章 21 处和附录模型方程 5 处都改了（已改）。
+- **physical**（补充上一节的 physical 一条）：nonphysical feedback、nonphysical information 写“非物质的反馈”“非物质的信息”；physical delays、delays in physical processes 写“物质流动的延迟”“物质流动里的延迟”；physical growth 写“物质增长”；physical economy 写“实体经济”；physical structure(s)、physical infrastructure、physical arrangement 写“实体结构”“实体基础设施”“实体布局”。
+- **资源的取用**：渔业写“捕捞”，林业写“采伐”，第 2 章泛指可再生资源时写“采收”“过度采收”，第 5 章公地悲剧里写“取用资源的速率”“过度取用”。exploiter of the commons 写“占公地便宜的人”，overexploitation of renewable resources 写“可再生资源的过度开发”。
+- **其他说法**：just-in-time 写“准时制”，第一次出现时讲明“在需要的时候才送到”；impact fees 写“开发影响费”；collateral damage 写“附带损害”；selectman 写“镇务委员”，不加注；lead author 写“第一作者”；the events of the day 写“当时发生的事件”“每天发生的事件”；throughput 写“吞吐量”。
+- **身份**：署名行里奥尔多·利奥波德的 forester 照 people-zh.tsv 写“林学家”；第 4 章插曲里不具名的 one forester 写“一位林务员”。
+- **引言**：艾可夫的 messes 在题词里第一次出现，写“乱局（messes）”（已改），之后只写“乱局”。插曲标题“盲人摸象”和题词“小洞不补，大洞吃苦”用中文的通行说法，不再体现 the Matter of 和 nine 的字面。
+- **献辞**：FOR DANA 照 people-zh.tsv 写“献给达娜”，不括注。
+- **译者注**：作者叙述的事实和通行史料有出入的地方，照原文译，不加译者注，例如第 2 章更替水平“1.85 个孩子”、第 5 章罗马尼亚出生率“增长到原来的三倍”和齐奥塞斯库“和家人一起被处决”、编者的话里 IPCC 的引文。第 4 章“本世纪”和宁静祷文、第 6 章配平片和肯尼迪的就职演说、第 7 章“和平卫士”导弹和 for the birds 这几条译者注都保留，它们补的是中文读者缺少的背景或者译不出的双关。
+- **参考书目**：条目照写英文。有通行中译本的书（The Fifth Discipline 即《第五项修炼》，Business Dynamics）不加译者注。
+- **附录图号的译者注**：for Figures 30–40 的译者注写“这里大概是指图 38 到 41，其中图 40 另作四次对比运行”，review/source.md 的判断已同步（已改）。
+
 ## 核心概念
 
 | 英文 | 首选译法 | 适用的意思 | 不要混同 | 首次出现 | 出现次数 | 状态 |
@@ -145,11 +171,11 @@
 | system / systems | 系统 | 一组相互连接的要素，按一定方式组织起来，实现某种功能或目的；附录术语表条目 | 体系、制度 | authors-note | 989 | 初定 |
 | element | 要素 | 系统三种组成之一，可以是有形的东西，也可以是无形的东西（大学的荣誉感） | 元素（化学） | introduction | 40 | 初定 |
 | interconnection / interconnected | 相互连接 / 相互连接的 | 把要素联系在一起的关系，很多通过信息流起作用；interrelated 写“相互关联” | 互联（网络） | introduction | 35 | 初定 |
-| function / purpose | 功能 / 目的 | function 用于非人类系统，purpose 用于人类系统（第 1 章“关于用词”方框）；两词并列时写“功能或目的” | 目标（goal） | authors-note | 111 | 初定 |
+| function / purpose | 功能 / 目的 | function 用于非人类系统，purpose 用于人类系统（第 1 章“关于用词”方框）；两词并列时写“功能或目的”；For our purposes、for purposes of、for all practical purposes 这类套话和系统的目的无关，按意思写“在这本书里”“为了”“实际上”，`term_consistency.py` 报出的这类段落不用改 | 目标（goal） | authors-note | 111 | 初定 |
 | goal | 目标 | 调节回路要达到或维持的状态，也是第 3 个杠杆点；goal-seeking 写“寻求目标的” | 目的（purpose） | introduction | 138 | 初定 |
 | structure / system structure | 结构 / 系统结构 | 存量、流量和反馈回路相互连接的方式；“结构决定行为” | 组织架构 | editors-note | 108 | 初定 |
 | behavior / behavior over time | 行为 / 随时间变化的行为 | 系统随时间表现出来的模式；behavior-over-time graph 写“行为随时间变化图”；pattern of behavior 写“行为模式” | 举止、表现 | editors-note | 172 | 初定 |
-| event | 事件 | 某一时刻发生的单个结果；第 4 章区分事件、行为模式和系统结构三个层次 | 行为 | editors-note | 35 | 初定 |
+| event | 事件 | 某一时刻发生的单个结果；第 4 章区分事件、行为模式和系统结构三个层次；编者的话里 the events of the day 写“当时发生的事件”“每天发生的事件”，下一句好用“这些事件”回指 | 行为 | editors-note | 35 | 初定 |
 | surprise / system surprises | 意外 / 系统带来的意外 | 第 4 章的主题：系统的行为出乎我们的预料 | 惊喜 | introduction | 48 | 初定 |
 | subsystem | 子系统 | 系统里嵌套的较小系统 |  | ch01 | 26 | 初定 |
 | systems thinking / systems thinker | 系统思考 / 系统思考者 | 《第五项修炼》中译本和 2012 年中文版的说法 | 系统思维 | authors-note | 47 | 初定 |
@@ -157,19 +183,21 @@
 | systems analysis / systems analyst | 系统分析 / 系统分析师 |  |  | authors-note | 9 | 初定 |
 | systems zoo / zoo animal | 系统动物园 / 动物园里的动物 | 第 2 章的比喻，概念来自博塞尔：把常见的系统结构当作动物园里的动物逐个参观 | 系统大观园（2012 年中文版的章名） | introduction | 12 | 初定 |
 | stock | 存量 | 系统里随时间积累起来的物质或信息；附录术语表条目 | 库存（inventory）、股票 | ch01 | 296 | 初定 |
-| flow / inflow / outflow | 流量 / 流入量 / 流出量 | 一段时间内进入或离开存量的物质或信息；附录术语表条目；作动词时照常译“流” | 流动、通量 | ch01 | 233 | 初定 |
+| flow / inflow / outflow | 流量 / 流入量 / 流出量 | 一段时间内进入或离开存量的物质或信息；附录术语表条目；作动词时照常译“流”；第 1 章浴缸开着水龙头的 inflow（inflow turned on、turning the inflow on harder）写“进水”，例如“开始进水”“把进水开大一些” | 流动、通量 | ch01 | 233 | 初定 |
 | stock-and-flow diagram / structure | 存量流量图 / 存量流量结构 | 第 10 个杠杆点叫“存量流量结构” |  | ch01 | 5 | 初定 |
 | cloud | 云 | 存量流量图里表示流量从哪里来、到哪里去的云形符号；第 4 章 Beware of clouds! 写“当心那些云！” |  | ch01 | 21 | 初定 |
 | bathtub / faucet / drain | 浴缸 / 水龙头 / 排水口 | 第 1 章的浴缸模型；流量上的 T 形符号表示“水龙头” | 阀门 | ch01 | 37 | 初定 |
 | dynamic equilibrium | 动态平衡 | 流入量等于流出量，存量的水平不变；附录术语表条目 | 静态平衡、均衡 | ch01 | 8 | 初定 |
-| dynamics / dynamic | 动态 / 动态的 | 系统或其组成部分随时间变化的行为；附录术语表条目 | 动力学（只用于学科名 system dynamics） | introduction | 52 | 初定 |
+| dynamics / dynamic | 动态 / 动态的 | 系统或其组成部分随时间变化的行为；附录术语表条目 | 动力学（只用于学科名 system dynamics 和福里斯特的书名《城市动力学》《世界动力学》；第 6 章 his study of urban dynamics 写“城市动力学研究”） | introduction | 52 | 初定 |
 | decoupled / de-coupled | 脱钩 | 第 1 章原理：存量让流入量和流出量可以脱钩、各自独立 | 解耦 | ch01 | 2 | 初定 |
 | inventory | 库存 | 第 2 章汽车经销商模型里的存量 | 存量（stock） | ch01 | 60 | 初定 |
+| just-in-time | 准时制 | 第 3、6 章：零部件和货物在需要的时候才送到；第一次出现时把这层意思讲出来 | 准时送到（会被理解成按约定的时间送到） | ch03 | 3 | 初定 |
 | capital / capital stock | 资本 / 资本存量 | 机器、工厂等实物资本；output 写“产出”，investment 写“投资” | 资金 | ch01 | 147 | 初定 |
 | depreciation / lifetime | 折旧 / 寿命 | 资本的折旧和平均寿命 |  | ch01 | 44 | 初定 |
+| fertility / mortality | 出生率 / 死亡率 | 第 2 章人口模型的两个流量，每年每 1000 人的出生人数和死亡人数；birth rate、death rate 也写“出生率”“死亡率”；fertility loop、birth loop 写“出生回路”，death loop 写“死亡回路”；附录模型方程的 *fertility* 写 *出生率* | 生育率（只用于第 2 章联合国预测里按每名妇女生几个孩子计的 average fertility） | ch02 | 77 | 初定 |
 | renewable / nonrenewable resource | 可再生资源 / 不可再生资源 | 第 2 章双存量系统 |  | ch02 | 40 | 初定 |
 | stock-limited / flow-limited | 受存量限制 / 受流量限制 | 不可再生资源受存量限制，可再生资源受流量限制 |  | ch02 | 4 | 初定 |
-| regeneration / extraction / harvest rate | 再生速率 / 开采速率 / 捕捞速率 | 第 2 章双存量系统里的流量；harvest 在渔业模型里写“捕捞量”，在林业里写“采伐量” |  | ch02 | 22 | 初定 |
+| regeneration / extraction / harvest rate | 再生速率 / 开采速率 / 捕捞速率 | 第 2 章双存量系统里的流量；harvest 在渔业模型里写“捕捞量”，在林业里写“采伐量”，泛指可再生资源时写“采收”（过度采收），公地悲剧里泛指的 harvest rate、overharvesting 写“取用资源的速率”“过度取用” |  | ch02 | 22 | 初定 |
 | carrying capacity | 承载能力 |  | 容量 | ch04 | 6 | 初定 |
 | feedback / feedback loop | 反馈 / 反馈回路 | 存量的变化通过决策、规则或物理规律反过来影响进出这一存量的流量，形成闭合的因果链；附录术语表条目 | 反馈环、回馈 | introduction | 233 | 初定 |
 | balancing feedback loop / balancing loop | 调节回路 | 寻求目标、维持稳定的反馈回路，图中标 B；附录术语表条目；2012 年中文版同 | 平衡回路 | ch01 | 75 | 初定 |
@@ -203,7 +231,7 @@
 | boundary | 边界 | 为了讨论而给系统划定的边界；boundary of caring 写“关怀的边界” | 国界（地理意义除外） | ch02 | 52 | 初定 |
 | limiting factor | 限制因素 | 某一时刻最限制系统活动的那项必要输入；附录术语表条目 | 制约因素 | ch04 | 10 | 初定 |
 | law of the minimum | 最小因子定律 | 李比希的定律 |  | ch04 | 1 | 初定 |
-| limits to growth | 增长的极限 | 原理“增长总有极限”；同名书写《增长的极限》 |  | editors-note | 7 | 初定 |
+| limits to growth | 增长的极限 | 原理“增长总有极限”；同名书写《增长的极限》；第 4 章小节标题和页边原理里的 layers of limits 写“层层限制” |  | editors-note | 7 | 初定 |
 | bounded rationality | 有限理性 | 西蒙的概念；附录术语表条目 | 有界理性 | ch04 | 19 | 初定 |
 | invisible hand / invisible foot | 看不见的手 / 看不见的脚 | 斯密和戴利的说法 |  | ch04 | 3 | 初定 |
 | archetype | 基模 | 产生典型行为模式的常见系统结构；附录术语表条目；system archetype 写“系统基模”；《第五项修炼》中译本同 | 原型 | introduction | 16 | 初定 |
@@ -211,10 +239,10 @@
 | the way out | 出路 | 第 5 章方框标题和附录的段首标签 | 编者的话里 on the way out 写“撤退时” | ch05 | 25 | 初定 |
 | policy resistance | 政策阻力 | 第一种陷阱 |  | introduction | 12 | 初定 |
 | fixes that fail | 失效的对策 | 政策阻力的另一个名字 | 治标不治本（2012 年中文版） | ch05 | 1 | 初定 |
-| tragedy of the commons / commons | 公地悲剧 / 公地 | 哈丁的概念；common sinks 写“公共的排污场所” |  | introduction | 31 | 初定 |
+| tragedy of the commons / commons | 公地悲剧 / 公地 | 哈丁的概念；common sinks 写“公共的排污场所”；exploiter of the commons 写“占公地便宜的人”，overexploitation of resources 写“过度开发” |  | introduction | 31 | 初定 |
 | mutual coercion, mutually agreed upon | 相互同意的相互强制 | 哈丁的说法，全书引用时一字不差 |  | ch05 | 3 | 初定 |
 | drift to low performance | 滑向低绩效 | 第三种陷阱 | 目标侵蚀（eroding goals；2012 年中文版用它作这个陷阱的名字） | ch04 | 9 | 初定 |
-| performance standard | 绩效标准 | 滑向低绩效陷阱里，标准跟着过去的绩效往下调 |  | ch05 | 4 | 初定 |
+| performance standard | 绩效标准 | 滑向低绩效陷阱里，标准跟着过去的绩效往下调；keep (performance) standards absolute 写“坚持绝对的（绩效）标准” |  | ch05 | 4 | 初定 |
 | eroding goals | 目标侵蚀 | 原文说是滑向低绩效的另一个名字 | 滑向低绩效 | introduction | 6 | 初定 |
 | boiled frog syndrome | 温水煮青蛙综合征 | 滑向低绩效的又一个名字 |  | ch05 | 1 | 初定 |
 | escalation | 竞争升级 | 第四种陷阱，军备竞赛、价格战都属于这一类 |  | ch05 | 35 | 初定 |
@@ -242,6 +270,7 @@
 | holistic / reductionist | 整体的 / 还原论的 | unholistic 写“非整体的” |  | introduction | 7 | 初定 |
 | sustainability / sustainable | 可持续 | Sustainability Institute 写“可持续发展研究所” |  | editors-note | 11 | 初定 |
 | GNP | 国民生产总值（GNP） | 每节第一次出现写全称再括注 GNP，之后写 GNP |  | ch04 | 17 | 初定 |
+| throughput | 吞吐量 | GNP 衡量的东西：一年里生产和购买的物质的流量；每节第一次出现时括注原文，写“*吞吐量*（throughput）”；第 7 章列举英文词的那一句照原文的次序写“*throughput*（吞吐量）” |  | ch05 | 4 | 初定 |
 | thermostat / furnace | 恒温器 / 暖气炉 | 第 1、2 章的恒温器模型 | 温控器 | ch01 | 71 | 初定 |
 
 ## 机构、产品与地名

@@ -46,4 +46,4 @@ uv run --project framework/tools python -I books/thinking-in-systems/tools/term_
 uv run --project framework/tools python -I books/thinking-in-systems/tools/term_consistency.py report.json
 ```
 
-对 `tools/term_consistency.py` 里 `TERMS` 列出的每个术语（存量、调节回路、增强回路、韧性、杠杆点、八种陷阱的名字等 58 条），以及 `people-zh.tsv` 里的每个人，找出含这个英文词的段落，看对应的中文段落里有没有约定的译法，没有的写进报告。同一术语有不止一种译法的，回到上下文判断是否需要统一。人名按姓检查，Calvin 和 Hobbes 在漫画对白里写成大写（CALVIN:），也算在内。
+对 `tools/term_consistency.py` 里 `TERMS` 列出的每个术语（存量、调节回路、增强回路、韧性、杠杆点、八种陷阱的名字等 62 条），以及 `people-zh.tsv` 里的每个人，找出含这个英文词的段落，看对应的中文段落里有没有约定的译法，没有的写进报告。同一术语有不止一种译法的，回到上下文判断是否需要统一。人名按姓检查，Calvin 和 Hobbes 在漫画对白里写成大写（CALVIN:），也算在内。

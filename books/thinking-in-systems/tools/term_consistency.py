@@ -75,6 +75,10 @@ TERMS = [
     ("intrinsic responsibility", r"\bintrinsic responsibility\b", False, ["内在责任"]),
     ("Slinky", r"\bSlink(?:y|ies)\b", True, ["弹簧圈"]),
     ("GNP", r"\bGNP\b", True, ["GNP", "国民生产总值"]),
+    ("throughput", r"\bthroughput\b", False, ["吞吐量"]),
+    ("just-in-time", r"\bjust-in-time\b", False, ["准时制"]),
+    ("layers of limits", r"\blayers of limits\b", False, ["层层限制"]),
+    ("fertility", r"\bfertility\b", False, ["出生率", "出生回路"]),
     ("International Herald Tribune", r"\bHerald Tribune\b", False, ["国际先驱论坛报"]),
 ]
 

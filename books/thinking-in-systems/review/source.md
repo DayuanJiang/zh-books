@@ -129,7 +129,7 @@ uv run --project framework/tools python -I books/thinking-in-systems/tools/check
 | 第 6 章 | `a story a friend sent me over the Internet to makes that point` | makes 应为 make |
 | 附录术语表 | `also know as` | 应为 also known as |
 | 附录模型方程 | 恒温器模型写 `For Figures 14–20` | 恒温器的图是 15 到 20，图 14 是资本再投资 |
-| 附录模型方程 | 不可再生资源模型写 `for Figures 30–40` | 这个模型的图是 37 到 41，应是 38 到 40 |
+| 附录模型方程 | 不可再生资源模型写 `for Figures 30–40` | 这个模型的图是 37 到 41，大概指图 38 到 41：同一行后半句说图 40 另取 6%、8%、10%、12% 做四次对比运行，第 2 章正文又拿图 41 和价格不变的图 38 比较，可见图 41 的增长目标也是 10% |
 | 参考书目 | `Stat University of New York Press` | 应为 State |
 
 ## 框架的问题
