@@ -17,15 +17,15 @@
   },
   "start": "ch01",
   "chapters": [
-    {"id": "ch01", "number": 1, "file": "01-1-the-new-rules.md", "status": "draft"},
-    {"id": "ch02", "number": 2, "file": "02-2-be-a-mirror.md", "status": "todo"},
-    {"id": "ch03", "number": 3, "file": "03-3-don-t-feel-their-pain-label-it.md", "status": "todo"},
-    {"id": "ch04", "number": 4, "file": "04-4-beware-yes-master-no.md", "status": "todo"},
-    {"id": "ch05", "number": 5, "file": "05-5-trigger-the-two-words-that.md", "status": "todo"},
-    {"id": "ch06", "number": 6, "file": "06-6-bend-their-reality.md", "status": "todo"},
-    {"id": "ch07", "number": 7, "file": "07-7-create-the-illusion-of-control.md", "status": "todo"},
-    {"id": "ch08", "number": 8, "file": "08-8-guarantee-execution.md", "status": "todo"},
-    {"id": "ch09", "number": 9, "file": "09-9-bargain-hard.md", "status": "todo"},
-    {"id": "ch10", "number": 10, "file": "10-10-find-the-black-swan.md", "status": "todo"}
+    {"id": "ch01", "number": 1, "file": "01-1-the-new-rules.md", "status": "review"},
+    {"id": "ch02", "number": 2, "file": "02-2-be-a-mirror.md", "status": "review"},
+    {"id": "ch03", "number": 3, "file": "03-3-don-t-feel-their-pain-label-it.md", "status": "review"},
+    {"id": "ch04", "number": 4, "file": "04-4-beware-yes-master-no.md", "status": "review"},
+    {"id": "ch05", "number": 5, "file": "05-5-trigger-the-two-words-that.md", "status": "review"},
+    {"id": "ch06", "number": 6, "file": "06-6-bend-their-reality.md", "status": "review"},
+    {"id": "ch07", "number": 7, "file": "07-7-create-the-illusion-of-control.md", "status": "review"},
+    {"id": "ch08", "number": 8, "file": "08-8-guarantee-execution.md", "status": "review"},
+    {"id": "ch09", "number": 9, "file": "09-9-bargain-hard.md", "status": "review"},
+    {"id": "ch10", "number": 10, "file": "10-10-find-the-black-swan.md", "status": "review"}
   ]
 }
