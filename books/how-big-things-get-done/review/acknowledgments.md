@@ -34,7 +34,7 @@
 - 未决，留给主会话决定：
   - Lou Thompson 写“路易斯·汤普森（Lou Thompson）”，中文名和括注的英文不完全对应。也可以写“卢·汤普森（Lou Thompson）”，但读者就看不出他是引言和第 1 章的路易斯·汤普森。
   - 香港特区政府的 Major Projects Leadership Programme 没有查到可靠的中文官方名称，照意思译“重大项目领导力课程”。
-  - 两个讲席教授职位（BT Professorship and Chair of Major Programme Management、Villum Kann Rasmussen Professorship and Chair of Major Program Management）照意思译，Villum Kann Rasmussen 写“维卢姆·卡恩·拉斯穆森”，这个译名不在 people-zh.tsv 里，建议补进表里。
+  - 两个讲席教授职位（BT Professorship and Chair of Major Programme Management、Villum Kann Rasmussen Professorship and Chair of Major Program Management）照意思译，Villum Kann Rasmussen 写“维卢姆·卡恩·拉斯穆森”，这个译名不在 people-zh.tsv 里，建议补进表里。（已定：译完后统一写法时，维卢姆·卡恩·拉斯穆森已补进 people-zh.tsv；第三轮照人名体例，在本节第一次出现处括注了英文。）
   - 第 13 块的 executive education programs 译“高管教育课程”，Oxford’s MSc 译“理学硕士课程”，都是常见说法，没有查官方中文名。
 
 ## 原文疑点
@@ -74,5 +74,20 @@
 ## 状态
 
 - 没有未解决的意义问题。原文疑点没有新增，仍是上面表格里 Juan de Dios Ortúza 那一条。
-- 译者自检列出的未决项仍留给主会话：Lou Thompson 写“路易斯·汤普森”；香港特区政府课程的中文名；维卢姆·卡恩·拉斯穆森是否补进 people-zh.tsv；高管教育课程和理学硕士课程的译名。审校者对这几项没有提出改动。
+- 译者自检列出的未决项仍留给主会话：Lou Thompson 写“路易斯·汤普森”；香港特区政府课程的中文名；维卢姆·卡恩·拉斯穆森是否补进 people-zh.tsv；高管教育课程和理学硕士课程的译名。审校者对这几项没有提出改动。其中维卢姆·卡恩·拉斯穆森一项已定，见第三轮。
 - 还没做的：第 4 项阅读器校样。
+
+## 第三轮：GPT-6 Astra 独立审校
+
+- 审校者：GPT-6 Astra，通过 Codex 运行，只读，和译者属于不同的模型家族。
+- 发现：5 条。逐条找到中英文对应的句子，读过上下文后核实：成立并修改 3 条，不成立 2 条。
+- 成立并修改：
+  - 第 13 块 “more than a thousand top-level, high-caliber business and government executives”：原译“一千多位企业界和政府里级别很高、能力出众的高管”把政府里的人也叫“高管”，中文的“高管”通常指企业的高级管理人员；术语表“官员和高管”一条也定了政府里的人写“官员”。改为“一千多位能力出众的企业高管、政府高级官员”，top-level 由“高管”和“高级官员”里的“高”体现。审校者建议写“企业高管和政府高级官员”，这句前面已经有“让我和”，连用两个“和”读着拗口，所以改用顿号。
+  - 第 15 块 “the Villum Kann Rasmussen Professorship and Chair of Major Program Management at the IT University of Copenhagen”：Villum Kann Rasmussen 是人名，在本节第一次出现，`review/terms/people-zh.tsv` 已收“维卢姆·卡恩·拉斯穆森”，照人名体例应括注英文。原译“维卢姆·卡恩·拉斯穆森重大项目管理讲席教授职位”，改为“维卢姆·卡恩·拉斯穆森（Villum Kann Rasmussen）重大项目管理讲席教授职位”。括注以后，读者也能看出同一块后面的维卢姆基金会（Villum Foundation）用的是同一个名字。
+  - 第 17 块 “My biggest and warmest thanks go to Carissa Véliz”：原译“我最大、最温暖的感谢要献给卡丽莎·贝利斯（Carissa Véliz）”照搬了英文的两个最高级，“温暖的感谢”在中文里不成搭配。照审校者的写法改为“我要向卡丽莎·贝利斯（Carissa Véliz）致以最深切、最诚挚的谢意”。
+- 不成立，保留原译：
+  - 第 10 块 “Levine Greenberg Rostan Literary Agency”：审校者引术语表“没有通行中文名的公司照写原名”，建议去掉中文译名，只写英文。全书对由人名组成的公司名一向译出：术语表把 Starrett Brothers and Eken 定为“斯塔雷特兄弟与埃肯公司”，引言写“R. J. 雷诺兹烟草公司（R. J. Reynolds Tobacco Company）”；照写原名的是 Planet Labs、Theranos、DONG Energy 这类品牌名。这家经纪公司的名字由三个姓组成，“莱文”和前文的吉姆·莱文对得上，读者能看出这是他的公司；第一次出现时也已括注原名。
+  - 译者注 [^t1] 的“卡丽莎·贝利斯出生在墨西哥”：审校者引术语表“脚注里的人名一律照写英文”，建议改成 Carissa Véliz。术语表这一条讲的是由书末注释改成的原注，译者注另有体例。全书的译者注提到人名都写中文，例如第 1 章的富兰克林、第 3 章的“奥普拉·温弗瑞（Oprah Winfrey）”、第 7 章的亚当·斯密、第 9 章的“鲍勃·迪伦（Bob Dylan）”；译完后统一写法时，还专门把只在译者注里出现的亚当·斯密和鲍勃·迪伦补进了 `people-zh.tsv`。这里的卡丽莎·贝利斯就是正文第 17 块的同一个人，写中文和正文一致。
+- 按全书统一的写法修改：0 处。逐条对照了“全书统一的写法”和“全书统一的写法（译完后定）”，本节用到的几条都已符合：数字（一千多位、1.6 万多个、两年多、第 6 章、数十亿美元）；书名括注（《怎样做成大事》（*How Big Things Get Done*））；“爵士”“勋爵”放在中文名后面（伯纳德·詹金爵士、哈迪勋爵）；引号里的说法每节第一次出现时括注原文（“大事”（Big Thing）、“大泥潭”（big muddy））；译者注以“译者注：”开头，guapa 用正体；原文疑点 Juan de Dios Ortúza 照原文保留。上面采纳的第 13 块和第 15 块两条，分别和“官员和高管”“人名”两条一致，算在审校意见里，没有重复计数。前面记录里留给主会话的未决项中，维卢姆·卡恩·拉斯穆森是否补进 `people-zh.tsv` 一项，译完后统一写法时已经补进表里，在“未决”和“状态”两处标为已定；其余三项（Lou Thompson 写“路易斯·汤普森”；香港特区政府课程的中文名；高管教育课程和理学硕士课程的译名），术语表新加的一节都没有涉及，仍留给主会话。
+- 对英文原文的疑问：审校者提了 1 条，第 12 块的 Juan de Dios Ortúza，本人的姓是 Ortúzar。这一条已经记在上面的“原文疑点”表里，中文照 `people-zh.tsv` 写“胡安·德迪奥斯·奥图萨尔”，括注照原文写，没有新增疑点。
+- 核实与修改：agent（Opus 5.5）。改动在 `zh-cn/17-acknowledgments.md` 的第 13、15、17 块，块的数目和对齐没有变。改完后运行 `python3 scripts/site.py status how-big-things-get-done`，本节显示 review，17/17 块已译；原文没有注释，所以注释一栏为空。`tools/term_consistency.py` 对本节仍只报第 14 块把 Newton Li 当成牛顿的那一处误判。中文正文没有破折号，也没有体例禁用的对比句式。

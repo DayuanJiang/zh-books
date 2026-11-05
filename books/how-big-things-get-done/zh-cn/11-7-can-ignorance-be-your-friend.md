@@ -62,7 +62,7 @@
 
 照赫希曼的讲法，绝境中迸发的创造力，最后让这家造纸厂的境况，比原来的竹子一直活着的情形还要好。可是，如果规划者当初的工作做得更好，知道这个地区的竹子很快就会死光，那会怎样？这家造纸厂可能根本就不会建。说来奇怪，在这个例子里，糟糕的规划反倒救了场，至少赫希曼是这样认为的[^10]。
 
-赫希曼还从他专长的经济发展项目里另举了几个例子，但在截然不同的领域里，也不难找到别的例子。我特别喜欢的一个是《大白鲨》（*Jaws*），正是这部电影让导演史蒂文·斯皮尔伯格（Steven Spielberg）家喻户晓。大家公认，这部片子拍得一团糟。剧本很烂。天公不作美。机械鲨鱼老出故障，有一条还沉了，而且它们看起来傻乎乎的，一点也不吓人。据彼得·比斯金德（Peter Biskind）的经典电影史著作《逍遥骑士，愤怒公牛：性、毒品和摇滚乐的一代怎样拯救了好莱坞》（*Easy Riders, Raging Bulls: How the Sex-Drugs-and-Rock ’n’ Roll Generation Saved Hollywood*），拍摄用的时间是预期的三倍，成本超支三倍，斯皮尔伯格被逼到了精神崩溃的边缘，生怕自己的事业就此毁掉。
+赫希曼还从他专长的经济发展项目里另举了几个例子，但在截然不同的领域里，也不难找到别的例子。我特别喜欢的一个是《大白鲨》（*Jaws*），正是这部电影让导演史蒂文·斯皮尔伯格（Steven Spielberg）家喻户晓。大家公认，这部电影的拍摄过程一团糟。剧本很烂。天公不作美。机械鲨鱼老出故障，有一条还沉了，而且它们看起来傻乎乎的，一点也不吓人。据彼得·比斯金德（Peter Biskind）的经典电影史著作《逍遥骑士，愤怒公牛：性、毒品和摇滚乐的一代怎样拯救了好莱坞》（*Easy Riders, Raging Bulls: How the Sex-Drugs-and-Rock ’n’ Roll Generation Saved Hollywood*），拍摄用的时间是预期的三倍，成本超支三倍，斯皮尔伯格被逼到了精神崩溃的边缘，生怕自己的事业就此毁掉。
 
 那么，《大白鲨》是怎样成为影史上最成功的电影之一的？糟糕的剧本逼着演员和导演一起编出场景和对白，其中有些片段让人物有了真正的深度。机械鲨鱼的缺陷，又迫使斯皮尔伯格把重心转到人身上，在影片的大部分时间里只暗示水里的恐怖，结果这比任何鲨鱼画面都吓人得多。这两项创新，把一部粗制滥造的 B 级片变成了票房大热门和悬疑杰作[^11]。
 
@@ -108,7 +108,7 @@
 
 这些结论得到了逻辑和证据的压倒性支持，其中包括丹尼尔·卡尼曼（Daniel Kahneman）和行为科学的主要发现。简而言之，如果卡尼曼是对的，赫希曼就错了。卡尼曼认为，乐观偏差是“认知偏差中最重要的一种”[^14]。乐观的效益估算显然是高估，这正是卡尼曼和行为科学对项目规划的预测。但正如我们前面看到的，赫希曼和隐藏之手的预测恰恰相反：效益被低估。所以，这两个相反的预测，数据支持哪一个，答案一目了然。裁决结果一边倒：支持卡尼曼和行为科学，否定赫希曼和隐藏之手。
 
-我知道，这个结论让人扫兴。又怎么可能不扫兴呢？赫希曼误以为典型的那些罕见例外，几乎按定义就是精彩的项目，能写成让人无法抗拒的故事。它们完美地遵循“英雄之旅”的套路，叙事的弧线从前景远大，到几近毁灭，再到更伟大的成就和欢庆[^15]。我们似乎天生就爱这样的故事。无论哪种文化、哪个时代，人们都渴望这样的故事。所以，总会有作者讲这些故事。比如赫希曼。又比如马尔科姆·格拉德威尔。
+我知道，这个结论让人扫兴。又怎么可能不扫兴呢？赫希曼误以为是典型的那些罕见例外，几乎天然就是精彩的项目，能写成让人无法抗拒的故事。它们完美地遵循“英雄之旅”的套路，叙事的弧线从前景远大，到几近毁灭，再到更伟大的成就和欢庆[^15]。我们似乎天生就爱这样的故事。无论哪种文化、哪个时代，人们都渴望这样的故事。所以，总会有作者讲这些故事。比如赫希曼。又比如马尔科姆·格拉德威尔。
 
 面对这样的辉煌，谁还管他什么统计数字？
 
@@ -134,7 +134,7 @@
 
 好的规划扫除了无知，确实会揭示前面的困难，但这并不是放弃、退出的理由。赫希曼说人很有聪明才智，这一点他说对了；但他以为，我们非得深入到项目的实施阶段、被逼到墙角，才能激发出这种创造力，这就错了。
 
-看看弗兰克·盖里（Frank Gehry）就知道了。他是一位极富创造力的建筑师。大众对他工作方式有一种可笑的印象，《辛普森一家》（*The Simpsons*）的那一集把这种印象刻画得淋漓尽致；实际情况和这种印象正相反，他的创作过程缓慢、细致，一遍又一遍地迭代，从不停歇。他做规划时就是这样，那时项目还没有开工，问题也还没有冒出来。事实上，盖里一丝不苟地做规划，正是要让自己不落入那种只能靠临场发明才能脱身的绝境。对他来说，周密的规划不会妨碍创造力，反而能成全创造力。
+看看弗兰克·盖里（Frank Gehry）就知道了。他是一位极富创造力的建筑师。大众对他工作方式有一种可笑的印象，《辛普森一家》（*The Simpsons*）的那一集把这种印象刻画得淋漓尽致；实际情况和这种印象正相反，他的创作过程缓慢、细致，一遍又一遍地迭代，从不停歇。这些都发生在规划阶段，不会拖到项目施工、问题冒出来以后。事实上，盖里一丝不苟地做规划，正是要让自己不落入那种只能靠临场发明才能脱身的绝境。对他来说，周密的规划不会妨碍创造力，反而能成全创造力。
 
 我们在第 4 章看到，皮克斯动画工作室几十年来迸发出源源不断的创造力，情况也是一样。这些创造力绝大部分出现在规划阶段。皮克斯要是依靠赫希曼的那一套，早就关门大吉了。
 
@@ -163,12 +163,12 @@
 [^7]: Albert O. Hirschman, *Development Projects Observed,* 3rd ed. (Washington, DC: Brookings Institution, 2015).
 [^8]: Michele Alacevich, “Visualizing Uncertainties; or, How Albert Hirschman and the World Bank Disagreed on Project Appraisal and What This Says About the End of ‘High Development Theory,’” *Journal of the History of Economic Thought* 36, no. 2 (June 2014): 157.
 [^9]: Hirschman 明确表示，他认为上面描述的行为和隐藏之手都是典型的，是一条“一般的行动原则”（general principle of action）。见 Hirschman, *Development Projects Observed,* 1, 3, 7, 13; and “The Principle of the Hiding Hand,” *The Public Interest,* 13.
-[^10]: 这是 Hirschman 讲的故事。事实上，孟加拉国的这家造纸厂，以及其他几个被 Hirschman 说成成功范例、靠隐藏之手得救的项目，后来都成了灾难。这家造纸厂整个 20 世纪 70 年代都在亏损，成了国民经济的拖累，和 Hirschman 就在几年前预言的推动作用正好相反。哥伦比亚的帕斯德尔里奥（Paz del Río）钢铁厂是另一个例子：这个大项目受到 Hirschman 的赞赏，隐藏之手在这里引发的却是财务灾难，没有带来创造性的解决办法。最后，尼日利亚长 300 英里的博尔努铁路（Bornu Railway）催化了一场民族冲突，冲突又导致比夫拉宣布脱离尼日利亚，酿成一场悲惨的内战：1967 年到 1970 年，比夫拉饥荒遍地，饿死了许多人，杀戮不断。Hirschman 私下里很不安：一个他刚刚研究过、宣布为成功的项目，没过多久就产生了如此灾难性的后果，他却没能看出来。但奇怪的是，无论是这次失误，还是项目结果似乎和隐藏之手原理背道而驰这一事实，都没有促使 Hirschman 批判地重新审视、修正这条原理，就连他为 *Development Projects Observed* 后来的版本写新序言时，或者一群著名学者邀请他反思这条原理时，也没有。完整的经过和全部参考文献，见 Bent Flyvbjerg, “The Fallacy of Beneficial Ignorance: A Test of Hirschman’s Hiding Hand,” *World Development* 84 (April 2016): 176–89.
+[^10]: 这是 Hirschman 讲的故事。事实上，孟加拉国的这家造纸厂，以及其他几个被 Hirschman 说成成功范例、靠隐藏之手得救的项目，后来都成了灾难。这家造纸厂整个 20 世纪 70 年代都在亏损，成了国民经济的拖累，和 Hirschman 就在几年前预言的推动作用正好相反。哥伦比亚的帕斯德尔里奥（Paz del Río）钢铁厂是另一个例子：这个大项目受到 Hirschman 的赞赏，隐藏之手在这里引发的却是财务灾难，没有带来创造性的解决办法。最后，尼日利亚长 300 英里的博尔努铁路（Bornu Railway）催化了一场民族冲突，冲突又导致比夫拉宣布脱离尼日利亚，酿成一场悲惨的内战：1967 年到 1970 年，比夫拉饥荒遍地，饿死了许多人，杀戮不断。Hirschman 私下里很不安：他刚刚研究过一个项目，宣布它是成功的，却没能预见到它会在这么短的时间里造成如此灾难性的后果。但奇怪的是，无论是这次失误，还是项目结果似乎和隐藏之手原理背道而驰这一事实，都没有促使 Hirschman 批判地重新审视、修正这条原理，就连他为 *Development Projects Observed* 后来的版本写新序言时，或者一群著名学者邀请他反思这条原理时，也没有。完整的经过和全部参考文献，见 Bent Flyvbjerg, “The Fallacy of Beneficial Ignorance: A Test of Hirschman’s Hiding Hand,” *World Development* 84 (April 2016): 176–89.
 [^11]: Peter Biskind, *Easy Riders, Raging Bulls* (London: Bloomsbury, 1998), 264–77.
 [^12]: Hirschman, *Development Projects Observed,* 1, 3, 7, 13; Hirschman, “The Principle of the Hiding Hand.”
 [^13]: Flyvbjerg, “The Fallacy of Beneficial Ignorance.”
 [^14]: Daniel Kahneman, *Thinking, Fast and Slow* (New York: Farrar, Straus and Giroux, 2011), 255.
 [^15]: Joseph Campbell, *The Hero with a Thousand Faces* (San Francisco: New World Library, 2008).
-[^16]: Bent Flyvbjerg, “Design by Deception: The Politics of Megaproject Approval,” *Harvard Design Magazine,* no. 22 (Spring–Summer 2005): 50–59. *只有一座建筑的建筑师*（*one-building architect*）这个说法，指主要因一座建筑而知名的建筑师。Utzon 确实设计过悉尼歌剧院以外的建筑，其中一些建成了，尤其是在他的祖国丹麦。但和悉尼歌剧院相比，它们都是次要的作品。在国际上（在丹麦也一样），人们知道 Utzon，几乎只是因为悉尼歌剧院。在讲这个题目的讲座上，我至少问过 1000 人这个问题：“除了悉尼歌剧院，你能说出一座 Jørn Utzon 设计的建筑吗？”能说出来的人寥寥无几，而且他们几乎总是丹麦人，或者是专业建筑师，或者两者都是。
+[^16]: Bent Flyvbjerg, “Design by Deception: The Politics of Megaproject Approval,” *Harvard Design Magazine,* no. 22 (Spring–Summer 2005): 50–59。*只有一座建筑的建筑师*（*one-building architect*）这个说法，指主要因一座建筑而知名的建筑师。Utzon 确实设计过悉尼歌剧院以外的建筑，其中一些建成了，尤其是在他的祖国丹麦。但和悉尼歌剧院相比，它们都是次要的作品。在国际上（在丹麦也一样），人们知道 Utzon，几乎只是因为悉尼歌剧院。在讲这个题目的讲座上，我至少问过 1000 人这个问题：“除了悉尼歌剧院，你能说出一座 Jørn Utzon 设计的建筑吗？”能说出来的人寥寥无几，而且他们几乎总是丹麦人，或者是专业建筑师，或者两者都是。
 [^17]: Kristin Byron, Deborah Nazarian, and Shalini Khazanchi, “The Relationships Between Stressors and Creativity: A Meta-Analysis Examining Competing Theoretical Models,” *Journal of Applied Psychology* 95, no. 1 (2010): 201–12.
 [^t1]: 译者注：“看不见的手”（Invisible Hand）是亚当·斯密的著名比喻：人们各自追求私利，却像被一只看不见的手引导着，在无意中增进了社会的利益。赫希曼的 Hiding Hand 仿照这个说法，hiding 是“把东西藏起来”的意思：这只手把困难藏了起来，人们看不见困难，才敢启动项目。

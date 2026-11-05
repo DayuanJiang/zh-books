@@ -1,6 +1,6 @@
 # 第 2 章 承诺谬误
 
-*既然“慢思考，快行动”是做大项目的明智之道，为什么那么多人偏偏反其道而行之？因为他们急于承诺。承诺确实少不了，但方式和你想的不一样。*
+*既然“慢思考，快行动”（Think slow, act fast）是做大项目的明智之道，为什么那么多人偏偏反其道而行之？因为他们急于承诺。承诺确实少不了，但方式和你想的不一样。*
 
 1941 年 7 月，美国是最后一个还置身于第二次世界大战之外的大国。没几个人觉得这种局面能维持多久。富兰克林·德拉诺·罗斯福（Franklin Delano Roosevelt）总统已经宣布全国进入紧急状态，正在迅速扩充美国在和平时期规模很小的军队，要把它变成一个能在欧洲和太平洋同法西斯作战的庞然大物。
 
@@ -32,7 +32,7 @@
 
 ## 急于承诺
 
-布里恩·萨默维尔绝不是一个愚蠢或无能的人。富兰克林·德拉诺·罗斯福，以及批准萨默维尔计划的其他那些成就卓著的人，也都一样。可在这件事上，他们的做法显然既愚蠢又无能。这似乎让人难以理解。但我们必须弄明白，因为这个故事的细节也许很极端，尤其是速度，可从根本上说，大项目通常就是这样成形的。目的和目标*没有*经过仔细考虑。其他方案*没有*探索过。困难和风险*没有*调查过。解决办法*没有*找到。取而代之的是，肤浅的分析之后，很快就锁定一个决定，把项目可能采取的其他所有形式一扫而光。学者所说的“锁定”（lock-in），是指尽管可能有别的选择，大多数人和组织却表现得好像别无选择，只能继续推进，哪怕走到后来，付出的成本或承担的风险已经超过了他们当初愿意接受的程度。锁定之后就是行动。通常再过一段时间，麻烦就来了，比如第 1 章提到的“边坏边修”的循环。
+布里恩·萨默维尔绝不是一个愚蠢或无能的人。富兰克林·德拉诺·罗斯福，以及批准萨默维尔计划的其他那些成就卓著的人，也都一样。可在这件事上，他们的做法显然既愚蠢又无能。这似乎让人难以理解。但我们必须弄明白，因为这个故事的细节也许很极端，尤其是速度，可从根本上说，大项目通常就是这样成形的。目的和目标*没有*经过仔细考虑。其他方案*没有*探索过。困难和风险*没有*调查过。解决办法*没有*找到。取而代之的是，肤浅的分析之后，很快就锁定一个决定，把项目可能采取的其他所有形式一扫而光。学者所说的“锁定”（lock-in），是指尽管可能有别的选择，大多数人和组织却表现得好像别无选择，只能继续推进，哪怕走到后来，付出的成本或承担的风险已经超过了他们当初愿意接受的程度。锁定之后就是行动。通常再过一段时间，麻烦就来了，比如第 1 章提到的“边坏边修”的循环（break-fix cycle）。
 
 我把这种过早锁定叫作“承诺谬误”（commitment fallacy）。它是一种行为偏差，可以和行为科学发现的其他偏差相提并论。
 
@@ -86,7 +86,7 @@
 
 我们一再犯同样的错，一定是因为我们一再无视经验。事实正是如此，原因有很多。想到未来时，过去可能根本不会浮现在脑海里，我们也可能想不到要把它翻出来，因为我们感兴趣的是现在和未来。就算过去浮现出来了，我们也可能会想“这次不一样”，把它抛到一边（这个理由随时都用得上，因为从某种意义上说，人生的每一刻都是独一无二的）。或者，我们只是有点懒，不想费这个事，卡尼曼的研究充分记录了这种偏好。我们都会这样。想想周末把工作带回家的情形。几乎可以肯定，你完成的会比计划的少。而且不止一次，是一次又一次。这就是你在估计时无视了自己的经验。
 
-那么，估计*到底*是根据什么做出的？你在脑子里构想出一幅在家工作的画面。从这个情景里，你很快就凭直觉生出一种感觉，知道自己周末能干多少活。这感觉像是真的，你就照着它来。可这个判断很可能是错的。因为在构想这个情景时，你只想象了自己在工作。目光这么窄，就把身边所有可能挤占你工作时间的人和事都排除在外了。换句话说，你想象的是一个“最佳情况”的情景。这很典型。请人们设想一个“最佳猜测”的情景，也就是最有可能发生的情景时，他们想出来的，通常和请他们设想“最佳情况”时想出来的没什么两样[^20]。
+那么，估计*到底*是根据什么做出的？你在脑子里构想出一幅在家工作的画面。从这个情景里，你很快就凭直觉生出一种感觉，知道自己周末能干多少活。这感觉像是真的，你就照着它来。可这个判断很可能是错的。因为在构想这个情景时，你只想象了自己在工作。目光这么窄，就把身边所有可能挤占你工作时间的人和事都排除在外了。换句话说，你想象的是一个“最佳情况”（best-case）的情景。这很典型。请人们设想一个“最佳猜测”（best-guess）的情景，也就是最有可能发生的情景时，他们想出来的，通常和请他们设想“最佳情况”时想出来的没什么两样[^20]。
 
 拿最佳情况作估计的依据，实在是个馊主意，因为最佳情况很少是未来最可能的走向，往往连发生的可能性都不大。周末可能冒出来、占用你工作时间的事情几乎无穷无尽：生病、意外、失眠、老朋友的一通电话、家里的急事、水管坏了，诸如此类，不一而足。这意味着，周末可能出现的未来多得数不清，而只有其中一种，也就是最佳情况，没有任何麻烦来挤占你的工作时间。所以，到了星期一早上，发现自己完成的没有预想的多，你不应该感到意外。但你多半还是会意外。
 
@@ -104,9 +104,9 @@
 
 ## 策略性虚假陈述
 
-法国建筑师让·努维尔（Jean Nouvel）得过有“建筑界的诺贝尔奖”之称的普利兹克建筑奖，谈到标志性建筑的成本估算大多是做什么用的，他说得毫不客气：“在法国，常常会给出一个理论上的预算，给出这个数，是因为政治上已经为做某件事拨出了这么一笔钱。四次里有三次，这个数目在技术上根本对应不上任何东西。定出这样一个预算，是因为它在政治上能被接受。真实的价格后来才会出现。政客们想在哪里、想在什么时候公布真实的价格，就在哪里、什么时候公布。”[^24]绕了这么一大圈，意思就是：估算的用意是推销项目，准确与否并不在考虑之列。一句话，估算就是谎言，说得客气些，叫粉饰。
+法国建筑师让·努维尔（Jean Nouvel）得过有“建筑界的诺贝尔奖”之称的普利兹克建筑奖，谈到标志性建筑的成本估算大多是做什么用的，他说得毫不客气：“在法国，常常会给出一个理论上的预算，给出这个数，是因为政治上已经为做某件事拨出了这么一笔钱。四次里有三次，这个数目在技术上没有任何依据。定出这样一个预算，是因为它在政治上能被接受。真实的价格后来才会出现。政客们想在哪里、想在什么时候公布真实的价格，就在哪里、什么时候公布。”[^24]绕了这么一大圈，意思就是：估算的用意是推销项目，准确与否并不在考虑之列。一句话，估算就是谎言，说得客气些，叫粉饰。
 
-一位美国政客把这层不便明说的意思公开说了出来，那是 2013 年他在《旧金山纪事报》（*San Francisco Chronicle*）上发表的一篇专栏文章，谈的是湾区的交通基础设施。“跨湾客运站（Transbay Terminal）超支 3 亿美元左右，这个消息不应该让任何人震惊，”旧金山前市长、前加州议会议员威利·布朗（Willie Brown）写道，“我们一直都知道，最初的估算低于真实成本。就像中央地铁（Central Subway）、海湾大桥或者其他任何大型建设项目，我们从来都没有过真实成本。所以，省省吧。在市政项目的世界里，*第一笔预算其实只是首付款。*如果人们一开始就知道真实成本，什么项目都不会获批。”（斜体是我加的）[^25]不用说，布朗写这番话时已经退出政坛了。
+一位美国政客把这层不便明说的意思公开说了出来，那是 2013 年他在《旧金山纪事报》（*San Francisco Chronicle*）上发表的一篇专栏文章，谈的是湾区的交通基础设施。“跨湾客运站（Transbay Terminal）超支 3 亿美元左右，这个消息不应该让任何人震惊，”旧金山前市长、前加州议会议员威利·布朗（Willie Brown）写道，“我们一直都知道，最初的估算低于真实成本。同样，中央地铁（Central Subway）、海湾大桥，还有其他任何大型建设项目，我们也从来都没有过真实的成本数字。所以，省省吧。在市政项目的世界里，*第一笔预算其实只是首付款。*如果人们一开始就知道真实成本，什么项目都不会获批。”（斜体是我加的）[^25]不用说，布朗写这番话时已经退出政坛了。
 
 一位资深交通顾问曾私下对我说，常被吹捧的“可行性研究”，与其说是不偏不倚的分析，不如说是给工程师打掩护。“几乎在所有情况下，都看得很清楚：工程师们只是想为项目找理由，指望交通量预测在这个过程中帮上忙。”唯一的目标就是让项目上马。“我有一次问一位工程师，为什么他们的成本估算总是偏低，他干脆地回答：‘要是我们给出真实的预期成本，就什么都建不成了。’”[^26]这位工程师的话和布朗的话惊人地相似，这绝非巧合。
 
@@ -134,7 +134,7 @@
 
 ## 冒着暴风雪开车
 
-不过，还有一个问题挥之不去：策略性虚假陈述为什么能奏效？威利·布朗写道，坑一旦挖好，就“别无选择”，只能继续为项目掏钱。严格说来，这话并不对。理论上，项目可以废弃，工地可以卖掉。理论上，开支失控时，联美公司本可以把《天堂之门》的损失一笔勾销，抽身离开。但在实践中，布朗说得没错。学者们同样把这种现象叫作“锁定”或者“承诺升级”（escalation of commitment）[^33]。如果承诺谬误之后又出现承诺升级，那就是双重的过度承诺。这通常意味着灾难；就算不至于酿成灾难，结果也远不如用更周全的方法本来能取得的。
+不过，还有一个问题挥之不去：策略性虚假陈述为什么能奏效？威利·布朗写道，坑一旦挖好，就“别无选择”，只能继续为项目掏钱。严格说来，这话并不对。理论上，项目可以废弃，工地可以卖掉。理论上，开支失控时，联美公司本可以认下《天堂之门》的亏损，抽身离开。但在实践中，布朗说得没错。学者们同样把这种现象叫作“锁定”或者“承诺升级”（escalation of commitment）[^33]。如果承诺谬误之后又出现承诺升级，那就是双重的过度承诺。这通常意味着灾难；就算不至于酿成灾难，结果也远不如用更周全的方法本来能取得的。
 
 人们为什么会这样一路螺旋式下坠，是一个极其重要的问题，心理学家、经济学家、政治学家和社会学家已经研究了几十年。2012 年的一项文献元分析，即使排除了大量非定量的分析，仍然引用了 120 篇文献[^34]。不出所料，这个问题没有简单的解释。但任何解释都绕不开一个核心要素：“沉没成本谬误”（sunk cost fallacy）。
 
@@ -142,15 +142,15 @@
 
 设想有两个朋友买了一场职业篮球赛的票，比赛场地离他们住的地方要开很久的车。比赛当天，下起了大暴雪。两人买票花的钱越多（这就是他们的沉没成本），就越有可能冒着暴风雪开车去看比赛，投入更多的时间、金钱，冒更大的风险。相比之下，理性的做法是不管已经投入了什么，待在家里。沉没成本谬误适用于个人、群体，也适用于整个组织[^35]。
 
-“冒着暴风雪开车”在政治上尤其常见。有时这是因为政客自己就陷入了这个谬误。但即使是更明白事理的政客也懂得，公众很可能受沉没成本左右，所以抱着谬误不放，在政治上比做出合乎逻辑的决定更安全。可以肯定，加州州长加文·纽森（Gavin Newsom）决定不废弃加州高铁项目、只缩减它的规模时，他和他的幕僚都非常仔细地考虑过沉没成本会怎样影响公众的心理，他们知道，废弃这个项目会被公众理解为把已经花掉的数十亿美元“扔掉了”。结果，加州的纳税人被引导着继续升级承诺，再花数十亿美元，建一个缩水版的项目。如果一开始就把这个缩水版摆在他们面前，他们是绝不会批准的。
+“冒着暴风雪开车”（Driving into the blizzard）在政治上尤其常见。有时这是因为政客自己就陷入了这个谬误。但即使是更明白事理的政客也懂得，公众很可能受沉没成本左右，所以抱着谬误不放，在政治上比做出合乎逻辑的决定更安全。可以肯定，加州州长加文·纽森（Gavin Newsom）决定不废弃加州高铁项目、只缩减它的规模时，他和他的幕僚都非常仔细地考虑过沉没成本会怎样影响公众的心理，他们知道，废弃这个项目会被公众理解为把已经花掉的数十亿美元“扔掉了”。结果，加州的纳税人被引导着继续升级承诺，再花数十亿美元，建一个缩水版的项目。如果一开始就把这个缩水版摆在他们面前，他们是绝不会批准的。
 
-我估计，加州这条“通往无处的子弹头列车”，终有一天会成为教科书里讲沉没成本谬误和承诺升级的标准例子。
+我估计，加州这条“通往无处的子弹头列车”（bullet train to nowhere），终有一天会成为教科书里讲沉没成本谬误和承诺升级的标准例子。
 
 ## 萨默维尔螺旋
 
 我们无法确知，到底是哪股力量（心理还是政治）促使布里恩·萨默维尔仓促地规划五角大楼。但和大项目通常的情况一样，我们有理由认为两者都起了作用。
 
-和威利·布朗一样，萨默维尔精通政治。他常常“调整”自己的计划，压低预计的成本、楼层数或建筑面积，迎合权势人物想听的话，换来开工所需的批准。这样做必然会让说的和做的相差很远，但正如史蒂夫·沃格尔所说，“萨默维尔不怎么在乎成本超支”[^36]。也和威利·布朗一样，萨默维尔铁了心要“先挖个坑”，他知道，只要坑挖得够大，项目的未来就有了保障。萨默维尔还深受陆军工兵那种“我能行”的文化熏陶，这种文化把系统 1 式的果断和把事情办成看得高于一切。
+和威利·布朗一样，萨默维尔精通政治。他常常“调整”自己的计划，压低预计的成本、楼层数或建筑面积，迎合权势人物想听的话，换来开工所需的批准。这样做必然会让说的和做的相差很远，但正如史蒂夫·沃格尔所说，“萨默维尔不怎么在乎成本超支”[^36]。也和威利·布朗一样，萨默维尔铁了心要“先挖个坑”（start digging a hole），他知道，只要坑挖得够大，项目的未来就有了保障。萨默维尔还深受陆军工兵那种“我能行”的文化熏陶，这种文化把系统 1 式的果断和把事情办成看得高于一切。
 
 我们要当心，别把心理和政治看成互不相干的两股力量。它们可以相互强化，在大项目里通常也确实如此[^37]。两者一旦都倾向于草草做个计划、赶紧开工，事情多半就会这么办，后果也可想而知。
 
@@ -176,7 +176,7 @@
 [^6]: Dan Lovallo and Daniel Kahneman, “Delusions of Success: How Optimism Undermines Executives’ Decisions,” *Harvard Business Review* 81, no. 7 (July 2003), 56–63; Bent Flyvbjerg, “Delusions of Success: Comment on Dan Lovallo and Daniel Kahneman,” *Harvard Business Review* 81, no. 12 (December 2003): 121–22.
 [^7]: Kahneman 在 2011 年的畅销书 *Thinking, Fast and Slow* 里写道：“最初预算里的错误并不总是无心之失。不切实际的计划，其制订者往往是想让计划获批（不论是让上级批准还是让客户批准），而他们心里也有底，知道项目很少会仅仅因为成本超支或工期超期就半途而废”(pp. 250–51)。按定义，心理上的认知偏差都是无心的；这段话描述的显然是另一种偏差：政治偏差，具体地说，是为了让项目上马而做的策略性虚假陈述。关于我和 Daniel Kahneman 就权力偏差和策略性虚假陈述所做的讨论，更完整的叙述见 Flyvbjerg, “Top Ten Behavioral Biases in Project Management.”
 [^8]: Flyvbjerg, “Top Ten Behavioral Biases in Project Management.”
-[^9]: 乐观是一种已被大量研究证实的认知偏差，指个人对计划中的行动的结果过分看好的倾向。神经科学家 Sharot Tali 称它是“人类心智所能制造的最大骗局之一”。策略性虚假陈述是蓄意的，乐观偏差则是无意的。被乐观支配的人，包括专家，意识不到自己在乐观。他们依据对未来的理想化设想做决定，并没有理性地权衡得失和概率。他们高估效益，低估成本。他们不由自主地编织出成功的情景，忽视出错和失算的可能。结果，计划在效益和成本上都不太可能达到预期。见 Tali Sharot, *The Optimism Bias: A Tour of the Irrationally Positive Brain* (New York: Pantheon, 2011), xv; Daniel Kahneman, *Thinking, Fast and Slow* (New York: Farrar, Straus and Giroux, 2011), 255; Flyvbjerg, “Top Ten Behavioral Biases in Project Management.”
+[^9]: 乐观是一种已被大量研究证实的认知偏差，指个人对计划中的行动的结果过分看好的倾向。神经科学家 Sharot Tali 称它是“人类心智所能制造的最大骗局之一”。策略性虚假陈述是蓄意的，乐观偏差则是无意的。被乐观支配的人，包括专家在内，都意识不到自己是乐观的。他们依据对未来的理想化设想做决定，并没有理性地权衡得失和概率。他们高估效益，低估成本。他们不由自主地编织出成功的情景，忽视出错和失算的可能。结果，计划在效益和成本上都不太可能达到预期。见 Tali Sharot, *The Optimism Bias: A Tour of the Irrationally Positive Brain* (New York: Pantheon, 2011), xv; Daniel Kahneman, *Thinking, Fast and Slow* (New York: Farrar, Straus and Giroux, 2011), 255; Flyvbjerg, “Top Ten Behavioral Biases in Project Management.”
 [^10]: Iain A. McCormick, Frank H. Walkey, and Dianne E. Green, “Comparative Perceptions of Driver Ability—A Confirmation and Expansion,” *Accident Analysis & Prevention* 18, no. 3 (June 1986): 205–8.
 [^11]: Arnold C. Cooper, Carolyn Y. Woo, and William C. Dunkelberg, “Entrepreneurs’ Perceived Chances for Success,” *Journal of Business Venturing* 3, no. 2 (Spring 1988): 97–108.
 [^12]: Neil D. Weinstein, Stephen E. Marcus, and Richard P. Moser, “Smokers’ Unrealistic Optimism About Their Risk,” *Tobacco Control* 14, no. 1 (February 2005): 55–59.
@@ -184,7 +184,7 @@
 [^14]: Keith E. Stanovich and Richard F. West, “Individual Differences in Reasoning: Implications for the Rationality Debate,” *Behavioral and Brain Sciences* 23, no. 5 (2000): 645–65.
 [^15]: Gerd Gigerenzer, Peter M. Todd, and the ABC Research Group, *Simple Heuristics That Make Us Smart* (Oxford, UK: Oxford University Press, 1999); Gerd Gigerenzer, Ralph Hertwig, and Thorsten Pachur, eds., *Heuristics: The Foundations of Adaptive Behavior* (Oxford, UK: Oxford University Press, 2011); Gerd Gigerenzer and Wolfgang Gaissmaier, “Heuristic Decision Making,” *Annual Review of Psychology* 62, no. 1 (2011): 451–82.
 [^16]: Gary Klein, *Sources of Power: How People Make Decisions* (Cambridge, MA: MIT Press, 1999).
-[^17]: 规划谬误是乐观偏差的一个子类，起因是个人做出的计划和估算不切实际地接近最佳情况。这个术语最初由 Daniel Kahneman 和 Amos Tversky 提出，用来描述人们低估完成任务所需时间的倾向。Roger Buehler 和他的同事沿用这个定义继续研究。后来，这个概念被拓宽，涵盖了人们一方面低估计划中的行动的成本、工期和风险，另一方面高估这些行动的效益和机会的倾向。最初的窄概念和后来的宽概念涵盖的范围有根本的差别，所以我和 Cass Sunstein 提议把宽概念叫作“放大版的规划谬误”（planning fallacy writ large），以便把两者区分开。见 Daniel Kahneman and Amos Tversky, “Intuitive Prediction: Biases and Corrective Procedures,” in *Studies in the Management Sciences: Forecasting*, vol. 12, eds. Spyros Makridakis and S. C. Wheelwright (Amsterdam: North Holland, 1979), 315; Roger Buehler, Dale Griffin, and Heather MacDonald, “The Role of Motivated Reasoning in Optimistic Time Predictions,” *Personality and Social Psychology Bulletin* 23, no. 3 (March 1997): 238–47; Roger Buehler, Dale Wesley Griffin, and Michael Ross, “Exploring the ‘Planning Fallacy’: Why People Underestimate Their Task Completion Times,” *Journal of Personality and Social Psychology* 67, no. 3 (September 1994): 366–81; Bent Flyvbjerg and Cass R. Sunstein, “The Principle of the Malevolent Hiding Hand; or, The Planning Fallacy Writ Large,” *Social Research* 83, no. 4 (Winter 2017): 979–1004.
+[^17]: 规划谬误是乐观偏差的一个子类，起因是个人做出的计划和估算不切实际地接近最佳情况。这个术语最初由 Daniel Kahneman 和 Amos Tversky 提出，用来描述人们低估完成任务所需时间的倾向。Roger Buehler 和他的同事沿用这个定义继续研究。后来，这个概念被拓宽，涵盖了人们一方面低估计划中的行动的成本、工期和风险，另一方面高估这些行动的效益和机会的倾向。最初的狭义概念和后来的广义概念涵盖的范围有根本的差别，所以我和 Cass Sunstein 提议把广义概念叫作“放大版的规划谬误”（planning fallacy writ large），以便把两者区分开。见 Daniel Kahneman and Amos Tversky, “Intuitive Prediction: Biases and Corrective Procedures,” in *Studies in the Management Sciences: Forecasting*, vol. 12, eds. Spyros Makridakis and S. C. Wheelwright (Amsterdam: North Holland, 1979), 315; Roger Buehler, Dale Griffin, and Heather MacDonald, “The Role of Motivated Reasoning in Optimistic Time Predictions,” *Personality and Social Psychology Bulletin* 23, no. 3 (March 1997): 238–47; Roger Buehler, Dale Wesley Griffin, and Michael Ross, “Exploring the ‘Planning Fallacy’: Why People Underestimate Their Task Completion Times,” *Journal of Personality and Social Psychology* 67, no. 3 (September 1994): 366–81; Bent Flyvbjerg and Cass R. Sunstein, “The Principle of the Malevolent Hiding Hand; or, The Planning Fallacy Writ Large,” *Social Research* 83, no. 4 (Winter 2017): 979–1004.
 [^18]: Douglas Hofstadter, *Gödel, Escher, Bach: An Eternal Golden Braid* (New York: Basic Books, 1979).
 [^19]: Roger Buehler, Dale Griffin, and Johanna Peetz, “The Planning Fallacy: Cognitive, Motivational, and Social Origins,” *Advances in Experimental Social Psychology* 43 (2010): 1–62.
 [^20]: Dale Wesley Griffin, David Dunning, and Lee Ross, “The Role of Construal Processes in Overconfident Predictions About the Self and Others,” *Journal of Personality and Social Psychology* 59, no. 6 (January 1991): 1128–39; Ian R. Newby-Clark et al., “People Focus on Optimistic Scenarios and Disregard Pessimistic Scenarios While Predicting Task Completion Times,” *Journal of Experimental Psychology: Applied* 6, no. 3 (October 2000): 171–82.
