@@ -88,8 +88,12 @@ def check(key):
         for command in config.get("checks", []) + config.get("build", []):
             run(command, cwd=folder, env=custom_env(key))
         return
+    # A book with no finished chapter yet is checked as a draft build, the same way the site skips it.
+    drafts = [] if publishable(config, False) else ["--drafts"]
+    if drafts:
+        print(f"{key}: no finished chapter yet, checking the draft build")
     with tempfile.TemporaryDirectory() as out:
-        tool("build.py", folder, out, "--url", links(key)["url"], "--repo", links(key)["repo"])
+        tool("build.py", folder, out, "--url", links(key)["url"], "--repo", links(key)["repo"], *drafts)
     if list((folder / "tools").glob("test_*.py")):
         run(TOOLS + ["--with", "pytest", "pytest", "-q", str(folder / "tools")])
     for command in config.get("checks", []):
