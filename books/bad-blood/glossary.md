@@ -4,7 +4,7 @@
 
 ## 体例
 
-- **人名**：用 [review/terms/people-zh.tsv](review/terms/people-zh.tsv) 的译名。每节第一次出现时在中文名后括注英文原名，例如“亨利·莫斯利（Henry Mosley）”，之后只写中文。脚注里的人名照写原文。
+- **人名**：用 [review/terms/people-zh.tsv](review/terms/people-zh.tsv) 的译名。每节第一次出现时在中文名后括注英文原名，例如“亨利·莫斯利（Henry Mosley）”，之后只写中文。脚注里的人名照写原文，脚注开头的粗体引子除外（见“全书统一的写法（译完后定）”）。
 - **名和姓**：原文只写名的照写名，只写姓的照写姓。第 1 到 18 章作者多用名称呼霍姆斯和巴尔瓦尼（Elizabeth 写“伊丽莎白”，Sunny 写“桑尼”）；第 19 章作者本人出场以后改用姓（Holmes 写“霍姆斯”，Balwani 写“巴尔瓦尼”）。中文跟着原文变，不统一成一种。同姓的人（霍姆斯一家、富兹一家、两位唐纳德·卢卡斯）按原文的写法区分，原文分不清时按上下文补全名。
 - **化名**：作者说明里说一部分人用了化名。化名和真名一样音译，正文不加注。
 - **第一人称**：第 19 章起作者以“我”出场，后面各章的“我”都指作者；致谢和尾声同样。
@@ -87,15 +87,47 @@
 - **头衔**：CEO 和 chief executive 写“首席执行官”，president 写“总裁”，chief operating officer 写“首席运营官”，chief financial officer 写“首席财务官”，chief scientific officer 写“首席科学官”，chief medical officer 写“首席医疗官”，general counsel 写“总法律顾问”，chairman 写“董事长”（政府委员会的 chairman 写“主席”），vice president 写“副总裁”，senior vice president 写“高级副总裁”，executive vice president 写“执行副总裁”。secretary of state 写“国务卿”，secretary of defense 写“国防部长”，Senate majority leader 写“参议院多数党领袖”。
 - **公司的写法**：Theranos 照写，不写“希拉洛斯”；“Theranos 的”“Theranos 公司”按语感选用。Walgreens 写“沃尔格林”，Safeway 写“西夫韦”。
 
+## 全书统一的写法（译完后定）
+
+各章译完后，编辑提出了一些各章写法不一的地方，统一如下。新定的术语和机构名也写进了下面的“核心概念”和“机构、产品与地名”两张表。
+
+- **人名括注**：每节第一次出现时，括注写原文在这个位置的写法，和中文写出来的部分对应。原文只写名，就写“伊丽莎白（Elizabeth）”“桑尼（Sunny）”“乔治（George）”；原文只写姓，就写“霍姆斯（Holmes）”“巴尔瓦尼（Balwani）”“博伊斯（Boies）”。第 19 章以后的霍姆斯和巴尔瓦尼、只写姓的董事（舒尔茨、佩里、基辛格、纳恩、马蒂斯）都按这一条。原文写全名才括注全名。带称谓的连称谓一起括注，例如“森迪恩医生（Dr. Sundene）”“斯图尔特医生（Dr. Stewart）”，和“J 博士（Dr. J）”“曼中校（LTC Mann）”一致。
+- **简称和昵称**：原文用简称，中文也用简称：Ed Ku 写“埃德·库（Ed Ku）”，Don Lucas 写“唐·卢卡斯”，第 15 章只写 Don 的唐纳德·A. 卢卡斯写“唐”，Bill Perry 写“比尔·佩里（Bill Perry）”。同一章先写 Christian Holmes、后写 Chris Holmes 时，第一次写 Chris 的地方补出身份，例如“父亲克里斯·霍姆斯”。原文先写本名、后交代昵称的，按原文的顺序写：Xinwei Gong 写“一个姓龚（Xinwei Gong）的下属”，原文说明他叫 Sam 之后写“萨姆”；Samartha Anekal 第一次出场时说明“大家都叫他萨姆”，之后写“萨姆”。
+- **亲属称谓**：霍姆斯死于癌症的 uncle 罗恩·迪茨是她姨妈伊丽莎白·迪茨的丈夫，写“姨父”（第 1、16、17 章）。查不到长幼的照写“姐妹”“兄弟”：格雷格·贝尼的 sister、作者的 sister Alexandra、约翰和乔·富兹两兄弟。
+- **化名**：Colin Ramirez 是泰勒编出来的化名，第 20 章写“那个化名科林·拉米雷斯（Colin Ramirez）的邮箱”。
+- **脚注的粗体引子**：引子照录中文正文，人名写中文，例如“马克·扎克伯格”“伊丽莎白”。“脚注里的人名照写原文”管的是出处和说明句。
+- **脚注里的出处**（补充上面“体例”的脚注一条）：
+  - 案件出处：案名用斜体，案名、案号、法院照写英文，后面写“2007 年 8 月 27 日提交的起诉状，第 12 到 14 页”。
+  - 取证证词的日期和地点译成中文：“Lorraine Fuisz 2013 年 6 月 11 日在洛杉矶所作的取证证词”“在加州帕洛阿尔托所作的取证证词”。
+  - 页码范围写“第 N 到 M 页”，几段页码写“第 4 页、第 6 到 7 页”；Ibid. 后面的页码照写英文，例如“Ibid., 19–20.”。
+  - pretrial conference and hearing on motions 写“审前会议及动议听证”，pretrial motions 写“审前动议”；“审理”专指案件本身的审理。
+  - 原文在夏令时期间写的 EST、PST，中文写“东部时间”“太平洋时间”，这两个说法同时涵盖标准时和夏令时，照译即可；CDT 写“美国中部时间”。
+  - 日期照录原文，疑点记在各章的原文疑点表里。书里别的注释或当时的新闻稿能证明是笔误的，改成正确的日期，在后面括注原文的写法，例如第 23 章注释 5 写“2015 年 3 月 9 日（原文作 2017 年）”。
+- **邮件主题**：正文里的邮件主题译成中文，原文有叠词或文字游戏时用中文对应的手法，例如“快快乐乐过节”；注释里照写英文主题。
+- **数字**（补充上面“全书统一的写法”的数字一条）：
+  - 年龄段用汉字：in their sixties 写“六十多岁”，early forties 写“四十出头”，mid-fifties 写“五十五六岁”。
+  - “150 多人”的写法管人数、项数这类计数（20 多名、240 多项），带“来”的约数一样（20 来名员工）。
+  - 表示数量的多位数不加千位分隔符（76217 名、5655294 股）；专利号、案号这类编号照原文（第 7,824,612 号美国专利）。
+  - 引号里照录的网站文案和邮件，原文用阿拉伯数字的，中文照用（“4 小时以内”“不止 5 个人”）。
+  - two dozen 写 24；刑期这类复合的数量统一用阿拉伯数字（11 年零 3 个月）。
+- **miniLab 和 nanotainer**：每节第一次出现时括注，写“miniLab（迷你实验室）”“nanotainer（微型采血管）”；原文带引号时，括注放在引号后面。
+- **头衔**：医院的 president 写“院长”（斯坦福医院的院长），公司的 president 仍写“总裁”。senior managers 写“高层管理人员”；command surgeon 写“军医主任”，aide-de-camp 写“副官”。lab director 写“实验室主任”，同一句已经说到实验室时，可以写“真正的主任”这类省略的说法。
+- **机构和媒体**：NPR 写“美国国家公共电台（NPR）”。电视、广播节目用《》，第一次出现时括注斜体原题，例如《生物技术之国》（*BioTech Nation*）、《市场》（*Marketplace*）。CIA 每节第一次写“中央情报局”，同一节再出现可以写“中情局”。CMS 每节第一次写“美国联邦医疗保险和医疗补助服务中心（CMS）”，英文只写全称时也括注 CMS。American Lawyer Media 第一次写“American Lawyer Media（ALM）”，之后写 ALM。照写原名的刊物和博客跟着英文用斜体（*Litigation Daily*、*Pathology Blawg*），公司和网站名（TechCrunch、American Lawyer Media）用正体。Credit Suisse 前面有 the Swiss bank 时写“瑞士瑞信银行”。
+- **法律用语**：complaint 写“起诉状”，declaration 写“声明”，cease-and-desist letter 写“停止侵权函”；patent counsel 指律师事务所时写“代理专利事务”（麦德莫特替 Theranos 代理了好几年专利事务）；estate attorney 在委托人在世时写“遗产规划律师”，处理死者遗产时写“遗产律师”；signed release 和 waiver（患者放弃隐私权的文件）写“授权书”；speaking on the record 写“公开具名接受采访”。
+- **其他说法**：specialty 说个人时写“专长”，说医学分科时写“专科”；earpieces（保镖戴的）写“通讯耳机”；stock options vest 写“股票期权兑现”；grocery 写“食品杂货”；霍普金斯会面上的 Hopkins officials 写“校方代表”（第 7、13 章）；the drug’s maker 也按 drugmaker 写“制药公司”；fake it until you make it 写“先假装，直到成真”，第一次出现时括注英文；斯坦福的 Mandarin program 写“普通话项目”，原文有 summer 时写“暑期普通话项目”。
+- **句式**：It didn’t help that... 写“更麻烦的是”“雪上加霜的是”；表示让步的 might be X, but Y 写“虽说……，却……”或“虽然……，但……”。
+- **口吻**：约翰·富兹的 fuck with her till she dies 写“整她，一直整到她死”（第 11、15 章）；律师的 Holy shit! 写“我靠！”；第 18 章拉长了喊的 Alaaan! 写“艾～伦！”，保留波浪号；富兹笔记里原文全大写的词，中文照常排版。
+- **广告**：苹果的广告片《1984》用书名号，广告语和网站文案用引号。
+
 ## 核心概念
 
 | 英文 | 首选译法 | 适用的意思 | 不要混同 | 首次出现 | 出现次数 | 状态 |
 | --- | --- | --- | --- | --- | --- | --- |
 | Edison / Edisons | Edison | Theranos 第一代自有检测设备，由点胶机器人改造而来，只能做免疫测定；名字取自“美国最伟大的发明家”；复数也写 Edison（“几台 Edison”） | 发明家爱迪生（正文没有点他的名） | ch02 | 97 | 初定 |
-| miniLab | miniLab | 第二代设备，想把几大类检测装进一台机器，从未在实验室里用于患者样本；第一次出现时括注“迷你实验室” | 普通的“小型实验室” | ch08 | 55 | 初定 |
+| miniLab | miniLab | 第二代设备，想把几大类检测装进一台机器，从未在实验室里用于患者样本；每节第一次出现时括注“迷你实验室” | 普通的“小型实验室” | ch08 | 55 | 初定 |
 | 4S | 4S | miniLab 的内部代号，取自 iPhone 4S |  | ch08 | 11 | 初定 |
 | Theranos 1.0 | Theranos 1.0 | 最早的原型：卡盒加读取器，靠微流控 |  | prologue | 10 | 初定 |
-| gluebot / glue robot | 点胶机器人 | 纽金特买来改造成 Edison 的点胶机器人；gluebot 是员工的戏称，第 2 章章名 |  | ch02 | 5 | 初定 |
+| gluebot / glue robot | 点胶机器人 | 纽金特买来改造成 Edison 的点胶机器人；gluebot 是员工的戏称，第 2 章章名。第 2 章员工带贬义的叫法写“讥称为‘点胶机器人’（gluebot）”，中性的 glue-dispensing robot、glue robot 写“点胶机器人” |  | ch02 | 5 | 初定 |
 | nanotainer | nanotainer（微型采血管） | Theranos 装指尖血的微型采血管，霍姆斯起的名字；每节第一次出现时括注 | 普通采血管 | ch13 | 21 | 初定 |
 | cartridge | 卡盒 | 插进读取器的一次性检测卡盒，里面有试剂和微流控通道 | 试剂盒（kit）、墨盒 | prologue | 45 | 初定 |
 | reader | 读取器 | 烤面包机大小的盒子，读取卡盒里的信号，再无线传给服务器 | 报纸的读者 | prologue | 40 | 初定 |
@@ -113,7 +145,7 @@
 | venous draw / venipuncture | 静脉采血 | 用针从手臂静脉抽血 |  | ch07 | 14 | 初定 |
 | lab / laboratory | 实验室 | 研发实验室和临床实验室都写“实验室”，需要区分时加限定 | 化验室 | prologue | 296 | 初定 |
 | clinical lab / CLIA lab | 临床实验室 / CLIA 实验室 | Theranos 依照 CLIA 取得资质、检测患者样本的实验室 | 研发实验室 | ch07 | 21 | 初定 |
-| lab director / laboratory director | 实验室主任 | CLIA 证书上署名、对检测结果负责的人 |  | ch09 | 11 | 初定 |
+| lab director / laboratory director | 实验室主任 | CLIA 证书上署名、对检测结果负责的人；同一句已经说到实验室时可以写“真正的主任” |  | ch09 | 11 | 初定 |
 | assay | 检测 / 检测方法 | 书中解释 assay 和 blood test 同义；按上下文写“检测”或“检测方法”；assay validation 写“检测方法验证” | 化验单 | ch02 | 26 | 初定 |
 | immunoassay | 免疫测定 | chemiluminescent immunoassay 写“化学发光免疫测定”；immunoassay group 写“免疫测定组” | 免疫疗法 | ch02 | 21 | 初定 |
 | general chemistry | 常规生化检测 | 钾、钠、葡萄糖、胆固醇等电解质和代谢指标；chem 18 panel 写“18 项生化组合” |  | ch12 | 7 | 初定 |
@@ -153,9 +185,9 @@
 | hockey-stick forecast | 曲棍球棒式预测 | 收入先停滞几年、再直线上升的预测 |  | prologue | 1 | 初定 |
 | vaporware | 雾件 | 大张旗鼓地宣布、多年后才拿得出来甚至一直拿不出来的软件或硬件；尾声里有定义 |  | epilogue | 1 | 初定 |
 | stealth mode | 隐身模式 | 创业公司对外不公开产品的阶段 |  | ch12 | 2 | 初定 |
-| board / director | 董事会 / 董事 | board of counselors 写“顾问委员会”，board of fellows（哈佛医学院）写“理事会” |  | prologue | 92 | 初定 |
+| board / director | 董事会 / 董事 | board of counselors 写“顾问委员会”，原文说它是 ceremonial body，写“挂名机构”；board of fellows（哈佛医学院）写“理事会” |  | prologue | 92 | 初定 |
 | general counsel | 总法律顾问 |  |  | ch02 | 7 | 初定 |
-| pharmaceutical company / drugmaker | 制药公司 |  |  | prologue | 24 | 初定 |
+| pharmaceutical company / drugmaker | 制药公司 | the drug’s maker 这类说法也写“制药公司” |  | prologue | 24 | 初定 |
 | secrecy / silo | 保密 / 各自封闭的部门 | 霍姆斯管理 Theranos 的方式：部门之间互不通气，information split into silos 写“信息被隔断在各个部门里” |  | ch02 | 16 | 初定 |
 | black turtleneck | 黑色高领毛衣 | 霍姆斯模仿乔布斯的打扮 |  | ch03 | 7 | 初定 |
 | patent / patent interference | 专利 / 专利抵触程序 | interference 指两个申请人争夺同一发明优先权的程序 |  | ch01 | 80 | 初定 |
@@ -176,6 +208,14 @@
 | Silicon Valley / the Valley | 硅谷 |  |  | prologue | 56 | 初定 |
 | fraud | 欺诈 | 法律意义上的欺诈 | 骗局（只在口语里用） | ch05 | 9 | 初定 |
 | H-1B visa | H-1B 签证 | 许多印度裔员工靠它留在美国，所以怕被解雇 |  | ch14 | 1 | 初定 |
+| proprietary | 自有 / 专有 | proprietary devices、proprietary technology 写“自有设备”“自有技术”；proprietary information、proprietary data 写“专有信息”“专有数据” |  | ch02 | 24 | 译完后定 |
+| provisional patent application | 临时专利申请 | 原文简称 provisionals 时也写“临时专利申请” |  | ch11 | 2 | 译完后定 |
+| sworn declaration / sworn statement / signed statement | 宣誓声明 / 签名声明 | 第 21 章 Theranos 拿来反驳报道的医生声明是 signed statement | 宣誓书（affidavit） | ch21 | 7 | 译完后定 |
+| attorney-client privilege | 律师与委托人之间的保密特权 | 第 19 章邮件里的 Consider this attorney-client confidential 写“请将此视为律师与委托人之间的保密内容” |  | ch19 | 2 | 译完后定 |
+| class action / putative class action | 集体诉讼 / 尚待认证的集体诉讼 | 第 24 章患者和投资人对 Theranos 的诉讼 |  | ch03 | 3 | 译完后定 |
+| private equity | 私募股权 | private-equity firm 写“私募股权公司” |  | ch01 | 3 | 译完后定 |
+| Flower of Life / sacred geometry | 生命之花 / “神圣几何” | 霍姆斯喜欢的几何图案，Theranos 的标志和新总部都用了它；“生命之花”每节第一次出现时括注 Flower of Life，“神圣几何”带引号 |  | ch13 | 2 | 译完后定 |
+| One tiny drop changes everything | “小小一滴，改变一切” | Theranos 的口号，第 13 章定下，第 16 章再次出现 |  | ch13 | 2 | 译完后定 |
 
 ## 检测项目和医学名词
 
@@ -213,7 +253,7 @@
 | Colaborate / Take Care Health Systems | 照写原名 | 亨特的咨询公司 / 沃尔格林旗下的诊所公司 |
 | TBWA\Chiat\Day / Chiat\Day | 照写 Chiat\Day | 广告公司，第一次出现写“广告公司 TBWA\Chiat\Day” |
 | DKC | 照写 DKC | 公关公司 |
-| Partner Fund Management | 照写 Partner Fund Management | 对冲基金，简称 Partner Fund |
+| Partner Fund Management | 照写 Partner Fund Management | 对冲基金，简称 Partner Fund；Partner Fund litigation 写“Partner Fund 起诉 Theranos 一案” |
 | Lucas Venture Group / RWI Ventures / ATA Ventures / MedVenture | 卢卡斯风投集团 / 照写原名 |  |
 | Boies, Schiller & Flexner / Boies Schiller | 博伊斯·席勒律师事务所 | 每节第一次出现括注英文全名 |
 | McDermott Will & Emery | 麦德莫特律师事务所 | 每节第一次出现括注英文全名 |
@@ -222,15 +262,17 @@
 | Gibson, Dunn & Crutcher | 吉布森·邓恩律师事务所 |  |
 | Keker & Van Nest / Kendall Brill & Klieger / Banie & Ishimoto / Zuckerman Spaeder / Davis & Gilbert / Farella Braun + Martel / Antonelli, Terry, Stout & Kraus / Fletcher & Company | 照写原名 | 律师事务所和出版经纪公司 |
 | Baxter International | 百特国际 |  |
+| Tenneco / Enron | 天纳克 / 安然 | 克里斯·霍姆斯任职过的公司；天纳克第一次出现时括注 Tenneco（第 1、5 章） |
 | Fuisz Pharma / Fuisz Technologies | 照写原名 |  |
 | CommerceBid.com / Commerce One / Lotus / Genomic Health | 照写原名 |  |
-| Wells Fargo / Credit Suisse / Cox Enterprises / Walmart / Fiat Chrysler Automobiles / New England Patriots | 富国银行 / 瑞信 / 考克斯企业 / 沃尔玛 / 菲亚特克莱斯勒汽车公司 / 新英格兰爱国者队 |  |
+| Wells Fargo / Credit Suisse / Cox Enterprises / Walmart / Fiat Chrysler Automobiles / New England Patriots | 富国银行 / 瑞信 / 考克斯企业 / 沃尔玛 / 菲亚特克莱斯勒汽车公司 / 新英格兰爱国者队 | 原文写 the Swiss bank Credit Suisse 时写“瑞士瑞信银行” |
 | Dow Jones / News Corporation / Knopf | 道琼斯 / 新闻集团 / 克诺夫出版社 |  |
 | The Wall Street Journal / The New York Times / The Washington Post / The New Yorker | 《华尔街日报》/《纽约时报》/《华盛顿邮报》/《纽约客》 |  |
 | Fortune / Forbes / Wired / Time / Glamour / Inc. / Fast Company / USA Today / Financial Times / Bloomberg Businessweek / Chicago Tribune | 《财富》/《福布斯》/《连线》/《时代》/《魅力》/《Inc.》/《快公司》/《今日美国》/《金融时报》/《彭博商业周刊》/《芝加哥论坛报》 |  |
 | CNBC / CNN / CBS / NBC / Fox News / Fox Business | 照写原名 | 电视台 |
+| NPR | 美国国家公共电台（NPR） | 第 5、17、23 章；节目名用《》，例如《生物技术之国》（*BioTech Nation*）、《市场》（*Marketplace*） |
 | Mad Money / Today / Charlie Rose | 《疯狂金钱》/《今日秀》/《查理·罗斯秀》 | 电视节目 |
-| Litigation Daily / American Lawyer Media / TechCrunch / Pathology Blawg | 照写原名 | 新闻简报、媒体和博客 |
+| Litigation Daily / American Lawyer Media / TechCrunch / Pathology Blawg | 照写原名 | 新闻简报、媒体和博客；*Litigation Daily* 和 *Pathology Blawg* 跟着英文用斜体；American Lawyer Media 第一次写“American Lawyer Media（ALM）”，之后写 ALM |
 | Hematology Reports | 《血液学报告》（*Hematology Reports*） | 医学期刊 |
 | Stanford University / Stanford Hospital / Hoover Institution | 斯坦福大学 / 斯坦福医院 / 胡佛研究所 |  |
 | Johns Hopkins / Cleveland Clinic / Mayo Clinic / MD Anderson Cancer Center / Weill Cornell Medical Center | 约翰斯·霍普金斯 / 克利夫兰医学中心 / 梅奥诊所 / MD 安德森癌症中心 / 威尔康奈尔医学中心 |  |
@@ -239,9 +281,14 @@
 | U.S. Central Command (CENTCOM) / Pentagon / Fort Detrick | 美国中央司令部 / 五角大楼 / 德特里克堡 | CENTCOM 第一次出现写“美国中央司令部（CENTCOM）” |
 | U.S. Army Medical Research Institute of Infectious Diseases | 美国陆军传染病医学研究所 |  |
 | Justice Department / SEC / State Department | 司法部 / 证券交易委员会 / 国务院 | SEC 第一次出现写“美国证券交易委员会（SEC）” |
+| CIA | 中央情报局 / 中情局 | 每节第一次写“中央情报局”，同一节再出现可以写“中情局”；理查德·富兹早年替它做事 |
+| Superior Court / District Court / Court of Chancery | 高等法院 / 联邦地区法院 / 衡平法院 | Superior Court 是州一级的初审法院：California Superior Court 写“加州高等法院”，Superior Court of the District of Columbia 写“华盛顿特区本地的高等法院（相当于州法院）”；Court of Chancery 指特拉华州衡平法院 |
+| U.S. Attorney’s Office | 美国联邦检察官办公室 |  |
 | New York State Department of Health / California Department of Public Health / Laboratory Field Services | 纽约州卫生厅 / 加州公共卫生厅 / 实验室现场服务处 |  |
 | AACC / College of American Pathologists | 美国临床化学协会（AACC） / 美国病理学家协会 |  |
-| Palo Alto / East Palo Alto / Menlo Park / Mountain View / Newark / Pleasanton | 帕洛阿尔托 / 东帕洛阿尔托 / 门洛帕克 / 山景城 / 纽瓦克 / 普莱森顿 | 纽瓦克指加州的纽瓦克 |
+| Palo Alto / East Palo Alto / Menlo Park / Mountain View / Newark / Pleasanton / Portola Valley | 帕洛阿尔托 / 东帕洛阿尔托 / 门洛帕克 / 山景城 / 纽瓦克 / 普莱森顿 / 波托拉谷 | 纽瓦克指加州的纽瓦克 |
 | Sand Hill Road / Hillview Avenue / Page Mill Road / East Meadow Circle | 沙丘路 / 希尔维尤大道 / 佩奇米尔路 / 东梅多环路 |  |
+| El Camino Real | 国王大道 | 每节第一次出现时括注原名（第 7、12 章） |
+| Steins | 照写 Steins | 山景城的 beer garden，写“露天啤酒馆”（第 19、20、24 章） |
 | Arizona / Phoenix / Scottsdale / Fountain Hills | 亚利桑那州 / 菲尼克斯 / 斯科茨代尔 / 芳廷希尔斯 |  |
 | Old Facebook building | 原 Facebook 大楼 | Theranos 2012 年搬进的总部 |
