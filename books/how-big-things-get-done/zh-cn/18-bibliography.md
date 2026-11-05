@@ -1,0 +1,582 @@
+# 参考文献
+
+- 258t. 2015. “Steve Jobs Customer Experience.” YouTube, October 16. https://www.youtube.com/watch?v=r2O5qKZlI50.
+- Aaltonen, Kirsi, and Jaakko Kujala. 2010. “A Project Lifecycle Perspective on Stakeholder Influence Strategies in Global Projects.” *Scandinavian Journal of Management* 26 (4): 381–97.
+- Abi-Habib, Maria, Oscar Lopez, and Natalie Kitroeff. 2021. “Construction Flaws Led to Mexico City Metro Collapse, Independent Inquiry Shows.” *The New York Times,* June 16.
+- Academy of Achievement. 2017. “Frank Gehry, Academy Class of 1995, Full Interview.” YouTube, July 18. https://www.youtube.com/watch?v=wTElCmNkkKc.
+- Adelman, Jeremy. 2013. *Worldly Philosopher: The Odyssey of Albert O. Hirschman.* Princeton, NJ: Princeton University Press.
+- Adler, Paul S. 1993. “Time-and-Motion Regained.” *Harvard Business Review* 17 (1): 97–108.
+- Aguinis, Herman. 2014. “Revisiting Some ‘Established Facts’ in the Field of Management.” *Business Research Quarterly* 17 (1): 2–10.
+- Ahmed, Kaamil. 2020. “Ending World Hunger by 2030 Would Cost $330 Billion, Study Finds.” *The Guardian,* October 13.
+- Alacevich, Michele. 2007. “Early Development Economics Debates Revisited.” *Policy Research Working Paper* no. 4441. Washington, DC: World Bank.
+- Alacevich, Michele. 2014. “Visualizing Uncertainties, or How Albert Hirschman and the World Bank Disagreed on Project Appraisal and What This Says About the End of ‘High Development Theory.’” *Journal of the History of Economic Thought* 36 (2): 157.
+- Albalate, Daniel, and Germa Bel. 2014. *The Economics and Politics of High-Speed Rail.* New York: Lexington Books.
+- Alho, Juha M. 1992. “The Accuracy of Environmental Impact Assessments: Skew Prediction Errors.” *Ambio* 21 (4): 322–23.
+- Altshuler, Alan, and David Luberoff. 2003. *Mega-Projects: The Changing Politics of Urban Public Investment.* Washington, DC: Brookings Institution.
+- Alvares, Claude, and Ramesh Billorey. 1988. *Damning the Narmada: India’s Greatest Planned Environmental Disaster.* Penang: Third World Network and Asia-Pacific People’s Environment Network, APPEN.
+- Amazon. 2022. “Leadership Principles.” https://www.amazon.jobs/en/principles.
+- Ambrose, Stephen E. 2000. *Nothing Like It in the World: The Men Who Built the Transcontinental Railroad, 1863–1869.* New York: Touchstone.
+- Anderson, Cameron, and Adam D. Galinsky. 2006. “Power, Optimism, and Risk-Taking.” *European Journal of Social Psychology* 36 (4): 511–36.
+- Andranovich, Greg, Matthew J. Burbank, and Charles H. Heying. 2001. “Olympic Cities: Lessons Learned from Mega-Event Politics.” *Journal of Urban Affairs* 23 (2): 113–31.
+- Andriani, Pierpaolo, and Bill McKelvey. 2007. “Beyond Gaussian Averages: Redirecting International Business and Management Research Toward Extreme Events and Power Laws.” *Journal of International Business Studies* 38 (7): 1212–30.
+- Andriani, Pierpaolo, and Bill McKelvey. 2009. “Perspective—from Gaussian to Paretian Thinking: Causes and Implications of Power Laws in Organizations.” *Organization Science* 20 (6): 1053–71.
+- Andriani, Pierpaolo, and Bill McKelvey. 2011. “From Skew Distributions to Power-Law Science.” In *Complexity and Management,* eds. P. Allen, S. Maguire, and Bill McKelvey. Los Angeles: Sage, 254–73.
+- Anguera, Ricard. 2006. “The Channel Tunnel: An Ex Post Economic Evaluation.” *Transportation Research Part A* 40 (4): 291–315.
+- Ansar, Atif, and Bent Flyvbjerg. 2022. “How to Solve Big Problems: Bespoke Versus Platform Strategies.” *Oxford Review of Economic Policy* 38 (2): 338–68.
+- Ansar, Atif, Bent Flyvbjerg, Alexander Budzier, and Daniel Lunn. 2014. “Should We Build More Large Dams? The Actual Costs of Hydropower Megaproject Development.” *Energy Policy* 69: 43–56.
+- Ansar, Atif, Bent Flyvbjerg, Alexander Budzier, and Daniel Lunn. 2016. “Does Infrastructure Investment Lead to Economic Growth or Economic Fragility? Evidence from China.” *Oxford Review of Economic Policy* 32 (3): 360–90.
+- Ansar, Atif, Bent Flyvbjerg, Alexander Budzier, and Daniel Lunn. 2017. “Big Is Fragile: An Attempt at Theorizing Scale.” In *The Oxford Handbook of Megaproject Management,* ed. Bent Flyvbjerg. Oxford, UK: Oxford University Press, 60–95.
+- Anthopoulos, Leonidas, Christopher G. Reddick, Irene Giannakidou, and Nikolaos Mavridis. 2016. “Why E-Government Projects Fail? An Analysis of the healthcare.gov Website.” *Government Information Quarterly* 33 (1): 161–73.
+- Architectural Videos. “Frank Gehry Uses CATIA for His Architecture Visions.” YouTube, November 1, 2011. https://www.youtube.com/watch?v=UEn53Wr6380.
+- Aristotle. 1976. *The Nicomachean Ethics.* Translated by J. A. K. Thomson, revised with notes and appendices by Hugh Tredennick. Introduction and bibliography by Jonathan Barnes. Harmondsworth, UK: Penguin Classics.
+- Arkes, Hal R., and Catherine Blumer. 1985. “The Psychology of Sunk Cost.” *Organizational Behavior and Human Decision Processes* 35 (1): 124–40.
+- Arup, Ove, and Partners Scotland. 2004. *Scottish Parliament, Edinburgh Tram Line 2: Review of Business Case.* West Lothian, UK: Ove Arup and Partners.
+- Australian Transport and Infrastructure Council. 2018. *Optimism Bias.* Canberra: Commonwealth of Australia.
+- Avery, Dan. 2021. “Warren Buffett to Offer a Fresh Approach on Modular Construction.” *Architectural Digest,* May 20. https://www.architecturaldigest.com/story/warren-buffett-offer-fresh-approach-modular-construction.
+- Awojobi, Omotola, and Glenn P. Jenkins. 2016. “Managing the Cost Overrun Risks of Hydroelectric Dams: An Application of Reference-Class Forecasting Techniques.” *Renewable and Sustainable Energy Reviews* 63 (September): 19–32.
+- Baade, Robert A., and Victor A. Matheson. 2004. “The Quest for the Cup: Assessing the Economic Impact of the World Cup.” *Regional Studies* 38 (4): 343–54.
+- Baade, Robert A., and Victor A. Matheson. 2016. “Going for the Gold: The Economics of the Olympics.” *Journal of Economic Perspectives* 30 (2): 201–18.
+- Bach, Steven. 1999. *Final Cut: Art, Money, and Ego in the Making of* Heaven’s Gate, *the Film That Sank United Artists.* New York: Newmarket Press.
+- Backwell, Ben. 2018. *Wind Power: The Struggle for Control of a New Global Industry.* London: Routledge.
+- Baham, Cory, Rudy Hirschheim, Andres A. Calderon, and Victoria Kisekka. 2017. “An Agile Methodology for the Disaster Recovery of Information Systems Under Catastrophic Scenarios.” *Journal of Management Information Systems* 34 (3): 633–63.
+- Bain, Susan. 2005. *Holyrood: The Inside Story.* Edinburgh: Edinburgh University Press.
+- Bak, Per. 1996. *How Nature Works: The Science of Self-Organized Criticality.* New York: Springer Science & Business Media.
+- Bak, Per, Chao Tang, and Kurt Wiesenfeld. 1988. “Self-Organized Criticality: An Explanation of the 1/f Noise.” *Physical Review Letters* 59 (4): 381.
+- Bak, Per, Chao Tang, and Kurt Wiesenfeld. 1988. “Self-Organized Criticality.” *Physical Review A* 38 (1): 364–74.
+- Bakker, Karen. 1999. “The Politics of Hydropower: Developing the Mekong.” *Political Geography* 18 (2): 209–32.
+- Baldwin, Carliss Y., and Kim B. Clark. 2000. *Design Rules: The Power of Modularity.* Cambridge, MA: MIT Press.
+- Bar-Hillel, Maya. 1980. “The Base-Rate Fallacy in Probability Judgments.” *Acta Psychologica* 44 (3): 211–33.
+- Barabási, Albert-László. 2005. “The Origin of Bursts and Heavy Tails in Human Dynamics.” *Nature* 435: 207–11.
+- Barabási, Albert-László. 2014. *Linked: How Everything Is Connected to Everything Else and What It Means for Business, Science, and Everyday Life.* New York: Basic Books.
+- Barabási, Albert-László, and Réka Albert. 1999. “Emergence of Scaling in Random Networks.” *Science* 286 (5439): 509–12.
+- Barabási, Albert-László, Kwang-Il Goh, and Alexei Vazquez. 2005. Reply to Comment on “The Origin of Bursts and Heavy Tails in Human Dynamics.” arXiv preprint. arXiv:physics/0511186.
+- Barnard, Michael. 2021. “A Decade of Wind, Solar, and Nuclear in China Shows Clear Scalability Winners.” *CleanTechnica,* September 5. https://cleantechnica.com/2021/09/05/a-decade-of-wind-solar-nuclear-in-china-shows-clear-scalability-winners/.
+- Barthiaume, Lee. 2021. “Skyrocketing Shipbuilding Costs Continue as Estimate Puts Icebreaker Price at $7.25 Bill.” *The Canadian Press,* December 16.
+- Bartlow, James. 2000. “Innovation and Learning in Complex Offshore Construction Projects.” *Research Policy* 29 (7): 973–89.
+- Batselier, Jordy. 2016. *Empirical Evaluation of Existing and Novel Approaches for Project Forecasting and Control.* Doctoral dissertation. Ghent, Belgium: University of Ghent.
+- Batselier, Jordy, and Mario Vanhoucke. 2016. “Practical Application and Empirical Evaluation of Reference-Class Forecasting for Project Management.” *Project Management Journal* 47 (5): 36.
+- Batselier, Jordy, and Mario Vanhoucke. 2017. “Improving Project Forecast Accuracy by Integrating Earned Value Management with Exponential Smoothing and Reference-Class Forecasting.” *International Journal of Project Management* 35 (1): 28–43.
+- BBC. 2013. *Restoration Home.* Season 3, episode 8. BBC, August 21. https://www.youtube.com/watch?v=_NDaO42j_KQ.
+- BBC. 2016. “Japan Cancels Failed $9bn Monju Nuclear Reactor.” BBC, December 21. https://www.bbc.co.uk/news/world-asia-38390504.
+- Bechtler, Cristina, ed. 1999. *Frank O. Gehry/Kurt W. Forster.* Ostfildern-Ruit, Germany: Cantz.
+- Bernstein, Peter L. 2005. *Wedding of the Waters: The Erie Canal and the Making of a Great Nation.* New York: W. W. Norton.
+- Billings, Stephen B., and J. Scott Holladay. 2012. “Should Cities Go for the Gold? The Long-Term Impacts of Hosting the Olympics.” *Economic Inquiry* 50 (3): 754–72.
+- Billington, David P., and Donald C. Jackson. 2006. *Big Dams of the New Deal Era: A Confluence of Engineering and Politics.* Norman: University of Oklahoma Press.
+- Bishir, Catherine W. 2009. “Shreve and Lamb.” In *North Carolina Architects and Builders: A Biographical Dictionary.* Raleigh: North Carolina State University Libraries, https://ncarchitects.lib.ncsu.edu/people/P000414.
+- Biskind, Peter. 1998. *Easy Riders, Raging Bulls: How the Sex-Drugs-and-Rock ’n’ Roll Generation Saved Hollywood.* London: Bloomsbury Publishing.
+- Bizony, Piers. 2006. *The Man Who Ran the Moon: James Webb, JFK, and the Secret History of Project Apollo.* Cambridge, UK: Icon Books.
+- Boisot, Max, and Bill McKelvey. 2011. “Connectivity, Extremes, and Adaptation: A Power-Law Perspective of Organizational Effectiveness.” *Journal of Management Inquiry* 20 (2): 119–33.
+- Bok, Sissela. 1999. *Lying: Moral Choice in Public and Private Life.* New York: Vintage.
+- Bordley, Robert F. 2014. “Reference-Class Forecasting: Resolving Its Challenge to Statistical Modeling.” *The American Statistician* 68 (4): 221–29.
+- Boudet, Hilary Schaffer, and Leonard Ortolano. 2010. “A Tale of Two Sitings: Contentious Politics in Liquefied Natural Gas Facility Siting in California.” *Journal of Planning Education and Research* 30 (1): 5–21.
+- Bovens, Mark, and Paul ’t Hart. 1996. *Understanding Policy Fiascoes.* New Brunswick, NJ: Transaction Publishers.
+- Bowman, Martin W. 2015. *Boeing 747: A History.* Barnsley, UK: Pen and Sword Aviation.
+- Box, George E. P. 1976. “Science and Statistics.” *Journal of the American Statistical Association* 71 (356): 791–99.
+- Brockner, Joel. 1992. “The Escalation of Commitment to a Failing Course of Action: Toward Theoretical Progress.” *Academy of Management Review* 17 (1): 39–61.
+- Brooks, Frederick P. 1995. *The Mythical Man-Month: Essays on Software Engineering,* 2nd ed. Reading, MA: Addison-Wesley.
+- Brown, James H., and Geoffrey B. West, eds. 2000. *Scaling in Biology.* Oxford, UK: Oxford University Press.
+- Brown, Willie. 2013. “When Warriors Travel to China, Ed Lee Will Follow.” *San Francisco Chronicle,* July 27.
+- Bryar, Colin, and Bill Carr. 2021. *Working Backwards: Insights, Stories, and Secrets from Inside Amazon.* New York: St. Martin’s Press.
+- Buckley, Ralf C. 1990. “Environmental Audit: Review and Guidelines.” *Environment and Planning Law Journal* 7 (2): 127–41.
+- Buckley, Ralf C. 1991. “Auditing the Precision and Accuracy of Environmental Impact Predictions in Australia.” *Environmental Monitoring and Assessment* 18 (1): 1–23.
+- Buckley, Ralf C. 1991. “How Accurate Are Environmental Impact Predictions?” *Ambio* 20 (3–4): 161–62, with “Response to Comment by J. M. Alho,” 21 (4): 323–24.
+- Budzier, Alexander, and Bent Flyvbjerg. 2011. “Double Whammy: How ICT Projects Are Fooled by Randomness and Screwed by Political Intent.” *Saïd Business School Working Papers.* Oxford, UK: University of Oxford.
+- Budzier, Alexander, and Bent Flyvbjerg. 2013. “Making Sense of the Impact and Importance of Outliers in Project Management Through the Use of Power Laws.” *Proceedings of IRNOP* [International Research Network on Organizing by Projects] 11: 1–28.
+- Budzier, Alexander, Bent Flyvbjerg, Andi Garavaglia, and Andreas Leed. 2018. *Quantitative Cost and Schedule Risk Analysis of Nuclear Waste Storage.* Oxford, UK: Oxford Global Projects.
+- Buehler, Roger, Dale Griffin, and Heather MacDonald. 1997. “The Role of Motivated Reasoning in Optimistic Time Predictions.” *Personality and Social Psychology Bulletin* 23 (3): 238–47.
+- Buehler, Roger, Dale Griffin, and Johanna Peetz. 2010. “The Planning Fallacy: Cognitive, Motivational, and Social Origins.” *Advances in Experimental Social Psychology* 43: 1–62.
+- Buehler, Roger, Dale Griffin, and Michael Ross. 1994. “Exploring the ‘Planning Fallacy’: Why People Underestimate Their Task Completion Times.” *Journal of Personality and Social Psychology* 67 (3): 366–81.
+- Byron, Kristin, Deborah Nazarian, and Shalini Khazanchi. 2010. “The Relationships Between Stressors and Creativity: A Meta-analysis Examining Competing Theoretical Models.” *Journal of Applied Psychology* 95 (1): 201–12.
+- California High-Speed Rail Authority. 1999. *Financial Plan.* Sacramento: California High-Speed Rail Authority.
+- California High-Speed Rail Authority. 2008. *California High-Speed Train Business Plan.* Sacramento: California High-Speed Rail Authority.
+- California High-Speed Rail Authority. 2012. *California High-Speed Rail Program, Revised 2012 Business Plan: Building California’s Future.* Sacramento: California High-Speed Rail Authority.
+- California High-Speed Rail Authority. 2014. *Connecting California: 2014 Business Plan.* Sacramento: California High-Speed Rail Authority.
+- California High-Speed Rail Authority. 2016. *Connecting and Transforming California: 2016 Business Plan.* Sacramento: California High-Speed Rail Authority.
+- California High-Speed Rail Authority. 2018. *2018 Business Plan.* Sacramento: California High-Speed Rail Authority.
+- California High-Speed Rail Authority. 2021. *2020 Business Plan: Recovery and Transformation.* Sacramento: California High-Speed Rail Authority.
+- California High-Speed Rail Authority. 2021. *2020 Business Plan: Ridership and Revenue Forecasting Report.* Sacramento: California High-Speed Rail Authority.
+- California High-Speed Rail Authority. 2021. *Revised Draft 2020 Business Plan: Capital Cost Basis of Estimate Report.* Sacramento: California High-Speed Rail Authority.
+- California Legislative Information. 2008. *Safe, Reliable High-Speed Passenger Train Bond Act for the 21st Century.* Assembly Bill no. 3034. California Legislative Information. https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=200720080AB3034.
+- Campbell, Joseph. 2008. *The Hero with a Thousand Faces.* San Francisco: New World Library.
+- Campion-Awwad, Oliver, Alexander Hayton, Leila Smith, and Mark Vuaran. 2014. *The National Programme for IT in the NHS: A Case History.* Cambridge, UK: University of Cambridge.
+- Cantarelli, Chantal C., Bent Flyvbjerg, and Søren L. Buhl. 2012. “Geographical Variation in Project Cost Performance: The Netherlands Versus Worldwide.” *Journal of Transport Geography* 24: 324–31.
+- Cantarelli, Chantal C., Bent Flyvbjerg, Eric J. E. Molin, and Bert van Wee. 2010. “Cost Overruns in Large-Scale Transportation Infrastructure Projects: Explanations and Their Theoretical Embeddedness.” *European Journal of Transport and Infrastructure Research* 10 (1): 5–18.
+- Cantarelli, Chantal C., Bent Flyvbjerg, Bert van Wee, and Eric J. E. Molin. 2010. “Lock-in and Its Influence on the Project Performance of Large-Scale Transportation Infrastructure Projects: Investigating the Way in Which Lock-in Can Emerge and Affect Cost Overruns.” *Environment and Planning B: Planning and Design* 37 (5): 792–807.
+- Cantarelli, Chantal C., Eric J. E. Molin, Bert van Wee, and Bent Flyvbjerg. 2012. “Characteristics of Cost Overruns for Dutch Transport Infrastructure Projects and the Importance of the Decision to Build and Project Phases.” *Transport Policy* 22: 49–56.
+- Carreyrou, John. 2018. *Bad Blood: Secrets and Lies in a Silicon Valley Startup.* New York: Alfred A. Knopf.
+- Caro, Robert. 1975. *The Power Broker: Robert Moses and the Fall of New York.* New York: Vintage.
+- Caro, Robert A. 2019. *Working: Researching, Interviewing, Writing.* New York: Vintage.
+- Carson, Thomas L. 2006. “The Definition of Lying.” *Noûs* 40 (2): 284–306.
+- Catmull, Ed. 2014. *Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration.* New York: Random House.
+- CBC News. 1999. “Jean Drapeau Dead.” CBC News, August 13. https://www.cbc.ca/news/canada/jean-drapeau-dead-1.185985.
+- Chandler, Alfred D. 1990. *Scale and Scope: Dynamics of Industrial Capitalism,* new ed. Cambridge, MA: Harvard University Press.
+- Chandra, Ramesh. 2014. *Encyclopedia of Education in South Asia,* vol. 6. Delhi: Gyan Publishing House.
+- Chang, Welton, Eva Chen, Barbara Mellers, and Philip Tetlock. 2016. “Developing Expert Political Judgment: The Impact of Training and Practice on Judgmental Accuracy in Geopolitical Forecasting Tournaments.” *Judgment and Decision Making* 11 (5): 509–26.
+- Chapman, Gretchen B., and Eric J. Johnson. 1999. “Anchoring, Activation, and the Construction of Values.” *Organizational Behavior and Human Decision Processes* 79 (2): 115–53.
+- Charest, Paul. 1995. “Aboriginal Alternatives to Megaprojects and Their Environmental and Social Impacts.” *Impact Assessment* 13 (4): 371–86.
+- Christian, Alex. 2021. “The Untold Story of the Big Boat That Broke the World.” *Wired,* June 22. https://www.wired.co.uk/article/ever-given-global-supply-chain.
+- Christoffersen, Mads, Bent Flyvbjerg, and Jørgen Lindgaard Pedersen. 1992. “The Lack of Technology Assessment in Relation to Big Infrastructural Decisions.” In *Technology and Democracy: The Use and Impact of Technology Assessment in Europe. Proceedings from the 3rd European Congress on Technology Assessment.* Copenhagen, 54–75.
+- Cialdini, Robert B. 2021. *Influence, New and Expanded: The Psychology of Persuasion.* New York: Harper Business.
+- Clark, Gordon L., and Neil Wrigley. 1995. “Sunk Costs: A Framework for Economic Geography.” *Transactions of the Institute of British Geographers* 20 (2): 204–23.
+- Clauset, Aaron, Cosma R. Shalizi, and Mark E. J. Newman. 2009. “Power-Law Distributions in Empirical Data.” *SIAM Review* 51 (4): 661–703.
+- Clauset, Aaron, Maxwell Young, and Kristian S. Gleditsch. 2007. “On the Frequency of Severe Terrorist Events.” *Journal of Conflict Resolution* 51 (1): 58–87.
+- Collingridge, David. 1992. *The Management of Scale: Big Organizations, Big Decisions, Big Mistakes.* London: Routledge.
+- Collins, Jeffrey. 2020. “Former Executive Faces Prison Time in SC Nuclear Debacle.” Associated Press, November 25.
+- Conboy, Kieran. 2010. “Project Failure en Masse: A Study of Loose Budgetary Control in ISD Projects.” *European Journal of Information Systems* 19 (3): 273–87.
+- Construction Task Force. 1998. “Rethinking Construction—The Egan Report.” London: Dept. of the Environment, Transport, and the Regions. Constructing Excellence. https://constructingexcellence.org.uk/wp-content/uploads/2014/10/rethinking_construction_report.pdf.
+- Constructive Developments. 2022. “Storebaelt Tunnels, Denmark.” Constructive Developments. https://sites.google.com/site/constructivedevelopments/storebaelt-tunnels.
+- Cooper, Arnold C., Carolyn Y. Woo, and William C. Dunkelberg. 1988. “Entrepreneurs’ Perceived Chances for Success.” *Journal of Business Venturing* 3 (2): 97–108.
+- Cullinane, Kevin, and Mahim Khanna. 2000. “Economies of Scale in Large Containerships: Optimal Size and Geographical Implications.” *Journal of Transport Geography* 8 (3): 181–95.
+- Czerlinski, Jean, Gerd Gigerenzer, and Daniel G. Goldstein. 1999. “How Good Are Simple Heuristics?” In *Simple Heuristics That Make Us Smart,* eds. Gerd Gigerenzer, Peter M. Todd, and ABC Research Group. Oxford, UK: Oxford University Press, 97–118.
+- Daley, James. 2011. “Owner and Contractor Embark on War of Words over Wembley Delay.” *The Independent,* September 22.
+- Danish Ministry of Transport and Energy, Transport- og Energiministeriet. 2006. *Aktstykke 16: Orientering om nye budgetteringsprincipper for anlægsprojekter.* Copenhagen: Finansudvalget, Folketinget, November 2.
+- Danish Ministry of Transport and Energy, Transport- og Energiministeriet. 2008. *Ny anlægsbudgettering på Transportministeriets område, herunder om økonomistyringsmodel og risikohåndtering for anlægsprojekter.* Copenhagen: Transportministeriet, November 18.
+- Danish Ministry of Transport, Building and Housing, Transport-, Bygnings- og Boligministeriet. 2017. *Hovednotat for ny anlægsbudgettering: Ny anlægsbudgettering på Transport-, Bygnings- og Boligministeriets område. Herunder om økonomistyringsmodel og risikohåndtering for anlægsprojekter.* Copenhagen: Transport -, Bygnings- og Boligministeriet.
+- Dantata, Nasiru A., Ali Touran, and Donald C. Schneck. 2006. “Trends in US Rail Transit Project Cost Overrun.” *Transportation Research Board Annual Meeting.* Washington, DC: National Academies.
+- Dardick, Hal. 2014. “Ald. Burke Calls Great Chicago Fire Festival a ‘Fiasco.’” *Chicago Tribune,* October 6.
+- Davies, Andrew, David Gann, and Tony Douglas. 2009. “Innovation in Megaprojects: Systems Integration at London Heathrow Terminal 5.” *California Management Review* 51 (2): 101–25.
+- Davies, Andrew, and Michael Hobday. 2005. *The Business of Projects: Managing Innovation in Complex Products and Systems.* Cambridge, UK: Cambridge University Press.
+- De Bruijn, Hans, and Martijn Leijten. 2007. “Megaprojects and Contested Information.” *Transportation Planning and Technology* 30 (1): 49–69.
+- De Reyck, Bert, Yael Grushka-Cockayne, Ioannis Fragkos, and Jeremy Harrison. 2015. *Optimism Bias Study: Recommended Adjustments to Optimism Bias Uplifts.* London: Department for Transport.
+- De Reyck, Bert, Yael Grushka-Cockayne, Ioannis Fragkos, and Jeremy Harrison. 2017. *Optimism Bias Study—Recommended Adjustments to Optimism Bias Uplifts,* update. London: Department for Transport.
+- DeGroot, Gerard. 2008. *Dark Side of the Moon: The Magnificent Madness of the American Lunar Quest.* London: Vintage.
+- Del Cerro Santamaría, Gerardo. 2017. “Iconic Urban Megaprojects in a Global Context: Revisiting Bilbao.” In *The Oxford Handbook of Megaproject Management,* ed. Bent Flyvbjerg. Oxford, UK: Oxford University Press, 497–518.
+- Delaney, Kevin J., and Rick Eckstein. 2003. *Public Dollars, Private Stadiums: The Battle over Building Sports Stadiums.* New Brunswick, NJ: Rutgers University Press.
+- Del Rey, Jason. 2019. “The Making of Amazon Prime, the Internet’s Most Successful and Devastating Membership Program.” Vox, May 3. https://www.vox.com/recode/2019/5/3/18511544/amazon-prime-oral-history-jeff-bezos-one-day-shipping.
+- Detter, Dag, and Stefan Fölster. 2015. *The Public Wealth of Nations.* New York: Palgrave.
+- Dipper, Ben, Carys Jones, and Christopher Wood. 1998. “Monitoring and Postauditing in Environmental Impact Assessment: A Review.” *Journal of Environmental Planning and Management* 41 (6): 731–47.
+- Doig, Jameson W. 2001. *Empire on the Hudson: Entrepreneurial Vision and Political Power at the Port of New York Authority.* New York: Columbia University Press.
+- Dowling, Stephen. 2020. “The Boeing 747: The Plane That Shrank the World.” BBC, June 19. https://www.bbc.com/future/article/20180927-the-boeing-747-the-plane-that-shrank-the-world.
+- Drew, Philip. 2001. *The Masterpiece: Jørn Utzon, a Secret Life.* South Yarra, Victoria, Australia: Hardie Grant Books.
+- Drummond, Helga. 2014. “Is Escalation Always Irrational?” In *Megaproject Planning and Management: Essential Readings,* vol. 2, ed. Bent Flyvbjerg. Cheltenham, UK: Edward Elgar, 291–309. Originally published in *Organization Studies* 19 (6).
+- Drummond, Helga. 2017. “Megaproject Escalation of Commitment: An Update and Appraisal.” In *The Oxford Handbook of Megaproject Management,* ed. Bent Flyvbjerg. Oxford, UK: Oxford University Press, 194–216.
+- Duflo, Esther, and Rohini Pande. 2007. “Dams.” *The Quarterly Journal of Economics* 122: 601–46.
+- Duhigg, Charles. 2016. “What Google Learned from Its Quest to Build the Perfect Team.” *The New York Times Magazine,* February 25.
+- Dyson, Freeman. 2016. “The Green Universe: A Vision.” *The New York Review of Books,* October 13, 4–6.
+- Edmondson, Amy. 2018. *The Fearless Organization: Creating Psychological Safety in the Workplace for Learning, Innovation, and Growth.* Hoboken, NJ: John Wiley & Sons.
+- Eisenhardt, Kathleen M. 1989. “Agency Theory: An Assessment and Review.” *Academy of Management Review* 14 (1): 57–74.
+- Electric Lady Studios. http://electricladystudios.com.
+- Emmons, Debra L., Robert E. Bitten, and Claude W. Freaner. 2007. “Using Historical NASA Cost and Schedule Growth to Set Future Program and Project Reserve Guidelines.” *2007 IEEE Aerospace Conference,* 1–16.
+- Empire State Inc. 1931. *Empire State: A History.* New York: Publicity Association.
+- Epley, Nicholas, and Thomas Gilovich. 2006. “The Anchoring-and-Adjustment Heuristic: Why the Adjustments Are Insufficient.” *Psychological Science* 17 (4): 311–18.
+- Escobar-Rangel, Lina, and François Lévêque. 2015. “Revisiting the Cost Escalation Curse of Nuclear Power: New Lessons from the French Experience.” *Economics of Energy and Environmental Policy* 4 (2): 103–26.
+- Essex, Stephen, and Brian Chalkley. 2004. “Mega–Sporting Events in Urban and Regional Policy: A History of the Winter Olympics.” *Planning Perspectives* 19 (2): 201–32.
+- Esty, Benjamin C. 2004. “Why Study Large Projects? An Introduction to Research on Project Finance.” *European Financial Management* 10 (2): 213–24.
+- Ethiraj, Sendil K., and Danial A. Levinthal. 2004. “Modularity and Innovation in Complex Systems.” *Management Science* 50 (2): 159–73.
+- EU Commission. 1996. *Guidelines for the Construction of a Transeuropean Transport Network,* EU Bulletin L228. Brussels: EU Commission.
+- European Court of Auditors. 2014. *EU-Funded Airport Infrastructures: Poor Value for Money.* European Court of Auditors. https://www.eca.europa.eu/Lists/ECADocuments/SR14_21/QJAB14021ENC.pdf.
+- Exemplars in Global Health. 2022. *What Did Nepal Do?* Exemplars in Global Health. https://www.exemplars.health/topics/stunting/nepal/what-did-nepal-do.
+- Fabricius, Golo, and Marion Büttgen. 2015. “Project Managers’ Overconfidence: How Is Risk Reflected in Anticipated Project Success?” *Business Research* 8 (2): 239–63.
+- Fainstein, Susan S. 2008. “Mega-Projects in New York, London and Amsterdam.” *International Journal of Urban and Regional Research* 32 (4): 768–85.
+- Fallis, Don. 2009. “What Is Lying?” *The Journal of Philosophy* 106 (1): 29–56.
+- Farago, Jason. 2021. “Gehry’s Quiet Interventions Reshape the Philadelphia Museum.” *The New York Times,* May 30.
+- Farmer, J. Doyne, and John Geanakoplos. 2008. *Power Laws in Economics and Elsewhere.* Santa Fe, NM: Santa Fe Institute.
+- Fearnside, Philip M. 1994. “The Canadian Feasibility Study of the Three Gorges Dam Proposed for China’s Yangzi River: A Grave Embarrassment to the Impact Assessment Profession.” *Impact Assessment* 12 (1): 21–57.
+- Feynman, Richard P. 2007. “Richard P. Feynman’s Minority Report to the Space Shuttle Challenger Inquiry.” In Feynman, *The Pleasure of Finding Things Out.* New York: Penguin, 151–69.
+- Feynman, Richard P. 2007. “Mr. Feynman Goes to Washington: Investigating the Space Shuttle *Challenger* Disaster.” In Feynman, *What Do You Care What Other People Think? Further Adventures of a Curious Character.* New York: Penguin, 113–237.
+- Flowers, Benjamin. 2009. *Skyscraper: The Politics and Power of Building New York City in the Twentieth Century.* Philadelphia: University of Pennsylvania Press.
+- Flyvbjerg, Bent. 1998. *Rationality and Power: Democracy in Practice.* Chicago: University of Chicago Press.
+- Flyvbjerg, Bent. 2001. *Making Social Science Matter: Why Social Inquiry Fails and How It Can Succeed Again.* Cambridge, UK: Cambridge University Press.
+- Flyvbjerg, Bent. 2003. “Delusions of Success: Comment on Dan Lovallo and Daniel Kahneman.” *Harvard Business Review* 81 (12): 121–22.
+- Flyvbjerg, Bent. 2005. “Design by Deception: The Politics of Megaproject Approval.” *Harvard Design Magazine* 22 (Spring/Summer): 50–59.
+- Flyvbjerg, Bent. 2005. “Measuring Inaccuracy in Travel Demand Forecasting: Methodological Considerations Regarding Ramp Up and Sampling.” *Transportation Research A* 39 (6): 522–30.
+- Flyvbjerg, Bent. 2006. “From Nobel Prize to Project Management: Getting Risks Right.” *Project Management Journal* 37 (3): 5–15.
+- Flyvbjerg, Bent. 2009. “Survival of the Unfittest: Why the Worst Infrastructure Gets Built, and What We Can Do About It.” *Oxford Review of Economic Policy* 25 (3): 344–67.
+- Flyvbjerg, Bent. 2012. “Why Mass Media Matter and How to Work with Them: Phronesis and Megaprojects.” In *Real Social Science: Applied Phronesis,* eds. Bent Flyvbjerg, Todd Landman, and Sanford Schram. Cambridge, UK: Cambridge University Press, 95–121.
+- Flyvbjerg, Bent. 2013. “Quality Control and Due Diligence in Project Management: Getting Decisions Right by Taking the Outside View.” *International Journal of Project Management* 31 (5): 760–74.
+- Flyvbjerg, Bent. 2014. “What You Should Know About Megaprojects and Why: An Overview.” *Project Management Journal* 45 (2): 6–19.
+- Flyvbjerg, Bent, ed. 2014. *Planning and Managing Megaprojects: Essential Readings.* Vols. 1–2. Cheltenham, UK: Edward Elgar.
+- Flyvbjerg, Bent. 2016, “The Fallacy of Beneficial Ignorance: A Test of Hirschman’s Hiding Hand.” *World Development* 84 (April): 176–89.
+- Flyvbjerg, Bent. 2017. “Introduction: The Iron Law of Megaproject Management.” In *The Oxford Handbook of Megaproject Management,* ed. Bent Flyvbjerg. Oxford, UK: Oxford University Press, 1–18.
+- Flyvbjerg, Bent. 2018. “Planning Fallacy or Hiding Hand: Which Is the Better Explanation?” *World Development* 103 (March): 383–86.
+- Flyvbjerg, Bent. 2020. “The Law of Regression to the Tail: How to Survive Covid-19, the Climate Crisis, and Other Disasters.” *Environmental Science and Policy* 114 (December): 614–18.
+- Flyvbjerg, Bent. 2021. “Four Ways to Scale Up: Smart, Dumb, Forced, and Fumbled.” *Saïd Business School Working Papers.* Oxford, UK: University of Oxford.
+- Flyvbjerg, Bent. 2021. “Make Megaprojects More Modular.” *Harvard Business Review* 99 (6): 58–63.
+- Flyvbjerg, Bent. 2021. “Top Ten Behavioral Biases in Project Management: An Overview.” *Project Management Journal* 52 (6): 531–46.
+- Flyvbjerg, Bent. 2022. “Heuristics for Masterbuilders: Fast and Frugal Ways to Become a Better Project Leader.” *Saïd Business School Working Papers,* Oxford, UK: University of Oxford.
+- Flyvbjerg, Bent, Atif Ansar, Alexander Budzier, Søren Buhl, Chantal Cantarelli, Massimo Garbuio, Carsten Glenting, Mette Skamris Holm, Dan Lovallo, Daniel Lunn, Eric Molin, Arne Rønnest, Allison Stewart, and Bert van Wee. 2018. “Five Things You Should Know About Cost Overrun.” *Transportation Research Part A: Policy and Practice* 118 (December): 174–90.
+- Flyvbjerg, Bent, and Dirk W. Bester. 2021. “The Cost-Benefit Fallacy: Why Cost-Benefit Analysis Is Broken and How to Fix It.” *Journal of Benefit-Cost Analysis* 12 (3): 395–419.
+- Flyvbjerg, Bent, Nils Bruzelius, and Werner Rothengatter. 2003. *Megaprojects and Risk: An Anatomy of Ambition.* Cambridge, UK: Cambridge University Press.
+- Flyvbjerg, Bent, and Alexander Budzier. 2011. “Why Your IT Project May Be Riskier Than You Think.” *Harvard Business Review* 89 (9): 23–25.
+- Flyvbjerg, Bent, and Alexander Budzier. 2018. *Report for the Commission of Inquiry Respecting the Muskrat Falls Project.* St. John’s, Province of Newfoundland and Labrador, Canada: Muskrat Falls Inquiry.
+- Flyvbjerg, Bent, Alexander Budzier, Maria D. Christodoulou, and M. Zottoli. Under review. “So You Think Projects Are Unique? How Uniqueness Bias Undermines Project Management.”
+- Flyvbjerg, Bent, Alexander Budzier, Mark Keil, Jong Seok Lee, Dirk W. Bester, and Daniel Lunn. 2022. “The Empirical Reality of IT Project Cost Overruns: Discovering a Power-Law Distribution.” Forthcoming in *Journal of Management Information Systems* 39 (3).
+- Flyvbjerg, Bent, Alexander Budzier, and Daniel Lunn. 2021. “Regression to the Tail: Why the Olympics Blow Up.” *Environment and Planning A: Economy and Space* 53 (2): 233–60.
+- Flyvbjerg, Bent, Massimo Garbuio, and Dan Lovallo. 2009. “Delusion and Deception in Large Infrastructure Projects: Two Models for Explaining and Preventing Executive Disaster.” *California Management Review* 51 (2): 170–93.
+- Flyvbjerg, Bent, Carsten Glenting, and Arne Rønnest. 2004. *Procedures for Dealing with Optimism Bias in Transport Planning: Guidance Document.* London: UK Department for Transport.
+- Flyvbjerg, Bent, Mette K. Skamris Holm, and Søren L. Buhl. 2002. “Underestimating Costs in Public Works Projects: Error or Lie?” *Journal of the American Planning Association* 68 (3): 279–95.
+- Flyvbjerg, Bent, Mette K. Skamris Holm, and Søren L. Buhl. 2004. “What Causes Cost Overrun in Transport Infrastructure Projects?” *Transport Reviews* 24 (1): 3–18.
+- Flyvbjerg, Bent, Mette K. Skamris Holm, and Søren L. Buhl. 2005. “How (In)accurate Are Demand Forecasts in Public Works Projects? The Case of Transportation.” *Journal of the American Planning Association* 71 (2): 131–46.
+- Flyvbjerg, Bent, Chi-keung Hon, and Wing Huen Fok. 2016. “Reference-Class Forecasting for Hong Kong’s Major Roadworks Projects.” *Proceedings of the Institution of Civil Engineers* 169 (CE6): 17–24.
+- Flyvbjerg, Bent, and Tsung-Chung Kao, with Alexander Budzier. 2014. *Report to the Independent Board Committee on the Hong Kong Express Rail Link Project.* Hong Kong: MTR, A1–A122.
+- Flyvbjerg, Bent, Todd Landman, and Sanford Schram, eds. 2012. *Real Social Science: Applied Phronesis.* Cambridge, UK: Cambridge University Press.
+- Flyvbjerg, Bent, and Allison Stewart. 2012. “Olympic Proportions: Cost and Cost Overrun at the Olympics, 1960–2012.” *Saïd Business School Working Papers.* Oxford, UK: University of Oxford.
+- Flyvbjerg, Bent, and Cass R. Sunstein. 2017. “The Principle of the Malevolent Hiding Hand; or, The Planning Fallacy Writ Large.” *Social Research* 83 (4): 979–1004.
+- Fox Broadcasting Company. 2005. “The Seven-Beer Snitch.” *The Simpsons.* Season 16, episode 14, April 3.
+- French Ministry of Transport. 2007. *Ex-Post Evaluation of French Road Projects: Main Results.* Paris: French Ministry of Transport.
+- Frey, Thomas. 2017. “Megaprojects Set to Explode to 24% of Global GDP Within a Decade.” *Future of Construction,* February 10. https://futureofconstruction.org/blog/megaprojects-set-to-explode-to-24-of-global-gdp-within-a-decade/.
+- Frick, Karen T. 2008. “The Cost of the Technological Sublime: Daring Ingenuity and the New San Francisco–Oakland Bay Bridge.” In *Decision-Making on Mega-Projects: Cost–Benefit Analysis, Planning, and Innovation,* eds. Hugo Priemus, Bent Flyvbjerg, and Bert van Wee. Cheltenham, UK: Edward Elgar, 239–62.
+- Fudenberg, Drew, David K. Levine, and Zacharias Maniadis. 2012. “On the Robustness of Anchoring Effects in WTP and WTA Experiments.” *American Economic Journal: Microeconomics* 4 (2): 131–45.
+- Gabaix, Xavier. 2009. “Power Laws in Economics and Finance.” *Annual Review of Economics* 1: 255–94.
+- Gaddis, Paul O. 1959. “The Project Manager.” *Harvard Business Review* 37 (3): 89–99.
+- Gagné, Marylène, and Edward L. Deci. 2005. “Self-determination Theory and Work Motivation.” *Journal of Organizational Behavior* 26 (4): 331–62.
+- Galton, Francis. 1886. “Regression Towards Mediocrity in Hereditary Stature.” *The Journal of the Anthropological Institute of Great Britain and Ireland* 15: 246–63.
+- Garbuio, Massimo, and Gloria Gheno. 2021. “An Algorithm for Designing Value Propositions in the IoT Space: Addressing the Challenges of Selecting the Initial Class in Reference Class Forecasting.” *IEEE Transactions on Engineering Management* 99: 1–12.
+- Gardner, Dan. 2009. *Risk: The Science and Politics of Fear.* London: Virgin Books.
+- Gardner, Dan. 2010. *Future Babble: Why Expert Predictions Fail and Why We Believe Them Anyway.* London: Virgin Books.
+- Garud, Raghu, Arun Kumaraswamy, and Richard N. Langlois. 2003. *Managing in the Modular Age: Architectures, Networks, and Organizations.* Oxford, UK: Blackwell Publishers.
+- Gasper, Des. 1986. “Programme Appraisal and Evaluation: The Hiding Hand and Other Stories.” *Public Administration and Development* 6 (4): 467–74.
+- Gates, Bill. 2019. “How We’ll Invent the Future: 10 Breakthrough Technologies.” *MIT Technology Review,* February 27. https://www.technologyreview.com/2019/02/27/103388/bill-gates-how-well-invent-the-future/.
+- Gehry, Frank O. 2003. *Gehry Talks: Architecture + Process,* ed. Mildred Friedmann. London: Thames & Hudson.
+- Gehry, Frank O. 2003. “Introduction.” In *Symphony: Frank Gehry’s Walt Disney Concert Hall,* ed. Gloria Gerace. New York: Harry N. Abrams.
+- Gellert, Paul, and Barbara Lynch. 2003. “Mega-Projects as Displacements.” *International Social Science Journal* 55, no. 175: 15–25.
+- Genus, Audley. 1997. “Managing Large-Scale Technology and Inter-organizational Relations: The Case of the Channel Tunnel.” *Research Policy* 26 (2): 169–89.
+- Giezen, Mendel. 2012. “Keeping It Simple? A Case Study into the Advantages and Disadvantages of Reducing Complexity in Mega Project Planning.” *International Journal of Project Management* 30 (7): 781–90.
+- Gigerenzer, Gerd. 2002. “Models of Ecological Rationality: The Recognition Heuristic.” *Psychological Review* 109 (1): 75–90.
+- Gigerenzer, Gerd. 2014. *Risk Savvy: How to Make Good Decisions.* London: Allen Lane.
+- Gigerenzer, Gerd. 2018. “The Bias Bias in Behavioral Economics.” *Review of Behavioral Economics* 5 (3–4): 303–36.
+- Gigerenzer, Gerd. 2021. “Embodied Heuristics.” *Frontiers in Psychology* 12 (September): 1–12.
+- Gigerenzer, Gerd, and Henry Brighton. 2011. “Homo Heuristicus: Why Biased Minds Make Better Inferences.” In *Heuristics: The Foundations of Adaptive Behavior,* eds. Gerd Gigerenzer, Ralph Hertwig, and Thorsten Pachur. Oxford, UK: Oxford University Press, 2–27.
+- Gigerenzer, Gerd, and Wolfgang Gaissmaier. 2011. “Heuristic Decision Making.” *Annual Review of Psychology* 62 (1): 451–82.
+- Gigerenzer, Gerd, and Daniel G. Goldstein. 1996. “Reasoning the Fast and Frugal Way: Models of Bounded Rationality.” *Psychological Review* 103 (4): 650–69.
+- Gigerenzer, Gerd, Ralph Hertwig, and Thorsten Pachur, eds. 2011. *Heuristics: The Foundations of Adaptive Behavior.* Oxford, UK: Oxford University Press.
+- Gigerenzer, Gerd, Peter M. Todd, and the ABC Research Group. 1999. *Simple Heuristics That Make Us Smart.* Oxford, UK: Oxford University Press.
+- Gil, Nuno, Marcela Miozzo, and Silvia Massini. 2011. “The Innovation Potential of New Infrastructure Development: An Empirical Study of Heathrow Airport’s T5 Project.” *Research Policy* 41 (2): 452–66.
+- Gilovich, Thomas, Dale Griffin, and Daniel Kahneman, eds. 2002. *Heuristics and Biases: The Psychology of Intuitive Judgment.* Cambridge, UK: Cambridge University Press.
+- Gino, Francesca, and Bradley Staats. 2015. “Why Organizations Don’t Learn.” *Harvard Business Review* 93 (10): 110–18.
+- Gladwell, Malcolm. 2007. *Blink: The Power of Thinking Without Thinking.* New York: Back Bay Books.
+- Gladwell, Malcolm. 2013. “The Gift of Doubt: Albert O. Hirschman and the Power of Failure.” *The New Yorker,* June 17.
+- Gleick, Peter, Santos Gomez, Penn Loh, and Jason Morrison. 1995. “California Water 2020: A Sustainable Vision.” Oakland, CA: Pacific Institute.
+- Goel, Rajnish K., Bhawani Singh, and Jian Zhao. 2012. *Underground Infrastructures: Planning, Design, and Construction.* Waltham, MA: Butterworth-Heinemann.
+- Goethals, George R., David M. Messick, and Scott T. Allison. 1991. “The Uniqueness Bias: Studies in Constructive Social Comparison.” In *Social Comparison: Contemporary Theory and Research,* eds. Jerry Suls and T. A. Wills. Hillsdale, NJ: Erlbaum, 149–76.
+- Goldberger, Paul. 2015. *Building Art: The Life and Work of Frank Gehry.* New York: Alfred A. Knopf.
+- Goldblatt, David. 2016. *The Games: A Global History of the Olympics.* London: Macmillan.
+- Golder, Peter N., and Gerard J. Tellis. 1993. “Pioneer Advantage: Marketing Logic or Marketing Legend?” *Journal of Marketing Research* 30 (2): 158–70.
+- Goldstein, Daniel G., and Gerd Gigerenzer. 1999. “The Recognition Heuristic: How Ignorance Makes Us Smart.” In *Simple Heuristics That Make Us Smart,* eds. Gerd Gigerenzer, Peter M. Todd, and the ABC Research Group. Oxford, UK: Oxford University Press, 37–58.
+- Gordon, Christopher M. 1994. “Choosing Appropriate Construction Contracting Method.” *Journal of Construction Engineering and Management* 120 (1): 196–211.
+- Green, Jim. 2016. “Japan Abandons Monju Fast Reactor: The Slow Death of a Nuclear Dream.” *The Ecologist,* October 6.
+- Griffin, Dale W., David Dunning, and Lee Ross. 1990. “The Role of Construal Processes in Overconfident Predictions About the Self and Others.” *Journal of Personality and Social Psychology* 59 (6): 1128–39.
+- Griffith, Saul. 2021. *Electrify: An Optimist’s Playbook for Our Clean Energy Future.* Cambridge, MA: MIT Press.
+- Grubler, Arnulf. 2010. “The Costs of the French Nuclear Scale-up: A Case of Negative Learning by Doing.” *Energy Policy* 38 (9): 5174–88.
+- Guadagno, Rosanna E., and Robert B. Cialdini. 2010. “Preference for Consistency and Social Influence: A Review of Current Research Findings.” *Social Influence* 5 (3): 152–63.
+- Guinote, Ana. 2017. “How Power Affects People: Activating, Wanting, and Goal Seeking.” *Annual Review of Psychology* 68 (1): 353–81.
+- Guinote, Ana, and Theresa K. Vescio, eds. 2010. *The Social Psychology of Power.* New York: Guilford Press.
+- Gumbel, Emil J. 2004. *Statistics of Extremes.* Mineola, NY: Dover Publications.
+- Hall, Peter. 1980. *Great Planning Disasters.* Harmondsworth, UK: Penguin Books.
+- Hall, Peter. Undated. *Great Planning Disasters Revisited,* paper. London: Bartlett School.
+- Henderson, P. D. 1977. “Two British Errors: Their Probable Size and Some Possible Lessons.” *Oxford Economic Papers* 29 (2): 159–205.
+- Hendy, Jane, Barnaby Reeves, Naomi Fulop, Andrew Hutchings, and Cristina Masseria. 2005. “Challenges to Implementing the National Programme for Information Technology (NPfIT): A Qualitative Study.” *The BMJ* 331 (7512): 331–36.
+- HGTV. 2018. “What It’s Like to Live in a Sears Catalog Home.” YouTube, May 13. https://www.youtube.com/watch?v=3kb24gwnZ18.
+- Hiltzik, Michael A. 2010. *Colossus: Hoover Dam and the Making of the American Century.* New York: Free Press.
+- Hiroko, Tabuchi. 2011. “Japan Strains to Fix a Reactor Damaged Before Quake.” *The New York Times,* June 17.
+- Hirschman, Albert O. 1967. “The Principle of the Hiding Hand.” *The Public Interest,* no. 6 (Winter): 10–23.
+- Hirschman, Albert O. 2014. *Development Projects Observed* (Brookings Classic), 3rd ed., with new foreword by Cass R. Sunstein and new afterword by Michele Alacevich. Washington, DC: Brookings Institution.
+- HM Treasury. 2003. *The Green Book: Appraisal and Evaluation in Central Government.* London: The Stationery Office (TSO).
+- HM Treasury. 2003. *Supplementary Green Book Guidance: Optimism Bias.* London: The Stationery Office (TSO).
+- HM Treasury. 2004. *The Orange Book. Management of Risk: Principles and Concepts.* London: The Stationery Office (TSO).
+- HM Treasury. 2011. *The Green Book: Appraisal and Evaluation in Central Government,* 2003 edition with 2011 amendments. London: The Stationery Office (TSO).
+- HM Treasury. 2013. *Green Book Supplementary Guidance: Optimism Bias.* London: The Stationery Office (TSO).
+- HM Treasury. 2015. *Early Financial Cost Estimates of Infrastructure Programmes and Projects and the Treatment of Uncertainty and Risk.* Update, March 26. London: The Stationery Office (TSO).
+- HM Treasury. 2018. *The Green Book: Central Government Guidance on Appraisal and Evaluation.* London: The Stationery Office (TSO).
+- HM Treasury. 2019. *The Orange Book. Management of Risk: Principles and Concepts.* London: The Stationery Office (TSO).
+- HM Treasury. 2020. *The Green Book: Central Government Guidance on Appraisal and Evaluation.* London: The Stationery Office (TSO).
+- Hobday, Mike. 1998. “Product Complexity, Innovation and Industrial Organisation.” *Research Policy* 26 (6): 689–710.
+- Hodge, Graeme A., and Carsten Greve. 2009. “PPPs: The Passage of Time Permits a Sober Reflection.” *Institute of Economic Affairs* 29 (1): 33–39.
+- Hodge, Graeme A., and Carsten Greve. 2017. “On Public-Private Partnership Performance: A Contemporary Review.” *Public Works Management and Policy* 22 (1): 55–78.
+- Hofstadter, Douglas R. 1979. *Gödel, Escher, Bach: An Eternal Golden Braid.* New York: Basic Books.
+- Hong, Byoung H., Kyoun E. Lee, and Jae W. Lee. 2007. “Power Law in Firms Bankruptcy.” *Physics Letters A* 361: 6–8.
+- Hong Kong Development Bureau, Project Cost Management Office, and Oxford Global Projects. 2022. *AI in Action: How the Hong Kong Development Bureau Built the PSS, an Early-Warning-Sign System for Public Work Projects.* Hong Kong: Development Bureau.
+- Horne, John. 2007. “The Four ‘Knowns’ of Sports Mega Events.” *Leisure Studies* 26 (1): 81–96.
+- HS2, Ltd. “Exploring Our Past, Preparing for the Future.” https://www.hs2.org.uk/building-hs2/archaeology/.
+- Hughes, Thomas P. 2000. *Rescuing Prometheus: Four Monumental Projects That Changed the Modern World.* New York: Vintage.
+- International Airport Review. 2019. “Heathrow Terminal 5 Named ‘World’s Best’ at Skytrax Awards.” *International Airport Review,* March 28. https://www.internationalairportreview.com/news/83710/heathrow-worlds-best-skytrax/.
+- International Energy Agency (IEA). 2021. *Net Zero by 2050: A Roadmap for the Global Energy Sector.* Paris: IEA, May. https://www.iea.org/reports/net-zero-by-2050.
+- International Energy Agency (IEA). 2021. *Pathway to Critical and Formidable Goal of Net-Zero Emissions by 2050 Is Narrow but Brings Huge Benefits.* Paris: IEA, May 18. https://www.iea.org/news/pathway-to-critical-and-formidable-goal-of-net-zero-emissions-by-2050-is-narrow-but-brings-huge-benefits.
+- International Hydropower Association (IHA). 2019. “Country Profile: Norway.” IHA. https://www.hydropower.org/country-profiles/norway.
+- International Renewable Energy Agency (IRENA). 2021. *Renewable Capacity Statistics 2021.* IRENA, March. https://www.irena.org/publications/2021/March/Renewable-Capacity-Statistics-2021.
+- IPCC. 2021. “Summary for Policymakers.” In *Climate Change 2021: The Physical Science Basis. Contribution of Working Group I to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change,* eds. V. Masson-Delmotte, P. Zhai, A. Pirani, S. L. Connors, C. Péan, S. Berger, N. Caud, Y. Chen, L. Goldfarb, M. I. Gomis, M. Huang, K. Leitzell, E. Lonnoy, J.B.R. Matthews, T. K. Maycock, T. Waterfield, O. Yelekçi, R. Yu, and B. Zhou. Cambridge, UK: Cambridge University Press.
+- Irish Department of Public Expenditure and Reform. 2019. *Public Spending Code: A Guide to Evaluating, Planning and Managing Public Investment.* Dublin: Department of Public Expenditure and Reform.
+- Isaacson, Walter. 2011. *Steve Jobs.* New York: Simon & Schuster.
+- Israel, Paul. 1998. *Edison: A Life of Invention.* Hoboken, NJ: John Wiley and Sons.
+- Jacobsson, Mattias, and Timothy L. Wilson. 2018. “Revisiting the Construction of the Empire State Building: Have We Forgotten Something?” *Business Horizons* 61 (1): 47–57.
+- *The Japan Times.* 2014. “Falsified Inspections Suspected at Monju Fast-Breeder Reactor.” *The Japan Times,* April 11.
+- *The Japan Times.* 2015. “More Maintenance Flaws Found at Monju Reactor.” *The Japan Times,* March 26.
+- *The Japan Times.* 2016. “Monju Prototype Reactor, Once a Key Cog in Japan’s Nuclear Energy Policy, to Be Scrapped.” *The Japan Times,* December 21.
+- Jensen, Henrik J. 1998. *Self-Organized Criticality: Emergent Complex Behavior in Physical and Biological Systems.* Cambridge, UK: Cambridge University Press.
+- Jones, Lawrence R., and Kenneth J. Euske. 1991. “Strategic Misrepresentation in Budgeting.” *Journal of Public Administration Research and Theory* 1 (4): 437–60.
+- Josephson, Paul R. 1995. “Projects of the Century in Soviet History: Large-Scale Technologies from Lenin to Gorbachev.” *Technology and Culture* 36 (3): 519–59.
+- *Journal of the House of Representatives of the United States.* 1942. 77th Congress, 2nd Session, January 5. Washington, DC: US Government Printing Office, 6.
+- Jørgensen, Magne, and Kjetil Moløkken-Østvold. 2006. “How Large Are Software Cost Overruns? A Review of the 1994 CHAOS Report.” *Information and Software Technology* 48 (4): 297–301.
+- Kahneman, Daniel. 1992. “Reference Points, Anchors, Norms, and Mixed Feelings.” *Organizational Behavior and Human Decision Processes* 51 (2): 296–312.
+- Kahneman, Daniel. 1994. “New Challenges to the Rationality Assumption.” *Journal of Institutional and Theoretical Economics* 150 (1): 18–36.
+- Kahneman, Daniel. 2011. *Thinking, Fast and Slow.* New York: Farrar, Straus and Giroux.
+- Kahneman, Daniel, and Gary Klein. 2009. “Conditions for Intuitive Expertise: A Failure to Disagree.” *American Psychologist* 64 (6): 515–26.
+- Kahneman, Daniel, and Dan Lovallo. 1993. “Timid Choices and Bold Forecasts: A Cognitive Perspective on Risk Taking.” *Management Science* 39 (1): 17–31.
+- Kahneman, Daniel, and Dan Lovallo. 2003. “Response to Bent Flyvbjerg.” *Harvard Business Review* 81 (12): 122.
+- Kahneman, Daniel, Dan Lovallo, and Olivier Sibony. 2011. “Before You Make That Big Decision.” *Harvard Business Review* 89 (6): 51–60.
+- Kahneman, Daniel, Olivier Sibony, and Cass R. Sunstein. 2021. *Noise: A Flaw in Human Judgment.* London: William Collins.
+- Kahneman, Daniel, Paul Slovic, and Amos Tversky, eds. 1982. *Judgment Under Uncertainty: Heuristics and Biases.* Cambridge, UK: Cambridge University Press.
+- Kahneman, Daniel, and Amos Tversky. 1979. “Intuitive Prediction: Biases and Corrective Procedures.” In *Studies in the Management Sciences: Forecasting,* vol. 12, eds. Spyros Makridakis and S. C. Wheelwright. Amsterdam: North Holland, 313–27.
+- Kahneman, Daniel, and Amos Tversky. 1979. “Prospect Theory: An Analysis of Decisions Under Risk.” *Econometrica* 47: 313–27.
+- Kain, John F. 1990. “Deception in Dallas: Strategic Misrepresentation in Rail Transit Promotion and Evaluation.” *Journal of the American Planning Association* 56 (2): 184–96.
+- Kazan, Elia. 1997. *A Life.* New York: Da Capo.
+- Keil, Mark, Joan Mann, and Arun Rai. 2000. “Why Software Projects Escalate: An Empirical Analysis and Test of Four Theoretical Models.” *MIS Quarterly* 24 (4): 631–64.
+- Keil, Mark, and Ramiro Montealegre. 2000. “Cutting Your Losses: Extricating Your Organization When a Big Project Goes Awry.” *Sloan Management Review* 41 (3): 55–68.
+- Keil, Mark, Arun Rai, and Shan Liu. 2013. “How User Risk and Requirements Risk Moderate the Effects of Formal and Informal Control on the Process Performance of IT Projects.” *European Journal of Information Systems* 22 (6): 650–72.
+- Kelly, Brendan. 2019. “Olympic Stadium Architect Remembered as a Man of Vision.” *Montreal Gazette,* October 3.
+- Kim, Byung-Cheol, and Kenneth F. Reinschmidt. 2011. “Combination of Project Cost Forecasts in Earned Value Management.” *Journal of Construction Engineering and Management* 137 (11): 958–66.
+- King, Anthony, and Ivor Crewe. 2013. *The Blunders of Our Governments.* London: Oneworld Publications.
+- Kitroeff, Natalie, Maria Abi-Habib, James Glanz, Oscar Lopez, Weiyi Cai, Evan Grothjan, Miles Peyton, and Alejandro Cegarra. 2021. “Why the Mexico City Metro Collapsed.” *The New York Times,* June 13.
+- Klein, Gary. 2007. “Performing a Project Premortem.” *Harvard Business Review* 85 (9): 18–19.
+- Knowles, Elizabeth, ed. 2014. *Oxford Dictionary of Quotations,* 8th ed. New York: Oxford University Press, 557.
+- Koch-Weser, Iacob N. 2013. *The Reliability of China’s Economic Data: An Analysis of National Output.* Washington, DC: US-China Economic and Security Review Commission, US Congress.
+- Koshalek, Richard, and Dana Hutt. 2003. “The Impossible Becomes Possible: The Making of Walt Disney Concert Hall.” In *Symphony: Frank Gehry’s Walt Disney Concert Hall,* ed. Gloria Gerace. New York: Harry N. Abrams.
+- Krapivsky, Paul, and Dmitri Krioukov. 2008. “Scale-Free Networks as Preasymptotic Regimes of Superlinear Preferential Attachment.” *Physical Review E* 78 (2): 1–11.
+- Krugman, Paul. 2000. “How Complicated Does the Model Have to Be?” *Oxford Review of Economic Policy* 16 (4): 33–42.
+- Kubota, Yoko. 2011. “Fallen Device Retrieved from Japan Fast-Breeder Reactor.” Reuters, June 24. https://www.reuters.com/article/us-japan-nuclear-monju-idUSTRE75N0H320110624.
+- Kunthara, Sophia. 2014. “A Closer Look at Theranos’ Big-Name Investors, Partners, and Board as Elizabeth Holmes’ Criminal Trial Begins.” *Crunchbase News,* September 14. https://news.crunchbase.com/news/theranos-elizabeth-holmes-trial-investors-board/.
+- Lacal-Arántegui, Roberto, José M. Yusta, and José A. Domínguez-Navarro. 2018. “Offshore Wind Installation: Analysing the Evidence Behind Improvements in Installation Time.” *Renewable and Sustainable Energy Reviews* 92 (September): 133–45.
+- Lamb, William F. 1931. “The Empire State Building.” *Architectural Forum* 54 (1): 1–7.
+- Larsen, Henning. 2009. *De skal sige tak! Kulturhistorisk testamente om Operaen.* Copenhagen: People’s Press, 14.
+- Latour, Bruno. 1996. *Aramis; or, The Love of Technology.* Cambridge, MA: Harvard University Press.
+- Lauermann, John, and Anne Vogelpohl. 2017. “Fragile Growth Coalitions or Powerful Contestations? Cancelled Olympic Bids in Boston and Hamburg.” *Environment and Planning A* 49 (8): 1887–904.
+- Lawson, Rebecca. 2006. “The Science of Cycology: Failures to Understand How Everyday Objects Work.” *Memory & Cognition* 34 (8): 1667–75.
+- LeBlanc, Richard D. 2020. *Muskrat Falls: A Misguided Project,* vols. 1–6. Province of Newfoundland and Labrador, Canada: Commission of Inquiry Respecting the Muskrat Falls Project.
+- Lee, Douglass B., Jr. 1973. “Requiem for Large-Scale Models.” *Journal of the American Institute of Planners* 39 (3): 163–78.
+- Lenfle, Sylvian, and Christoph Loch. 2010. “Lost Roots: How Project Management Came to Emphasize Control over Flexibility and Novelty.” *California Management Review* 53 (1): 32–55.
+- Levinson, Marc. 2016. *The Box: How the Shipping Container Made the World Smaller and the World Economy Bigger.* Princeton, NJ: Princeton University Press.
+- Levy, Steven. 2017. “One More Thing.” *Wired,* May 16.
+- Levy, Steven. 2020. “20 Years Ago, Steve Jobs Built the ‘Coolest Computer Ever.’ It Bombed.” *Wired,* July 24.
+- Lia, Leif, Trond Jensen, Kjell E. Stensby, and Grethe H. Midttømme. 2015. “The Current Status of Hydropower Development and Dam Construction in Norway.” *Hydropower & Dams* 22, no. 3.
+- Lieberman, Marvin. 2018. “First-Mover Advantage.” In *Palgrave Encyclopedia of Strategic Management,* eds. Mie Augier and David J. Teece. London: Palgrave Macmillan.
+- Lieberman, Marvin B., and David B. Montgomery. 1988. “First-Mover Advantages.” *Strategic Management Journal* 9 (51): 41–58.
+- Lindsey, Bruce. 2001. *Digital Gehry: Material Resistance, Digital Construction.* Basel: Birkhäuser.
+- Liou, Joanne. 2021. “What Are Small Modular Reactors (SMRs)?” International Atomic Energy Agency, November 4. https://www.iaea.org/newscenter/news/what-are-small-modular-reactors-smrs.
+- Little, Angela W. 2007. *Education for All and Multigrade Teaching: Challenges and Opportunities.* Dordrecht, Netherlands: Springer.
+- Liu, Li, and Zigrid Napier. 2010. “The Accuracy of Risk-Based Cost Estimation for Water Infrastructure Projects: Preliminary Evidence from Australian Projects.” *Construction Management and Economics* 28 (1): 89–100.
+- Liu, Li, George Wehbe, and Jonathan Sisovic. 2010. “The Accuracy of Hybrid Estimating Approaches: A Case Study of an Australian State Road and Traffic Authority.” *The Engineering Economist* 55 (3): 225–45.
+- Lopez, Oscar. 2021. “Faulty Studs Led to Mexico City Metro Collapse, Attorney General Says.” *The New York Times,* October 14.
+- Lovallo, Dan, Carmine Clarke, and Colin Camerer. 2012. “Robust Analogizing and the Outside View: Two Empirical Tests of Case-Based Decision Making.” *Strategic Management Journal* 33: 496–512.
+- Lovallo, Dan, Matteo Cristofaro, and Bent Flyvbjerg. 2022. “Addressing Governance Errors and Lies in Project Forecasting.” *Academy of Management Perspectives,* forthcoming.
+- Lovallo, Dan, and Daniel Kahneman. 2003. “Delusions of Success: How Optimism Undermines Executives’ Decisions.” *Harvard Business Review* 81 (7): 56–63.
+- Lovering, Jessica R., Arthur Yip, and Ted Nordhaus. 2016. “Historical Construction Costs of Global Nuclear Power Reactors.” *Energy Policy* 91: 371–82.
+- Luberoff, David, and Alan Altshuler. 1996. *Mega-Project: A Political History of Boston’s Multibillion Dollar Central Artery/Third Harbor Tunnel Project.* Cambridge, MA: Taubman Center for State and Local Government, Kennedy School of Government, Harvard University.
+- Madsen, Heather L., and John P. Ulhøi. 2021. “Sustainable Visioning: Reframing Strategic Vision to Enable a Sustainable Corporation Transformation.” *Journal of Cleaner Production* 288 (March): 125602.
+- Maillart, Thomas, and Didier Sornette. 2010. “Heavy-Tailed Distribution of Cyber-Risks.” *The European Physical Journal B* 75 (3): 357–64.
+- Major Projects Association. 1994. *Beyond 2000: A Source Book for Major Projects.* Oxford, UK: Major Projects Association.
+- Makridakis, Spyros, and Nassim N. Taleb. 2009. “Living in a World of Low Levels of Predictability.” *International Journal of Forecasting* 25 (4): 840–44.
+- Malamud, Bruce D., and Donald L. Turcotte. 2006. “The Applicability of Power-Law Frequency Statistics to Floods.” *Journal of Hydrology* 322 (1–4): 168–80.
+- *Manchester Evening News.* 2007. “Timeline: The Woes of Wembley Stadium.” *Manchester Evening News,* February 15.
+- Mandelbrot, Benoit B. 1960. “The Pareto-Lévy Law and the Distribution of Income.” *International Economic Review* 1 (2): 79–106.
+- Mandelbrot, Benoit B. 1963. “New Methods in Statistical Economics.” *Journal of Political Economy* 71 (5): 421–40.
+- Mandelbrot, Benoit B. 1963. “The Variation of Certain Speculative Prices.” *The Journal of Business* 36 (4): 394–419; correction printed in Mandelbrot, Benoit B. 1972. *The Journal of Business* 45 (4): 542–43; revised version reprinted in Mandelbrot, Benoit B. 1997. *Fractals and Scaling in Finance.* New York: Springer, 371–418.
+- Mandelbrot, Benoit B. 1997. *Fractals and Scaling in Finance.* New York: Springer.
+- Mandelbrot, Benoit B., and Richard L. Hudson. 2008. *The (Mis)behavior of Markets.* London: Profile Books.
+- Mandelbrot, Benoit B., and James R. Wallis. 1968. “Noah, Joseph, and Operational Hydrology.” *Water Resources Research* 4 (5): 909–18.
+- Mann, Michael E. 2021. *The New Climate War: The Fight to Take the Planet Back.* London: Scribe.
+- Marewski, Julian N., Wolfgang Gaissmaier, and Gerd Gigerenzer. 2010. “Good Judgments Do Not Require Complex Cognition.” *Cognitive Processing* 11 (2): 103–21.
+- Marković, Dimitrije, and Claudius Gros. 2014. “Power Laws and Self-Organized Criticality in Theory and Nature.” *Physics Reports* 536 (2): 41–74.
+- McAdam, Doug, Hilary S. Boudet, Jennifer Davis, Ryan J. Orr, W. Richard Scott, and Raymond E. Levitt. 2010. “Site Fights: Explaining Opposition to Pipeline Projects in the Developing World.” *Sociological Forum* 25: 401–27.
+- McCormick, Iain A., Frank H. Walkey, and Dianne E. Green. 1986. “Comparative Perceptions of Driver Ability: A Confirmation and Expansion.” *Accident Analysis & Prevention* 18 (3): 205–8.
+- McCully, Patrick. 2001. *Silenced Rivers: The Ecology and Politics of Large Dams.* London: Zed Books.
+- McCurdy, Howard E. 2001. *Faster, Better, Cheaper: Low-Cost Innovation in the U.S. Space Program.* Baltimore, MD: Johns Hopkins University Press.
+- Melis, Manuel. 2002. “Building a Metro: It’s Easier Than You Think.” *International Railway Journal,* April, 16–19.
+- Melis, Manuel. 2011. *Apuntes de introducción al Proyecto y Construcción de Túneles y Metros en suelos y rocas blandas o muy rotas: La construcción del Metro de Madrid y la M-30.* Madrid: Politécnica.
+- Merriam-Webster. “Your ‘Deadline’ Won’t Kill You.” Merriam-Webster. https://www.merriam-webster.com/words-at-play/your-deadline-wont-kill-you.
+- Merrow, Edward W. 2011. *Industrial Megaprojects: Concepts, Strategies, and Practices for Success.* Hoboken, NJ: Wiley.
+- Midler, Christophe. 1995. “Projectification of the Firm: The Renault Case.” *Scandinavian Journal of Management* 11 (4): 363–75.
+- Miller, Roger, and Donald R. Lessard. 2000. *The Strategic Management of Large Engineering Projects: Shaping Institutions, Risks, and Governance.* Cambridge, MA: MIT Press.
+- MIT Energy Initiative. 2018. *The Future of Nuclear Energy in a Carbon-Constrained World.* Cambridge, MA: MIT.
+- Mitzenmacher, Michael. 2004. “A Brief History of Generative Models for Power Law and Lognormal Distributions.” *Internet Mathematics* 1 (2): 226–51.
+- Mitzenmacher, Michael. 2005. “Editorial: The Future of Power Law Research.” *Internet Mathematics* 2 (4): 525–34.
+- Molle, François, and Philippe Floch. 2008. “Megaprojects and Social and Environmental Changes: The Case of the Thai Water Grid.” *AMBIO: A Journal of the Human Environment* 37 (3): 199–204.
+- Montealgre, Ramiro, and Mark Keil. 2000. “De-escalating Information Technology Projects: Lessons from the Denver International Airport.” *MIS Quarterly* 24 (3): 417–47.
+- Moore, Don A., and Paul J. Healy. 2008. “The Trouble with Overconfidence.” *Psychological Review* 115 (2): 502–17.
+- Morris, Peter W. G. 2013. *Reconstructing Project Management.* Oxford, UK: Wiley-Blackwell.
+- Morris, Peter W. G., and George H. Hough. 1987. *The Anatomy of Major Projects: A Study of the Reality of Project Management.* New York: John Wiley and Sons.
+- Morten, Alf, Yasutami Shimomure, and Annette Skovsted Hansen. 2008. *Aid Relationships in Asia: Exploring Ownership in Japanese and Nordic Aid.* London: Palgrave Macmillan.
+- Müller, Martin, and Chris Gaffney. 2018. “Comparing the Urban Impacts of the FIFA World Cup and the Olympic Games from 2010 to 2016.” *Journal of Sport and Social Issues* 42 (4): 247–69.
+- Murray, Peter. 2003. *The Saga of the Sydney Opera House.* London: Routledge.
+- National Audit Office of Denmark, De af Folketinget Valgte Statsrevisorer. 1998. *Beretning om Storebæltsforbindelsens økonomi.* Beretning 4/97. Copenhagen: Statsrevisoratet.
+- Newby-Clark, Ian R., Michael Ross, Roger Buehler, Derek J. Koehler, and Dale W. Griffin. 2000. “People Focus on Optimistic and Disregard Pessimistic Scenarios While Predicting Task Completion Times.” *Journal of Experimental Psychology: Applied* 6 (3): 171–82.
+- Newman, Alexander, Ross Donohue, and Nathan Eva. 2015. “Psychological Safety: A Systematic Review of the Literature.” *Human Resource Management Review* 27 (3): 521–35.
+- Newman, Mark E. 2005. “Power Laws, Pareto Distributions and Zipf’s Law.” *Contemporary Physics* 46 (5): 323–51.
+- New Zealand Treasury. 2018. *Better Business Cases: Guide to Developing a Detailed Business Case.* Wellington, NZ: Crown.
+- Nouvel, Jean. 2009. “Interview About DR-Byen.” *Weekendavisen,* Copenhagen, January 16.
+- O’Reilly, Charles, and Andrew J. M. Binns. 2019. “The Three Stages of Disruptive Innovation: Idea Generation, Incubation, and Scaling.” *California Management Review* 61 (3): 49–71.
+- Orr, Ryan J., and W. Richard Scott. 2008. “Institutional Exceptions on Global Projects: A Process Model.” *Journal of International Business Studies* 39 (4): 562–88.
+- Ørsted. 2020. “Making Green Energy Affordable: How the Offshore Wind Energy Industry Matured—and What We Can Learn from It.” https://orsted.com/en/about-us/whitepapers/making-green-energy-affordable.
+- O’Sullivan, Owen P. 2015. “The Neural Basis of Always Looking on the Bright Side.” *Dialogues in Philosophy, Mental and Neuro Sciences* 8 (1): 11–15.
+- *Our World in Data.* 2022. “Share of Electricity Production by Source, World.” *Our World in Data.* https://ourworldindata.org/grapher/share-elec-by-source.
+- Pallier, Gerry, Rebecca Wilkinson, Vanessa Danthiir, Sabina Kleitman, Goran Knezevic, Lazar Stankov, and Richard D. Roberts. 2002. “The Role of Individual Differences in the Accuracy of Confidence Judgments.” *The Journal of General Psychology* 129 (3): 257–99.
+- Park, Jung E. 2021. “Curbing Cost Overruns in Infrastructure Investment: Has Reference Class Forecasting Delivered Its Promised Success?” *European Journal of Transport and Infrastructure Research* 21 (2): 120–36.
+- Patanakul, Peerasit. 2014. “Managing Large-Scale IS/IT Projects in the Public Sector: Problems and Causes Leading to Poor Performance.” *The Journal of High Technology Management Research* 25 (1): 21–35.
+- Patel, Ashish, Paul A. Bosela, and Norbert J. Delatte. 2013. “1976 Montreal Olympics: Case Study of Project Management Failure.” *Journal of Performance of Constructed Facilities* 27 (3): 362–69.
+- PBS. 2015. “Looking Back at Frank Gehry’s Building-Bending Feats.” *PBS NewsHour,* September 15. https://www.pbs.org/newshour/show/frank-gehry.
+- Perrow, Charles. 1999. *Normal Accidents: Living with High-Risk Technologies,* updated ed. Princeton, NJ: Princeton University Press.
+- Phys.org. 2014. “Japan to Abandon Troubled Fast Breeder Reactor.” Phys.org, February 7. https://phys.org/news/2014-02-japan-abandon-fast-breeder-reactor.html.
+- Pickrell, Don. 1985. “Estimates of Rail Transit Construction Costs.” *Transportation Research Record* 1006: 54–60.
+- Pickrell, Don. 1985. “Rising Deficits and the Uses of Transit Subsidies in the United States.” *Journal of Transport Economics and Policy* 19 (3): 281–98.
+- Pickrell, Don. 1990. *Urban Rail Transit Projects: Forecast Versus Actual Ridership and Cost.* Washington, DC: US Department of Transportation.
+- Pickrell, Don. 1992. “A Desire Named Streetcar: Fantasy and Fact in Rail Transit Planning.” *Journal of the American Planning Association* 58 (2): 158–76.
+- Pisarenko, Valeriy F., and Didier Sornette. 2012. “Robust Statistical Tests of Dragon-Kings Beyond Power Law Distributions.” *The European Physical Journal: Special Topics* 205: 95–115.
+- Pitsis, Tyrone S., Stewart R. Clegg, Marton Marosszeky, and Thekla Rura-Polley. 2003. “Constructing the Olympic Dream: A Future Perfect Strategy of Project Management.” *Organization Science* 14 (5): 574–90.
+- Polanyi, Michael. 1966. *The Tacit Dimension.* Chicago: University of Chicago Press.
+- Popovich, Nadja, and Winston Choi-Schagrin. 2021. “Hidden Toll of the Northwest Heat Wave: Hundreds of Extra Deaths.” *The New York Times,* August 11.
+- Priemus, Hugo. 2010. “Mega-Projects: Dealing with Pitfalls.” *European Planning Studies* 18 (7): 1023–39.
+- Priemus, Hugo, Bent Flyvbjerg, and Bert van Wee, eds. 2008. *Decision-Making on Mega-Projects: Cost-Benefit Analysis, Planning and Innovation.* Cheltenham, UK: Edward Elgar.
+- Proeger, Till, and Lukas Meub. 2014. “Overconfidence as a Social Bias: Experimental Evidence.” *Economics Letters* 122 (2): 203–7.
+- Public Accounts Committee. 2013. *The Dismantled National Programme for IT in the NHS: Nineteenth Report of Session 2013–14,* HC 294. London: House of Commons.
+- Qiu, Jane. 2011. “China Admits Problems with Three Gorges Dam.” *Nature,* May 25. https://www.nature.com/articles/news.2011.315.
+- Quinn, Ben. 2008. “253m Legal Battle over Wembley Delays.” *The Guardian,* March 16.
+- Ramirez, Joshua Elias. 2021. *Toward a Theory of Behavioral Project Management,* doctoral dissertation. Chicago: Chicago School of Professional Psychology.
+- Randall, Tom. 2017. “Tesla Flips the Switch on the Gigafactory.” Bloomberg, January 4. https://www.bloomberg.com/news/articles/2017-01-04/tesla-flips-the-switch-on-the-gigafactory.
+- Reichold, Klaus, and Bernhard Graf. 2004. *Buildings That Changed the World.* London: Prestel.
+- Ren, Xuefei. 2008. “Architecture as Branding: Mega Project Developments in Beijing.” *Built Environment* 34 (4): 517–31.
+- Ren, Xuefei. 2017. “Biggest Infrastructure Bubble Ever? City and Nation Building with Debt-Financed Megaprojects in China.” In *The Oxford Handbook of Megaproject Management,* ed. Bent Flyvbjerg. Oxford, UK: Oxford University Press, 137–51.
+- Reuters. 2021. “Bill Gates and Warren Buffett to Build New Kind of Nuclear Reactor in Wyoming.” *The Guardian,* June 3.
+- Rich, Motoko, Stanley Reed, and Jack Ewing. 2021. “Clearing the Suez Canal Took Days. Figuring Out the Costs May Take Years.” *The New York Times,* March 31.
+- Richmond, Jonathan. 2005. *Transport of Delight: The Mythical Conception of Rail Transit in Los Angeles.* Akron, OH: University of Akron Press.
+- Ries, Eric. 2011. *The Lean Startup.* New York: Currency.
+- Riga, Andy. 2016. “Montreal Olympic Photo Flashback: Stadium Was Roofless at 1976 Games.” *Montreal Gazette,* July 21.
+- Robinson, John B. 1990. “Futures Under Glass: A Recipe for People Who Hate to Predict.” *Futures* 22 (8): 820–42.
+- Romzek, Barbara S., and Melvin J. Dubnick. 1987. “Accountability in the Public Sector: Lessons from the Challenger Tragedy.” *Public Administration Review* 47 (3): 227–38.
+- Roser, Christopher. 2017. *Faster, Better, Cheaper in the History of Manufacturing.* Boca Raton, FL: CRC Press.
+- Roser, Max, Cameron Appel, and Hannah Ritchie. 2013. “Human Height.” *Our World in Data.* https://ourworldindata.org/human-height.
+- Ross, Jerry, and Barry M. Staw. 1986. “Expo 86: An Escalation Prototype.” *Administrative Science Quarterly* 31 (2): 274–97.
+- Ross, Jerry, and Barry M. Staw. 1993. “Organizational Escalation and Exit: The Case of the Shoreham Nuclear Power Plant.” *Academy of Management Journal* 36 (4): 701–32.
+- Rothengatter, Werner. 2008. “Innovations in the Planning of Mega-Projects.” In *Decision-Making on Mega-Projects: Cost-Benefit Analysis, Planning, and Innovation,* eds. Hugo Priemus, Bent Flyvbjerg, and Bert van Wee. Cheltenham, UK: Edward Elgar, 215–38.
+- Royer, Isabelle. 2003. “Why Bad Projects Are So Hard to Kill.” *Harvard Business Review* 81 (2): 48–56.
+- Rozenblit, Leonid, and Frank Keil. 2002. “The Misunderstood Limits of Folk Science: An Illusion of Explanatory Depth.” *Cognitive Science* 26 (5): 521–62.
+- Rumsfeld, Donald. 2002. “DoD News Briefing: Secretary Rumsfeld and Gen. Myers.” U.S. Department of Defense, February 12. https://archive.ph/20180320091111/ http://archive.defense.gov/Transcripts/Transcript.aspx?TranscriptID=2636#selection-401.0-401.53.
+- Ryan, Richard M., and Edward L. Deci. 2017. *Self-Determination Theory: Basic Psychological Needs in Motivation, Development, and Wellness.* New York: Guilford Press.
+- Sacks, Rafael, and Rebecca Partouche. 2010. “Empire State Building Project: Archetype of ‘Mass Construction.’” *Journal of Construction Engineering and Management* 136 (6): 702–10.
+- Sanders, Heywood T. 2014. *Convention Center Follies: Politics, Power, and Public Investment in American Cities.* Philadelphia: University of Pennsylvania Press.
+- Sapolsky, Harvey M. 1972. *The Polaris System Development.* Cambridge, MA: Harvard University Press.
+- Sawyer, John E. 1951. “Entrepreneurial Error and Economic Growth.” *Explorations in Entrepreneurial History* 4 (4): 199–204.
+- Sayles, Leonard R., and Margaret K. Chandler. 1971. *Managing Large Systems: Organizations for the Future.* New York: Free Press.
+- Schmidt-Nielsen, Knut. 1984. *Scaling: Why Is Animal Size So Important?* Cambridge, UK: Cambridge University Press.
+- Schön, Donald A. 1994. “Hirschman’s Elusive Theory of Social Learning.” In *Rethinking the Development Experience: Essays Provoked by the Work of Albert O. Hirschman,* eds. Lloyd Rodwin and Donald A. Schön. Washington, DC: Brookings Institution and Lincoln Institute of Land Policy, 67–95.
+- Schumacher, Ernst F. 1973. *Small Is Beautiful: A Study of Economics as If People Mattered,* new ed. London: Vintage.
+- Scott, James C. 1999. *Seeing Like a State: How Certain Schemes to Improve the Human Condition Have Failed.* New Haven, CT: Yale University Press.
+- Scott, W. Richard. 2012. “The Institutional Environment of Global Project Organizations.” *Engineering Project Organization Journal* 2 (1–2): 27–35.
+- Scott, W. Richard, Raymond E. Levitt, and Ryan J. Orr, eds. 2011. *Global Projects: Institutional and Political Challenges.* Cambridge, UK: Cambridge University Press.
+- Scudder, Thayer. 1973. “The Human Ecology of Big Projects: River Basin Development and Resettlement.” *Annual Review of Anthropology* 2: 45–55.
+- Scudder, Thayer. 2005. *The Future of Large Dams: Dealing with Social, Environmental, Institutional and Political Costs.* London: Earthscan.
+- Scudder, Thayer. 2017. “The Good Megadam: Does It Exist, All Things Considered?” In *The Oxford Handbook of Megaproject Management,* ed. Bent Flyvbjerg. Oxford, UK: Oxford University Press, 428–50.
+- Selznick, Philip. 1949. *TVA and the Grass Roots: A Study in the Sociology of Formal Organization.* Berkeley: University of California Press.
+- Servranckx, Tom, Mario Vanhoucke, and Tarik Aouam. 2021. “Practical Application of Reference Class Forecasting for Cost and Time Estimations: Identifying the Properties of Similarity.” *European Journal of Operational Research* 295 (3): 1161–79.
+- Shapira, Zur, and Donald J. Berndt. 1997. “Managing Grand Scale Construction Projects: A Risk Taking Perspective.” *Research in Organizational Behavior* 19: 303–60.
+- Sharot, Tali. 2011. *The Optimism Bias: A Tour of the Irrationally Positive Brain.* New York: Pantheon.
+- Sharot, Tali, Alison M. Riccardi, Candace M. Raio, and Elizabeth A. Phelps. 2007. “Neural Mechanisms Mediating Optimism Bias.” *Nature* 450 (7166): 102–5.
+- Shepperd, James A., Patrick Carroll, Jodi Grace, and Meredith Terry. 2002. “Exploring the Causes of Comparative Optimism.” *Psychologica Belgica* 42 (1–2): 65–98.
+- Siemiatycki, Matti. 2009. “Delivering Transportation Infrastructure Through Public-Private Partnerships: Planning Concerns.” *Journal of the American Planning Association* 76 (1): 43–58.
+- Siemiatycki, Matti, and Jonathan Friedman. 2012. “The Trade-Offs of Transferring Demand Risk on Urban Transit Public-Private Partnerships.” *Public Works Management & Policy* 17 (3): 283–302.
+- Silberston, Aubrey 1972. “Economies of Scale in Theory and Practice.” *The Economic Journal* 82 (325): 369–91.
+- Simmons, Joseph P., Robyn A. LeBoeuf, and Leif D. Nelson. 2010. “The Effect of Accuracy Motivation on Anchoring and Adjustment: Do People Adjust from Provided Anchors?” *Journal of Personality and Social Psychology* 99 (6): 917–32.
+- Simon, Herbert A. 1991. “The Architecture of Complexity.” In *Facets of Systems Science,* ed. G. J. Klir. Boston: Springer, 457–76.
+- Singh, Satyajit. 2002. *Taming the Waters: The Political Economy of Large Dams in India.* New Delhi: Oxford University Press.
+- Sivaram, Varun. 2018. *Taming the Sun: Innovations to Harness Solar Energy and Power the Planet.* Cambridge, MA: MIT Press.
+- Skamris, Mette K., and Bent Flyvbjerg. 1997. “Inaccuracy of Traffic Forecasts and Cost Estimates on Large Transport Projects.” *Transport Policy* 4 (3): 141–46.
+- Skar, Harald O., and Sven Cederroth. 1997. *Development Aid to Nepal: Issues and Options in Energy, Health, Education, Democracy, and Human Rights.* Abingdonon-Thames, UK: Routledge.
+- Sleesman, Dustin J., Donald E. Conlon, Gerry McNamara, and Jonathan E. Miles. 2012. “Cleaning Up the Big Muddy: A Meta-analytic Review of the Determinants of Escalation of Commitment.” *The Academy of Management Journal* 55 (3): 541–62.
+- Slovic, Paul. 2000. *The Perception of Risk.* Sterling, VA: EarthScan.
+- Smith, Stanley K. 1997. “Further Thoughts on Simplicity and Complexity in Population Projection Models.” *International Journal of Forecasting* 13 (4): 557–65.
+- Sorkin, Andrew R. 2010. *Too Big to Fail: The Inside Story of How Wall Street and Washington Fought to Save the Financial System—and Themselves.* London: Penguin.
+- Sornette, Didier, and Guy Ouillon. 2012. “Dragon-Kings: Mechanisms, Statistical Methods and Empirical Evidence.” *The European Physical Journal Special Topics* 205 (1): 1–26.
+- Sovacool, Benjamin K., and L. C. Bulan. 2011. “Behind an Ambitious Megaproject in Asia: The History and Implications of the Bakun Hydroelectric Dam in Borneo.” *Energy Policy* 39 (9): 4842–59.
+- Sovacool, Benjamin K., and Christopher J. Cooper. 2013. *The Governance of Energy Megaprojects: Politics, Hubris and Energy Security.* Cheltenham, UK: Edward Elgar.
+- Sovacool, Benjamin K., Peter Enevoldsen, Christian Koch, and Rebecca J. Barthelmie. 2017. “Cost Performance and Risk in the Construction of Offshore and Onshore Wind Farms.” *Wind Energy* 20 (5): 891–908.
+- Stanovich, Keith, and Richard West. 2000. “Individual Differences in Reasoning: Implications for the Rationality Debate.” *Behavioral and Brain Sciences* 23 (5): 645–65.
+- Statens Offentlige Utredningar (SOU). 2004. *Betalningsansvaret för kärnavfallet.* Stockholm: Statens Offentlige Utredningar.
+- Staw, Barry M. 1976. “Knee-Deep in the Big Muddy: A Study of Escalating Commitment to a Chosen Course of Action.” *Organizational Behavior and Human Resources* 16 (1): 27–44.
+- Staw, Barry M. 1997. “The Escalation of Commitment: An Update and Appraisal.” In *Organizational Decision Making,* ed. Zur Shapira. Cambridge, UK: Cambridge University Press, 191–215.
+- Steinberg, Marc. 2021. “From Automobile Capitalism to Platform Capitalism: Toyotism as a Prehistory of Digital Platforms.” *Organization Studies* 43 (7): 1069–90.
+- Steinel, Wolfgang, and Carsten K. W. De Dreu. 2004. “Social Motives and Strategic Misrepresentation in Social Decision Making.” *Journal of Personality and Social Psychology* 86 (3): 419–34.
+- Stevens, Joseph E. 1988. *Hoover Dam: An American Adventure.* Norman: University of Oklahoma Press.
+- Stigler, George J. 1958. “The Economies of Scale.” *Journal of Law & Economics* 1 (1): 54.
+- Stinchcombe, Arthur L., and Carol A. Heimer. 1985. *Organization Theory and Project Management: Administering Uncertainty in Norwegian Offshore Oil.* Oslo: Norwegian University Press.
+- Stone, Brad. 2021. *Amazon Unbound: Jeff Bezos and the Invention of a Global Empire.* New York: Simon & Schuster.
+- Stone, Richard. 2008. “Three Gorges Dam: Into the Unknown.” *Science* 321 (5889): 628–32.
+- Stone, Richard. 2011. “The Legacy of the Three Gorges Dam.” *Science* 333 (6044): 817.
+- Suarez, Fernando, and Gianvito Lanzolla. 2005. “The Half-Truth of First-Mover Advantage.” *Harvard Business Review* 83 (4): 121–27.
+- Suls, Jerry, and Choi K. Wan. 1987. “In Search of the False Uniqueness Phenomenon: Fear and Estimates of Social Consensus.” *Journal of Personality and Social Psychology* 52 (1): 211–17.
+- Suls, Jerry, Choi K. Wan, and Glenn S. Sanders. 1988. “False Consensus and False Uniqueness in Estimating the Prevalence of Health-Protective Behaviors.” *Journal of Applied Social Psychology* 18 (1): 66–79.
+- Sunstein, Cass R. 2002. “Probability Neglect: Emotions, Worst Cases, and Law.” *Yale Law Review* 112 (1): 61–107.
+- Sunstein, Cass R. 2013. “An Original Thinker of Our Time.” *The New York Review of Books,* May 23, 14–17.
+- Sutterfield, Scott J., Shawnta Friday-Stroud, and Sheryl Shivers-Blackwell. 2006. “A Case Study of Project and Stakeholder Management Failures: Lessons Learned.” *Project Management Journal* 37 (5): 26–36.
+- Swiss Association of Road and Transportation Experts. 2006. *Kosten-Nutzen-Analysen im Strassenverkehr,* Grundnorm 641820, valid from August 1. Zürich: Swiss Association of Road and Transportation Experts.
+- Swyngedouw, Erik, Frank Moulaert, and Arantxa Rodriguez. 2002. “Neoliberal Urbanization in Europe: Large-Scale Urban Development Projects and the New Urban Policy.” *Antipode* 34 (3): 542–77.
+- Szyliowicz, Joseph S., and Andrew R. Goetz. 1995. “Getting Realistic About Megaproject Planning: The Case of the New Denver International Airport.” *Policy Sciences* 28 (4): 347–67.
+- Taleb, Nassim N. 2004. *Fooled by Randomness: The Hidden Role of Chance in Life and in the Markets.* London: Penguin.
+- Taleb, Nassim N. 2007. *The Black Swan: The Impact of the Highly Improbable.* New York: Random House.
+- Taleb, Nassim N. 2012. *Antifragile: How to Live in a World We Don’t Understand.* London: Allen Lane.
+- Taleb, Nassim N. 2018. *Skin in the Game: Hidden Asymmetries in Daily Life.* London: Penguin Random House.
+- Taleb, Nassim N. 2020. *Statistical Consequences of Fat Tails: Real World Preasymptotics, Epistemology, and Applications (Technical Incerto).* New York: STEM Academic Press.
+- Taleb, Nassim N., Yaneer Bar-Yam, and Pasquale Cirillo. 2022. “On Single Point Forecasts for Fat-Tailed Variables.” *International Journal of Forecasting* 38 (2): 413–22.
+- Tallman, Erin. 2020. “Behind the Scenes at China’s Prefab Hospitals Against Coronavirus.” *E-Magazine* by MedicalExpo, March 5. https://emag.medicalexpo.com/qa-behind-the-scenes-of-chinas-prefab-hospitals-against-coronavirus/.
+- Tauranac, John. 2014. *The Empire State Building: The Making of a Landmark.* Ithaca, NY: Cornell University Press.
+- Teigland, Jon. 1999. “Mega Events and Impacts on Tourism; the Predictions and Realities of the Lillehammer Olympics.” *Impact Assessment and Project Appraisal* 17 (4): 305–17.
+- Tepper, Fitz. 2015. “Satellite Maker Planet Labs Acquires BlackBridge’s Geospatial Business.” *TechCrunch,* July 15. https://techcrunch.com/2015/07/15/satellite-maker-planet-labs-acquires-blackbridges-geospatial-business/.
+- Tetlock, Philip E. 2005. *Expert Political Judgment: How Good Is It? How Can We Know?* Princeton, NJ: Princeton University Press.
+- Tetlock, Philip E., and Dan Gardner. 2015. *Superforecasting: The Art and Science of Prediction.* New York: Random House.
+- Thaler, Richard H. 2015. *Misbehaving: How Economics Became Behavioural.* London: Allen Lane.
+- Torrance, Morag I. 2008. “Forging Global Governance? Urban Infrastructures as Networked Financial Products.” *International Journal of Urban and Regional Research* 32 (1): 1–21.
+- Turner, Barry A., and Nick F. Pidgeon. 1997. *Man-Made Disasters.* Oxford, UK: Butterworth-Heinemann.
+- Turner, Rodney, and Ralf Müller. 2003. “On the Nature of the Project as a Temporary Organization.” *International Journal of Project Management* 21 (7): 1–8.
+- Tversky, Amos, and Daniel Kahneman. 1973. “Availability: A Heuristic for Judging Frequency and Probability.” *Cognitive Psychology* 5 (2): 207–32.
+- Tversky, Amos, and Daniel Kahneman. 1974. “Judgment Under Uncertainty: Heuristics and Biases.” *Science* 185 (4157): 1124–31.
+- Tversky, Amos, and Daniel Kahneman. 1981. “The Framing of Decisions and the Psychology of Choice.” *Science* 211 (4481): 453–58.
+- Tversky, Amos, and Daniel Kahneman. 1982. “Evidential Impact of Base Rates.” In *Judgment Under Uncertainty: Heuristics and Biases,* eds. Daniel Kahneman, Paul Slovic, and Amos Tversky. Cambridge, UK: Cambridge University Press, 153–62.
+- Tyrnauer, Matt. 2010. “Architecture in the Age of Gehry.” *Vanity Fair,* June 30.
+- UK Department for Transport. 2006. *Changes to the Policy on Funding Major Projects.* London: Department for Transport.
+- UK Department for Transport. 2006. *The Estimation and Treatment of Scheme Costs: Transport Analysis Guidance.* London: Department for Transport. http://www.dft.gov.uk/webtag/documents/expert/unit3.5.9.php.
+- UK Department for Transport. 2015. *Optimism Bias Study: Recommended Adjustments to Optimism Bias Uplifts.* London: Department for Transport.
+- UK Department for Transport and Oxford Global Projects. 2020. *Updating the Evidence Behind the Optimism Bias Uplifts for Transport Appraisals: 2020 Data Update to the 2004 Guidance Document “Procedures for Dealing with Optimism Bias in Transport Planning.”* London: Department for Transport.
+- UK Infrastructure and Projects Authority. 2016. *Improving Infrastructure Delivery: Project Initiation Routemap.* London: Crown Publishing.
+- UK National Audit Office. 2009. *Supplementary Memorandum by the National Audit Office on Optimism Bias.* London: UK Parliament.
+- UK National Audit Office. 2013. *Over-Optimism in Government Projects.* London: National Audit Office.
+- UK National Audit Office. 2014. *Lessons from Major Rail Infrastructure Programmes,* No. HC: 267, 14–15. London: National Audit Office, 40.
+- UNESCO World Heritage Convention. 2022. “Sydney Opera House.” https://whc.unesco.org/en/list/166.
+- US Congress, House Committee on Science and Astronautics. 1973. *1974 NASA Authorization. Hearings, 93rd Congress, First Session, on H.R. 4567.* Washington, DC: US Government Printing Office.
+- US Department of Justice. 2021. *U.S. v. Elizabeth Holmes, et al.* US Attorney’s Office, Northern District of California, August 3. Department of Justice. https://www.justice.gov/usao-ndca/us-v-elizabeth-holmes-et-al.
+- US Department of Justice. 2021. “Former SCANA CEO Sentenced to Two Years for Defrauding Ratepayers in Connection with Failed Nuclear Construction Program.” Department of Justice, October 7. https://www.justice.gov/usao-sc/pr/former-scana-ceo-sentenced-two-years-defrauding-ratepayers-connection-failed-nuclear.
+- US National Research Council. 2007. *Metropolitan Travel Forecasting: Current Practice and Future Direction.* Special report no. 288. Washington, DC: Committee for Determination of the State of the Practice in Metropolitan Area Travel Forecasting and Transportation Research Board.
+- US Office of the Inspector General. 2012. *NASA’s Challenges to Meeting Cost, Schedule, and Performance Goals.* Report no. IG-12-021 (Assignment N. A-11-009-00). Washington, DC: NASA.
+- Van der Kraats, Marion. 2021. “BER Boss: New Berlin Airport Has Money Only Until Beginning of 2022.” *Aviation Pros.* https://www.aviationpros.com/airports/news/21244678/ber-boss-new-berlin-airport-has-money-only-until-beginning-of-2022.
+- Van der Westhuizen, Janis. 2007. “Glitz, Glamour and the Gautrain: Mega-Projects as Political Symbols.” *Politikon* 34 (3): 333–51.
+- Vanwynsberghe, Rob, Björn Surborg, and Elvin Wyly. 2013. “When the Games Come to Town: Neoliberalism, Mega-Events and Social Inclusion in the Vancouver 2010 Winter Olympic Games.” *International Journal of Urban and Regional Research* 37 (6): 2074–93.
+- Véliz, Carissa. 2020. *Privacy Is Power: Why and How You Should Take Back Control of Your Data.* London: Bantam.
+- Vickerman, Roger. 2017. “Wider Impacts of Megaprojects: Curse or Cure?” In *The Oxford Handbook of Megaproject Management,* ed. Bent Flyvbjerg. Oxford, UK: Oxford University Press, 389–405.
+- Vining, Aiden R., and Anthony E. Boardman. 2008. “Public-Private Partnerships: Eight Rules for Governments.” *Public Works Management & Policy* 13 (2): 149–61.
+- Vogel, Steve. 2007. *The Pentagon: A History.* New York: Random House.
+- Wachs, Martin. 1986. “Technique vs. Advocacy in Forecasting: A Study of Rail Rapid Transit.” *Urban Resources* 4 (1): 23–30.
+- Wachs, Martin. 1989. “When Planners Lie with Numbers.” *Journal of the American Planning Association* 55 (4): 476–79.
+- Wachs, Martin. 1990. “Ethics and Advocacy in Forecasting for Public Policy.” *Business and Professional Ethics Journal* 9 (1): 141–57.
+- Wachs, Martin. 2013. “The Past, Present, and Future of Professional Ethics in Planning.” In *Policy, Planning, and People: Promoting Justice in Urban Development,* eds. Naomi Carmon and Susan S. Fainstein. Philadelphia: University of Pennsylvania Press, 101–19.
+- Wal, S. 2006. *Education and Child Development.* Derby, UK: Sarup and Sons.
+- Wallis, Shane. 1993. “Storebaelt Calls on Project Moses for Support.” *TunnelTalk,* April. https://www.tunneltalk.com/Denmark-Apr1993-Project-Moses-called-on-to-support-Storebaelt-undersea-rail-link.php.
+- Wallis, Shane. 1995. “Storebaelt: The Final Chapters.” *TunnelTalk,* May. https://www.tunneltalk.com/Denmark-May1995-Storebaelt-the-final-chapters.php.
+- Ward, William A. 2019. “Cost-Benefit Analysis: Theory Versus Practice at the World Bank, 1960 to 2015.” *Journal of Benefit-Cost Analysis* 10 (1): 124–44.
+- Webb, James. 1969. *Space-Age Management: The Large-Scale Approach.* New York: McGraw-Hill.
+- Weick, Mario, and Ana Guinote. 2008. “When Subjective Experiences Matter: Power Increases Reliance on the Ease of Retrieval.” *Journal of Personality and Social Psychology* 94 (6): 956–70.
+- Weinstein, Neil D., Stephen E. Marcus, and Richard P. Moser. 2005. “Smokers’ Unrealistic Optimism About Their Risk.” *Tobacco Control* 14 (1): 55–59.
+- Weintraub, Seth. 2016. “Tesla Gigafactory Tour Roundup and Tidbits: ‘This Is the Coolest Factory in the World.’” *Electrek,* July 28. https://electrek.co/2016/07/28/tesla-gigafactory-tour-roundup-and-tidbits-this-is-the-coolest-factory-ever/.
+- Weinzierl, Matthew C., Kylie Lucas, and Mehak Sarang. 2021. *SpaceX, Economies of Scale, and a Revolution in Space Access.* Boston: Harvard Business School.
+- West, Geoffrey. 2017. *Scale: The Universal Laws of Life and Death in Organisms, Cities, and Companies.* London: Weidenfeld and Nicolson.
+- Whaley, Sean. 2016. “Tesla Officials Show Off Progress at Gigafactory in Northern Nevada.” *Las Vegas Review-Journal,* March 20.
+- Williams, Terry M., and Knut Samset. 2010. “Issues in Front-End Decision Making on Projects.” *Project Management Journal* 41 (2): 38–49.
+- Williams, Terry M., Knut Samset, and Kjell Sunnevåg, eds. 2009. *Making Essential Choices with Scant Information: Front-End Decision Making in Major Projects.* London: Palgrave Macmillan.
+- Williams, Walter. 1998. *Honest Numbers and Democracy.* Washington, DC: Georgetown University Press.
+- Willis, Carol. 1995. *Form Follows Finance: Skyscrapers and Skylines in New York and Chicago.* New York: Princeton Architectural Press.
+- Willis, Carol, ed. 1998. *Building the Empire State Building.* New York: Norton Architecture.
+- Wilson, Michael. 2002. “Study Finds Steady Overruns in Public Projects.” *The New York Times,* July 11.
+- Wilson, Timothy D., Christopher E. Houston, Kathryn M. Etling, and Nancy Brekke. 1996. “A New Look at Anchoring Effects: Basic Anchoring and Its Antecedents.” *Journal of Experimental Psychology: General* 125 (4): 387–402.
+- Winch, Graham M. 2010. *Managing Construction Projects: An Information Processing Approach,* 2nd ed. Oxford, UK: Wiley-Blackwell.
+- Woo, Andrea. 2021. “Nearly 600 People Died in BC Summer Heat Wave, Vast Majority Seniors: Coroner.” *The Globe and Mail,* November 1.
+- World Bank. 2010. *Cost-Benefit Analysis in World Bank Projects.* Washington, DC: World Bank.
+- World Health Organization (WHO). “Climate Change.” World Health Organization. https://www.who.int/health-topics/climate-change#tab=tab_1.
+- *World Nuclear News.* 2016. “Japanese Government Says Monju Will Be Scrapped.” *World Nuclear News,* December 22. https://www.world-nuclear-news.org/NP-Japanese-government-says-Monju-will-be-scrapped-2212164.html.
+- Young, H. Kwak, John Waleski, Dana Sleeper, and Hessam Sadatsafavi. 2014. “What Can We Learn from the Hoover Dam Project That Influenced Modern Project Management?” *International Journal of Project Management* 32 (2): 256–64.
+- Zimbalist, Andrew. 2020. *Circus Maximus: The Economic Gamble Behind Hosting the Olympics and the World Cup,* 3rd ed. Washington, DC: Brookings Institution.
+- Zou, Patrick X., Guomin Zhang, and Jiayuan Wang. 2007. “Understanding the Key Risks in Construction Projects in China.” *International Journal of Project Management* 25 (6): 601–14.

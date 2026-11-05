@@ -25,6 +25,7 @@
 - **“下一页”**：附录 A 的 The table on the next page 和第 9 章的 The chart on the next page 指纸质版的版面，阅读器里表格和图就在后面，译“下表”“下图”。
 - **图片和表格**：图片只在英文文件里，替代文字不译。附录 A 的表头和项目类型译成中文，数字照写。
 - **分隔线**：分隔线 `---` 只写在英文文件里。
+- **参考文献**：2026-11-05 从 EPUB 补入。580 条书目和注释里的出处一样照录英文原样，中文文件只把标题译成“参考文献”。
 - **破折号和句式**：中文译文不用破折号（——），原文的破折号按意思改成逗号、冒号、括号或另起一句；也不用“不是……而是……”这种句式，换成直接的说法。小节标题 Projects Don’t *Go* Wrong, They *Start* Wrong 这类对照句，也改成直接的说法。
 
 ## 各节标题
@@ -46,6 +47,7 @@
 | appendix-a | Appendix A: Base Rates for Cost Risk | 附录 A 成本风险的基础比率 |
 | appendix-b | Appendix B: Further Readings by Bent Flyvbjerg | 附录 B 傅以斌著作延伸阅读 |
 | acknowledgments | Acknowledgments | 致谢 |
+| bibliography | Bibliography | 参考文献 |
 | about-the-authors | About the Authors | 关于作者 |
 
 中文版《怎样做成大事》（贾拥民译，浙江科学技术出版社 2024 年版）的章名只作参考：它给不少章名加了副题或改写，例如第 2 章“承诺谬误：你承诺的，和你想的不一样”，第 3 章“以终为始，从右向左思考”，第 8 章“打造一支上下一心的团队”，第 9 章“模块化，你的‘乐高积木’是什么”。这里按原书的章名翻译：引言标题 California Dreamin’ 是 1965 年的同名歌曲，中文通称《加州梦》，加译者注；第 5 章标题照应亨德里克斯的专辑 *Are You Experienced*，正文讲的是经验，所以译“你有经验吗？”，加译者注；第 8 章标题出自第 7 章末尾，作者把团队比作 a single, determined organism，保留“有机体”这个比喻；第 4 章的 planning 和全书一样译“规划”。

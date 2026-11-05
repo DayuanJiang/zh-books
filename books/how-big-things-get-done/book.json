@@ -33,6 +33,7 @@
     {"id": "appendix-a", "file": "15-appendix-a-base-rates-for-cost.md", "status": "review"},
     {"id": "appendix-b", "file": "16-appendix-b-further-readings-by.md", "status": "review"},
     {"id": "acknowledgments", "file": "17-acknowledgments.md", "status": "review"},
+    {"id": "bibliography", "file": "18-bibliography.md", "status": "review"},
     {"id": "about-the-authors", "file": "20-about-the-authors.md", "status": "review"}
   ]
 }
