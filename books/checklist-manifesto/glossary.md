@@ -4,7 +4,7 @@
 
 ## 体例
 
-- **人名**：用 [review/terms/people-zh.tsv](review/terms/people-zh.tsv) 的译名。每节第一次出现时在中文名后括注英文原名，例如“彼得·普罗诺沃斯特（Peter Pronovost）”，之后只写中文。只有名没有姓的人（约翰、杰伊、迪伊、托尔）也照这个办法。表里标 keep 的人（Zhi Xiong 等）照写原名。脚注里的人名照写原文。
+- **人名**：用 [review/terms/people-zh.tsv](review/terms/people-zh.tsv) 的译名。每节第一次出现时在中文名后括注英文原名，例如“彼得·普罗诺沃斯特（Peter Pronovost）”，之后只写中文。只有名没有姓的人（约翰、杰伊、迪伊、托尔）也照这个办法。表里标 keep 的人（Zhi Xiong 等）照写原名。脚注里的人名照写原文，开头引号里的正文译文除外（见“全书统一的写法（译完后定）”）。
 - **化名**：引言的约翰、第 8 章的库克、第 9 章的哈格曼先生都是化名或改过身份细节，译文照原文的说法交代即可。
 - **机构、产品、地名**：见下面“机构、产品与地名”。没有通行中文名的公司和产品照写原名，和汉字之间加空格。
 - **书名、报刊、论文**：正文里用《》，每节第一次出现时括注原题，原题用斜体，例如《太空先锋》（*The Right Stuff*）；文章、论文的原题保留引号，不用斜体，例如作者的《纽约客》文章《清单》（“The Checklist”）。常见报刊不括注，见“全书统一的写法”。脚注里的出处保留原文，不加书名号。
@@ -25,7 +25,7 @@
   - Testimony of Captain X, … → X 机长的证词，……
   - 引言第 1 条脚注 Identifying details were changed at John’s request. → 应约翰的要求，书中改动了可以辨认身份的细节。
 - **脚注标记**：`[^n]` 放在中文里对应词句的后面，编号与英文一致。注释引用的话以引号结束时，标记放在右引号后面。
-- **译者注**：写成 `[^t1]:`，在正文里引用。需要译者注的地方：eptitude、Code Blue、operating theater 的字面意思、the right stuff 和书名的关系、世卫组织清单的中文官方名、原文疑点（第 3 章注释 3 的网址）。
+- **译者注**：写成 `[^t1]:`，在正文里引用。需要译者注的地方：eptitude、Code Blue、operating theater 的字面意思、the right stuff 和书名的关系、世卫组织清单的中文官方名、原文疑点（第 3 章注释 3 的网址，以及“全书统一的写法（译完后定）”里列出的几处已经查证的史实错误）。
 - **分隔线**：分隔线 `---` 只写在英文文件里。
 - **破折号和句式**：中文译文不用破折号（——），原文的破折号按意思改成逗号、冒号、括号或另起一句；也不用“不是……而是……”这种句式，换成直接的说法。
 
@@ -53,11 +53,11 @@
 
 ## 全书统一的写法
 
-翻译开始前先定下的写法，各章都照此执行；译完后编辑提出的新问题，补在这一节。
+翻译开始前先定下的写法，各章都照此执行；译完后编辑提出的新问题，统一的结果写在下一节“全书统一的写法（译完后定）”。
 
 - **数字**：一到十，以及带“几、十几、数百、上千”的约数，用汉字（三岁的女儿、两天后、几十家医院）；11 以上的确数用阿拉伯数字（178 项操作、24 小时、19 项检查），万和亿前面的数字也用阿拉伯数字（1.3 万多种疾病、9 万人、23 亿）；年份、日期、钟点、金额、百分比一律用阿拉伯数字（凌晨 1:30、下午 3:25、上午 7 点）。原文用英文单词写的大数（thirteen thousand、two hundred feet）同样按这条规则转成阿拉伯数字。倍数写成“是原来的 N 倍”；百分比的增减照原文写“降低了 N%”。
 - **书名、报刊括注**：每节第一次出现时括注原题，原题用斜体；文章、论文的原题保留引号，不用斜体。《纽约客》《纽约时报》《新英格兰医学杂志》《柳叶刀》这些常见报刊不括注；其他刊物（《胸外科年鉴》*Annals of Thoracic Surgery*、《美食与美酒》*Food and Wine*、《时尚先生》*Esquire*、《每日镜报》*Daily Mirror*、《纽约邮报》*New York Post*）每节第一次出现时括注。
-- **人名**：名人也照常在每节第一次出现时括注英文。脚注里的人名，无论在出处里还是在说明句里，一律照写英文。“勋爵”“爵士”“少校”“机长”这类称呼放在中文名后面：达尔齐勋爵、唐纳森爵士、希尔少校、萨伦伯格机长。
+- **人名**：名人也照常在每节第一次出现时括注英文。脚注里的人名，无论在出处里还是在说明句里，一律照写英文；脚注开头引号里的词句是正文的译文，里面的人名和正文一样写中文，见下一节。“勋爵”“爵士”“少校”“机长”这类称呼放在中文名后面：达尔齐勋爵、唐纳森爵士、希尔少校、萨伦伯格机长。
 - **泛指的人称**：原文泛指的 he or she、his or her 不必逐字译出，按中文习惯写“病人”“这个人”或省略；原文用 she 泛指病人的地方，中文写“病人”或“她”都可以，同一段里保持一致。
 - **作者的身份**：作者是普通外科和内分泌外科医生，叙述里的 we 常指“我们外科医生”或“我们医生”，按上下文补出来，避免读者以为指全人类。
 - **医学说法**：中国大陆的通行说法优先，例如“中心静脉导管”“巡回护士”“器械护士”“住院医生”“主治医生”“并发症发生率”。病名和药名第一次出现时不必括注英文，除非原文正在解释这个词（ECMO、asystole）。
@@ -65,6 +65,26 @@
 - **世卫组织**：World Health Organization 每节第一次出现写“世界卫生组织（WHO）”，之后写“世卫组织”；原文写 WHO 的地方也写“世卫组织”。
 - **引号里的说法**：原文用引号标出的行话和俗称（“flying fortress”“pause points”“killer items”“cocaine brain”），中文也加引号，第一次出现括注原文。
 - **原文疑点**：第 3 章注释 3 的网址 www.darmouthatlas.org 照原文保留，加译者注说明正确的网址是 www.dartmouthatlas.org。原文疑点的完整清单见 [review/source.md](review/source.md)。
+
+## 全书统一的写法（译完后定）
+
+各章译完后，编辑报告了一些各章写法不一、或者术语表还没有规定的地方，统一如下：
+
+- **脚注开头的引语**：开头引号里的词句是正文的译文，人名和正文一样写中文，不括注英文，例如“萨伦伯格一再说”“斯玛特专门研究了”“汤姆·沃尔夫的《太空先锋》”；出处，以及“X 机长的证词”“X 的分析详情……”这类说明句里的人名，照写英文。
+- **术语括注原文**：核心概念表里写“第一次出现括注原文”的术语，指全书第一次出现，以及某一章重新解释这个词的地方（第 5 章引入 pause points，第 6 章讲航空清单时又解释了一遍，两处都括注）；后面各章只是沿用的，不再括注，例如第 7 章的“先做后确认型”“边读边做型”“暂停点”。人名、书名、报刊仍按每节第一次出现括注。原文说“工程师所说的”某个术语时也括注，例如第 2 章“全有或全无的过程”（all-or-none processes）、第 3 章“强制功能”（forcing functions）。
+- **献辞页**：献辞只有一行，人名不括注，写“献给亨特、哈蒂和沃克”；三人在致谢里第一次出现时括注英文。
+- **人名补充**：先只以名字出现、后来才出现全名的人，第一次出现全名时括注英文全名，例如“杰伊·鲍尔斯（Jay Powers）”。英国勋爵的称呼跟着原文：原文写 Lord Darzi、Lord Darzi of Denham 的，写“达尔齐勋爵”；致谢原文写 Lord Ara Darzi、Lord Naren Patel，写“阿拉·达尔齐勋爵”“纳伦·帕特尔勋爵”。致谢里的 Sidhir Joseph 是原文拼错的名字（2009 年《新英格兰医学杂志》论文的作者名单作 Sudhir Joseph），中文按正确拼写写“苏迪尔·约瑟夫（Sudhir Joseph）”，英文照原文保留。
+- **头衔和职务**：第 7 章达尔齐勋爵出任的 a minister of health 写“卫生部政务次官”；唐纳森的 the country’s top designate to WHO 写“英国在世卫组织的首席代表”；第 4 章沃尔玛的 senior officials、upper management 写“高层管理人员”；第 5 章加纳医院里的 medical officer 指没有专科资格的普通医生，写“医生”；第 8 章特内里费空难里的 second officer 写“飞行工程师”，和第 6 章驾驶舱录音的 FLIGHT ENGINEER 一致。
+- **数字补充**：一万以上的整数用“万”，前面写阿拉伯数字，高度也照办，例如“2 万英尺”“2.2 万英尺（约 6700 米）”“3.9 万英尺”“35 万平方英尺”；一万以下写阿拉伯数字，不加千位分隔符，例如“8000 英尺”“3885 吨”；化不成整万的确数照写全部数字，例如“32261 种组合”。约数照原来的规则用汉字，例如“两三万英尺”“二十来人”。名称里的数字也照这条规则，例如“18 轮大卡车”。
+- **降幅**：原文 Deaths fell N percent 和发生率并列、说的是死亡率的降幅时，写“死亡率降低了 N%”。
+- **华氏温差**：温差换算时乘以 5/9，不减 32，例如“将近华氏十度（5 摄氏度多）”。绝对温度照体例括注摄氏度。
+- **医学说法补充**：clinicians、医务人员、心脏病发作、心脏停搏和心搏骤停、气管插管、呼吸机、体外循环、无菌单、腰麻的写法见核心概念表。另外，ICU medicine 指医学领域时写“重症监护（ICU）”；critical care 指学科时写“危重症医学”，指医院所做的救治工作时写“危重症救治”，critical care specialist 写“危重症医学专家”；ICU 的 length of stay 写“住院时间”（平均住院时间）；chlorhexidine 写“氯己定”，rounds 写“查房”；Li-Fraumeni syndrome 写“Li-Fraumeni 综合征”；additional diagnoses 写“其他诊断”，和“主要诊断”相对，active medical problems 写“患有的……病症”；glass and steel 写“玻璃和钢”或“钢和玻璃结构”，中文的“玻璃钢”指玻璃纤维增强塑料，和这里的意思无关。
+- **航空说法补充**：tiller 写“转弯手轮”，yoke 写“驾驶盘”，rudder pedals 写“方向舵踏板”，air outflow switches 写“排气活门开关”，boroscope 写“孔探仪”；交接操纵时的标准用语 My aircraft / Your aircraft 写“我操纵”“你操纵”；空管说的 cleared for takeoff 写“准予起飞”，和哥伦布儿童医院的“准予起飞”清单一致；preflight 写“飞行前”；Canadian geese 写“加拿大黑雁”，后文的 the geese 写“雁群”。
+- **其他说法**：fine print 写“不起眼的小字”；Detail men 写“医药代表”；best-trained、highly trained 写“训练最扎实”；had little idea、knew little 写“几乎不知道”或“知之甚少”；a random hospital 写“一家普普通通的医院”，“随便哪一天”留给 On any given day；致谢的 study sites 和第 7 章的 pilot sites 是同一批医院，写“八家试点医院”或“各试点医院”；Rialto 厨房的口令 mozz 写“马苏里拉”。
+- **指称词语本身的斜体**：原文用斜体指称一个词本身的地方（*clinic*、*ineptitude*、*negligence*、*checklist*），中文改用引号；表示强调的斜体保留。
+- **地名和机构名连写**：机构名前面有地名时，中间加“的”或者用“位于”，例如“位于波士顿的美国医疗保健改进研究所”“加利福尼亚州尔湾的帕伯莱投资基金”；地名本来就是机构名一部分的（哥伦布儿童医院、底特律接收医院、奥克兰市立医院）照写。
+- **脚注常见格式补充**：X data for YEAR 写“YEAR 的 X 数据”，X 是来源，保留原文，例如“2003 年和 2008 年的 U.S. Census 数据”。
+- **原文疑点和译者注**：原文的史实错误会让读者误解事件经过、而且已经查证的，正文照原文译，加译者注说明，例如第 8 章泛美客机当时在滑行，第 6 章第 62 块收放襟翼的人和方向，第 6 章第 77 块做机械改动的应是罗尔斯·罗伊斯；还没有查实的，或者不影响理解的（第 6 章第 15 块的说话人，第 3 章麦克纳马拉/萨尔维亚公司的起始年份和阻尼器的悬挂方式，第 2 章克拉根福算不算小城），记在各节审校记录的“原文疑点”表里，正文不加注。纸质版换页留下的断段（第 5 章第 57、58 块，第 8 章第 25、26 块）英文照原样保留，中文也分成两块。
 
 ## 核心概念
 
@@ -80,11 +100,11 @@
 | complicated | 繁杂 | 齐默尔曼和格卢伯曼的三分法里的第二类：繁杂问题像把火箭送上月球，可以拆成一串简单问题，但没有现成的配方，要多人、多团队协调。第 3 章以外泛泛地用时也可写“复杂”，和 complex 在同一段对照出现时一律写“繁杂” | complex（复杂） | ch01 | 14 | 初定 |
 | complex | 复杂 | 三分法里的第三类：复杂问题像养孩子，每一次都不同，经验有用但不够，结果高度不确定；simple problems 写“简单问题”，指照配方就能做成的事 | complicated（繁杂） | ch01 | 40 | 初定 |
 | know-how / expertise / experts | 知识和本领 / 专业能力 / 专家 | expertise 指专门的知识和经验，the mantra of modern medicine 那句写“专业能力是现代医学的信条” |  | introduction | 42 | 初定 |
-| specialization / superspecialization | 专科化 / 超专科化 | superspecialist 写“超级专科医生”，ultraspecialized 写“分得极细”，subspecialized / subspecialty 写“亚专科” |  | ch01 | 35 | 初定 |
+| specialization / superspecialization | 专科化 / 超专科化 | superspecialist（也拼作 super-specialist）写“超级专科医生”，ultraspecialized 写“分得极细”，subspecialized / subspecialty 写“亚专科” |  | ch01 | 35 | 初定 |
 | Master Builder / Master Physician | 总建造师 / “总医师” | 中世纪以来一手包办设计、工程和施工的总负责人；医学里对应的是从诊断到治疗独自包揽一切的医生。第 3 章标题，第一次出现括注原文 | 建筑大师、大师 | ch03 | 8 | 初定 |
 | cognitive net | 认知防护网 | 清单像一张网，接住人人都有的记忆、注意力和周全程度上的缺陷；中文版《清单革命》已用这个说法 |  | ch03 | 1 | 初定 |
 | forcing function | 强制功能 | 工程术语：迫使人做出必要动作的简单办法，清单就是一种；第一次出现括注原文 | 强制函数 | ch03 | 3 | 初定 |
-| all-or-none process | 全有或全无的过程 | 漏掉一个关键步骤就等于白做的过程 |  | ch02 | 1 | 初定 |
+| all-or-none process | 全有或全无的过程 | 漏掉一个关键步骤就等于白做的过程；工程师的说法，第一次出现加引号并括注原文 |  | ch02 | 1 | 初定 |
 | stupid stuff / dumb stuff | 傻瓜都知道的事 | 作者的口语说法，指简单到不值一提、却不能出错的步骤；the stupid but critical stuff 写“傻瓜都知道、却至关重要的事” |  | ch02 | 5 | 初定 |
 | construction schedule / submittal schedule | 施工进度表 / 报审进度表 | 前一张列施工任务，后一张列沟通任务：谁要在哪天之前和谁、就哪方面的工程交换（submit）信息 |  | ch03 | 9 | 初定 |
 | communication checks | 沟通检查 | 清单里确保相关的人彼此交谈的条目，和列出操作步骤的检查相对；communication tasks 写“沟通任务”，communication checklist 写“沟通清单” |  | ch03 | 5 | 初定 |
@@ -95,7 +115,7 @@
 | DO-CONFIRM / READ-DO | 先做后确认型 / 边读边做型 | 两类清单：前者凭记忆和经验各自做完，再停下来逐项确认；后者照着清单一边读一边做，像菜谱。第一次出现括注原文；中文版作“操作-确认”和“边读边做” |  | ch06 | 7 | 初定 |
 | killer items | “致命项” | 跳过了最危险、又常被漏掉的步骤；non-killer items 写“非致命项”；中文版作“杀手项目” |  | ch06 | 2 | 初定 |
 | normal / non-normal checklists | “正常”清单 / “非正常”清单 | 航空用语：日常运行用的清单，和应对各种紧急情况的清单 | 常规、非常规 | ch06 | 2 | 初定 |
-| briefing / team briefing | 简报 / 团队简报 | 开始之前团队停下来交代计划、预计的困难和顾虑；taxi and takeoff briefing 写“滑行和起飞简报”，preoperative briefing 写“术前简报”；briefed 写“交代过” |  | ch05 | 7 | 初定 |
+| briefing / team briefing | 简报 / 团队简报 | 开始之前团队停下来交代计划、预计的困难和顾虑；taxi and takeoff briefing 写“滑行和起飞简报”，preoperative briefing 写“术前简报”；briefed someone 写“向……交代过情况”，be briefed（听取交代）写“听过交代”，例如 everyone is briefed as a team 写“全队每个人都一起听过交代” |  | ch05 | 7 | 初定 |
 | activation phenomenon | 激活现象 | 开头给每个人一个说话的机会，会激发参与感、责任感和开口的意愿 |  | ch05 | 1 | 初定 |
 | teamwork | 团队合作 | team 写“团队”，手术团队写“手术团队”；teamwork climate 写“团队合作氛围” |  | ch05 | 16 | 初定 |
 | discipline | 纪律 | 第 8 章的核心：遵守审慎的程序、与他人协同的纪律，航空业在职业精神的三项期待之外加上的第四项 | 自律、学科 | ch02 | 16 | 初定 |
@@ -111,7 +131,7 @@
 | leverage | 杠杆 | 阿基米德的杠杆；Plain soap was leverage 写“普通肥皂就是杠杆”；投资语境的 leveraged 写“举债程度” |  | ch05 | 3 | 初定 |
 | behavior-change delivery vehicle | 改变行为的载体 | 卢比对肥皂的说法 |  | ch05 | 1 | 初定 |
 | pilot study / pilot sites | 试点研究 / 试点医院 | 第 7 章八家医院的研究；eight-city pilot study 写“八城市试点研究” | 飞行员 | ch05 | 7 | 初定 |
-| pilot / test pilot / copilot | 飞行员 / 试飞员 / 副驾驶 | first officer 也写“副驾驶”，captain 写“机长” | 试点 | ch02 | 76 | 初定 |
+| pilot / test pilot / copilot | 飞行员 / 试飞员 / 副驾驶 | first officer 也写“副驾驶”，captain 写“机长”；flight engineer 和第 8 章的 second officer 写“飞行工程师” | 试点 | ch02 | 76 | 初定 |
 | pilot flying / pilot not flying | 操纵飞行员 / 非操纵飞行员 | 航空分工：前者开飞机，后者负责发起和朗读清单；第一次出现加引号 |  | ch07 | 3 | 初定 |
 | crew | 机组 | cockpit crew 写“驾驶舱机组”，cabin crew 写“客舱机组”；emergency crew、rescue crews 按上下文写“急救人员”“救援人员”，construction crews 写“施工队” |  | ch01 | 23 | 初定 |
 | simulator | 模拟器 | flight simulator 写“飞行模拟器”；第 7 章作者把会议室叫作 simulator，写“模拟器”，保留玩笑的意味 |  | ch06 | 7 | 初定 |
@@ -130,7 +150,7 @@
 | vital signs | 生命体征 | 体温、脉搏、血压、呼吸频率，后来加上疼痛；vitals chart 写“生命体征记录表” |  | ch02 | 8 | 初定 |
 | Code Blue | 蓝色代码（Code Blue） | 医院里召集抢救心搏骤停的紧急呼叫；第一次出现括注原文并加译者注；A nurse called a Code Blue 写“一名护士呼叫了蓝色代码” |  | introduction | 2 | 初定 |
 | central line / line infection | 中心静脉导管 / 导管感染 | lines 指插进体内的各种导管，lined him up 写“给他置管”，arterial line 写“动脉导管” | 线路、电线 | ch01 | 24 | 初定 |
-| ICU / intensive care / critical care | ICU / 重症监护 / 危重症医学 | 原文写 ICU 的照写 ICU，第一次出现写“重症监护室（ICU）”；intensive care unit 写“重症监护室”；intensivist 写“重症医学科医生”；life support 写“生命支持” |  | ch01 | 67 | 初定 |
+| ICU / intensive care / critical care | ICU / 重症监护 / 危重症医学 | 原文写 ICU 的照写 ICU，第一次出现写“重症监护室（ICU）”；intensive care unit 写“重症监护室”；intensivist 写“重症医学科医生”；life support 写“生命支持”；ICU medicine 指医学领域时写“重症监护（ICU）”；critical care 指学科写“危重症医学”，指医院所做的救治工作写“危重症救治” |  | ch01 | 67 | 初定 |
 | operating room / OR / operating theater | 手术室 | 原文写 OR 的也写“手术室”；第 5 章说明 operating theater 字面意思的地方写“手术剧场”并括注原文、加译者注，第 7 章伦敦的用法直接写“手术室” |  | introduction | 68 | 初定 |
 | anesthesiologist / anesthetist | 麻醉科医生 / 麻醉师 | 前者是医生；后者在英国和许多国家不一定是医生（坦桑尼亚的麻醉师都没有医学学位）；anesthesia staff 写“麻醉人员”，nurse anesthetist 写“麻醉护士” |  | introduction | 50 | 初定 |
 | circulating nurse / scrub nurse | 巡回护士 / 器械护士 | scrub tech 写“器械技师”；scrubbed-in nurse 写“上台的器械护士” |  | ch05 | 13 | 初定 |
@@ -154,6 +174,16 @@
 | system | 系统 / 体系 | 伯威克说的 system 指人和技术组合成的整体；health system 写“卫生系统”或“医疗体系”，organ systems 写“器官系统” |  | ch01 | 44 | 初定 |
 | patient safety | 患者安全 | WHO Patient Safety 写“世卫组织患者安全项目” |  | ch05 | 4 | 初定 |
 | case | 病例 / 手术 | 外科医生说的 case 常指一台手术（five cases 写“五台手术”）；case report 写“病例报告”，case study 写“案例研究” | 案件 | introduction | 62 | 初定 |
+| clinicians | 临床医生 | 原文泛指给病人看病的医生和护士；expert clinicians 写“临床专家”，teams of clinicians 写“临床医生团队” | 临床医护人员 | introduction | 15 | 初定 |
+| practitioners / health professionals / medical personnel | 医务人员 | 指医生、护士在内的各种从业者；other health professionals、other medical personnel 写“其他医务人员”；nurse practitioners 写“执业护士”，senior practitioner 写“资深医生” | 医疗专业人员 | ch01 | 8 | 初定 |
+| heart attack | 心脏病发作 | heart attack patients 写“心脏病发作的病人” |  | introduction | 14 | 初定 |
+| asystole / cardiac arrest | 心脏停搏 / 心搏骤停 | asystole 和 flat-line cardiac arrest 指监护仪上只剩一条直线的心脏停搏，第一次出现括注 asystole；cardiac arrest 泛指心搏骤停 | 心脏骤停 | introduction | 12 | 初定 |
+| breathing tube / feeding tube | 气管插管 / 营养管 | place a breathing tube 写“气管插管”；feeding tube 原文没有说从哪里插入，写“靠管子喂食”或“营养管” | 饲管、鼻饲管 | ch01 | 5 | 初定 |
+| ventilator / mechanical ventilation | 呼吸机 / 机械通气 | mechanical ventilator 也写“呼吸机”；ventilated patients 写“使用机械通气的病人”，on a ventilator 写“上呼吸机” |  | ch01 | 22 | 初定 |
+| heart-lung bypass / cardiac perfusionist | 体外循环 / 体外循环灌注师 | heart-lung bypass machine 写“体外循环机”；prepare for cardiac bypass 写“做好心脏体外循环的准备” |  | ch01 | 8 | 初定 |
+| sterile drapes | 无菌单 | surgical drapes 也写“无菌单” |  | introduction | 10 | 初定 |
+| spinal anesthesia | 腰麻 | 中国临床的通行说法；injections of numbing medication directly into the spinal canal 写“把麻醉药直接注射到椎管里” | 脊髓麻醉 | ch05 | 2 | 初定 |
+| preflight / preflight checklist | 飞行前 / 飞行前清单 | preflight check 写“飞行前检查”；凯撒医疗集团的 surgery preflight checklist 写“手术飞行前清单”，第一次出现括注原文 |  | ch05 | 4 | 初定 |
 
 ## 机构、产品与地名
 
@@ -188,7 +218,7 @@
 | Federal Emergency Management Agency (FEMA) | 联邦紧急事务管理署（FEMA） | 之后写 FEMA |
 | Department of Homeland Security / Department of Transportation | 国土安全部 / 交通部 |  |
 | New Orleans Superdome / Ernest N. Morial Convention Center | 新奥尔良超级穹顶体育馆 / 欧内斯特·N.莫里亚尔会议中心 |  |
-| Wal-Mart | 沃尔玛 |  |
+| Wal-Mart | 沃尔玛 | senior officials、upper management 写“高层管理人员” |
 | Coast Guard / National Guard / Red Cross | 海岸警卫队 / 国民警卫队 / 红十字会 |  |
 | Van Halen / M&M’s / Crazy from the Heat | 范·海伦乐队 / M&M’s 巧克力豆 / 《热昏了头》（*Crazy from the Heat*） | 罗斯的回忆录书名没有通行中译名，这里自译 |
 | Rialto / James Beard Foundation | Rialto 餐厅 / 詹姆斯·比尔德基金会 | Best Chef award 写“最佳主厨奖” |
@@ -208,6 +238,8 @@
 | Air Accidents Investigation Branch (AAIB) | 英国航空事故调查局（AAIB） |  |
 | Federal Aviation Administration / National Transportation Safety Board (NTSB) | 美国联邦航空管理局 / 美国国家运输安全委员会（NTSB） |  |
 | Heathrow / La Guardia / Teterboro / Seattle-Tacoma | 希思罗机场 / 拉瓜迪亚机场 / 泰特伯勒机场 / 西雅图-塔科马机场 |  |
+| Honolulu Center | 檀香山中心 | 第 6 章驾驶舱录音里的空管单位 |
+| Rolls-Royce | 罗尔斯·罗伊斯 | 发动机制造商；第 6 章注释里照写原文，译者注和审校记录里写中文 |
 | Hudson River / George Washington Bridge | 哈得孙河 / 乔治·华盛顿大桥 | miracle on the Hudson 写“哈得孙河奇迹” |
 | Tenerife / Canary Islands | 特内里费 / 加那利群岛 | 1977 年的特内里费空难 |
 | Cessna | 塞斯纳 |  |
