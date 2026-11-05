@@ -102,7 +102,8 @@ Florence Nightingale David	弗洛伦斯·南丁格尔·戴维	transliterated	统
 Davidson	戴维森	established	神经科学家，研究大脑前部的不对称	原文只写 Davidson，应是 Richard Davidson（理查德·戴维森）
 Davies	Davies	keep	书末注释引用的文献作者	只在书末注释的“作者（年份）”引用里出现，照写英文，和参考文献对应
 Shep Davis	Shep Davis	keep	读稿的朋友	只在第二版致谢里出现
-Richard Dawkins	理查德·道金斯	established	演化生物学家，《自私的基因》作者	
+Charles Darwin	查尔斯·达尔文	established	博物学家，《物种起源》作者	2026-11-05 按更好的来源补进第 4 章（原来那一句写的是道金斯的《自私的基因》）
+Richard Dawkins	理查德·道金斯	established	演化生物学家，《自私的基因》作者	2026-11-05 按更好的来源，第 4 章那一句改成达尔文，书末注释的“The Selfish Gene”一条删去；正文现在只在第 5 章出现（道金斯（Dawkins）），另外还在书末注释和参考文献的“作者（年份）”引用里出现
 Gerard Debreu	杰拉德·德布鲁	established	经济学家，诺贝尔经济学奖得主	
 Demiurgus	造物主	established	柏拉图哲学里创造世界的神	第 3 章原文用斜体 Demiurgus，写“造物主”，括注原文
 David DeRosa	David DeRosa	keep	作者的朋友	只在第一版致谢里出现
@@ -145,11 +146,11 @@ Bill Gates	比尔·盖茨	established	微软创始人
 Jim Gatheral	Jim Gatheral	keep	数量金融学者，和作者在库朗研究所合开课程	只在两版致谢里出现
 Gauss	高斯	established	德国数学家	只在书末注释的名单里出现
 W. J. Gehring	W. J. Gehring	keep	书末注释引用的文献作者	只在书末注释的“作者（年份）”引用里出现，照写英文，和参考文献对应
-Don Geman	Don Geman	keep	概率学家，Helyette Geman 的丈夫	只在第一版致谢里出现
+Don Geman	Don Geman	keep	概率学家，Helyette Geman 的丈夫	第一版致谢写 Don Geman；书末注释第 9 章“神秘的来信”一条（2026-11-05 补上）写 Donald Geman，是同一个人，也照写英文
 Helyette Geman	Helyette Geman	keep	作者的博士论文导师	只在第一版致谢里出现
 Nicholas Georgescu-Roegen	Nicholas Georgescu-Roegen	keep	书末注释引用的文献作者	只在书末注释的“作者（年份）”引用里出现，照写英文，和参考文献对应
 Amanda Gharghour	Amanda Gharghour	keep	帮忙核对引文的人	只在第二版致谢里出现
-al-Ghazālī	安萨里	established	11 世纪伊斯兰神学家、哲学家	也作“加扎利”；第 13 章拼作 al-Ghazali
+al-Ghazālī	安萨里	established	11 世纪伊斯兰神学家、哲学家	也作“加扎利”；第 13 章原来拼作 al-Ghazali，2026-11-05 按更好的来源统一成 al-Ghazālī
 Gerd Gigerenzer	格尔德·吉仁泽	established	德国心理学家，ABC 研究组的负责人	吉仁泽是他中译本的署名
 D. Gilbert	D. Gilbert	keep	书末注释引用的文献作者	只在书末注释的“作者（年份）”引用里出现，照写英文，和参考文献对应
 Donald Gillies	Donald Gillies	keep	书末注释引用的文献作者	只在书末注释的“作者（年份）”引用里出现，照写英文，和参考文献对应
@@ -317,6 +318,7 @@ Blaise Pascal	帕斯卡	established	法国数学家、哲学家	原文只写 Pas
 John Dos Passos	约翰·多斯·帕索斯	established	美国小说家	
 David Pastel	David Pastel	keep	作者的朋友	只在第一版致谢里出现
 Patroclus	帕特洛克罗斯	established	《伊利亚特》里阿喀琉斯的战友	原文拼作 Patrocles
+John Allen Paulos	约翰·艾伦·保罗斯	transliterated	数学家，《数盲》（Innumeracy）作者	只在书末注释第 9 章“神秘的来信”一条的行文里出现（2026-11-05 补上）；(Paulos 1988) 是引用，照写英文
 Linus Pauling	莱纳斯·鲍林	established	化学家	
 Egon Pearson	埃贡·皮尔逊	established	统计学家，卡尔·皮尔逊之子	
 Karl Pearson	卡尔·皮尔逊	established	统计学家	第 9 章 Professor Pearson 写“皮尔逊教授”

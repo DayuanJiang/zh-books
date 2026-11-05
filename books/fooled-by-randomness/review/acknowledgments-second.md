@@ -66,3 +66,20 @@
 - 按全书统一的写法修改：0 处。逐条对照了术语表的“全书统一的写法”和“全书统一的写法（译完后定）”：数字“23 个世纪”“20 年前”“第 10 章”用阿拉伯数字，“两次晚饭”“一个世纪”用汉字，符合规定；《平面国》（*Flatland*）、《非理性繁荣》（*Irrational Exuberance*）、《卑鄙的基因》（*Mean Genes*）在本节第一次出现时括注了斜体原题，指本书的 Fooled 写《随机漫步的傻瓜》，和第 8 章一样不括注；有中文译名的 13 人在本节第一次出现时括注英文，写 keep 的亲友同事照写英文，和 people-zh.tsv 一致；Nobel economists 写“诺贝尔经济学奖得主”，evolutionary 写“进化”，heuristic、critical point、network externalities、informational cascades、skeptical empiricist 照术语表写；斜体旁边没有会让 CommonMark 闭合不了的标点；没有破折号、体例禁用的对比句式和混进中文的半角标点。
 - 对英文原文的疑问：审校者也指出第 9 块 “Levantine-tradder-mathematician-physicist” 里的 tradder 是 trader 的笔误。上面“原文疑点”表里已经记过，中文按 trader 译作“交易员”，`en/` 不改。
 - 核实与修改：agent（Opus 5.5）。改完后运行 `python3 scripts/site.py status fooled-by-randomness`，本节显示 11/11，全部块已翻译，原文没有注释；全书 1294/1294 块已翻译。
+
+## 补全后的改动
+
+2026-11-05，Claude（Opus 5.5 agent）拿用户提供的更好的来源（Random House 电子书较新的一次修订，版本号 rh_3.0 r12，原来导入的是 r8）和 en/ 逐块比对，按它改了本节。来源、比对方法和全书的改动清单见 `review/source.md` 的“用更好的来源补全（2026-11-05）”。下面的块号是改动以后的块号。
+
+- 第 6 块：新版删去了从 after I saw that his work went so much deeper than mere rational choice under uncertainty 到 Now understanding happiness is a *real* pursuit. 的一大段（163 个词，讲卡尼曼研究的意义，原文里 but *His work matters* 的大写 H 也在这一段里）。中文删去对应的内容，只留下“改写这本书的大部分时间里，我都处在两次热烈交谈的激励之下：我在意大利和丹尼尔·卡尼曼（Daniel Kahneman）吃过两次晚饭，聊得很投入。这两次交谈把我的求知热情“推”到了下一个临界点。”阿莫斯·特沃斯基随这一段一起删去，本节别处没有提到他。
+- 第 3 块的 pre- and post-Fooled life：新版写成 pre-and，少了空格，en/ 保留原来的写法。
+- 块数不变，仍是 11 块。
+- 检查：`python3 scripts/site.py status fooled-by-randomness` 全书 1300/1300 块已译；`python3 scripts/site.py check fooled-by-randomness` 通过；`tools/compare_better_source.py` 报告要查的差异为 0；用 markdown-it 渲染全书，中英文都没有露出的星号；新写的中文没有破折号，也没有体例禁用的对比句式。这些改动只做了译者自检，还没有经过另一个 agent 的双语审校。
+
+## 2. 双语审校（补全部分）
+
+- 执行者：另一个独立上下文的 agent（Opus 5.5），没有参与这次补全和翻译。日期 2026-11-05。
+- 范围：第 6 块（删去讲卡尼曼研究意义的一大段）。逐块对照现在 en/ 里的新版（r12）文字，表格和图另外对照新版 EPUB 里的原图；检查了意思、漏译和增译、数字、人名和括注、术语、注释，以及中文读起来是否通顺。
+- 发现：0 条。中文只留下两次晚餐交谈和“推”到下一个临界点这两层意思，和新版的那一句完全对应；卡尼曼在本节第一次出现，括注留在这里是对的；特沃斯基随删去的一段一起消失，本节别处没有他。
+- 修改：无。
+- 检查：改完后运行 `python3 scripts/site.py status fooled-by-randomness`，28 节都是 review，1300/1300 块已译，第 7 章注释 2/2；`python3 scripts/site.py check fooled-by-randomness` 通过。新写和改过的中文里没有破折号，没有体例禁用的对比句式，也没有混进中文的半角标点。

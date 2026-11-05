@@ -130,3 +130,23 @@
   - 其余各条核对过，这一节已经合乎规定：Nassim 出现在别人的话里，写“纳西姆（Nassim）”；brother-in-law 写“姐夫”；书名写《百万富翁的智慧》。译者自检和中文通读留给主会话的这三项，统一写法里已经有了结论。数字（16 世纪、十年、五百年、一千多名、三只股票、50 多万读者）合乎规定，“五百年”是 half a millennium 的约数。《新闻周刊》不括注。ex post 写“事后”，用正体；*dialogue de sourds*、*Homo sum* 保留斜体并括注中文。本节非生物学意义的 evolution、evolve 写“我个人的变化”“变成成功的商人”，第 3 章、第 13 章同类的用法也按上下文写成“演变”“演进”，保留。“休谟（Hume）的归纳问题”和书末注释“古德曼（Goodman）的归纳之谜”写法相同，保留。本节没有需要加译者注的地方。
 - 对英文原文的疑问：审校者提了两条，都已经记在本记录的原文疑点表里：第 6 块 “less, far less, random that it actually is” 的 that 应为 than；第 29 块 “Kojo Anandi” 可能是 Kojo Nnamdi 的误拼，照 people-zh.tsv 写“科乔·阿南迪（Kojo Anandi）”。本轮没有新的疑点。
 - 核实与修改：agent（Opus 5.5）。改完后运行 `python3 scripts/site.py status fooled-by-randomness`：preface 30/30，本节没有注释；全书 1294/1294 块已译。用 markdown-it 渲染本节，29 处斜体，没有残留的星号；中英两个文件都是 59 行，块的对应没有变；没有破折号，没有体例禁用的对比句式。
+
+## 补全后的改动
+
+2026-11-05，Claude（Opus 5.5 agent）拿用户提供的更好的来源（Random House 电子书较新的一次修订，版本号 rh_3.0 r12，原来导入的是 r8）和 en/ 逐块比对，按它改了本节。来源、比对方法和全书的改动清单见 `review/source.md` 的“用更好的来源补全（2026-11-05）”。下面的块号是改动以后的块号。
+
+- 第 6 块：random that it actually is 改成 random than it actually is。原文疑点表里记的这个笔误，新版已经改正；中文本来就按 than 译，没有改。
+- 第 15 块：新版删去了括号里的 (not coincidentally also dominated by Daniel Kahneman, the pioneer of the ideas on irrational behavior under uncertainty)。中文删去对应的一句“这个领域同样由丹尼尔·卡尼曼（Daniel Kahneman）主导，这并非巧合，他是研究不确定性下非理性行为的先驱。”本节别处没有再提到卡尼曼，括注不用挪。
+- 第 20 块：英文的斜体改成 `fallacy—*affirming the consequent*—can`，把破折号移到斜体外面。原文疑点表里记的英文页面露出星号的问题解决了；中文没有改。
+- 块数不变，仍是 30 块。
+- 检查：`python3 scripts/site.py status fooled-by-randomness` 全书 1300/1300 块已译；`python3 scripts/site.py check fooled-by-randomness` 通过；`tools/compare_better_source.py` 报告要查的差异为 0；用 markdown-it 渲染全书，中英文都没有露出的星号；新写的中文没有破折号，也没有体例禁用的对比句式。这些改动只做了译者自检，还没有经过另一个 agent 的双语审校。
+
+## 2. 双语审校（补全部分）
+
+- 执行者：另一个独立上下文的 agent（Opus 5.5），没有参与这次补全和翻译。日期 2026-11-05。
+- 范围：“补全后的改动”列出的第 6、15、20 块。逐块对照现在 en/ 里的新版（r12）文字，表格和图另外对照新版 EPUB 里的原图；检查了意思、漏译和增译、数字、人名和括注、术语、注释，以及中文读起来是否通顺。
+- 发现：0 条。
+  - 第 15 块删去讲卡尼曼的括号后，中文删去对应的一句，前后衔接自然。核实了本节中英两边都不再出现卡尼曼，括注不用挪到别处。
+  - 第 6 块（than）和第 20 块（破折号移到斜体外面）的改动在英文一侧，中文原来的译法和新版的意思一致。
+- 修改：无。
+- 检查：改完后运行 `python3 scripts/site.py status fooled-by-randomness`，28 节都是 review，1300/1300 块已译，第 7 章注释 2/2；`python3 scripts/site.py check fooled-by-randomness` 通过。新写和改过的中文里没有破折号，没有体例禁用的对比句式，也没有混进中文的半角标点。

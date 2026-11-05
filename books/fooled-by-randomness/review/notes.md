@@ -126,3 +126,26 @@
   - 第 76 块：古德曼给 grue 下的定义以“在时刻 *t* 之前有没有被观察过”为条件（在 *t* 之前被观察过并且是绿色，或者没有被观察过并且是蓝色），并不要求同一个东西到了 *t* 就变色。作者的说法在这一点上也和原定义不同。
   - 第 86 块：夏普比率的分子通常是相对于基准（例如无风险利率）的超额收益，变异系数是标准差除以均值。按作者自己给的定义（收益除以标准差），两者才互为倒数；按哪一种定义，两者都算不上同一个概念。
 - 核实与修改：agent（Opus 5.5）。改完后运行 `python3 scripts/site.py status fooled-by-randomness`，notes 一行是 154/154，全书 28 节、1294/1294 块都已译完；用框架的 markdown-it 逐块渲染，没有残留的星号；全文没有破折号，也没有体例禁用的对比句式。
+
+## 补全后的改动
+
+2026-11-05，Claude（Opus 5.5 agent）拿用户提供的更好的来源（Random House 电子书较新的一次修订，版本号 rh_3.0 r12，原来导入的是 r8）和 en/ 逐块比对，按它改了本节。来源、比对方法和全书的改动清单见 `review/source.md` 的“用更好的来源补全（2026-11-05）”。下面的块号是改动以后的块号。
+
+- 第 4 章：新版删去了 ***The Selfish Gene:*** Dawkins (1989, 1976). Hegel: In Popper (1994). 这一块（第 4 章正文那一句改成了达尔文的《物种起源》），中英两边都删了。
+- 第 9 章：补上新版的一条（第 83 块），英文是 **The mysterious letter:** John Allen Paulos has a similar story in Innumeracy (Paulos 1988). The story was initially told to the author by the great mathematician (and sometime gambler) Donald Geman.，中文是“**神秘的来信**：约翰·艾伦·保罗斯（John Allen Paulos）在《数盲》（*Innumeracy*）里讲过一个类似的故事 (Paulos 1988)。这个故事最早是伟大的数学家（偶尔也赌一把）Donald Geman 讲给作者听的。”主题词和第 9 章小标题的“神秘的来信”一致；书名照体例用《》并括注斜体原题；Donald Geman 和第一版致谢里的 Don Geman 是同一个人，照 people-zh.tsv 写英文；参考文献里已有 Paulos 1988 这一条。
+- 第 102 块 If he can. 改成 If she or he can.。新版把泛指的 he 改成了 he or she（或 she or he），意思不变；按术语表“代词”一条，中文照旧写“他”，没有改。
+- 块数不变，仍是 154 块：删了一块，补了一块；第 58 到 82 块的块号比原来少 1。
+- 注释的位置：新版里每条注释的主题词都链接到正文的一个位置，107 条全部找到了，对照表在 `review/note-places.tsv`（注释、所在章节、en/ 文件的行号、那一段的开头）。这一节仍保留为单独的一节，原因见 source.md。
+- 检查：`python3 scripts/site.py status fooled-by-randomness` 全书 1300/1300 块已译；`python3 scripts/site.py check fooled-by-randomness` 通过；`tools/compare_better_source.py` 报告要查的差异为 0；用 markdown-it 渲染全书，中英文都没有露出的星号；新写的中文没有破折号，也没有体例禁用的对比句式。这些改动只做了译者自检，还没有经过另一个 agent 的双语审校。
+
+## 2. 双语审校（补全部分）
+
+- 执行者：另一个独立上下文的 agent（Opus 5.5），没有参与这次补全和翻译。日期 2026-11-05。
+- 范围：第 4 章删去的 The Selfish Gene 一条，第 9 章新加的第 83 块，第 102 块（she or he）。逐块对照现在 en/ 里的新版（r12）文字，表格和图另外对照新版 EPUB 里的原图；检查了意思、漏译和增译、数字、人名和括注、术语、注释，以及中文读起来是否通顺。
+- 发现：0 条。
+  - 新版书末注释里确实没有 The Selfish Gene 这一条，同一块里的 Hegel: In Popper (1994) 也一起删了，中英两边删得一致。
+  - 第 83 块在新版里是 CHAPTER 9 下的第一条，位置一致。主题词“神秘的来信”和第 9 章小标题一致；“约翰·艾伦·保罗斯（John Allen Paulos）”合人名体例；行文里的 (Paulos 1988) 照写英文，格式和第 97 块的 (Wilson 2002) 一样；“（偶尔也赌一把）”准确对应 and sometime gambler。
+  - Donald Geman 出现在注释的行文里，按体例本该写中文名。people-zh.tsv 把他和第一版致谢的 Don Geman 算作同一人，照写英文，这个决定已经记在人名表里，同意保留。
+  - 第 102 块的改动在英文一侧，中文“如果他做得到的话”按术语表“代词”一条处理。
+- 修改：无。
+- 检查：改完后运行 `python3 scripts/site.py status fooled-by-randomness`，28 节都是 review，1300/1300 块已译，第 7 章注释 2/2；`python3 scripts/site.py check fooled-by-randomness` 通过。新写和改过的中文里没有破折号，没有体例禁用的对比句式，也没有混进中文的半角标点。

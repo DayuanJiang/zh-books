@@ -112,8 +112,6 @@ Even more vicious results have been shown by researchers who studied how much pe
 
 **The hoax:** Sokal (1996).
 
-***The Selfish Gene:*** Dawkins (1989, 1976). Hegel: In Popper (1994).
-
 **Exquisite cadavers:** Nadeau (1970).
 
 **The generator:** [www.monash.edu.au](http://www.monash.edu.au).
@@ -164,6 +162,8 @@ The millionaire next door: Stanley (1996).
 
 ## Chapter 9
 
+**The mysterious letter:** John Allen Paulos has a similar story in Innumeracy (Paulos 1988). The story was initially told to the author by the great mathematician (and sometime gambler) Donald Geman.
+
 **Hot-hand effect:** Gilovich, Vallone and Tversky (1985).
 
 **Stock analysts fooled by themselves:** For a comparison between analysts and weather forecasters, see Taszka and Zielonka (2002).
@@ -200,7 +200,7 @@ Perhaps the best way to see it for an economist is the maximization leading to a
 
 Even then, it is not easy. Who is maximizing what? To begin, there is a conflict between collective and individual rationality (“tragedy of the commons” seen by Keynes in his parable of the stadium where one’s optimal strategy is to stand up, but collectively the optimal strategy is for everyone to remain seated). Another problem is seen in Arrow’s voter’s impossibility theorem. Consider also the following voter problem: People vote but the probability adjusted gains from voting can be less than the effort expended in going to the polling place. See Luce and Raiffa (1957) for a discussion of these paradoxes.
 
-Note that the literature on rational choice under uncertainty is very extensive, cutting across fields, from evolutionary game theory to political science. But as John Harsanyi put it bluntly, *It is normative, and meant to be so.* This is a heroic statement: Saying that economics has abandoned its scientific pretensions and accepted that it does not describe how people *do* act but rather how they *should* act. It means that it has entered the realm of something else: philosophy (though not quite ethics). As such, an individual can accept it fully and should aim to act like the neoclassical man. If he can.
+Note that the literature on rational choice under uncertainty is very extensive, cutting across fields, from evolutionary game theory to political science. But as John Harsanyi put it bluntly, *It is normative, and meant to be so.* This is a heroic statement: Saying that economics has abandoned its scientific pretensions and accepted that it does not describe how people *do* act but rather how they *should* act. It means that it has entered the realm of something else: philosophy (though not quite ethics). As such, an individual can accept it fully and should aim to act like the neoclassical man. If she or he can.
 
 **Ultimate/proximate as a solution to some rationality problems:** Evolutionary theorists distinguish between proximate and ultimate cause.
 

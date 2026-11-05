@@ -21,6 +21,35 @@ If there is one cause for this confusion between the left and the right sides of
 **Table P.1 Table of Confusion**  
 ***Presenting the central distinctions used in the book***
 
+|  |  |
+| --- | --- |
+| ***General*** |  |
+| Luck | Skills |
+| Randomness | Determinism |
+| Probability | Certainty |
+| Belief, conjecture | Knowledge, certitude |
+| Theory | Reality |
+| Anecdote, coincidence | Causality, law |
+| Forecast | Prophecy |
+| ***Market Performance*** |  |
+| Lucky idiot | Skilled investor |
+| Survivorship bias | Market outperformance |
+| ***Finance*** |  |
+| Volatility | Return (or drift) |
+| Stochastic variable | Deterministic variable |
+| ***Physics and Engineering*** |  |
+| Noise | Signal |
+| ***Literary Criticism*** |  |
+| None (literary critics do not seem to have a name for things they do not understand) | Symbol |
+| ***Philosophy of Science*** |  |
+| Epistemic probability | Physical probability |
+| Induction | Deduction |
+| Synthetic proposition | Analytic proposition |
+| ***General Philosophy*** |  |
+| Contingent | Certain |
+| Contingent | Necessary (in the Kripke sense) |
+| Contingent | True in all possible worlds |
+
 The nineteenth-century cartoon character, pot-bellied bourgeois Monsieur Prudhomme, carried around a large sword with a double intent: primarily to defend the Republic against its enemies, and secondarily to attack it should it stray from its course. In the same manner, this book has two purposes: to defend science (as a light beam across the noise of randomness), and to attack the scientist when he strays from his course (most disasters come from the fact that individual scientists do not have an innate understanding of standard error or a clue about critical thinking, and likewise have proved both incapable of dealing with probabilities in the social sciences and incapable of accepting such fact). As a practitioner of uncertainty I have seen more than my share of snake-oil salesmen dressed in the garb of scientists, particularly those operating in economics. The greatest fools of randomness will be found among these.
 
 We are flawed beyond repair, at least for this environment—but it is only bad news for those utopians who believe in an idealized humankind. Current thinking presents the two following polarized visions of man, with little shades in between. On the one hand there is your local college English professor; your great-aunt Irma, who never married and liberally delivers sermons; your how-to-reach-happiness-in-twenty-steps and how-to-become-a-better-person-in-a-week book writer. It is called the Utopian Vision, associated with Rousseau, Godwin, Condorcet, Thomas Paine, and conventional normative economists (of the kind to ask you to make rational choices because that is what is deemed good for you), etc. They believe in reason and rationality—that we should overcome cultural impediments on our way to becoming a better human race—thinking we can control our nature at will and transform it by mere edict in order to attain, among other things, happiness and rationality. Basically this category would include those who think that the cure for obesity is to inform people that they should be healthy.

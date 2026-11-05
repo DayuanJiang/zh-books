@@ -107,3 +107,19 @@
   - 审校者提出的第 6 块 “ergodicity in Chapter 8” 的章号、第 20 块 satisficing “a blend of satisfying and maximizing” 的说法、第 10 块 “As a matter a fact” 漏了 of，前几轮已经记在“原文疑点”里，前两处各有一条译者注。
   - 新增一处：第 8 块 “The link between the skill of the CEO and the results of the company are tenuous.” 的主语是 link，动词应为 is。不影响意思，照原意译“联系十分薄弱”。
 - 核实与修改：agent（Opus 5.5）。改完后运行 `python3 scripts/site.py status fooled-by-randomness`，postscript 显示 34/34，全书 1294/1294；`tools/term_consistency.py` 全书检查 1705 处，没有报出本节的块；用 markdown-it 按 CommonMark 渲染，中文没有露出的星号；全节没有破折号和体例禁用的对比句式。
+
+## 补全后的改动
+
+2026-11-05，Claude（Opus 5.5 agent）拿用户提供的更好的来源（Random House 电子书较新的一次修订，版本号 rh_3.0 r12，原来导入的是 r8）和 en/ 逐块比对，按它改了本节。来源、比对方法和全书的改动清单见 `review/source.md` 的“用更好的来源补全（2026-11-05）”。下面的块号是改动以后的块号。
+
+- 第 5 块 if he gets it right 改成 if he or she gets it right，hard for him 改成 hard for him or her；第 14 块讲央行行长的四个 he 和一个 He 改成 they、They。新版把泛指的 he 改成了 he or she（或 she or he），意思不变；按术语表“代词”一条，中文照旧写“他”，没有改。
+- 块数不变，仍是 34 块。
+- 检查：`python3 scripts/site.py status fooled-by-randomness` 全书 1300/1300 块已译；`python3 scripts/site.py check fooled-by-randomness` 通过；`tools/compare_better_source.py` 报告要查的差异为 0；用 markdown-it 渲染全书，中英文都没有露出的星号；新写的中文没有破折号，也没有体例禁用的对比句式。这些改动只做了译者自检，还没有经过另一个 agent 的双语审校。
+
+## 2. 双语审校（补全部分）
+
+- 执行者：另一个独立上下文的 agent（Opus 5.5），没有参与这次补全和翻译。日期 2026-11-05。
+- 范围：第 5 块（he or she）和第 14 块（讲央行行长的 he 改成 they）。逐块对照现在 en/ 里的新版（r12）文字，表格和图另外对照新版 EPUB 里的原图；检查了意思、漏译和增译、数字、人名和括注、术语、注释，以及中文读起来是否通顺。
+- 发现：0 条。第 14 块的 they 指单个的央行行长，中文按术语表“代词”一条写“他”，意思和新版一致；第 5 块同理。
+- 修改：无。
+- 检查：改完后运行 `python3 scripts/site.py status fooled-by-randomness`，28 节都是 review，1300/1300 块已译，第 7 章注释 2/2；`python3 scripts/site.py check fooled-by-randomness` 通过。新写和改过的中文里没有破折号，没有体例禁用的对比句式，也没有混进中文的半角标点。

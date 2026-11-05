@@ -87,3 +87,122 @@ uv run --project framework/tools python -I books/fooled-by-randomness/tools/chec
 - **参考文献的格式**：作者、年份、页码之间常缺空格，书名的斜体范围也不完全统一，照原样保留。
 
 - 书末注释“阿拉伯的怀疑论者”一条的 al-Ghazl 是乱码，和参考文献一样改成 al-Ghazālī（翻译完成后补改）。
+
+## 用更好的来源补全（2026-11-05）
+
+上面各节记的是第一次导入时的情况。2026-11-05 用户提供了更好的来源，由 Claude（Opus 5.5 agent）逐块比对，补上缺失的图表，并把 en/ 改成和它一致。这一节记录来源、比对方法和全部改动；改动涉及的各节，审校记录末尾另有“补全后的改动”。
+
+### 来源
+
+- 文件：用户提供的 MOBI（`new.mobi`，1.2 MB，SHA-256 `3fa7c25b97b7909ba2d5ea757e69cb0cf4b4856fcc806006d2666109292d1728`），由它解包成的 EPUB（`new.epub`，953 KB，SHA-256 `1e179298768d9a288c96cb73be35e1b6db6874547419515faf88a283841ce9b3`）。两个文件都不放进仓库，比对只在 `/tmp` 下的副本上进行。`book.json` 的 `source` 记的仍是第一次导入的 EPUB。
+- 版本：和原来是同一个 Random House 电子书。版权页同样写 Copyright © 2004，电子书 ISBN 9781588367679，不同的是版本号：这一份是 rh_3.0_140823556_c0_r12，原来导入的是 v3.0_r8，也就是同一个电子书较新的一次修订。元数据里记着出版社 2022 年 8 月更新过这本电子书。
+- 结构：34 个 XHTML 文件，顺序和目录都和原来一一对应，没有新的章节，也没有索引；没有中文网站插入的广告页。标记是干净的，没有 Epubor 在行内标签后面加的换行和空格。
+- 图片 13 张：封面、书名页的图、出版社标志；两张 7×10 像素左右的小图，分别是带长音符号的 ā 和 ī，用来拼 al-Ghazālī 这个名字；其余 8 张就是原来缺的 5 张表和 3 张图。
+
+### 比对的方法
+
+`tools/compare_better_source.py` 直接读 EPUB，按 `book.json` 的 28 节逐节和 en/ 比较：
+
+```bash
+uv run --project framework/tools python -I books/fooled-by-randomness/tools/compare_better_source.py new.epub --places books/fooled-by-randomness/review/note-places.tsv
+```
+
+- 逐词比较：规则和 `check_source.py` 一样（转成小写，不计标点，词里的连字符、撇号和点算作词的一部分），整节的词序列放在一起比，所以漏掉、多出和错位的段落都会显示出来，每处差异给出 en/ 的行号。
+- 逐段比较字符：英文的一段，如果它的词都来自新版的同一段，而且词数相同，就再比字符（去掉 Markdown 的强调记号；标题不计大小写和章号），找出标点、字母和空格的差别。1312 段里有 1284 段做了字符比较，其余 28 段是标题（章号写法不同，或者原书的标题分成几段）和有词差异的段落，已经在逐词比较里列出。
+- 图表：新版每张图片的位置、旁边的图题，以及 en/ 在同一位置有没有图片或表格。从图片改写成的表格不参加逐词比较。
+- 注释的位置：新版书末注释的每个主题词都链接到正文里的一个空标记（`nts_001` 等），脚本找出这个标记落在 en/ 的哪一段。
+- en/ 有意保留的差异写在脚本的 `KEPT_WORDS` 和 `KEPT_CHARS` 里，打印为 kept；其余一律打印为 CHECK 并计数。改完以后，脚本报告要查的差异为 0，所有图表都找到了对应的图片或表格。
+- 纯粹的格式差别（斜体范围、换行、标题级别和大小写）不算差异。
+
+### 补上的图表
+
+新版的 5 张表都是图片，内容是简单的文字表格，所以改写成 Markdown 表格，中英两边各一份，是可以翻译的块；表的图片没有放进仓库。3 张图是曲线图，图片放在 `en/images/`，只出现在英文文件里，图题照原来的中文。负数用减号“−”，金额按体例换算。
+
+| 图表 | 位置（改动后的块号） | 做法 |
+| --- | --- | --- |
+| 表 P.1 混淆表 | 序章第 12 块，表题和副题后面 | 表格。原表没有列名，表头一行留空；七个组名（General、Market Performance、Finance、Physics and Engineering、Literary Criticism、Philosophy of Science、General Philosophy）用粗斜体单独占一行，共 26 行 |
+| 表 3.1 不同尺度上的成功概率 | 第 3 章第 69 块 | 表格，“尺度、概率”两列，7 行 |
+| 表 6.1 | 第 6 章第 10 块 | 表格，“事件、概率、结果、期望”四列，3 行 |
+| 表 6.2 | 第 6 章第 20 块 | 表格，四列，3 行（原图在“合计”前面空了一行，没有照搬） |
+| 图 6.1 时间序列入门 | 第 6 章图题（第 37 块）前面 | 图片 `en/images/figure-6-1.jpg`，图上的标注是英文（OBSERVATION PERIOD、TIME） |
+| 表 11.1 交易员的方法与科学的方法 | 第 11 章第 35 块 | 表格，“交易员的叫法、学术名称、说明”三列，6 行 |
+| 图 11.1、图 11.2 | 第 11 章两个图题（第 116、117 块）前面 | 图片 `en/images/figure-11-1.jpg`、`figure-11-2.jpg`，图上只有坐标数字 |
+
+表里的中文按术语表和正文已有的译法写，例如 Luck 写“运气”、Skills 写“能力”、Noise 写“噪声”、Survivorship bias 写“幸存者偏差”、Prospect theory 写“前景理论”、Hindsight bias 写“后见之明偏差”；表 11.1 第一列的叫法照第 11 章第 32 块正文的译法写。术语表的“图表”“译者注”和混淆表三处说明已经同步改过。
+
+### 新版的修订
+
+r12 和 r8 之间有作者或出版社的修订。en/ 统一改成新版的文字，中文按下面的原则处理：意思变了的改中文，意思没变的不改。改掉的旧文字都记在这里，以后要对照旧版时可以查。
+
+改变意思的修订，中文跟着改：
+
+| 章节（块） | r8 的文字（原来的 en/） | r12 的文字（现在的 en/） | 中文 |
+| --- | --- | --- | --- |
+| 序言（15） | adaptation after a severe random event (not coincidentally also dominated by Daniel Kahneman, the pioneer of the ideas on irrational behavior under uncertainty). | adaptation after a severe random event. | 删去“这个领域同样由丹尼尔·卡尼曼……的先驱。”一句 |
+| 第 3 章（33） | This point has been examined by behavioral economics pioneers Daniel Kahneman and Amos Tversky with regard to … | This point has been examined in some intellectual traditions with regard to … | 改成“有些思想传统研究过这一点” |
+| 第 4 章（6） | what struck me while reading Richard Dawkins’ *Selfish Gene* | what struck me while reading Charles Darwin’s *On the Origin of Species* | 改成“查尔斯·达尔文（Charles Darwin）的《物种起源》（*On the Origin of Species*）”；`recaps/ch04.md` 一条要点跟着改 |
+| 第 6 章（15） | people who are judged on their numerical performance | judged solely on | “只凭数字业绩” |
+| 第 6 章（17） | interjected, “But, Nassim, you just boasted | interjected, “But you just boasted | 删去“纳西姆，” |
+| 第 6 章（21） | they are paid in dollars. | they are paid in dollars, rubles, dinars, Phoenician thekles, or sesterces. | “美元、卢布、第纳尔、腓尼基的谢克尔或者塞斯特斯” |
+| 第 6 章（23） | he came by Concorde | he came by the supersonic Concorde | “超音速的协和式飞机” |
+| 第 6 章（27） | upgrading their PalmPilot | upgrading their handheld device | “掌上设备” |
+| 第 6 章（33） | the global-warming debate | the climate change debate | 两处“全球变暖”改成“气候变化” |
+| 第 11 章（18） | compared it to rational models | compared it to so-called rational models | “所谓的理性模型” |
+| 第 11 章（24） | 段末有 A motivated reader can get concentrated in four volumes the collection of the major heuristics and biases papers. | 删去这一句 | 删去“有心的读者可以在四卷书里读到……合集。” |
+| 第 11 章（26） | 没有 | 新加一段：Clearly there are limitations to what is seen as “irrational”: sometimes people equipped with the wrong framework may detect irrationality where there is none. Many biases seen by the Kahneman and Tversky school are not biases but just complicated behavior missed by the researchers. | 新译一段 |
+| 修订第二版致谢（6） | … intellectual drive, after I saw that his work went so much deeper than mere rational choice under uncertainty. … Now understanding happiness is a *real* pursuit. | … intellectual drive. | 删去对应的一大段（163 个词，讲卡尼曼研究的意义） |
+| 书末注释（第 4 章） | ***The Selfish Gene:*** Dawkins (1989, 1976). Hegel: In Popper (1994). | 删去这一条 | 删去这一块 |
+| 书末注释（第 9 章，83） | 没有 | **The mysterious letter:** John Allen Paulos has a similar story in Innumeracy (Paulos 1988). The story was initially told to the author by the great mathematician (and sometime gambler) Donald Geman. | 新译一条，主题词照第 9 章小标题写“神秘的来信” |
+
+泛指的代词改成两性并列，意思不变，中文按术语表“代词”一条照旧写“他”：第 1 章第 41、43 块（he or she、her or his），第 2 章第 19 块，第 8 章第 28 块，第 9 章第 36 块，第 12 章第 18 块，后记第 5 块（he or she、him or her）和第 14 块（讲央行行长的 he 改成 they），书末注释第 102 块。
+
+新版改正的笔误。这几处原来记在各节的原文疑点里，中文本来就按改正后的意思译，没有改：序言第 6 块 that 改成 than；第 3 章第 80 块删去多余的 that（Note also the implication that…）；第 6 章第 53 块 brand on 改成 brand of；第 11 章第 52 块 spokesmen 改成 spokesman，第 66 块 simulations 改成 stimulations；第 12 章第 8 块 closed superstitions 改成 closet superstitions。
+
+### 比对时发现的 en/ 自己的问题
+
+- 七处斜体和破折号挨着，收尾或开头的星号贴着破折号，按 CommonMark 的规则不起作用，英文页面上会露出星号：序言第 20 块（affirming the consequent）、第 1 章第 23 块（indeterminism）、第 3 章第 49 块（Vanity Fair）、第 5 章第 30 块（interest rate differential）、第 6 章第 38 块（equations of motion）、第 11 章第 53 块（whatever the true reason）和第 90 块（premium sellers）。新版的斜体不包括破折号，en/ 照新版把破折号移到斜体外面。中文这几处的斜体本来就正常。改完以后用 markdown-it 渲染全书，中英文都没有露出的星号。
+- 第 13 章第 9 块的 al-Ghazali 改成 al-Ghazālī，和全书其他地方一致，中文括注跟着改。新版这里用两张小图拼长音字母，拼出来是 al-Ghazāalīi，多了两个字母，说明原书这里本来就有排版问题。
+
+### en/ 保留的差异
+
+下面这些地方 en/ 和新版不同，是有意保留的，脚本里都列明了：
+
+- 章号 One 到 Fourteen 写成 1. 到 14.；献辞和作者简介的一级标题是导入时加的；作者简介里作者名字的小型大写字母。
+- 纸质版换行留下的连字符，en/ 已经连成一个词：aloof-ness、out-comes（两处）、non-sense，第 7 章脚注的 empiri-cism、in-dependently。新版也是这样，说明连字符来自原书。
+- 新版自己的错误：序言的 Chapters13，第 6 章第 8 块的 themagnitude，第 12 章的 po¨tuit，第 7 章脚注的 al-Ghazälï，修订第二版致谢的 pre-and（en/ 写 *pre-* and）。
+- 标点后面漏掉空格的 23 处，例如第 1 章 losses,”he says、第 6 章 interjected,“But、第 13 章 colleagues,“Nobels”as well。新版同样没有空格，所以这是原书电子版本来就有的错误，en/ 保留补上的空格。第 10 章 (like myself ) 多出的空格，en/ 照旧去掉。
+- 第 7 章正文的两个星号已经换成脚注 `[^1]`、`[^2]`，脚注文件里的使用说明（To return to the corresponding text…）不收。
+
+`tools/check_source.py` 比的是第一次导入的 EPUB，补全以后它会报出这次的改动；以后核对原文用 `tools/compare_better_source.py`。
+
+### 注释能不能放回正文
+
+新版里，107 条书末注释的主题词都链接到正文的一个位置，107 个位置全部找到了，对照表在 `review/note-places.tsv`（标记、章节、en/ 文件和行号、注释的主题词、那一段的开头）。没有找不到位置的注释，每个位置也都有注释链接过来。
+
+书末注释这一节仍保留为单独的一节，没有改成脚注。原因有三个：原书正文里看不到注释的标记，读者是从注释链接回正文的；不少注释有好几段（例如“肯定后件”一条带三行推理式），框架的脚注只能是一行；改成脚注要拆掉这个已经译完、审校过的一节。如果以后想在阅读器里从正文跳到注释，可以用这张对照表来做，需要用户决定。
+
+### 原文疑点（补全时新发现的）
+
+- 第 6 章第 21 块的 Phoenician thekles：查不到 thekles 这种货币。腓尼基的货币是 shekel（谢克尔），阿拉米语写作 tekel，thekles 应该就是它，中文写“腓尼基的谢克尔”。
+- 第 6 章的 Wt：图 6.1 上的 W 带下标 t，证实了上面“原文疑点”里的推测。正文照术语表仍写 Wt，没有改。
+- 书末注释“神秘的来信”一条的 Innumeracy 在新版里没有斜体，en/ 照新版；中文照体例写《数盲》（*Innumeracy*）。
+
+### 其他同步修改
+
+- `glossary.md`：“图表”一条、“译者注”一条和核心概念表里的混淆表一行，改成图表已经补上。
+- `review/terms/people-zh.tsv`：加了查尔斯·达尔文和约翰·艾伦·保罗斯（John Allen Paulos）两行；道金斯一行写明第 4 章和书末注释的改动（他在第 5 章正文里还出现一次）；Don Geman 一行写明书末注释新加的一条写作 Donald Geman，照写英文。`review/terms/README.md` 的人数改成 477。
+- `recaps/ch04.md` 一条要点跟着第 4 章的修订改了，记在 `review/recaps.md`。
+- 减号“−”是新出现的字符，重新生成了这本书的字体子集（`python3 scripts/site.py fonts fooled-by-randomness`）。
+
+### 改动前后的数字
+
+| 项目 | 改动前 | 改动后 |
+| --- | --- | --- |
+| en/ 正文的词数（`compare_better_source.py` 的算法，不含表格） | 98,337 | 98,235 |
+| 新版对应部分的词数 | | 98,244 |
+| 新加的 5 张表里的英文词数 | 0 | 261 |
+| 图片 | 0 | 3 |
+| `site.py status` 的块数 | 1294 | 1300（5 张表、第 11 章 1 段；书末注释删 1 块、补 1 块） |
+| zh-cn/ 的汉字数 | 153,899 | 154,146 |
+
+改完以后运行了 `python3 scripts/site.py status fooled-by-randomness`（28 节，1300/1300 块已译，第 7 章注释 2/2）和 `python3 scripts/site.py check fooled-by-randomness`（通过）。在阅读器的草稿预览里打开了序章、第 3、6、11 章，5 张表都显示成表格，3 张图都能加载。这些改动做了译者自检，还没有经过另一个 agent 的双语审校。

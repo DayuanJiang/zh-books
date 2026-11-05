@@ -26,7 +26,7 @@ python3 -I books/fooled-by-randomness/tools/term_stats.py --evidence
 | `headings.tsv` | 各节的一到三级标题 | 228 |
 | `people.tsv` | spaCy 命名实体识别得到的人名，按姓归并，正文出现次数按姓统计。原始数据，有不少误判（例如 Monte Carlo、Amnesia） | 395 |
 | `named-entities.tsv` | spaCy 识别的机构、地名、作品、民族等专名，原始数据 | 601 |
-| `people-zh.tsv` | 核对过的人名表：每个人的中文译名、依据、身份和说明 | 475 |
+| `people-zh.tsv` | 核对过的人名表：每个人的中文译名、依据、身份和说明（2026-11-05 补全原文时加了达尔文和保罗斯两人） | 477 |
 | `glossary-evidence.tsv` | 术语表核心概念每一条的首次出现、出现次数、原文例句和裁定者 | 128 |
 
 - **没有索引**：这个 EPUB 没有纸质版的索引，所以没有 `index-terms.tsv`。概念候选来自 spaCy、斜体短语和定义句；人名来自命名实体识别，再加上逐节扫描大写开头、全书从不以小写出现的词，补上识别漏掉的人（梭伦、卡尔内阿德斯、普鲁斯特、帕斯卡等）。
