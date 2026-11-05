@@ -1,0 +1,41 @@
+{
+  "title": "系统之美",
+  "originalTitle": "Thinking in Systems: A Primer",
+  "authors": "Donella H. Meadows",
+  "reader": "bilingual",
+  "summary": "系统科学家德内拉·梅多斯用浴缸、恒温器、渔场这些日常例子讲存量、流量和反馈回路，说明系统为什么常常出人意料，又该从哪里着手改变它。",
+  "facts": [
+    "引言、7 章与附录",
+    "中英逐段对照",
+    "49 幅图"
+  ],
+  "cover": "assets/images/cover.jpg",
+  "listed": true,
+  "chapterMaps": false,
+  "source": {
+    "epub": "Meadows - Thinking in Systems.epub",
+    "sha256": "bd8cbb7fb5d30c314ad3d323b8ef79113954f6122a798117c8aad32f382c330c"
+  },
+  "start": "introduction",
+  "chapters": [
+    {"id": "dedication", "file": "06-dedication.md", "status": "todo"},
+    {"id": "authors-note", "file": "08-a-note-from-the-author.md", "status": "todo"},
+    {"id": "editors-note", "file": "09-a-note-from-the-editor.md", "status": "todo"},
+    {"id": "epigraph", "file": "10-epigraph.md", "status": "todo"},
+    {"id": "introduction", "file": "11-introduction-the-systems-lens.md", "status": "todo"},
+    {"id": "part1", "file": "12-part-one-system-structure-and.md", "status": "todo"},
+    {"id": "ch01", "number": 1, "file": "13-1-the-basics.md", "status": "draft"},
+    {"id": "ch02", "number": 2, "file": "14-2-a-brief-visit-to-the-systems.md", "status": "todo"},
+    {"id": "part2", "file": "15-part-two-systems-and-us.md", "status": "todo"},
+    {"id": "ch03", "number": 3, "file": "16-3-why-systems-work-so-well.md", "status": "todo"},
+    {"id": "ch04", "number": 4, "file": "17-4-why-systems-surprise-us.md", "status": "todo"},
+    {"id": "ch05", "number": 5, "file": "18-5-system-traps-and-opportunities.md", "status": "todo"},
+    {"id": "part3", "file": "19-part-three-creating-change-in.md", "status": "todo"},
+    {"id": "ch06", "number": 6, "file": "20-6-leverage-points-places-to.md", "status": "todo"},
+    {"id": "ch07", "number": 7, "file": "21-7-living-in-a-world-of-systems.md", "status": "todo"},
+    {"id": "appendix", "file": "22-appendix.md", "status": "todo"},
+    {"id": "bibliography", "file": "24-bibliography-of-systems.md", "status": "todo"},
+    {"id": "acknowledgments", "file": "25-editor-s-acknowledgments.md", "status": "todo"},
+    {"id": "about-the-author", "file": "26-about-the-author.md", "status": "todo"}
+  ]
+}

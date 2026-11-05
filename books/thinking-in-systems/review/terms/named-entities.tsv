@@ -1,0 +1,232 @@
+label	entity	count	chapters	first	sections
+EVENT	the Industrial Revolution	2	2	introduction	introduction, ch03
+EVENT	Prohibition	1	1	ch05	ch05
+FAC	Brezhnev	1	1	ch01	ch01
+GPE	the Soviet Union	8	5	editors-note	editors-note, ch04, ch05, ch06, ch07
+GPE	the United States	7	3	ch05	ch05, ch06, ch07
+GPE	Germany	6	2	ch05	ch05, bibliography
+GPE	Romania	6	1	ch05	ch05
+GPE	U.S.	6	5	ch01	ch01, ch04, ch05, ch06, ch07
+GPE	n’t	4	4	ch02	ch02, ch04, ch06, ch07
+GPE	Hungary	3	1	ch05	ch05
+GPE	Los Angeles	3	2	ch06	ch06, ch07
+GPE	New Hampshire	3	2	ch07	ch07, acknowledgments
+GPE	America	2	2	ch02	ch02, ch05
+GPE	Czechoslovakia	2	2	editors-note	editors-note, ch04
+GPE	DC	2	1	bibliography	bibliography
+GPE	India	2	2	ch05	ch05, ch07
+GPE	Mexico	2	1	ch07	ch07
+GPE	Norderstedt	2	1	bibliography	bibliography
+GPE	Sweden	2	1	ch05	ch05
+GPE	Vensim	2	2	appendix	appendix, bibliography
+GPE	Vermont	2	1	ch05	ch05
+GPE	Washington	2	1	bibliography	bibliography
+GPE	Albany	1	1	bibliography	bibliography
+GPE	Boston	1	1	bibliography	bibliography
+GPE	Budapest	1	1	ch06	ch06
+GPE	Cambridge	1	1	bibliography	bibliography
+GPE	Canada	1	1	ch04	ch04
+GPE	East Germany	1	1	ch04	ch04
+GPE	Gaza	1	1	ch05	ch05
+GPE	Guatemala	1	1	ch07	ch07
+GPE	Holling	1	1	ch04	ch04
+GPE	Iraq	1	1	editors-note	editors-note
+GPE	Japan	1	1	ch05	ch05
+GPE	Kentucky	1	1	ch04	ch04
+GPE	Kuwait	1	1	editors-note	editors-note
+GPE	K–12	1	1	bibliography	bibliography
+GPE	London	1	1	bibliography	bibliography
+GPE	Margo Baldwin	1	1	acknowledgments	acknowledgments
+GPE	Nazi Germany	1	1	ch06	ch06
+GPE	New Brunswick	1	1	ch04	ch04
+GPE	New York	1	1	bibliography	bibliography
+GPE	Overlong	1	1	ch06	ch06
+GPE	Plainfield	1	1	acknowledgments	acknowledgments
+GPE	Poland	1	1	editors-note	editors-note
+GPE	Rio de Janeiro	1	1	editors-note	editors-note
+GPE	Santa	1	1	ch05	ch05
+GPE	South Africa	1	1	editors-note	editors-note
+GPE	Soviet Union	1	1	ch05	ch05
+GPE	The United States	1	1	ch05	ch05
+GPE	Thou	1	1	ch07	ch07
+GPE	United States	1	1	ch06	ch06
+GPE	West Germany	1	1	ch04	ch04
+GPE	Zermatt	1	1	ch04	ch04
+GPE	the Czech Republic	1	1	ch04	ch04
+GPE	the Gaza Strip	1	1	ch05	ch05
+GPE	the People’s Republic of China	1	1	ch06	ch06
+LAW	Chapter One	2	2	ch05	ch05, ch06
+LAW	Chapter Two	2	2	ch03	ch03, ch05
+LAW	Act 250	1	1	ch05	ch05
+LAW	Chapter Five	1	1	ch02	ch02
+LAW	Chapter Four	1	1	ch06	ch06
+LAW	Constitution	1	1	ch06	ch06
+LAW	the Freedom of Information Act	1	1	ch06	ch06
+LOC	Europe	4	3	ch03	ch03, ch05, ch07
+LOC	Earth	2	2	editors-note	editors-note, ch04
+LOC	North America	2	2	ch04	ch04, ch05
+LOC	Africa	1	1	ch07	ch07
+LOC	Asia	1	1	ch05	ch05
+LOC	New England	1	1	ch02	ch02
+LOC	the Middle Ages	1	1	ch03	ch03
+LOC	the Middle East	1	1	authors-note	authors-note
+LOC	the Western Hemisphere	1	1	ch07	ch07
+NORP	Romanian	4	1	ch05	ch05
+NORP	Complex	3	3	ch02	ch02, ch03, appendix
+NORP	Israeli	3	1	ch05	ch05
+NORP	Swedish	3	1	ch05	ch05
+NORP	British	2	1	ch05	ch05
+NORP	Dutch	2	2	ch04	ch04, ch06
+NORP	Hora	2	1	ch03	ch03
+NORP	Hungarian	2	2	ch05	ch05, ch06
+NORP	Native American	2	2	ch05	ch05, ch07
+NORP	American	1	1	ch05	ch05
+NORP	Americans	1	1	ch05	ch05
+NORP	Appendix	1	1	introduction	introduction
+NORP	Buddhists	1	1	ch06	ch06
+NORP	Canadian	1	1	ch04	ch04
+NORP	Chapters One	1	1	ch04	ch04
+NORP	Czech	1	1	ch04	ch04
+NORP	Democrats	1	1	ch04	ch04
+NORP	Egyptians	1	1	ch06	ch06
+NORP	European	1	1	ch05	ch05
+NORP	German	1	1	ch04	ch04
+NORP	Germans	1	1	ch04	ch04
+NORP	Islamic	1	1	ch05	ch05
+NORP	Marxist	1	1	ch05	ch05
+NORP	Mexican	1	1	ch07	ch07
+NORP	Monopoly	1	1	ch05	ch05
+NORP	Muslim	1	1	ch05	ch05
+NORP	Native Americans	1	1	authors-note	authors-note
+NORP	North American	1	1	ch04	ch04
+NORP	Palestinians	1	1	ch05	ch05
+NORP	Persian	1	1	ch07	ch07
+NORP	Social Democrats	1	1	ch05	ch05
+NORP	Somali	1	1	ch05	ch05
+NORP	Sufi	1	1	introduction	introduction
+NORP	Swedes	1	1	ch05	ch05
+NORP	econometricians	1	1	ch04	ch04
+ORG	Congress	6	3	ch01	ch01, ch06, ch07
+ORG	Dartmouth College	5	5	editors-note	editors-note, introduction, ch06, ch07, about-the-author
+ORG	International Herald Tribune	4	1	ch05	ch05
+ORG	Linear	4	2	ch04	ch04, appendix
+ORG	MIT	4	4	introduction	introduction, ch04, ch06, ch07
+ORG	Dartmouth	3	3	introduction	introduction, ch07, acknowledgments
+ORG	Hartmut	3	2	bibliography	bibliography, acknowledgments
+ORG	STELLA	3	2	appendix	appendix, bibliography
+ORG	the Sustainability Institute	3	3	editors-note	editors-note, acknowledgments, about-the-author
+ORG	Bossel	2	1	bibliography	bibliography
+ORG	Chelsea Green Publishing	2	1	acknowledgments	acknowledgments
+ORG	Church	2	2	ch03	ch03, ch06
+ORG	DDT	2	1	ch04	ch04
+ORG	General Motors	2	2	ch01	ch01, ch06
+ORG	Hardin	2	1	ch05	ch05
+ORG	Hartmut Bossel	2	2	authors-note	authors-note, acknowledgments
+ORG	IBM	2	1	ch06	ch06
+ORG	Labor	2	2	editors-note	editors-note, ch05
+ORG	UN	2	2	editors-note	editors-note, ch02
+ORG	isee systems Inc.	2	1	appendix	appendix
+ORG	linear	2	2	introduction	introduction, ch04
+ORG	the Environmental Studies Program	2	2	acknowledgments	acknowledgments, about-the-author
+ORG	the Federal Reserve Bank	2	1	ch01	ch01
+ORG	the International Herald Tribune	2	2	editors-note	editors-note, ch05
+ORG	Anger	1	1	ch04	ch04
+ORG	Bank Account	1	1	appendix	appendix
+ORG	Business Inventory	1	1	appendix	appendix
+ORG	Cassava	1	1	ch05	ch05
+ORG	Copernicus	1	1	ch06	ch06
+ORG	Creative Learning Exchange	1	1	bibliography	bibliography
+ORG	Cresskill	1	1	bibliography	bibliography
+ORG	DRIFT	1	1	ch05	ch05
+ORG	Disney	1	1	ch06	ch06
+ORG	Doubleday	1	1	bibliography	bibliography
+ORG	Dow	1	1	ch04	ch04
+ORG	Drift	1	1	ch05	ch05
+ORG	Dun & Bradstreet Corp.	1	1	ch05	ch05
+ORG	Econometric	1	1	ch04	ch04
+ORG	Elementary Systems	1	1	bibliography	bibliography
+ORG	Eskimos	1	1	ch07	ch07
+ORG	Fed	1	1	ch06	ch06
+ORG	Ford	1	1	bibliography	bibliography
+ORG	Forrester’s World	1	1	ch06	ch06
+ORG	General Systems Theory	1	1	bibliography	bibliography
+ORG	Gothic	1	1	ch07	ch07
+ORG	HINT ON REINFORCING LOOPS	1	1	ch01	ch01
+ORG	Hampton Press	1	1	bibliography	bibliography
+ORG	Harvard	1	1	ch05	ch05
+ORG	Harvard University	1	1	about-the-author	about-the-author
+ORG	Homo	1	1	ch06	ch06
+ORG	Kassel	1	1	acknowledgments	acknowledgments
+ORG	Leverage Points	1	1	bibliography	bibliography
+ORG	Limits	1	1	editors-note	editors-note
+ORG	MA: Pegasus Communications	1	1	bibliography	bibliography
+ORG	MacArthur Fellowship	1	1	about-the-author	about-the-author
+ORG	Macy	1	1	bibliography	bibliography
+ORG	Medicaid	1	1	ch05	ch05
+ORG	Models: Complexity, Dynamics, Evolution	1	1	bibliography	bibliography
+ORG	Montreal Protocol	1	1	ch07	ch07
+ORG	NJ	1	1	bibliography	bibliography
+ORG	OPEC	1	1	introduction	introduction
+ORG	Phenomena	1	1	ch07	ch07
+ORG	Philadelphia: University of Pennsylvania Press	1	1	bibliography	bibliography
+ORG	RNA	1	1	ch03	ch03
+ORG	Rocky Mountain Institute	1	1	ch06	ch06
+ORG	Sherwood, Dennis	1	1	bibliography	bibliography
+ORG	Social Science and Systems Theory	1	1	bibliography	bibliography
+ORG	Social Security	1	1	ch05	ch05
+ORG	Spruce	1	1	ch04	ch04
+ORG	Stanford	1	1	ch04	ch04
+ORG	Stat University of New York Press	1	1	bibliography	bibliography
+ORG	Stealth	1	1	ch06	ch06
+ORG	Success	1	1	ch05	ch05
+ORG	System Dynamics Society	1	1	bibliography	bibliography
+ORG	TIME Systems	1	1	ch01	ch01
+ORG	The CLE Newsletter	1	1	bibliography	bibliography
+ORG	The International Panel on Climate Change	1	1	editors-note	editors-note
+ORG	The Limits	1	1	editors-note	editors-note
+ORG	The Limits to Growth	1	1	about-the-author	about-the-author
+ORG	The North American Free Trade Agreement	1	1	editors-note	editors-note
+ORG	The Systems Dynamics Review	1	1	bibliography	bibliography
+ORG	The Systems Thinker	1	1	bibliography	bibliography
+ORG	The Systems Thinking Playbook	1	1	bibliography	bibliography
+ORG	The U.S. Endangered Species Act	1	1	ch05	ch05
+ORG	Time	1	1	appendix	appendix
+ORG	Titanic	1	1	ch06	ch06
+ORG	Ventana Systems	1	1	bibliography	bibliography
+ORG	Ventana Systems Inc.	1	1	appendix	appendix
+ORG	Wal-Mart	1	1	ch06	ch06
+ORG	World	1	1	ch06	ch06
+ORG	World Bank	1	1	ch04	ch04
+ORG	allows us	1	1	ch01	ch01
+ORG	capital labor energy	1	1	ch04	ch04
+ORG	capital ×	1	1	appendix	appendix
+ORG	cassava	1	1	ch05	ch05
+ORG	jargon	1	1	introduction	introduction
+ORG	the Art of Motorcycle Maintenance	1	1	epigraph	epigraph
+ORG	the Balaton Group	1	1	acknowledgments	acknowledgments
+ORG	the Christian Democratic Union	1	1	ch05	ch05
+ORG	the Club of Rome	1	1	ch06	ch06
+ORG	the Committee on Research and Exploration	1	1	editors-note	editors-note
+ORG	the Environmental Systems Analysis Group	1	1	acknowledgments	acknowledgments
+ORG	the Finance Ministry	1	1	ch05	ch05
+ORG	the Learning Organization	1	1	bibliography	bibliography
+ORG	the MIT System Dynamics	1	1	authors-note	authors-note
+ORG	the Massachusetts Institute of Technology	1	1	about-the-author	about-the-author
+ORG	the National Geographic Society	1	1	editors-note	editors-note
+ORG	the Presidio School of Management	1	1	acknowledgments	acknowledgments
+ORG	the Supreme Court	1	1	ch06	ch06
+ORG	the System Dynamics Society	1	1	bibliography	bibliography
+ORG	the Toxic Release Inventory	1	1	ch07	ch07
+ORG	the United Nations	1	1	ch02	ch02
+ORG	the University of British Columbia	1	1	ch04	ch04
+ORG	the University of New Brunswick	1	1	ch04	ch04
+PRODUCT	Notes	1	1	bibliography	bibliography
+PRODUCT	Superwoman	1	1	ch06	ch06
+WORK_OF_ART	Beyond the Limits	1	1	editors-note	editors-note
+WORK_OF_ART	Final Solution	1	1	ch07	ch07
+WORK_OF_ART	Nobel Prize	1	1	ch04	ch04
+WORK_OF_ART	Ph.D.	1	1	about-the-author	about-the-author
+WORK_OF_ART	The Global Citizen	1	1	about-the-author	about-the-author
+WORK_OF_ART	Thinking in Systems	1	1	editors-note	editors-note
+WORK_OF_ART	World	1	1	ch06	ch06
+WORK_OF_ART	an America’s Cup	1	1	ch05	ch05

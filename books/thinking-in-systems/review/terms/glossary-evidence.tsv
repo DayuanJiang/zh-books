@@ -1,0 +1,102 @@
+term	chinese	first	count	example	decided by
+system / systems	系统	authors-note	989	This book has been distilled out of the wisdom of thirty years of systems modeling and teaching carried out by dozens of creative people, most of them originally based at or influenced by the MIT System Dynamics group.	Claude（初定）
+element	要素	introduction	40	This ancient Sufi story was told to teach a simple lesson but one that we often ignore: The behavior of a system cannot be known just by knowing the elements of which the system is made.	Claude（初定）
+interconnection / interconnected	相互连接 / 相互连接的	introduction	35	A system is a set of things—people, cells, molecules, or whatever—interconnected in such a way that they produce their own pattern of behavior over time.	Claude（初定）
+function / purpose	功能 / 目的	authors-note	111	One of my purposes is to make you interested.	Claude（初定）
+goal	目标	introduction	138	Or we identify “eroding goals” as we study the business rules and incentives that help or hinder the development of new technologies.	Claude（初定）
+structure / system structure	结构 / 系统结构	editors-note	108	Once you start to see the events of the day as parts of trends, and those trends as symptoms of underlying system structure, you will be able to consider new ways to manage and new ways to live in a world of complex systems.	Claude（初定）
+behavior / behavior over time	行为 / 随时间变化的行为	editors-note	172	She understood those events to be the outward behavior of often complex systems.	Claude（初定）
+event	事件	editors-note	35	In all aspects of her work, she was immersed in the events of the day.	Claude（初定）
+surprise / system surprises	意外 / 系统带来的意外	introduction	48	With a few of the zoo “animals”—a set of specific examples—as a foundation, I’ll step back and talk about how and why systems work so beautifully and the reasons why they so often surprise and confound us.	Claude（初定）
+subsystem	子系统	ch01	26	A tree is a system, and a forest is a larger system that encompasses subsystems of trees and animals.	Claude（初定）
+systems thinking / systems thinker	系统思考 / 系统思考者	authors-note	47	I also have drawn from thinkers in a variety of disciplines, who, as far as I know, never used a computer to simulate a system, but who are natural systems thinkers.	Claude（初定）
+system dynamics	系统动力学	authors-note	10	This book has been distilled out of the wisdom of thirty years of systems modeling and teaching carried out by dozens of creative people, most of them originally based at or influenced by the MIT System Dynamics group.	Claude（初定）
+systems analysis / systems analyst	系统分析 / 系统分析师	authors-note	9	Systems analysts use overarching concepts, but they have entirely human personalities, which means that they have formed many fractious schools of systems thought.	Claude（初定）
+systems zoo / zoo animal	系统动物园 / 动物园里的动物	introduction	12	Next I will introduce you to a systems zoo—a collection of some common and interesting types of systems.	Claude（初定）
+stock	存量	ch01	296	A consumer decides what to buy using information about his or her income, savings, credit rating, stock of goods at home, prices, and availability of goods for purchase.	Claude（初定）
+flow / inflow / outflow	流量 / 流入量 / 流出量	ch01	233	They are interrelated through the physical flow of food, and through an elegant set of regulating chemical signals.	Claude（初定）
+stock-and-flow diagram / structure	存量流量图 / 存量流量结构	ch01	5	How to read stock-and-flow diagrams. In this book, stocks are shown as boxes, and flows as arrow-headed “pipes” leading into or out of the stocks.	Claude（初定）
+cloud	云	ch01	21	The “clouds” stand for wherever the flows come from and go to—the sources and sinks that are being ignored for the purposes of the present discussion.	Claude（初定）
+bathtub / faucet / drain	浴缸 / 水龙头 / 排水口	ch01	37	It may be the water in a bathtub, a population, the books in a bookstore, the wood in a tree, the money in a bank, your own self-confidence.	Claude（初定）
+dynamic equilibrium	动态平衡	ch01	8	It is in a state of dynamic equilibrium—its level does not change, although water is continuously flowing through it.	Claude（初定）
+dynamics / dynamic	动态 / 动态的	introduction	52	Managers are not confronted with problems that are independent of each other, but with dynamic situations that consist of complex systems of changing problems that interact with each other.	Claude（初定）
+decoupled / de-coupled	脱钩	ch01	2	Stocks allow inflows and outflows to be decoupled and to be independent and temporarily out of balance with each other.	Claude（初定）
+inventory	库存	ch01	60	The logging harvest flows into another stock, perhaps an inventory of lumber at a mill.	Claude（初定）
+capital / capital stock	资本 / 资本存量	ch01	147	In Figure 14, the more machines and factories (collectively called “capital”) you have, the more goods and services (“output”) you can produce.	Claude（初定）
+depreciation / lifetime	折旧 / 寿命	ch01	44	This behavior pattern—gradual approach to a system-defined goal—also can be seen when a radioactive element decays, when a missile finds its target, when an asset depreciates, when a reservoir is brought up or down to its desired level, when your body adjusts its blood-sugar concentration, when you pull your car to a stop at a stoplight.	Claude（初定）
+renewable / nonrenewable resource	可再生资源 / 不可再生资源	ch02	40	Like resources that supply the inflows to a stock, a pollution constraint can be renewable or nonrenewable.	Claude（初定）
+stock-limited / flow-limited	受存量限制 / 受流量限制	ch02	4	Nonrenewable resources are stock-limited. The entire stock is available at once, and can be extracted at any rate (limited mainly by extraction capital).	Claude（初定）
+regeneration / extraction / harvest rate	再生速率 / 开采速率 / 捕捞速率	ch02	22	Here is a new balancing feedback loop that ultimately will control the growth of capital: the more capital, the higher the extraction rate.	Claude（初定）
+carrying capacity	承载能力	ch04	6	But those decisions can’t, by themselves, correct the overall system’s tendency to create monopolies and undesirable side effects (externalities), to discriminate against the poor, or to overshoot its sustainable carrying capacity.	Claude（初定）
+feedback / feedback loop	反馈 / 反馈回路	introduction	233	Because of feedback delays within complex systems, by the time a problem becomes apparent it may be unnecessarily difficult to solve.	Claude（初定）
+balancing feedback loop / balancing loop	调节回路	ch01	75	This kind of stabilizing, goal-seeking, regulating loop is called a balancing feedback loop, so I put a B inside the loop in the diagram.	Claude（初定）
+reinforcing feedback loop / reinforcing loop	增强回路	introduction	66	According to the competitive exclusion principle, if a reinforcing feedback loop rewards the winner of a competition with the means to win further competitions, the result will be the elimination of all but a few competitors.	Claude（初定）
+negative / positive feedback loop	负反馈回路 / 正反馈回路	appendix	2	Balancing feedback loop: A stabilizing, goal-seeking, regulating feedback loop, also know as a “negative feedback loop” because it opposes, or reverses, whatever direction of change is imposed on the system.	Claude（初定）
+stabilizing / runaway	稳定 / 失控	ch01	19	One common kind of feedback loop stabilizes the stock level, as in the checking-account example.	Claude（初定）
+vicious cycle / virtuous circle	恶性循环 / 良性循环	ch01	4	I am in a vicious circle . . . from which it is impossible to escape.	Claude（初定）
+goal-seeking	寻求目标的	ch01	9	It may exhibit adaptive, dynamic, goal-seeking, self-preserving, and sometimes evolutionary behavior.	Claude（初定）
+discrepancy	差距	ch01	26	The purpose of this caffeine-delivery system is to keep your actual stock level near or at your desired level. (You may have other purposes for drinking coffee as well: enjoying the flavor or engaging in a social activity.) It is the gap, the discrepancy, between your actual and desired levels of energy for work that drives your decisions to adjust your daily caffeine intake.	Claude（初定）
+exponential growth / doubling time	指数增长 / 倍增时间	ch01	29	This kind of growth is called “exponential.”	Claude（初定）
+shifting dominance	主导地位的转换	ch02	13	This behavior is an example of shifting dominance of feedback loops.	Claude（初定）
+delay	延迟	introduction	138	Because of feedback delays within complex systems, by the time a problem becomes apparent it may be unnecessarily difficult to solve.	Claude（初定）
+perception / response / delivery delay	感知延迟 / 反应延迟 / 交货延迟	ch02	35	First, there is a perception delay, intentional in this case.	Claude（初定）
+oscillation	振荡	ch02	34	Oscillations!	Claude（初定）
+overshoot	过冲	ch02	11	Annual harvest (A) creates profits that allow for growth of capital stock (B), but the harvest levels off, after a small overshoot in this case.	Claude（初定）
+threshold	阈值	ch02	6	If they are extracted faster than they regenerate, they may eventually be driven below a critical threshold and become, for all practical purposes, nonrenewable.	Claude（初定）
+gain	增益	appendix	1	Reinforcing Feedback Loops: The strength of the gain of driving loops 6.	Claude（初定）
+self-correcting / self-reinforcing / self-enhancing	自我校正 / 自我强化 / 自我增强	ch01	8	Reinforcing feedback loops are self-enhancing, leading to exponential growth or to runaway collapses over time. They are found whenever a stock has the capacity to reinforce or reproduce itself.	Claude（初定）
+model	模型	authors-note	120	This book has been distilled out of the wisdom of thirty years of systems modeling and teaching carried out by dozens of creative people, most of them originally based at or influenced by the MIT System Dynamics group.	Claude（初定）
+mental model	心智模型	ch01	12	All models, whether mental models or mathematical models, are simplifications of the real world.	Claude（初定）
+simulation / scenario	模拟 / 情景	authors-note	17	I also have drawn from thinkers in a variety of disciplines, who, as far as I know, never used a computer to simulate a system, but who are natural systems thinkers.	Claude（初定）
+converter	转换器	appendix	10	“Converters” can be constants or calculations based on other elements of the system model.	Claude（初定）
+resilience / resilient	韧性 / 有韧性的	ch01	48	They are resilient, and many of them are evolutionary.	Claude（初定）
+meta-resilience	元韧性	ch03	2	A set of feedback loops that can restore or rebuild feedback loops is resilience at a still higher level—meta-resilience, if you will.	Claude（初定）
+stability / stable	稳定性 / 稳定的	introduction	26	A diverse system with multiple pathways and redundancies is more stable and less vulnerable to external shock than a uniform system with little diversity.	Claude（初定）
+self-organization	自组织	ch01	51	Systems can be self-organizing, and often are self-repairing over at least some range of disruptions.	Claude（初定）
+hierarchy / hierarchical	层级 / 层级式的	ch01	38	I’ll get back to this point later when we come to hierarchies.	Claude（初定）
+suboptimization	次优化	ch03	3	When a subsystem’s goals dominate at the expense of the total system’s goals, the resulting behavior is called suboptimization.	Claude（初定）
+Koch snowflake / fractal	科赫雪花 / 分形	ch03	6	The result is called a Koch snowflake. (See Figure 46.) Its edge has tremendous length—but it can be contained within a circle.	Claude（初定）
+linear / nonlinear relationship	线性关系 / 非线性关系	introduction	42	Words and sentences must, by necessity, come only one at a time in linear, logical order.	Claude（初定）
+boundary	边界	ch02	52	This is a question about system boundaries.	Claude（初定）
+limiting factor	限制因素	ch04	10	You can’t navigate well in an interconnected, feedback-dominated world unless you take your eyes off short-term events and look for long term behavior and structure; unless you are aware of false boundaries and bounded rationality; unless you take into account limiting factors, nonlinearities and delays.	Claude（初定）
+law of the minimum	最小因子定律	ch04	1	It was with regard to grain that Justus von Liebig came up with his famous “law of the minimum.”	Claude（初定）
+limits to growth	增长的极限	editors-note	7	In 1972, Dana was lead author of The Limits to Growth—a best-selling and widely translated book.	Claude（初定）
+bounded rationality	有限理性	ch04	19	You can’t navigate well in an interconnected, feedback-dominated world unless you take your eyes off short-term events and look for long term behavior and structure; unless you are aware of false boundaries and bounded rationality; unless you take into account limiting factors, nonlinearities and delays.	Claude（初定）
+invisible hand / invisible foot	看不见的手 / 看不见的脚	ch04	3	He intends his own security; . . . he intends only his own gain and he is in this . . . led by an invisible hand to promote an end which was no part of his intention.	Claude（初定）
+archetype	基模	introduction	16	Systems thinkers call these common structures that produce characteristic behaviors “archetypes.”	Claude（初定）
+system trap / trap	系统陷阱 / 陷阱	introduction	49	When I first planned this book, I called them “system traps.”	Claude（初定）
+the way out	出路	ch05	25	THE WAY OUT Let go.	Claude（初定）
+policy resistance	政策阻力	introduction	12	Or we see “policy resistance” as we examine decision-making power and the nature of relationships in a family, a community, or a nation.	Claude（初定）
+fixes that fail	失效的对策	ch05	1	This is the systemic trap of “fixes that fail” or “policy resistance.”	Claude（初定）
+tragedy of the commons / commons	公地悲剧 / 公地	introduction	31	“There’s another case of the tragedy of the commons,” we find ourselves saying as we look at an allocation system for sharing water resource among communities or financial resources among schools.	Claude（初定）
+mutual coercion, mutually agreed upon	相互同意的相互强制	ch05	3	Garrett Hardin calls this option, bluntly, “mutual coercion, mutually agreed upon.”	Claude（初定）
+drift to low performance	滑向低绩效	ch04	9	They include such familiar phenomena as addiction, policy resistance, arms races, drift to low performance, and the tragedy of the commons.	Claude（初定）
+performance standard	绩效标准	ch05	4	THE TRAP: DRIFT TO LOW PERFORMANCE Allowing performance standards to be influenced by past performance, especially if there is a negative bias in perceiving past performance, sets up a reinforcing feedback loop of eroding goals that sets a system drifting toward low performance.	Claude（初定）
+eroding goals	目标侵蚀	introduction	6	Or we identify “eroding goals” as we study the business rules and incentives that help or hinder the development of new technologies.	Claude（初定）
+boiled frog syndrome	温水煮青蛙综合征	ch05	1	It is also called the “boiled frog syndrome,” from the old story (I don’t know whether it is true) that a frog put suddenly in hot water will jump right out, but if it is put into cold water that is gradually heated up, the frog will stay there happily until it boils.	Claude（初定）
+escalation	竞争升级	ch05	35	Some of the behaviors these archetypes manifest are addiction, drift to low performance, and escalation.	Claude（初定）
+success to the successful	富者愈富	ch05	15	Using accumulated wealth, privilege, special access, or inside information to create more wealth, privilege, access or information are examples of the archetype called “success to the successful.”	Claude（初定）
+competitive exclusion principle	竞争排斥原理	introduction	4	According to the competitive exclusion principle, if a reinforcing feedback loop rewards the winner of a competition with the means to win further competitions, the result will be the elimination of all but a few competitors.	Claude（初定）
+shifting the burden / intervenor	转嫁负担 / 干预者	ch05	21	This trap is known by many names: addiction, dependence, shifting the burden to the intervenor.	Claude（初定）
+addiction	上瘾	introduction	32	Drug addiction is not the failing of an individual and no one person, no matter how tough, no matter how loving, can cure a drug addict—not even the addict.	Claude（初定）
+rule beating	钻规则的空子	ch05	17	Wherever there are rules, there is likely to be rule beating.	Claude（初定）
+seeking the wrong goal	追求错误的目标	ch05	5	These examples confuse effort with result, one of the most common mistakes in designing systems around the wrong goal.	Claude（初定）
+leverage point	杠杆点	introduction	39	We can learn how to look for leverage points for change.	Claude（初定）
+places to intervene	干预系统的位置	ch06	3	It was in just such a moment of frustration that I proposed a list of places to intervene in a system during a meeting on the implications of global trade regimes.	Claude（初定）
+intervene / intervention	干预	ch05	23	The trouble is that the states created by interventions don’t last.	Claude（初定）
+parameter / constant / numbers	参数 / 常数 / 数字	ch01	51	The university has a constant flow of students and a slower flow of professors and administrators, but it is still a university.	Claude（初定）
+buffer	缓冲	ch01	14	They can act as delays, lags, buffers, ballast, and sources of momentum in a system.	Claude（初定）
+information flow	信息流	ch04	9	In your new position, you experience the information flows, the incentives and disincentives, the goals and discrepancies, the pressures—the bounded rationality—that goes with that position.	Claude（初定）
+rule	规则	introduction	105	Or we identify “eroding goals” as we study the business rules and incentives that help or hinder the development of new technologies.	Claude（初定）
+paradigm / transcending paradigms	范式 / 超越范式	ch06	25	The shared idea in the minds of society, the great big unstated assumptions, constitute that society’s paradigm, or deepest set of beliefs about how the world works.	Claude（初定）
+mind-set	思维模式	ch07	3	This mistake is likely because the mind-set of the industrial world assumes that there is a key to prediction and control.	Claude（初定）
+intrinsic responsibility	内在责任	ch07	4	“Intrinsic responsibility” means that the system is designed to send feedback about the consequences of decision making directly and quickly and compellingly to the decision makers.	Claude（初定）
+time horizon	时间视野	ch01	7	It can help you focus on the time horizon appropriate to the question or problem you are investigating.	Claude（初定）
+error-embracing	拥抱错误	ch07	2	It means what psychologist Don Michael calls “error-embracing.”	Claude（初定）
+tyrannese	暴政语	ch07	2	And of course a society that talks about a “Peacekeeper” missile or “collateral damage,” a “Final Solution” or “ethnic cleansing,” is speaking what Wendell Berry calls “tyrannese.”	Claude（初定）
+Slinky	弹簧圈	introduction	12	Early on in teaching about systems, I often bring out a Slinky.	Claude（初定）
+mess	乱局	introduction	4	I call such situations messes. . . .	Claude（初定）
+holistic / reductionist	整体的 / 还原论的	introduction	7	Ever since the Industrial Revolution, Western society has benefited from science, logic, and reductionism over intuition and holism.	Claude（初定）
+sustainability / sustainable	可持续	editors-note	11	Dana was writing this book to bring that concept to a wider audience, and that is why I and my colleagues at the Sustainability Institute decided it was time to publish her manuscript posthumously.	Claude（初定）
+GNP	国民生产总值（GNP）	ch04	17	Economic news reports on the national production (flow) of goods and services, the GNP, rather than the total physical capital (stock) of the nation’s factories and farms and businesses that produce those goods and services.	Claude（初定）
+thermostat / furnace	恒温器 / 暖气炉	ch01	71	The function of a thermostat-furnace system is to keep a building at a given temperature.	Claude（初定）

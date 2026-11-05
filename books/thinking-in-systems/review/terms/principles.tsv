@@ -1,0 +1,41 @@
+chapter	principle	appendix summary
+ch01	A system is more than the sum of its parts	same
+ch01	Many of the interconnections in systems operate through the flow of information	same
+ch01	The least obvious part of the system, its function or purpose, is often the most crucial determinant of the system’s behavior	same
+ch01	A stock is the memory of the history of changing flows within the system.	same
+ch01	A stock can be increased by decreasing its outflow rate as well as by increasing its inflow rate.	same
+ch01	stocks act as delays or buffers or shock absorbers in systems	same
+ch01	Stocks allow inflows and outflows to be decoupled and to be independent	differs: Stocks allow inflows and outflows to be de-coupled and independent.
+ch01	A feedback loop is a closed chain of causal connections from a stock, through a set of decisions or rules or physical laws or actions that are dependent on the level of the stock, and back again through a flow to change the stock	same
+ch01	Balancing feedback loops are equilibrating or goal-seeking structures in systems and are both sources of stability and sources of resistance to change.	same
+ch01	Reinforcing feedback loops are self-enhancing, leading to exponential growth or to runaway collapses over time.	same
+ch02	The information delivered by a feedback loop—even nonphysical feedback—can only affect future behavior; it can’t deliver a signal fast enough to correct behavior that drove the current feedback.	differs: The information delivered by a feedback loop—even nonphysical feedback—can affect only future behavior; it can’t deliver a signal fast enough to correct behavior that drove the current feedback.
+ch02	A stock-maintaining balancing feedback loop must have its goal set appropriately to compensate for draining or inflowing processes that affect that stock. Otherwise, the feedback process will fall short of or exceed the target for the stock.	same
+ch02	Complex behaviors of systems often arise as the relative strengths of feedback loops shift, causing first one loop and then another to dominate behavior.	same
+ch02	System dynamics models explore possible futures and ask “what if” questions.	same
+ch02	Model utility depends not on whether its driving scenarios are realistic (since no one can know that for sure), but on whether it responds with a realistic pattern of behavior.	same
+ch02	Systems with similar feedback structures produce similar dynamic behaviors.	same
+ch02	A delay in a balancing feedback loop makes a system likely to oscillate.	same
+ch02	Changing the length of a delay may … make a large change in the behavior of a system.	same
+ch02	In physical, exponentially growing systems, there must be at least one reinforcing loop driving the growth and at least one balancing loop constraining the growth, because no physical system can grow forever in a finite environment.	differs: In physical, exponentially growing systems, there must be at least one reinforcing loop driving the growth *and* at least one balancing loop constraining the growth, because no system can grow forever in a finite environment.
+ch02	A quantity growing exponentially toward a constraint or limit reaches that limit in a surprisingly short time.	differs: A quantity growing exponentially toward a limit reaches that limit in a surprisingly short time.
+ch02	Nonrenewable resources are stock-limited.	same
+ch02	Renewable resources are flow-limited.	same
+ch03	There are always limits to resilience.	same
+ch03	Systems need to be managed not only for productivity or stability, they also need to be managed for resilience	same
+ch03	Systems often have the property of self-organization—the ability to structure themselves, to create new structure, to learn, diversify, and complexify.	same
+ch03	Hierarchical systems evolve from the bottom up. The purpose of the upper layers of the hierarchy is to serve the purposes of the lower layers.	same
+ch04	Everything we think we know about the world is a model.	same
+ch04	System structure is the source of system behavior. System behavior reveals itself as a series of events over time.	same
+ch04	Many relationships in systems are nonlinear.	same
+ch04	There are no separate systems. The world is a continuum. Where to draw a boundary around a system depends on the purpose of the discussion	same
+ch04	At any given time, the input that is most important to a system is the one that is most limiting.	same
+ch04	Any physical entity with multiple inputs and outputs is surrounded by layers of limits.	same
+ch04	There always will be limits to growth.	same
+ch04	When there are long delays in feedback loops, some sort of foresight is essential.	same
+ch04	The bounded rationality of each actor in a system may not lead to decisions that further the welfare of the system as a whole.	same
+appendix	If the sum of inflows exceeds the sum of outflows, the stock level will rise.	summary only
+appendix	If the sum of outflows exceeds the sum of inflows, the stock level will fall.	summary only
+appendix	If the sum of outflows equals the sum of inflows, the stock level will not change — it will be held in dynamic equilibrium.	summary only
+appendix	Our models do have a strong congruence with the world.	summary only
+appendix	Our models fall far short of representing the real world fully.	summary only

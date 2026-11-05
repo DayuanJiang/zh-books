@@ -1,0 +1,98 @@
+name	pattern	in text	chapters	first	recognized as
+Donella H. Meadows	\bDonella(?: H\.)?(?: \(Dana\))?(?: Meadows)?\b|\bDana(?: Meadows)?\b|\bDANA\b|(?<!Dennis )\bMeadows\b	21	6	dedication	Dana 11, Donella Meadows 2, Donella 2, Meadows 2, DANA 1, Donella H. The Global Citizen 1, Dana Meadows 1
+Dennis Meadows	\bDennis Meadows\b	4	4	authors-note	Dennis Meadows 4
+Diana Wright	\bDiana Wright\b	1	1	editors-note	Diana Wright 1
+Jay W. Forrester	\b(?:Jay (?:W\. )?)?Forrester\b|\bJay\b	15	5	authors-note	Forrester 6, Jay Forrester 5, Jay 2, Jay W. Forrester 1
+Ed Roberts	\bRoberts\b	1	1	authors-note	Ed Roberts 1
+Jack Pugh	\bPugh\b	1	1	authors-note	Jack Pugh 1
+Hartmut Bossel	\bHartmut(?: Bossel)?\b|\bBossel, Hartmut\b	5	3	authors-note	
+Rike Bossel	\bRike\b	1	1	acknowledgments	Rike Bossel 1
+Barry Richmond	\bRichmond\b	1	1	authors-note	Barry Richmond 1
+Peter Senge	\bSenge\b	2	2	authors-note	Peter Senge 1, Peter 1
+John D. Sterman	\bSterman\b	2	2	authors-note	John Sterman 1, Sterman 1, John D. Business Dynamics: Systems Thinking 1
+Peter Allen	\bPeter Allen\b	1	1	authors-note	Peter Allen 1
+Gregory Bateson	\bBateson\b	1	1	authors-note	Gregory Bateson 1
+Kenneth Boulding	\bBoulding\b	4	3	authors-note	Kenneth Boulding 4
+Herman Daly	\bDaly\b	2	2	authors-note	Herman Daly 2
+Albert Einstein	\bEinstein\b	3	3	authors-note	Albert Einstein 2, Einstein 1
+Garrett Hardin	\bHardin\b	8	4	authors-note	Garrett Hardin 6
+Václav Havel	\bHavel\b	3	3	authors-note	Václav Havel 3
+Lewis Mumford	\bMumford\b	1	1	authors-note	Lewis Mumford 1
+Gunnar Myrdal	\bMyrdal\b	1	1	authors-note	Gunnar Myrdal 1
+E.F. Schumacher	\bSchumacher\b	1	1	authors-note	E.F. Schumacher 1
+Nelson Mandela	\bMandela\b	1	1	editors-note	Nelson Mandela 1
+Lech Walesa	\bWalesa\b	1	1	editors-note	Lech Walesa 1
+Robert Pirsig	\bPirsig\b	1	1	epigraph	Robert Pirsig 1
+Russell Ackoff	\bAckoff\b	1	1	introduction	Russell Ackoff 1
+Poul Anderson	\bPoul Anderson\b	1	1	ch01	Poul Anderson 1
+Ramon Margalef	\bMargalef\b	1	1	ch01	
+Honoré Balzac	\bBalzac\b	1	1	ch01	Honoré Balzac 1
+Jan Tinbergen	\bTinbergen\b	1	1	ch01	Jan Tinbergen 1
+Leonid Brezhnev	\bBrezhnev\b	1	1	ch01	
+Mikhail Gorbachev	\bGorbachev\b	3	3	ch01	Mikhail Gorbachev 2, Gorbachev 1
+Jimmy Carter	\bCarter\b	3	2	ch01	Carter 2, Jimmy Carter 1
+Ronald Reagan	\bReagan\b	4	2	ch01	Reagan 3, Ronald Reagan 1
+Aldo Leopold	\bLeopold\b	2	2	ch03	Aldo Leopold 2
+C. S. Holling	\bHolling\b	3	2	ch03	C. S. Holling 2
+Ludwig von Bertalanffy	\bBertalanffy\b	1	1	ch03	Ludwig von Bertalanffy 1
+Jonathan Swift	\bSwift\b	1	1	ch03	Jonathan Swift 1
+Herbert Simon	\bSimon\b	2	1	ch04	Herbert Simon 1, Simon 1
+Hora	\bHora\b	6	1	ch03	Hora 4
+Tempus	\bTempus\b	7	1	ch03	Tempus 6
+James Gleick	\bGleick\b	1	1	ch04	James Gleick 1
+Gordon Baskerville	\bBaskerville\b	1	1	ch04	Gordon Baskerville 1
+Justus von Liebig	\bLiebig\b	1	1	ch04	Justus von Liebig 1
+Adam Smith	\bAdam Smith\b	6	2	ch04	Adam Smith 6
+Philip Zimbardo	\bZimbardo\b	1	1	ch04	Philip Zimbardo 1
+Wendell Berry	\bWendell Berry\b|\bBerry calls\b	2	2	ch04	Wendell Berry 2
+John Ralston Saul	\bRalston Saul\b	1	1	ch05	John Ralston Saul 1
+Joseph W. Duncan	\bDuncan\b	1	1	ch05	Joseph W. Duncan 1
+John H. Cushman, Jr.	\bCushman\b	1	1	ch05	John H. Cushman, Jr. 1
+Nicolae Ceausescu	\bCeausescu\b	1	1	ch05	Nicolae Ceausescu 1
+Helmut Kohl	\bKohl\b	1	1	ch05	Helmut Kohl 1
+Lord Peston	\bPeston\b	1	1	ch05	Peston 1
+Erik Ipsen	\bIpsen\b	1	1	ch05	Erik Ipsen 1
+Clyde Haberman	\bHaberman\b	1	1	ch05	Clyde Haberman 1
+Karl Marx	\bMarx\b	2	1	ch05	Karl Marx 2
+Sylvia Nasar	\bNasar\b	1	1	ch05	Sylvia Nasar 1
+Bill Clinton	\bClinton\b	2	2	ch05	Bill Clinton 2
+Keith B. Richburg	\bRichburg\b	1	1	ch05	Keith B. Richburg 1
+Abdukadr Mahmoud Farah	\bFarah\b	1	1	ch05	Mahmoud Farah 1
+Calvin	\bCALVIN\b	3	1	ch05	
+Hobbes	\bHobbes\b|\bHOBBES\b	3	1	ch05	Hobbes 1
+Susie	\bSusie\b	1	1	ch05	Susie 1
+Lawrence Malkin	\bMalkin\b	1	1	ch06	Lawrence Malkin 1
+John K. Akers	\bAkers\b	1	1	ch06	John K. Akers 1
+George Bush	\bBush\b	1	1	ch06	George Bush 1
+Genghis Khan	\bGenghis Khan\b	1	1	ch06	Genghis Khan 1
+John Kenneth Galbraith	\bGalbraith\b	1	1	ch06	John Kenneth Galbraith 1
+Amory Lovins	\bAmory Lovins\b	1	1	ch06	
+Ralph Waldo Emerson	\bEmerson\b	1	1	ch06	Ralph Waldo Emerson 1
+Nicolaus Copernicus	\bCopernicus\b	1	1	ch06	
+Johannes Kepler	\bKepler\b	1	1	ch06	Kepler 1
+Thomas Kuhn	\bKuhn\b	1	1	ch06	Thomas Kuhn 1
+G. K. Chesterton	\bChesterton\b	1	1	ch07	G. K. Chesterton 1
+Fred Kofman	\bKofman\b	1	1	ch07	Fred Kofman 1
+Nathan Gray	\bNathan\b	2	1	ch07	Nathan Gray 1
+Buckminster Fuller	\bBuckminster Fuller\b	1	1	ch07	Buckminster Fuller 1
+Don Michael	\bDon Michael\b	1	1	ch07	Don Michael 1
+Joseph Wood Krutch	\bKrutch\b	1	1	ch07	Joseph Wood Krutch 1
+Ervin Laszlo	\bLaszlo\b	1	1	bibliography	Ervin 1
+George P. Richardson	\bRichardson\b	1	1	bibliography	Richardson 1, George P. Feedback 1
+Linda B. Sweeney	\bSweeney\b	1	1	bibliography	Linda B. and 1
+Dennis Sherwood	\bSherwood\b	1	1	bibliography	
+Andrew Ford	\bFord, Andrew\b	1	1	bibliography	Andrew 1
+Joanna Macy	\bMacy\b	1	1	bibliography	Joanna 1
+Ian Baldwin	\bIan\b	1	1	acknowledgments	Ian 1
+Margo Baldwin	\bMargo\b	1	1	acknowledgments	
+Ann Zulliger	\bAnn and Hans\b	1	1	acknowledgments	Ann 1
+Hans Zulliger	\bZulliger\b	1	1	acknowledgments	Hans Zulliger 1
+Tom Fiddaman	\bFiddaman\b	1	1	acknowledgments	Tom Fiddaman 1
+Chris Soderquist	\bSoderquist\b	1	1	acknowledgments	Chris Soderquist 1
+Phil Rice	\bPhil Rice\b	1	1	acknowledgments	Phil Rice 1
+Beth Sawin	\bSawin\b	1	1	acknowledgments	Beth Sawin 1
+Helen Whybrow	\bWhybrow\b	1	1	acknowledgments	Helen Whybrow 1
+Jim Schley	\bSchley\b	1	1	acknowledgments	Jim Schley 1
+Peter Stein	\bPeter Stein\b	1	1	acknowledgments	Peter Stein 1
+Bert Cohen	\bBert Cohen\b	1	1	acknowledgments	Bert Cohen 1
+Hunter Lovins	\bHunter Lovins\b	1	1	acknowledgments	Hunter Lovins 1
