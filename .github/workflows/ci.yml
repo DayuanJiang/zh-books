@@ -54,7 +54,7 @@ jobs:
   # Build all books into one site and publish it with GitHub Pages.
   deploy:
     needs: [framework, check]
-    if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+    if: github.event_name != 'pull_request' && github.ref == 'refs/heads/main'
     runs-on: ubuntu-latest
     permissions:
       pages: write
