@@ -15,7 +15,7 @@
 - **对话、脚本和粗话**：人质谈判的对话、电话和邮件按原文的语气译，口语就译成口语；Holy shit、asshole、bullshit 这类粗话保留力度。第 4 章的筹款电话脚本保留“筹款人：”“史密斯先生：”这样的说话人标记。
 - **回译**：原文用英语转述的中文典故，回到中文原文：Sun Tzu 的 the supreme art of war: to subdue the enemy without fighting 写“不战而屈人之兵，善之善者也”；第 5 章的 Sleeping in the same bed and dreaming different dreams 写“同床异梦”。
 - **斜体强调**：原文用斜体强调的词（*why*、*how*、*not*），中文在对应的词上保留斜体；书名的斜体改成书名号。整段斜体的邮件保留斜体。
-- **注释**：这个 EPUB 没有脚注，也没有书末注释。需要说明的地方写译者注 `[^t1]:`，在正文里引用。
+- **注释**：原书的 23 条书末注释都是文献出处，2026 年 11 月用 HarperCollins 的完整电子书补进来（见 [review/source.md](review/source.md) 的“用更好的来源补全”）。电子书在正文里用上标数字标出注释的位置，所以写成各章的脚注 `[^n]:`，编号和原书一样，每章从 1 开始。中文文件里的脚注定义保留英文的文献出处；中文正文里的标记放在对应的书名或研究的后面、中文标点的前面，例如“《谈判力》（*Getting to Yes*）[^2]。”“在一项脑成像研究[^2]中”。需要说明的地方另写译者注 `[^t1]:`，在正文里引用。
 - **破折号和句式**：中文译文不用破折号（——），原文的破折号按意思改成逗号、冒号、括号或另起一句；也不用“不是……而是……”这种句式，换成直接的说法。全书已经译完的部分都遵守这一条。
 
 ## 各节标题
@@ -32,6 +32,9 @@
 | ch08 | 8. Guarantee Execution | 第 8 章 确保执行 | 怎样识破说谎者，让其他人都说到做到 |
 | ch09 | 9. Bargain Hard | 第 9 章 强硬议价 | 怎样拿到你要的价格 |
 | ch10 | 10. Find the Black Swan | 第 10 章 找到黑天鹅 | 怎样揭开未知的未知，取得突破 |
+| acknowledgments | Acknowledgments | 致谢 | 没有副标题 |
+| appendix | Appendix: Prepare a Negotiation One Sheet | 附录 准备一份谈判一页纸 | 没有副标题；五个部分写“第一部分：目标”到“第五部分：非现金的提议” |
+| about-the-authors | About the Authors | 关于作者 | 没有副标题 |
 
 中文版的章名（豆瓣只列出前六章）：第一章 新规则；第二章 重复对方的话；第三章 体会他人痛苦，不如把他们的痛苦“标注”出来；第四章 小心“是”，掌控“不”；第五章 得到一句话，瞬间改变谈判；第六章 扭转现实。第 5 章的 the two words 指 “That’s right”，这里译作“没错”，正好两个字，所以标题写“那两个字”。
 
@@ -278,7 +281,10 @@
 | 英文 | 首选译法 | 适用的意思 | 不要混同 | 首次出现 | 出现次数 | 状态 |
 | --- | --- | --- | --- | --- | --- | --- |
 | Key Lessons | 本章要点 | 第 2 到 10 章最后一节的标题 |  | ch02 | 9 | 初定 |
-| Negotiation One Sheet | 谈判一页纸 | 第 1 章提到的附录，这个 EPUB 里没有 |  | ch01 | 1 | 初定 |
+| Negotiation One Sheet | 谈判一页纸 | 第 1 章提到的附录；附录里单说 one sheet 时写“一页纸”，第一次出现括注原文 |  | ch01 | 1 | 初定 |
+| fill-in-the-blank labels | 填空式的标注 | 附录：留出空格、照着填就能用的标注，空格照原文写成下划线 |  | appendix | 2 | 初定 |
+| deal-killing issues | 搅黄交易的因素 | 附录：会让交易谈不成的事情，和 deal killers（搅黄交易的人）对应 | 问题（questions） | appendix | 2 | 初定 |
+| noncash offers / noncash items | 非现金的提议 / 非现金的东西 | 附录第五部分 | 非金钱条件（nonmonetary terms） | appendix | 2 | 初定 |
 
 ## 书名与影片
 
@@ -295,6 +301,8 @@
 | *Negotiation Genius* | 《哈佛经典谈判术》 | 迪帕克·马尔霍特拉、马克斯·H. 巴泽曼著，中译本书名 |
 | *Fooled by Randomness* / *The Black Swan* | 《随机漫步的傻瓜》/《黑天鹅》 | 塔勒布著，中译本书名 |
 | *Gladiator* / *Aladdin* / *Double Indemnity* | 《角斗士》/《阿拉丁》/《双重赔偿》 | 电影 |
+| *Never Eat Alone* | 《别独自用餐》 | 基思·法拉奇和塔尔·拉兹合著，中译本书名；关于作者 |
+| Harry Potter | 《哈利·波特》 | 附录里用作 J. K. 罗琳的定语，原文没有斜体，书名广为人知，省去括注 |
 | *Downs v. United States* | 唐斯诉美国案 | 判例名，不加书名号 |
 | “Lessons of Waco: Proposed Changes in Federal Law Enforcement” | 《韦科的教训：联邦执法的改革建议》 | 1993 年司法部的报告 |
 | *New York Times* / *Washington Post* / CNN | 《纽约时报》/《华盛顿邮报》/ CNN | 不括注 |
@@ -309,9 +317,12 @@
 | Hostage Rescue Team (HRT) | 人质营救队（HRT） |  |
 | Critical Incident Response Group (CIRG) | 重大事件应对小组（CIRG） | 1994 年成立；其中的 Crises Negotiation、Crises Management、Behavioral Sciences、Hostage Rescue 写“危机谈判、危机管理、行为科学和人质营救” |
 | Crisis Negotiation Team / Crisis Negotiation Coordinator | 危机谈判组 / 危机谈判协调员 | FBI 纽约、匹兹堡分局的 |
-| Joint Terrorism Task Force (JTTF) | 联合反恐特遣队（JTTF） |  |
+| Joint Terrorism Task Force (JTTF) | 联合反恐特遣队（JTTF） | 致谢里写作 Joint Terrorist Task Force，也写“联合反恐特遣队” |
 | Negotiation Operation Center (NOC) | 谈判行动中心（NOC） |  |
 | Supervisory Special Agent (SSA) | 监督特工（SSA） |  |
+| FBI Critical Incident Negotiation Team / NYPD’s Hostage Negotiation Team | FBI 重大事件谈判组 / 纽约市警察局人质谈判组 | 致谢 |
+| HarperCollins | 哈珀柯林斯 | 出版社，致谢 |
+| USC Marshall School of Business / Georgetown McDonough School of Business / Sloan School of Management / Kellogg School of Management | 南加州大学马歇尔商学院 / 乔治城大学麦克多诺商学院 / 斯隆管理学院 / 凯洛格管理学院 | 关于作者；USC 单独出现时写“南加州大学” |
 | SWAT / NYPD / TARU | 特警队（SWAT）/ 纽约市警察局（NYPD）/ 技术支援响应组（TARU） |  |
 | CIA / State Department / U.S. Court of Appeals | 中央情报局 / 国务院 / 美国联邦上诉法院 |  |
 | OGA (Other Government Agency) | 其他政府机构（OGA） | 美国政府和军方内部对中央情报局的代称；第 7 章第 35 块的正文和译者注 `[^t1]` |

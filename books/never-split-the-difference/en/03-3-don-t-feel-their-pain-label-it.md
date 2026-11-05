@@ -70,7 +70,7 @@ That’s why, if a corrections officer approaches an inmate expecting him to res
 
 Empathy is a classic “soft” communication skill, but it has a physical basis. When we closely observe a person’s face, gestures, and tone of voice, our brain begins to align with theirs in a process called neural resonance, and that lets us know more fully what they think and feel.
 
-In an fMRI brain-scan experiment, researchers at Princeton University found that neural resonance disappears when people communicate poorly. The researchers could predict how well people were communicating by observing how much their brains were aligned. And they discovered that people who paid the most attention—good listeners—could actually anticipate what the speaker was about to say before he said it.
+In an fMRI brain-scan experiment,[^1] researchers at Princeton University found that neural resonance disappears when people communicate poorly. The researchers could predict how well people were communicating by observing how much their brains were aligned. And they discovered that people who paid the most attention—good listeners—could actually anticipate what the speaker was about to say before he said it.
 
 If you want to increase your neural resonance skills, take a moment right now and practice. Turn your attention to someone who’s talking near you, or watch a person being interviewed on TV. As they talk, imagine that you are that person. Visualize yourself in the position they describe and put in as much detail as you can, as if you were actually there.
 
@@ -106,7 +106,7 @@ Labeling is a way of validating someone’s emotion by acknowledging it. Give so
 
 Labeling has a special advantage when your counterpart is tense. Exposing negative thoughts to daylight—“It looks like you don’t want to go back to jail”—makes them seem less frightening.
 
-In one brain imaging study, psychology professor Matthew Lieberman of the University of California, Los Angeles, found that when people are shown photos of faces expressing strong emotion, the brain shows greater activity in the amygdala, the part that generates fear. But when they are asked to label the emotion, the activity moves to the areas that govern rational thinking. In other words, labeling an emotion—applying rational words to a fear—disrupts its raw intensity.
+In one brain imaging study,[^2] psychology professor Matthew Lieberman of the University of California, Los Angeles, found that when people are shown photos of faces expressing strong emotion, the brain shows greater activity in the amygdala, the part that generates fear. But when they are asked to label the emotion, the activity moves to the areas that govern rational thinking. In other words, labeling an emotion—applying rational words to a fear—disrupts its raw intensity.
 
 Labeling is a simple, versatile skill that lets you reinforce a good aspect of the negotiation, or diffuse a negative one. But it has very specific rules about form and delivery. That makes it less like chatting than like a formal art such as Chinese calligraphy.
 
@@ -402,3 +402,7 @@ As you internalize these techniques, turning the artifice of tactical empathy in
 - Label your counterpart’s fears to diffuse their power. We all want to talk about the happy stuff, but remember, the faster you interrupt action in your counterpart’s amygdala, the part of the brain that generates fear, the faster you can generate feelings of safety, well-being, and trust.
 - List the worst things that the other party could say about you and say them before the other person can. Performing an accusation audit in advance prepares you to head off negative dynamics before they take root. And because these accusations often sound exaggerated when said aloud, speaking them will encourage the other person to claim that quite the opposite is true.
 - Remember you’re dealing with a person who wants to be appreciated and understood. So use labels to reinforce and encourage positive perceptions and dynamics.
+
+[^1]: Greg J. Stephens, Lauren J. Silbert, and Uri Hasson, “Speaker–Listener Neural Coupling Underlies Successful Communication,” *Proceedings of the National Academy of Sciences of the USA* 107, no. 32 (August 10, 2010): 14425–30.
+
+[^2]: Matthew D. Lieberman et al., “Putting Feelings into Words: Affect Labeling Disrupts Amygdala Activity in Response to Affective Stimuli,” *Psychological Science* 18, no. 5 (May 2007): 421–28.

@@ -228,7 +228,7 @@ There are plenty of other tactics, tools, and methods for using subtle verbal an
 
 ## The 7-38-55 Percent Rule
 
-In two famous studies on what makes us like or dislike somebody, UCLA psychology professor Albert Mehrabian created the 7-38-55 rule. That is, only 7 percent of a message is based on the words while 38 percent comes from the tone of voice and 55 percent from the speaker’s body language and face.
+In two famous studies on what makes us like or dislike somebody,[^1] UCLA psychology professor Albert Mehrabian created the 7-38-55 rule. That is, only 7 percent of a message is based on the words while 38 percent comes from the tone of voice and 55 percent from the speaker’s body language and face.
 
 While these figures mainly relate to situations where we are forming an attitude about somebody, the rule nonetheless offers a useful ratio for negotiators. You see, body language and tone of voice—not words—are our most powerful assessment tools. That’s why I’ll often fly great distances to meet someone face-to-face, even when I can say much of what needs to be said over the phone.
 
@@ -280,7 +280,7 @@ With Carlo Collodi’s famous character Pinocchio, it was easy to tell when he w
 
 It turns out that Collodi wasn’t far off reality. Most people offer obvious telltale signs when they’re lying. Not a growing nose, but close enough.
 
-In a study of the components of lying, Harvard Business School professor Deepak Malhotra and his coauthors found that, on average, liars use more words than truth tellers and use far more third-person pronouns. They start talking about *him*, *her*, *it*, *one*, *they*, and *their* rather than *I*, in order to put some distance between themselves and the lie.
+In a study of the components of lying,[^2] Harvard Business School professor Deepak Malhotra and his coauthors found that, on average, liars use more words than truth tellers and use far more third-person pronouns. They start talking about *him*, *her*, *it*, *one*, *they*, and *their* rather than *I*, in order to put some distance between themselves and the lie.
 
 And they discovered that liars tend to speak in more complex sentences in an attempt to win over their suspicious counterparts. It’s what W. C. Fields meant when he talked about baffling someone with bullshit. The researchers dubbed this the Pinocchio Effect because, just like Pinocchio’s nose, the number of words grew along with the lie. People who are lying are, understandably, more worried about being believed, so they work harder—too hard, as it were—at being believable.
 
@@ -419,3 +419,7 @@ As you put the following tools to use, remember this chapter’s most important 
 - Is the “Yes” real or counterfeit? Test it with the Rule of Three: use calibrated questions, summaries, and labels to get your counterpart to reaffirm their agreement at least three times. It’s really hard to repeatedly lie or fake conviction.
 - A person’s use of pronouns offers deep insights into his or her relative authority. If you’re hearing a lot of “I,” “me,” and “my,” the real power to decide probably lies elsewhere. Picking up a lot of “we,” “they,” and “them,” it’s more likely you’re dealing directly with a savvy decision maker keeping his options open.
 - Use your own name to make yourself a real person to the other side and even get your own personal discount. Humor and humanity are the best ways to break the ice and remove roadblocks.
+
+[^1]: Albert Mehrabian, *Silent Messages: Implicit Communication of Emotions and Attitudes*, 2nd ed. (Belmont, CA: Wadsworth, 1981), and Albert Mehrabian, *Nonverbal Communication* (Chicago: Aldine-Atherton, 1972).
+
+[^2]: Lyn M. Van Swol, Michael T. Braun, and Deepak Malhotra, “Evidence for the Pinocchio Effect: Linguistic Differences Between Lies, Deception by Omissions, and Truths,” *Discourse Processes* 49, no. 2 (2012): 79–106.

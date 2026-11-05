@@ -20,7 +20,7 @@ I’d come up to Harvard to take a short executive negotiating course, to see if
 
 But when Robert Mnookin, the director of the Harvard Negotiation Research Project, learned I was on campus, he invited me to his office for a coffee. Just to chat, he said.
 
-I was honored. And scared. Mnookin is an impressive guy whom I’d followed for years: not only is he a Harvard law professor, he’s also one of the big shots of the conflict resolution field and the author of *Bargaining with the Devil: When to Negotiate, When to Fight*.
+I was honored. And scared. Mnookin is an impressive guy whom I’d followed for years: not only is he a Harvard law professor, he’s also one of the big shots of the conflict resolution field and the author of *Bargaining with the Devil: When to Negotiate, When to Fight*.[^1]
 
 To be honest, it felt unfair that Mnookin wanted me, a former Kansas City beat cop, to debate negotiation with him. But then it got worse. Just after Mnookin and I sat down, the door opened and another Harvard professor walked in. It was Gabriella Blum, a specialist in international negotiations, armed conflict, and counterterrorism, who’d spent eight years as a negotiator for the Israeli National Security Council and the Israel Defense Forces. The tough-as-nails IDF.
 
@@ -182,7 +182,7 @@ A new era of negotiation had begun.
 
 In the early 1980s, Cambridge, Massachusetts, was *the* hot spot in the negotiating world, as scholars from different disciplines began interacting and exploring exciting new concepts. The big leap forward came in 1979, when the Harvard Negotiation Project was founded with a mandate to improve the theory, teaching, and practice of negotiation so that people could more effectively handle everything from peace treaties to business mergers.
 
-Two years later, Roger Fisher and William Ury—cofounders of the project—came out with *Getting to Yes*, a groundbreaking treatise on negotiation that totally changed the way practitioners thought about the field.
+Two years later, Roger Fisher and William Ury—cofounders of the project—came out with *Getting to Yes*,[^2] a groundbreaking treatise on negotiation that totally changed the way practitioners thought about the field.
 
 Fisher and Ury’s approach was basically to systematize problem solving so that negotiating parties could reach a mutually beneficial deal—the getting to “Yes” in the title. Their core assumption was that the emotional brain—that animalistic, unreliable, and irrational beast—could be overcome through a more rational, joint problem-solving mindset.
 
@@ -204,7 +204,7 @@ Through decades of research with Tversky, Kahneman proved that humans all suffer
 
 There’s the *Framing Effect*, which demonstrates that people respond differently to the same choice depending on how it is framed (people place greater value on moving from 90 percent to 100 percent—high probability to certainty—than from 45 percent to 55 percent, even though they’re both ten percentage points). *Prospect Theory* explains why we take unwarranted risks in the face of uncertain losses. And the most famous is *Loss Aversion*, which shows how people are statistically more likely to act to avert a loss than to achieve an equal gain.
 
-Kahneman later codified his research in the 2011 bestseller *Thinking, Fast and Slow*. Man, he wrote, has two systems of thought: System 1, our animal mind, is fast, instinctive, and emotional; System 2 is slow, deliberative, and logical. And System 1 is far more influential. In fact, it guides and steers our rational thoughts.
+Kahneman later codified his research in the 2011 bestseller *Thinking, Fast and Slow*.[^3] Man, he wrote, has two systems of thought: System 1, our animal mind, is fast, instinctive, and emotional; System 2 is slow, deliberative, and logical. And System 1 is far more influential. In fact, it guides and steers our rational thoughts.
 
 System 1’s inchoate beliefs, feelings, and impressions are the main sources of the explicit beliefs and deliberate choices of System 2. They’re the spring that feeds the river. We react emotionally (System 1) to a suggestion or question. Then that System 1 reaction informs and in effect creates the System 2 answer.
 
@@ -230,7 +230,7 @@ There was clearly a breakdown between the book’s brilliant theory and everyday
 
 Were we morons?
 
-After Ruby Ridge and Waco, a lot of people were asking that question. U.S. deputy attorney general Philip B. Heymann, to be specific, wanted to know why our hostage negotiation techniques were so bad. In October 1993, he issued a report titled “Lessons of Waco: Proposed Changes in Federal Law Enforcement,” which summarized an expert panel’s diagnosis of federal law enforcement’s inability to handle complex hostage situations.
+After Ruby Ridge and Waco, a lot of people were asking that question. U.S. deputy attorney general Philip B. Heymann, to be specific, wanted to know why our hostage negotiation techniques were so bad. In October 1993, he issued a report titled “Lessons of Waco: Proposed Changes in Federal Law Enforcement,”[^4] which summarized an expert panel’s diagnosis of federal law enforcement’s inability to handle complex hostage situations.
 
 As a result, in 1994 FBI director Louis Freeh announced the formation of the Critical Incident Response Group (CIRG), a blended division that would combine the Crises Negotiation, Crises Management, Behavioral Sciences, and Hostage Rescue teams and reinvent crisis negotiation.
 
@@ -345,3 +345,11 @@ I’ve always thought of myself as just a regular guy. Hardworking and willing t
 But with the skills I’ve learned, I’ve found myself doing extraordinary things and watching the people I’ve taught achieve truly life-changing results. When I use what I’ve learned over the last thirty years, I know I actually have the power to change the course of where my life is going, and to help others do that as well. Thirty years ago, while I felt like that could be done, I didn’t know *how*.
 
 Now I do. Here’s how.
+
+[^1]: Robert Mnookin, *Bargaining with the Devil: When to Negotiate, When to Fight* (New York: Simon & Schuster, 2010).
+
+[^2]: Roger Fisher and William Ury, *Getting to Yes: Negotiating Agreement Without Giving In* (Boston: Houghton Mifflin, 1981).
+
+[^3]: Daniel Kahneman, *Thinking, Fast and Slow* (New York: Farrar, Straus & Giroux, 2011).
+
+[^4]: Philip B. Heymann and United States Department of Justice, *Lessons of Waco: Proposed Changes in Federal Law Enforcement* (Washington, DC: U.S. Department of Justice, 1993).

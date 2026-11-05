@@ -102,7 +102,7 @@ There’s an entire library unto itself of research into the archetypes and beha
 
 Hollywood negotiation scenes suggest that an Assertive style is required for effective bargaining, but each of the styles can be effective. And to truly be effective you need elements from all three.
 
-A study of American lawyer-negotiators found that 65 percent of attorneys from two major U.S. cities used a cooperative style while only 24 percent were truly assertive. And when these lawyers were graded for effectiveness, more than 75 percent of the effective group came from the cooperative type; only 12 percent were Assertive. So if you’re not Assertive, don’t despair. Blunt assertion is actually counterproductive most of the time.
+A study of American lawyer-negotiators[^1] found that 65 percent of attorneys from two major U.S. cities used a cooperative style while only 24 percent were truly assertive. And when these lawyers were graded for effectiveness, more than 75 percent of the effective group came from the cooperative type; only 12 percent were Assertive. So if you’re not Assertive, don’t despair. Blunt assertion is actually counterproductive most of the time.
 
 And remember, your personal negotiating style is not a straitjacket. No one is exclusively one style. Most of us have the capacity to throttle up our nondominant styles should the situation call for it. But there is one basic truth about a successful bargaining style: To be good, you have to learn to be yourself at the bargaining table. To be great you have to add to your strengths, not replace them.
 
@@ -196,7 +196,7 @@ As a well-prepared negotiator who seeks information and gathers it relentlessly,
 
 First, deflect the punch in a way that opens up your counterpart. Successful negotiators often say “No” in one of the many ways we’ve talked about (“How am I supposed to accept that?”) or deflect the anchor with questions like “What are we trying to accomplish here?” Responses like these are great ways to refocus your counterpart when you feel you’re being pulled into the compromise trap.
 
-You can also respond to a punchin-the-face anchor by simply pivoting to terms. What I mean by this is that when you feel you’re being dragged into a haggle you can detour the conversation to the nonmonetary issues that make any final price work.
+You can also respond to a punch-in-the-face anchor by simply pivoting to terms. What I mean by this is that when you feel you’re being dragged into a haggle you can detour the conversation to the nonmonetary issues that make any final price work.
 
 You can do this directly by saying, in an encouraging tone of voice, “Let’s put price off to the side for a moment and talk about what would make this a good deal.” Or you could go at it more obliquely by asking, “What else would you be able to offer to make that a good price for me?”
 
@@ -250,13 +250,13 @@ Here are effective ways to assert smartly:
 
 ### Real Anger, Threats without Anger, and Strategic Umbrage
 
-Marwan Sinaceur of INSEAD and Stanford University’s Larissa Tiedens found that expressions of anger increase a negotiator’s advantage and final take. Anger shows passion and conviction that can help sway the other side to accept less. However, by heightening your counterpart’s sensitivity to danger and fear, your anger reduces the resources they have for other cognitive activity, setting them up to make bad concessions that will likely lead to implementation problems, thus reducing your gains.
+Marwan Sinaceur of INSEAD and Stanford University’s Larissa Tiedens found that expressions of anger increase a negotiator’s advantage and final take.[^2] Anger shows passion and conviction that can help sway the other side to accept less. However, by heightening your counterpart’s sensitivity to danger and fear, your anger reduces the resources they have for other cognitive activity, setting them up to make bad concessions that will likely lead to implementation problems, thus reducing your gains.
 
 Also beware: researchers have also found that disingenuous expressions of unfelt anger—you know, faking it—backfire, leading to intractable demands and destroying trust. For anger to be effective, it has to be real, the key for it is to be under control because anger also reduces our cognitive ability.
 
 And so when someone puts out a ridiculous offer, one that really pisses you off, take a deep breath, allow little anger, and channel it—at the proposal, not the person—and say, “I don’t see how that would ever work.”
 
-Such well-timed offense-taking—known as “strategic umbrage”—can wake your counterpart to the problem. In studies by Columbia University academics Daniel Ames and Abbie Wazlawek, people on the receiving end of strategic umbrage were more likely to rate themselves as *over*assertive, even when the counterpart didn’t think so. The real lesson here is being aware of how this might be used on *you*. Please don’t allow yourself to fall victim to “strategic umbrage.”
+Such well-timed offense-taking—known as “strategic umbrage”—can wake your counterpart to the problem. In studies by Columbia University academics Daniel Ames and Abbie Wazlawek, people on the receiving end of strategic umbrage were more likely to rate themselves as *over*assertive, even when the counterpart didn’t think so.[^3] The real lesson here is being aware of how this might be used on *you*. Please don’t allow yourself to fall victim to “strategic umbrage.”
 
 Threats delivered without anger but with “poise”—that is, confidence and self-control—are great tools. Saying, “I’m sorry that just doesn’t work for me,” with poise, works.
 
@@ -430,3 +430,9 @@ Top negotiators know, however, that conflict is often the path to great deals. A
 - Get ready to take a punch. Kick-ass negotiators usually lead with an extreme anchor to knock you off your game. If you’re not ready, you’ll flee to your maximum without a fight. So prepare your dodging tactics to avoid getting sucked into the compromise trap.
 - Set boundaries, and learn to take a punch or punch back, without anger. The guy across the table is not the problem; the situation is.
 - Prepare an Ackerman plan. Before you head into the weeds of bargaining, you’ll need a plan of extreme anchor, calibrated questions, and well-defined offers. Remember: 65, 85, 95, 100 percent. Decreasing raises and ending on nonround numbers will get your counterpart to believe that he’s squeezing you for all you’re worth when you’re really getting to the number *you* want.
+
+[^1]: Gerald R. Williams, *Legal Negotiations and Settlement* (St. Paul, MN: West, 1983).
+
+[^2]: Marwan Sinaceur and Larissa Tiedens, “Get Mad and Get More than Even: The Benefits of Anger Expressions in Negotiations,” *Journal of Experimental Social Psychology* 42, no. 3 (2006): 314–22.
+
+[^3]: Daniel R. Ames and Abbie Wazlawek, “Pushing in the Dark: Causes and Consequences of Limited Self-Awareness for Interpersonal Assertiveness,” *Personality and Social Psychology Bulletin* 40, no. 6 (2014): 1–16.

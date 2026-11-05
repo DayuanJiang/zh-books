@@ -84,7 +84,7 @@ That’s because having protected myself, I could relax and more easily consider
 
 “No” is the *start* of the negotiation, not the *end* of it. We’ve been conditioned to fear the word “No.” But it is a statement of perception far more often than of fact. It seldom means, “I have considered all the facts and made a rational choice.” Instead, “No” is often a decision, frequently temporary, to maintain the status quo. Change is scary, and “No” provides a little protection from that scariness.
 
-Jim Camp, in his excellent book, *Start with NO*, counsels the reader to give their adversary (his word for counterpart) permission to say “No” from the outset of a negotiation. He calls it “the right to veto.” He observes that people will fight to the death to preserve their right to say “No,” so give them that right and the negotiating environment becomes more constructive and collaborative almost immediately.
+Jim Camp, in his excellent book, *Start with NO*,[^1] counsels the reader to give their adversary (his word for counterpart) permission to say “No” from the outset of a negotiation. He calls it “the right to veto.” He observes that people will fight to the death to preserve their right to say “No,” so give them that right and the negotiating environment becomes more constructive and collaborative almost immediately.
 
 When I read Camp’s book, I realized this was something we’d known as hostage negotiators for years. We’d learned that the quickest way to get a hostage-taker out was to take the time to talk them out, as opposed to “demanding” their surrender. Demanding their surrender, “telling” them to come out, always ended up creating a much longer standoff and occasionally, actually contributed to death.
 
@@ -371,3 +371,5 @@ As you try to put the chapter’s methods to use, I encourage you to think of th
 - Sometimes the only way to get your counterpart to listen and engage with you is by forcing them into a “No.” That means intentionally mislabeling one of their emotions or desires or asking a ridiculous question—like, “It seems like you want this project to fail”—that can only be answered negatively.
 - Negotiate in their world. Persuasion is not about how bright or smooth or forceful you are. It’s about the other party convincing themselves that the solution you want is their own idea. So don’t beat them with logic or brute force. Ask them questions that open paths to your goals. *It’s not about you*.
 - If a potential business partner is ignoring you, contact them with a clear and concise “No”-oriented question that suggests that you are ready to walk away. “Have you given up on this project?” works wonders.
+
+[^1]: Jim Camp, *Start with NO: The Negotiating Tools That the Pros Don’t Want You to Know* (New York: Crown Business, 2002).

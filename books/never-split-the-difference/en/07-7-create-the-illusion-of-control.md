@@ -134,13 +134,13 @@ That’s when I had my “Holy shit!” moment and realized that this is the tec
 
 Best of all, he doesn’t owe the kidnapper a damn thing. The guy volunteers to put the girlfriend on the phone: he thinks it’s his idea. The guy who just offered to put the girlfriend on the line thinks he’s in control. And the secret to gaining the upper hand in a negotiation is giving the other side the illusion of control.
 
-The genius of this technique is really well explained by something that the psychologist Kevin Dutton says in his book *Split-Second Persuasion*. He talks about what he calls “unbelief,” which is active resistance to what the other side is saying, complete rejection. That’s where the two parties in a negotiation usually start.
+The genius of this technique is really well explained by something that the psychologist Kevin Dutton says in his book *Split-Second Persuasion*.[^1] He talks about what he calls “unbelief,” which is active resistance to what the other side is saying, complete rejection. That’s where the two parties in a negotiation usually start.
 
 If you don’t ever get off that dynamic, you end up having showdowns, as each side tries to impose its point of view. You get two hard skulls banging against each other, like in Dos Palmas. But if you can get the other side to drop their unbelief, you can slowly work them to *your* point of view on the back of *their* energy, just like the drug dealer’s question got the kidnapper to volunteer to do what the drug dealer wanted. You don’t directly persuade them to see your ideas. Instead, you ride them to your ideas. As the saying goes, the best way to ride a horse is in the direction in which it is going.
 
 Our job as persuaders is easier than we think. It’s not to get others believing what we say. It’s just to stop them unbelieving. Once we achieve that, the game’s half-won. “Unbelief is the friction that keeps persuasion in check,” Dutton says. “Without it, there’d be no limits.”
 
-Giving your counterpart the illusion of control by asking calibrated questions—by asking for help—is one of the most powerful tools for suspending unbelief. Not long ago, I read this great article in the *New York Times* by a medical student who was faced with a patient who had ripped out his IV, packed his bags, and was making a move to leave because his biopsy results were days late and he was tired of waiting.
+Giving your counterpart the illusion of control by asking calibrated questions—by asking for help—is one of the most powerful tools for suspending unbelief. Not long ago, I read this great article in the *New York Times*[^2] by a medical student who was faced with a patient who had ripped out his IV, packed his bags, and was making a move to leave because his biopsy results were days late and he was tired of waiting.
 
 Just then a senior physician arrived. After calmly offering the patient a glass of water and asking if they could chat for a minute, he said he understood why the patient was pissed off and promised to call the lab to see why the results were delayed.
 
@@ -304,3 +304,7 @@ As you put listener’s judo into practice, remember the following powerful less
 - Calibrate your questions to point your counterpart toward solving your problem. This will encourage them to expend their energy on devising a solution.
 - Bite your tongue. When you’re attacked in a negotiation, pause and avoid angry emotional reactions. Instead, ask your counterpart a calibrated question.
 - There is always a team on the other side. If you are not influencing those behind the table, you are vulnerable.
+
+[^1]: Kevin Dutton, *Split-Second Persuasion: The Ancient Art and New Science of Changing Minds* (Boston: Houghton Mifflin Harcourt, 2011).
+
+[^2]: Dhruv Khullar, “Teaching Doctors the Art of Negotiation,” *New York Times*, January 23, 2014, http://well.blogs.nytimes.com/2014/01/23/teaching-doctors-the-art-of-negotiation/, accessed September 4, 2015.

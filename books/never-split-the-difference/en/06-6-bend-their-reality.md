@@ -78,7 +78,7 @@ It’s not just with hostage negotiations that deadlines can play into your hand
 
 Now, knowing how negotiators use their counterpart’s deadlines to gain leverage would seem to suggest that it’s best to keep your own deadlines secret. And that’s the advice you’ll get from most old-school negotiation experts.
 
-In his bestselling 1980 book, *You Can Negotiate Anything*, negotiation expert Herb Cohen tells the story of his first big business deal, when his company sent him to Japan to negotiate with a supplier.
+In his bestselling 1980 book, *You Can Negotiate Anything*,[^1] negotiation expert Herb Cohen tells the story of his first big business deal, when his company sent him to Japan to negotiate with a supplier.
 
 When he arrived, his counterparts asked him how long he was staying, and Cohen said a week. For the next seven days, his hosts proceeded to entertain him with parties, tours, and outings—everything but negotiation. In fact, Cohen’s counterparts didn’t start serious talks until he was about to leave, and the two sides hammered out the deal’s final details in the car to the airport.
 
@@ -92,7 +92,7 @@ In fact, Don A. Moore, a professor at the Haas School of Business at the Univers
 
 Imagine if when NBA owners set a lockout deadline during contract negotiations they didn’t tell the players’ union. They would concede and concede as the deadline approached, inciting the union to keep negotiating past the secret deadline. In that sense, hiding a deadline means you’re negotiating with yourself, and you always lose when you do so.
 
-Moore discovered that when negotiators tell their counterparts about their deadline, they get better deals. It’s true. First, by revealing your cutoff you reduce the risk of impasse. And second, when an opponent knows your deadline, he’ll get to the real deal-and concession-making more quickly.
+Moore discovered that when negotiators tell their counterparts about their deadline, they get better deals. It’s true. First, by revealing your cutoff you reduce the risk of impasse. And second, when an opponent knows your deadline, he’ll get to the real deal- and concession-making more quickly.
 
 I’ve got one final point to make before we move on: Deadlines are almost never ironclad. What’s more important is engaging in the process and having a feel for how long that will take. You may see that you have more to accomplish than time will actually allow before the clock runs out.
 
@@ -116,7 +116,7 @@ And then I push it even further: Why, I ask, did none of the proposers offer $1,
 
 This rocks my students’ view of themselves as rational actors. But they’re not. None of us are. We’re all irrational, all emotional. Emotion is a necessary element to decision making that we ignore at our own peril. Realizing that hits people hard between the eyes.
 
-In *Descartes’ Error: Emotion, Reason, and the Human Brain*, neuroscientist Antonio Damasio explained a groundbreaking discovery he made. Studying people who had damage in the part of the brain where emotions are generated, he found that they all had something peculiar in common: They couldn’t make decisions. They could describe what they should do in logical terms, but they found it impossible to make even the simplest choice.
+In *Descartes’ Error: Emotion, Reason, and the Human Brain*,[^2] neuroscientist Antonio Damasio explained a groundbreaking discovery he made. Studying people who had damage in the part of the brain where emotions are generated, he found that they all had something peculiar in common: They couldn’t make decisions. They could describe what they should do in logical terms, but they found it impossible to make even the simplest choice.
 
 In other words, while we may use logic to reason ourselves toward a decision, the actual decision *making* is governed by emotion.
 
@@ -186,7 +186,7 @@ It’s simple and clear and sets me up as an honest dealer. With that statement,
 
 ## How to Discover the Emotional Drivers behind What the Other Party Values
 
-A few years ago, I stumbled upon the book *How to Become a Rainmaker*, and I like to review it occasionally to refresh my sense of the emotional drivers that fuel decisions. The book does a great job to explain the sales job not as a rational argument, but as an emotional framing job.
+A few years ago, I stumbled upon the book *How to Become a Rainmaker*,[^3] and I like to review it occasionally to refresh my sense of the emotional drivers that fuel decisions. The book does a great job to explain the sales job not as a rational argument, but as an emotional framing job.
 
 If you can get the other party to reveal their problems, pain, and unmet objectives—if you can get at what people are *really* buying—then you can sell them a vision of their problem that leaves your proposal as the perfect solution.
 
@@ -276,7 +276,7 @@ What I mean is this: When confronted with naming your terms or price, counter by
 
 That gets your point across without moving the other party into a defensive position. And it gets him thinking at higher levels. Research shows that people who hear extreme anchors unconsciously adjust their expectations in the direction of the opening number. Many even go directly to their price limit. If Jerry had given this range, the firm probably would have offered $130,000 because it looked so cheap next to $170,000.
 
-In a recent study, Columbia Business School psychologists found that job applicants who named a range received significantly higher overall salaries than those who offered a number, especially if their range was a “bolstering range,” in which the low number in the range was what they actually wanted.
+In a recent study,[^4] Columbia Business School psychologists found that job applicants who named a range received significantly higher overall salaries than those who offered a number, especially if their range was a “bolstering range,” in which the low number in the range was what they actually wanted.
 
 Understand, if you offer a range (and it’s a good idea to do so) expect them to come in at the low end.
 
@@ -408,3 +408,11 @@ As you work these tools into your daily life, remember the following powerful le
 - The F-word—“Fair”—is an emotional term people usually exploit to put the other side on the defensive and gain concessions. When your counterpart drops the F-bomb, don’t get suckered into a concession. Instead, ask them to explain how you’re mistreating them.
 - You can bend your counterpart’s reality by anchoring his starting point. Before you make an offer, emotionally anchor them by saying how bad it will be. When you get to numbers, set an extreme anchor to make your “real” offer seem reasonable, or use a range to seem less aggressive. The real value of anything depends on what vantage point you’re looking at it from.
 - People will take more risks to avoid a loss than to realize a gain. Make sure your counterpart sees that there is something to lose by inaction.
+
+[^1]: Herb Cohen, *You Can Negotiate Anything* (Secaucus, NJ: Lyle Stuart, 1980).
+
+[^2]: Antonio R. Damasio, *Descartes’ Error: Emotion, Reason, and the Human Brain* (New York: Quill, 2000).
+
+[^3]: Jeffrey J. Fox, *How to Become a Rainmaker: The People Who Get and Keep Customers* (New York: Hyperion, 2000).
+
+[^4]: Daniel Ames and Malia Mason, “Tandem Anchoring: Informational and Politeness Effects of Range Offers in Social Exchange,” *Journal of Personality and Social Psychology* 108, no. 2 (February 2015): 254–74.

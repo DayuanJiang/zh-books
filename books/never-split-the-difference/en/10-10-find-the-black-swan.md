@@ -14,7 +14,7 @@ Waving the nine bank employees into a small office at 2:30 p.m., Griffin told th
 
 Outside, FBI agent Clint Van Zandt stood by while Rochester police officer Jim O’Brien picked up the phone.
 
-“Either you come to the front entrance doors of the bank at three o’clock and have a shootout with him in the parking lot,” the manager blurted through her tears, “or he’s going to start killing hostages and throwing out bodies.”
+“Either you come to the front entrance doors of the bank at three o’clock and have a shoot-out with him in the parking lot,” the manager blurted through her tears, “or he’s going to start killing hostages and throwing out bodies.”
 
 Then the line went dead.
 
@@ -44,7 +44,7 @@ Griffin crumpled to the floor, dead.
 
 Black Swan theory tells us that things happen that were previously thought to be impossible—or never thought of at all. This is not the same as saying that sometimes things happen against one-in-a-million odds, but rather that things never imagined do come to pass.
 
-The idea of the Black Swan was popularized by risk analyst Nassim Nicholas Taleb in his bestselling books *Fooled by Randomness* (2001) and *The Black Swan* (2007), but the term goes back much further. Until the seventeenth century, people could only imagine white swans because all swans ever seen had possessed white feathers. In seventeenth-century London it was common to refer to impossible things as “Black Swans.”
+The idea of the Black Swan was popularized by risk analyst Nassim Nicholas Taleb in his bestselling books *Fooled by Randomness* (2001)[^1] and *The Black Swan* (2007),[^2] but the term goes back much further. Until the seventeenth century, people could only imagine white swans because all swans ever seen had possessed white feathers. In seventeenth-century London it was common to refer to impossible things as “Black Swans.”
 
 But then the Dutch explorer Willem de Vlamingh went to western Australia in 1697—and saw a black swan. Suddenly the unthinkable and unthought was real. People had always predicted that the next swan they saw would be white, but the discovery of black swans shattered this worldview.
 
@@ -297,7 +297,7 @@ Ted Leonsis is great at this. As the owner of the Washington Wizards professiona
 
 Research studies have shown that people respond favorably to requests made in a reasonable tone of voice and followed with a “because” reason.
 
-In a famous study from the late 1970s, Harvard psychology professor Ellen Langer and her colleagues approached people waiting for copy machines and asked if they could cut the line. Sometimes they gave a reason; sometimes they didn’t. What she found was crazy: without her giving a reason, 60 percent let her through, but when she did give one, more than 90 percent did. And it didn’t matter if the reason made sense. (“Excuse me, I have five pages. May I cut in line because I have to make copies?” worked great.) People just responded positively to the framework.
+In a famous study from the late 1970s,[^3] Harvard psychology professor Ellen Langer and her colleagues approached people waiting for copy machines and asked if they could cut the line. Sometimes they gave a reason; sometimes they didn’t. What she found was crazy: without her giving a reason, 60 percent let her through, but when she did give one, more than 90 percent did. And it didn’t matter if the reason made sense. (“Excuse me, I have five pages. May I cut in line because I have to make copies?” worked great.) People just responded positively to the framework.
 
 While idiotic reasons worked with something simple like photocopying, on more complicated issues you can increase your effectiveness by offering reasons that reference your counterpart’s religion. Had that Christian CEO offered me a lowball offer when he agreed to hire my firm, I might have answered, “I’d love to but I too have a duty to be a responsible steward of my resources.”
 
@@ -317,7 +317,7 @@ No one is immune to “They’re crazy!” You can see it rear its head in every
 
 But the moment when we’re most ready to throw our hands up and declare “They’re crazy!” is often the best moment for discovering Black Swans that transform a negotiation. It is when we hear or see something that doesn’t make sense—something “crazy”—that a crucial fork in the road is presented: push forward, even more forcefully, into that which we initially can’t process; or take the other path, the one to guaranteed failure, in which we tell ourselves that negotiating was useless anyway.
 
-In their great book *Negotiation Genius*, Harvard Business School professors Deepak Malhotra and Max H. Bazerman provide a look at the common reasons negotiators mistakenly call their counterparts crazy. I’d like to talk through them here.
+In their great book *Negotiation Genius*,[^4] Harvard Business School professors Deepak Malhotra and Max H. Bazerman provide a look at the common reasons negotiators mistakenly call their counterparts crazy. I’d like to talk through them here.
 
 ## Mistake #1: They Are Ill-Informed
 
@@ -377,7 +377,7 @@ Black Swans are incredibly hard to uncover if you’re not literally at the tabl
 
 No matter how much research you do, there’s just some information that you are not going to find out unless you sit face-to-face.
 
-Today, a lot of younger people do almost everything over email. It’s just how things are done. But it’s very difficult to find Black Swans with email for the simple reason that, even if you knock your counterpart off their moorings with great labels and calibrated questions, email gives them too much time to think and recenter themselves to avoid revealing too much.
+Today, a lot of younger people do almost everything over email. It’s just how things are done. But it’s very difficult to find Black Swans with email for the simple reason that, even if you knock your counterpart off their moorings with great labels and calibrated questions, email gives them too much time to think and re-center themselves to avoid revealing too much.
 
 In addition, email doesn’t allow for tone-of-voice effects, and it doesn’t let you read the nonverbal parts of your counterpart’s response (remember 7-38-55).
 
@@ -522,3 +522,11 @@ Here are some of the best techniques for flushing out the Black Swans—and expl
 - Exploit the similarity principle. People are more apt to concede to someone they share a cultural similarity with, so dig for what makes them tick and show that you share common ground.
 - When someone seems irrational or crazy, they most likely aren’t. Faced with this situation, search for constraints, hidden desires, and bad information.
 - Get face time with your counterpart. Ten minutes of face time often reveals more than days of research. Pay special attention to your counterpart’s verbal and nonverbal communication at unguarded moments—at the beginning and the end of the session or when someone says something out of line.
+
+[^1]: Nassim Nicholas Taleb, *Fooled by Randomness: The Hidden Role of Chance in Life and in the Markets* (New York: Random House, 2001).
+
+[^2]: Nassim Nicholas Taleb, *The Black Swan: The Impact of the Highly Improbable* (New York: Random House, 2007).
+
+[^3]: Ellen J. Langer, Arthur Blank, and Benzion Chanowitz, “The Mindlessness of Ostensibly Thoughtful Action: The Role of ‘Placebic’ Information in Interpersonal Interaction,” *Journal of Personality and Social Psychology* 36, no. 6 (1978): 635–42.
+
+[^4]: Deepak Malhotra and Max H. Bazerman, *Negotiation Genius: How to Overcome Obstacles and Achieve Brilliant Results at the Bargaining Table and Beyond* (New York: Bantam Books, 2007).

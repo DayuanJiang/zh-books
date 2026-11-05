@@ -58,7 +58,7 @@ Students of mine balk at this notion, asking, “Seriously, do you really need a
 
 We are easily distracted. We engage in selective listening, hearing only what we want to hear, our minds acting on a cognitive bias for consistency rather than truth. And that’s just the start.
 
-Most people approach a negotiation so preoccupied by the arguments that support their position that they are unable to listen attentively. In one of the most cited research papers in psychology, George A. Miller persuasively put forth the idea that we can process only about seven pieces of information in our conscious mind at any given moment. In other words, we are easily overwhelmed.
+Most people approach a negotiation so preoccupied by the arguments that support their position that they are unable to listen attentively. In one of the most cited research papers in psychology,[^1] George A. Miller persuasively put forth the idea that we can process only about seven pieces of information in our conscious mind at any given moment. In other words, we are easily overwhelmed.
 
 For those people who view negotiation as a battle of arguments, it’s the voices in their own head that are overwhelming them. When they’re not talking, they’re thinking about their arguments, and when they are talking, they’re making their arguments. Often those on both sides of the table are doing the same thing, so you have what I call a state of schizophrenia: everyone just listening to the voice in their head (and not well, because they’re doing seven or eight other things at the same time). It may look like there are only two people in a conversation, but really it’s more like four people all talking at once.
 
@@ -332,3 +332,5 @@ There are three voice tones available to negotiators:
 3. The direct or assertive voice: Used rarely. Will cause problems and create pushback.
 
 - Mirrors work magic. Repeat the last three words (or the critical one to three words) of what someone has just said. We fear what’s different and are drawn to what’s similar. Mirroring is the art of insinuating similarity, which facilitates bonding. Use mirrors to encourage the other side to empathize and bond with you, keep people talking, buy your side time to regroup, and encourage your counterparts to reveal their strategy.
+
+[^1]: George A. Miller, “The Magical Number Seven, Plus or Minus Two: Some Limits on Our Capacity for Processing Information,” *Psychological Review* 63, no. 2 (1956): 81–97.

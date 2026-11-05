@@ -5,17 +5,19 @@
 ## 来源与许可
 
 - 原书版权归 Chris Voss 和 Tahl Raz 所有。这份译文没有获得授权，发布与否由用户决定。
-- 英文原文来自用户提供的 EPUB（calibre 重新打包的 HarperCollins 电子书）。导入和整理的过程见 [review/source.md](review/source.md)，电子书文件本身不放进仓库。
+- 英文原文先从用户提供的 EPUB（calibre 重新打包的 HarperCollins 电子书，只有第 1 到 10 章）导入，2026 年 11 月又用用户提供的 HarperCollins 完整电子书（2016）补全。导入、整理和补全的过程见 [review/source.md](review/source.md)，电子书文件本身不放进仓库。
 
 ## 内容
 
-第 1 到 10 章，共 10 节、1,860 个块，中英逐块对应。各章的副标题（例如 *How to Become the Smartest Person . . . in Any Room*）放在章标题下面；第 2 到 10 章末尾的 Key Lessons 保留原来的导语和要点列表。书里的步骤清单、引用的邮件和第 4 章的筹款电话脚本也保留为列表和引用块。
+第 1 到 10 章共 1,860 个块，中英逐块对应。各章的副标题（例如 *How to Become the Smartest Person . . . in Any Room*）放在章标题下面；第 2 到 10 章末尾的 Key Lessons 保留原来的导语和要点列表。书里的步骤清单、引用的邮件和第 4 章的筹款电话脚本也保留为列表和引用块。
 
-用户提供的 EPUB 只有这 10 章，印刷版第 10 章之后的致谢、附录 Prepare a Negotiation One Sheet、书末注释和索引都不在里面，正文里也没有注释编号。要补上这些部分，需要出版社的完整电子书。
+第 10 章之后是致谢、附录 Prepare a Negotiation One Sheet 和关于作者，全书共 13 节、1,958 个块。原书的 23 条书末注释都是文献出处，放在各章对应的位置，写成脚注。献辞、目录、索引、版权页和出版社的广告没有收入。
 
 ## 翻译进度
 
-在仓库根目录运行：
+全书各节都已译完，依次经过翻译、双语审校、编辑通读，再由 GPT-6 Astra 独立审校第三轮；各章正文后附“本章小结与要点”。所有章节的状态都是 `review`，等用户认可后改为 `done` 才会在网站上发布。各节的审校记录在 `review/<章节 id>.md`。
+
+查看各节进度，在仓库根目录运行：
 
 ```bash
 python3 scripts/site.py status never-split-the-difference
