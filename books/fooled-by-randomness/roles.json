@@ -1,0 +1,22 @@
+{
+ "part1.89d3bd6c": {
+  "role": "chapter-subtitle",
+  "why": "紧跟第一部分标题的短语，是这一部分的副标题"
+ },
+ "ch02.63162f5f": {
+  "role": "plain",
+  "why": "上方法文诗句的英译，按引用诗句排成斜体"
+ },
+ "part2.ee33453e": {
+  "role": "chapter-subtitle",
+  "why": "紧跟第二部分标题的短语，是这一部分的副标题"
+ },
+ "part3.7d9eae9c": {
+  "role": "chapter-subtitle",
+  "why": "紧跟第三部分标题的短语，是这一部分的副标题"
+ },
+ "dedication.a2bbd586": {
+  "role": "plain",
+  "why": "献词，斜体只是排版"
+ }
+}
