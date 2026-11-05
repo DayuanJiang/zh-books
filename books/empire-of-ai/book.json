@@ -1,0 +1,47 @@
+{
+  "title": "AI 帝国",
+  "originalTitle": "Empire of AI: Dreams and Nightmares in Sam Altman's OpenAI",
+  "authors": "Karen Hao",
+  "reader": "bilingual",
+  "summary": "记者凯伦·郝深入 OpenAI 内部，讲述它怎样从非营利实验室变成争夺 AI 霸权的帝国，以及这场竞赛在全球各地付出的代价。",
+  "facts": [
+    "序章、18 章与尾声",
+    "中英逐段对照",
+    "798 条来源注释"
+  ],
+  "cover": "assets/images/cover.jpg",
+  "listed": true,
+  "chapterMaps": false,
+  "source": {
+    "epub": "book.epub",
+    "sha256": "678bbc0ef55e8c07022b83ae87ddca9c3607c48a6b73a885d566bb7b2d2ee1cd"
+  },
+  "start": "prologue",
+  "chapters": [
+    {"id": "dedication", "file": "03-dedication.md", "status": "todo"},
+    {"id": "epigraph", "file": "04-epigraph.md", "status": "todo"},
+    {"id": "authors-note", "file": "05-author-s-note.md", "status": "todo"},
+    {"id": "prologue", "file": "06-prologue-a-run-for-the-throne.md", "status": "todo"},
+    {"id": "ch01", "number": 1, "file": "08-chapter-1-divine-right.md", "status": "todo"},
+    {"id": "ch02", "number": 2, "file": "09-chapter-2-a-civilizing-mission.md", "status": "todo"},
+    {"id": "ch03", "number": 3, "file": "10-chapter-3-nerve-center.md", "status": "todo"},
+    {"id": "ch04", "number": 4, "file": "11-chapter-4-dreams-of-modernity.md", "status": "todo"},
+    {"id": "ch05", "number": 5, "file": "12-chapter-5-scale-of-ambition.md", "status": "todo"},
+    {"id": "ch06", "number": 6, "file": "14-chapter-6-ascension.md", "status": "todo"},
+    {"id": "ch07", "number": 7, "file": "15-chapter-7-science-in-captivity.md", "status": "todo"},
+    {"id": "ch08", "number": 8, "file": "16-chapter-8-dawn-of-commerce.md", "status": "todo"},
+    {"id": "ch09", "number": 9, "file": "17-chapter-9-disaster-capitalism.md", "status": "todo"},
+    {"id": "ch10", "number": 10, "file": "19-chapter-10-gods-and-demons.md", "status": "todo"},
+    {"id": "ch11", "number": 11, "file": "20-chapter-11-apex.md", "status": "todo"},
+    {"id": "ch12", "number": 12, "file": "21-chapter-12-plundered-earth.md", "status": "todo"},
+    {"id": "ch13", "number": 13, "file": "22-chapter-13-the-two-prophets.md", "status": "todo"},
+    {"id": "ch14", "number": 14, "file": "23-chapter-14-deliverance.md", "status": "todo"},
+    {"id": "ch15", "number": 15, "file": "25-chapter-15-the-gambit.md", "status": "todo"},
+    {"id": "ch16", "number": 16, "file": "26-chapter-16-cloak-and-dagger.md", "status": "todo"},
+    {"id": "ch17", "number": 17, "file": "27-chapter-17-reckoning.md", "status": "todo"},
+    {"id": "ch18", "number": 18, "file": "28-chapter-18-a-formula-for-empire.md", "status": "todo"},
+    {"id": "epilogue", "file": "29-epilogue-how-the-empire-falls.md", "status": "todo"},
+    {"id": "acknowledgments", "file": "30-acknowledgments.md", "status": "todo"},
+    {"id": "about-the-author", "file": "52-about-the-author.md", "status": "todo"}
+  ]
+}
