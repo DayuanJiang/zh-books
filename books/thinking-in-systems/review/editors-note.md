@@ -5,7 +5,7 @@
 ## 1. 译者自检
 
 - 执行者：translation agent（Opus 5.5），译者本人。
-- 范围：全节 11 块（节名、九段正文、署名行），逐块对照英文，检查漏译、增译、否定、条件、数字和日期、谁做了什么、比较对象、术语义项、人名、书名和机构名；人名对照 `review/terms/people-zh.tsv`，书名和机构名对照 `glossary.md`；术语用 `tools/term_consistency.py` 检查；用框架的 markdown-it 渲染中文，确认三处书名的斜体生效；全文查破折号和“不是……而是……”句式。
+- 范围：全节 11 块（节名、九段正文、署名行），逐块对照英文，检查漏译、增译、否定、条件、数字和日期、谁做了什么、比较对象、术语义项、人名、书名和机构名；人名对照 `review/terms/people-zh.tsv`，书名和机构名对照 `glossary.md`；术语用 `tools/term_consistency.py` 检查；用框架的 markdown-it 渲染中文，确认三处书名的斜体生效；全文查破折号和体例禁用的对比句式。
 - 发现并修改：
   - 第 2 块 “Dana died quite unexpectedly in 2001—before she completed this book.”：初稿“2001 年，达娜十分意外地去世了”，“意外地去世”容易读成死于意外事故。原文说的是谁都没有料到，改为“2001 年，达娜突然去世，谁都没有料到，那时她还没有完成这本书”；破折号改成逗号，后半句另起分句。
   - 第 5 块 “Will another book really help the world and help you, the reader? I think so.”：初稿“我想能。”太生硬，改为“我想会的。”
@@ -14,7 +14,7 @@
   - 人名：Donella (Dana) Meadows 照 people-zh.tsv 写“德内拉（达娜）·梅多斯（Donella (Dana) Meadows）”，之后写“达娜”；纳尔逊·曼德拉、莱赫·瓦文萨、瓦茨拉夫·哈维尔在本节第一次出现时括注英文；署名行写“黛安娜·赖特（Diana Wright），2008 年”。
   - 书名：《增长的极限》（*The Limits to Growth*）第一次出现时括注，第 7 块的 *Limits to Growth* 只写《增长的极限》；*Thinking in Systems* 照“全书统一的写法”写《系统之美》，在本节第一次出现，括注原题；《超越极限》（*Beyond the Limits*）括注原题；《国际先驱论坛报》照体例不括注。
   - 第 3 块 “The Limits to Growth—a best-selling and widely translated book”：破折号改成逗号，后面另起一句“这本书十分畅销，被译成多种语言”。
-  - 第 3 块 “6.6 billion people” 写“66 亿人”；“physical growth” 译“物质增长”，指人口、经济在物质上的扩张（术语表 physical 一条没有收这个搭配，见汇报）；“its updates” 译“它后来几次更新版”。
+  - 第 3 块 “6.6 billion people” 写“66 亿人”；“physical growth” 译“物质增长”，指人口、经济在物质上的扩张（术语表 physical 一条没有收这个搭配，见汇报。已定：glossary.md“全书统一的写法（译完后定）”的 physical 一条写“physical growth 写‘物质增长’”，和这里一致）；“its updates” 译“它后来几次更新版”。
   - 第 4 块 “correct our course” 保留航行的比喻，译“修正我们的航向”。
   - 第 5 块 “seeing others ‘push back’ against your good ideas and good intentions”：保留引号，译“眼看着你的好主意和好意愿遭到别人的‘抵制’”。原文写的 functions 是动词，译“运作方式”，`term_consistency.py` 把这一块报告为 function 没有写“功能”，这是有意的。
   - 第 7 块 “the twenty-year update to *Limits to Growth*” 译“《增长的极限》出版 20 年后的更新版”；Pew Scholar in Conservation and the Environment、Committee on Research and Exploration for the National Geographic Society 照术语表写“皮尤环境保护学者”“美国国家地理学会的研究与探索委员会”。
@@ -52,7 +52,7 @@
     - 第 3 块 “The cautions she and her fellow authors issued then are recognized today as the most accurate warnings of how unsustainable patterns could, if unchecked, wreak havoc across the globe.”：初稿把警告的内容用“讲的是”补在句尾，这也是译者自检留下的未决。采纳审校者先讲告诫内容、再讲评价的语序，改为“她和合著者当年发出告诫：不可持续的模式如果不加遏制，可能在全球造成浩劫。这些告诫在今天被公认为这方面最准确的警告。”建议里的“如今，”换成“在今天”，因为同一段后面还有一句“如今，石油产量到了峰值”。
     - 第 5 块 “are struggling to see how your business or organization can be part of a shift toward a better world”：初稿“成为走向更美好世界的这场转变的一部分”连用三个“的”，“这场”又把泛指的 a shift 写成了特指。审校者建议“投身到一场让世界变得更好的转变中去”，“投身”用在企业或组织上略显拟人，编辑改为“怎样才能参与到一场让世界变得更好的转变之中”，“参与”也更贴近 be part of。
   - 不采纳：无。
-- 审校者的总体判断：九节译文整体可靠，中英逐块对应完整，这几节原文都没有脚注；人名和 people-zh.tsv 一致，每节第一次出现都括注了英文；术语、机构名、书名和三个部分页标题都和术语表一致；年份和数字都和原文相符；中文没有破折号，也没有“不是……而是……”句式；没有发现漏译、增译、否定方向或谁做了什么的错误。需要改的地方主要在编者的话：communicators、relevant、immersed 三处用词偏离原意，另有几句长定语、搭配不当或重复用词。三条原文疑点的处理都恰当。
+- 审校者的总体判断：九节译文整体可靠，中英逐块对应完整，这几节原文都没有脚注；人名和 people-zh.tsv 一致，每节第一次出现都括注了英文；术语、机构名、书名和三个部分页标题都和术语表一致；年份和数字都和原文相符；中文没有破折号，也没有体例禁用的对比句式；没有发现漏译、增译、否定方向或谁做了什么的错误。需要改的地方主要在编者的话：communicators、relevant、immersed 三处用词偏离原意，另有几句长定语、搭配不当或重复用词。三条原文疑点的处理都恰当。
 
 ## 3. 中文通读
 
@@ -66,10 +66,33 @@
   - 书名：《增长的极限》第一次出现括注，第 7 块不再括注；《系统之美》《超越极限》括注原题；《国际先驱论坛报》照体例不括注。
   - 前后用词：lead author 写“第一作者”，和关于作者一节一致；第 6 块和第 10 块的 approachable 都写“平易近人”；第 7 块和第 9 块的 events 都写“事件”。
   - 第 3 块改后“这些告诫”回指前一句的“告诫”，“这本书指出”回指本段开头的《增长的极限》，指代清楚。
-  - 全节没有破折号和“不是……而是……”句式；`site.py status` 显示 11/11。
+  - 全节没有破折号和体例禁用的对比句式；`site.py status` 显示 11/11。
 
 ## 状态
 
 - 没有未解决的意义问题。译者自检留下的两条未决（第 3 块的长句、第 7 块的 immersed）都在双语审校中改定。
 - 上面“原文疑点”表里的三条照旧，审校者认为处理恰当；这次没有发现新的原文疑点。
 - 第 4 节阅读器校样还没有做。
+
+## 第三轮：GPT-6 Astra 独立审校
+
+- 审校者：GPT-6 Astra，通过 Codex 运行，只读，和译者属于不同的模型家族。
+- 发现：2 条（都是表达）。逐条找到中英文对应的句子，读过上下文后核实：成立并修改 2 条，不成立 0 条。两条都用了和建议不同的字句，原因写在下面。
+- 成立并修改：
+  - 第 5 块 “Perhaps you are working in a company (or own a company) and are struggling to see how your business or organization can be part of a shift toward a better world.”
+    - 原译：“正苦苦思索你的企业或组织怎样才能参与到一场让世界变得更好的转变之中。”
+    - 新译：“正苦苦思索你的企业或组织怎样才能参与一场让世界变得更好的转变。”
+    - 审校者指出“参与到……之中”是套英文的结构，句子拖沓，建议“正苦苦思索，你的企业或组织怎样才能为推动世界向好的方向转变出一份力”。“到……之中”确实多余，去掉后意思不变。建议的写法把 be part of 写成了“推动”，比原文主动；“转变出一份力”连读时也容易读成“转变出”，所以只删去“到……之中”，保留“参与”和“一场”，泛指的 a shift 仍然写成泛指。
+  - 第 7 块 “In all aspects of her work, she was immersed in the events of the day. She understood those events to be the outward behavior of often complex systems.”
+    - 原译：“在工作的方方面面，她都深深投入到当时发生的事件之中。在她看来，这些事件是一些往往很复杂的系统表现在外的行为。”
+    - 新译：“在工作的方方面面，她都沉浸在当时发生的事件之中。在她看来，这些事件是系统的外在行为，而这些系统往往很复杂。”
+    - 审校者指出“投入到……事件之中”容易读成她亲身参与了那些事件，第二句的定语叠得太长，建议“无论从事哪方面的工作，她都密切关注当时发生的事件。在她看来，这些事件就是系统的外在行为，而这些系统往往十分复杂。”第二句照建议把“往往很复杂”拆到后面单独说，“表现在外的行为”改成“外在行为”。第一句的问题成立，但“密切关注”正是译者初稿的写法，双语审校已经指出它把达娜写成了旁观者，比 immersed 浅；所以改用“沉浸在”，和 immersed 的字面一致，也没有亲身参与的意思。“当时发生的事件”照术语表 event 一条和“全书统一的写法（译完后定）”的 the events of the day 一条保留，下一句的“这些事件”仍然回指得上。
+- 不成立，保留原译：无。
+- 按全书统一的写法修改：0 处。逐条对照了 glossary.md 的“全书统一的写法”和“全书统一的写法（译完后定）”两节，这一节已经符合，例如：
+  - 数字：“1993 年”“66 亿人”“出版 20 年后”“几十种”“第一份评估报告”“一个星期”，确数、约数和序数的写法都合规定。
+  - 书名：《系统之美》（*Thinking in Systems*）、《增长的极限》（*The Limits to Growth*）、《超越极限》（*Beyond the Limits*）在本节第一次出现时括注原题，《国际先驱论坛报》不括注。
+  - “译完后定”一节里和本节有关的几条：lead author 写“第一作者”，physical growth 写“物质增长”，the events of the day 写“当时发生的事件”“每天发生的事件”，编者的话里 IPCC 的引文照原文译、不加译者注，现在的译文都已经这样写。
+  - 人名照 people-zh.tsv，每人在本节第一次出现时括注英文；机构名照术语表“机构、产品与地名”。
+- 留给主会话决定的事项：译者自检第 3 块 physical growth 一条写着“术语表没有收这个搭配，见汇报”，“全书统一的写法（译完后定）”已经定为“物质增长”，在上面那一条后面标了“已定”。记录里没有别的待定事项。
+- 对英文原文的疑问：审校者提出 “The International Panel on Climate Change” 的名称有误，应为 Intergovernmental Panel on Climate Change。这一条已经在上面的“原文疑点”表里，照术语表写“政府间气候变化专门委员会”，不加注，没有新的处理。没有发现新的原文疑点。
+- 核实与修改：agent（Opus 5.5）。改完后运行 `python3 scripts/site.py status thinking-in-systems`，editors-note 一行显示 review、11/11 块已翻译，原文没有脚注；全书 19 节都是 review，1115/1115 块已翻译。中文全节没有破折号，也没有体例禁用的对比句式。
