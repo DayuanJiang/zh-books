@@ -143,4 +143,6 @@ def main(report):
 
 
 if __name__ == "__main__":
+    if len(sys.argv) != 2 or sys.argv[1].startswith("-"):
+        raise SystemExit(__doc__)
     main(sys.argv[1])

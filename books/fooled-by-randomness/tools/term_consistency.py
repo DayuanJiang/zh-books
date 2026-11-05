@@ -120,6 +120,7 @@ NAME_KEYS = {
     "al-Ghazālī": (r"\bal-Ghaz", "安萨里"),
     "Richard von Mises": (r"\bvon Mises\b", "米泽斯"),
     "Timmermann": (r"\bTimmerman", "蒂默曼"),
+    "Florence Nightingale David": (r"\bDavid\b(?! Hume)", "戴维"),
     "H. White": None,  # "White" is too common to match
     "Verdurin": (r"\bVerdurins?\b", "维尔迪兰"),
     "King of Sweden": (r"\bKing of Sweden\b", "瑞典国王"),
@@ -183,4 +184,6 @@ def main(report):
 
 
 if __name__ == "__main__":
+    if len(sys.argv) != 2 or sys.argv[1].startswith("-"):
+        raise SystemExit(__doc__)
     main(sys.argv[1])

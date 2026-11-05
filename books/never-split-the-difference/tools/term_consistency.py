@@ -28,7 +28,7 @@ TERMS = [
     ("forced empathy", r"\bforced empathy\b", False, ["强制共情"]),
     ("emotional intelligence", r"\bemotional intelligence\b", False, ["情商"]),
     ("active listening", r"\bactive listening\b", False, ["积极倾听"]),
-    ("BCSM", r"\bBehavioral Change Stairway\b|\bBCSM\b", False, ["行为改变阶梯模型", "BCSM"]),
+    ("BCSM", r"\bBehavioral Change Stairway\b|\bBCSM\b", False, ["行为改变阶梯", "BCSM"]),
     ("rapport", r"\brapport\b", False, ["融洽"]),
     ("unconditional positive regard", r"\bunconditional positive regard\b", False, ["无条件积极关注"]),
     ("DJ voice", r"\bFM DJ\b|\bDJ(?:’s)? voice\b", False, ["DJ"]),
@@ -96,7 +96,7 @@ TERMS = [
 ]
 
 # Chinese forms accepted for a person besides the parts of the name in people-zh.tsv.
-ALSO = {"Joe Businessman": ["乔"], "Mr. Smith": ["史密斯"]}
+ALSO = {"Joe Businessman": ["乔"], "Mr. Smith": ["史密斯"], "Robert Mnookin": ["鲍勃"], "Gloria Macapagal-Arroyo": ["阿罗约"]}
 
 
 def people():
@@ -142,4 +142,6 @@ def main(report):
 
 
 if __name__ == "__main__":
+    if len(sys.argv) != 2 or sys.argv[1].startswith("-"):
+        raise SystemExit(__doc__)
     main(sys.argv[1])
