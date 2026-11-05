@@ -1,0 +1,47 @@
+# 附录 A 成本风险的基础比率（appendix-a）审校记录
+
+全节 6 个块、2 条注释，中英逐块对应（`site.py status` 显示 6/6、2/2）。6 个块是标题、3 个段落、表格（表头加 25 行）和表下的来源说明。
+
+## 1. 译者自检
+
+- 执行者：translation agent（Opus 5.5），译者本人。
+- 范围：全节 6 个块和 2 条注释，对照英文检查漏译、增译、否定、条件、数字、比较对象、术语和注释标记的位置。另外用脚本把中英两边去掉注释标记后的数字逐个对比：表格的 75 个数字和正文、注释里的数字次序、数值都一致，中文只多了正文第一段的“25”“1.6”（原文用单词写的 twenty-five、sixteen thousand–plus）。
+- 处理：
+  - 标题照术语表写“附录 A 成本风险的基础比率”。The table on the next page 照体例译“下表”。
+  - 术语照术语表：base rate 写“基础比率”，cost overrun 写“成本超支”，mean cost overrun 写“平均成本超支”，in real terms 写“按实际价值计算”，tail 写“尾部”，upper tail 写“上尾”，walk away 写“退出”（和结语的启发式“学会说不，及时退出”一致），project leader 写“项目负责人”，sponsor 写“项目发起人”。注释 2 的 final business case at final investment decision 写“最终投资决策时的最终商业论证”，early business cases 写“早期的商业论证”，和第 1 章注释 8 的说法一致。
+  - 表头和项目类型译成中文，数字照写。项目类型照第 1 章和第 9 章正文的说法：nuclear storage 写“核废料储存”，water 写“水务”，hydroelectric dams 写“水电站大坝”，nonhydroelectric dams 写“非水电大坝”，fossil thermal power 写“化石燃料火电”（第 9 章正文的写法），energy transmission 写“输电”（第 8、9 章正文把同一类项目叫 electricity transmission，译“输电”），bus rapid transit 写“快速公交”，hospitals, health 写“医院和医疗卫生”，IT 照写。
+  - 表头的 (A)(B)(C) 和正文的 (a)(b)(c) 写成全角括号；“≥ 50%”照原文保留符号。表头 (A) 列里的注释标记 [^2] 照原文的位置放在“（%）”后面。
+  - 注释 1 前半句是说明，译成中文；出处照英文原样保留，句末用原文的英文句点。注释 2 全条是说明，全部译成中文。
+  - Source: Flyvbjerg Database 照术语表写“来源：傅以斌数据库”。
+- 发现并修改：
+  - 第 4 块 “Frequently, empirical base rates are not considered at all.”：初稿“根据实际数据得出的基础比率根本没有人去看”把 considered 说成了“看”，改为“很多时候，人们根本不考虑根据实际数据得出的基础比率”，和上一句的“必须考虑”对应。
+  - 注释 2 “baselined as late in the project cycle as possible, just before the go-ahead”：初稿“基准尽可能定在项目周期的后期”丢了 as late as possible 的意思（要的是尽可能晚的那个时点），改为“基准定在项目周期中尽可能晚的时点，也就是项目获准实施的前夕”。
+  - 注释 1 的出处末尾，初稿把英文句点改成了中文句号，改回原文的句点，出处保持英文原样。
+- 检查：`python3 scripts/site.py status how-big-things-get-done` 显示 appendix-a 为 6/6、2/2；在 `/tmp` 下的副本里把本节设成草稿，用 `framework/tools/build.py --drafts` 构建通过，表头里的注释标记和正文里的标记都生成了注释按钮。中文正文没有破折号，也没有体例禁用的对比句式；连接号只出现在注释 1 照写英文的篇名和页码里。
+- 未决，留给主会话决定：
+  - 第 9 章译者注 [^t1] 说明肥尾图的项目类型时，fossil thermal power 写“火电”，energy transmission 写“能源输送”，dams 写“大坝”。本节表格照第 9 章正文写“化石燃料火电”“输电”，非水电大坝写“非水电大坝”。图中文字和表格是同一个数据库的分类，是否统一，请主会话决定。
+  - 第 3 块的 sponsor 译“项目发起人”。如果全书别处另有译法（例如“出资方”），请统一。
+
+## 2. 双语审校
+
+- 执行者：另一个独立上下文的 agent（Opus 5.5），没有参与翻译。
+- 范围：全节 6 个块和 2 条注释，逐块对照英文，核对表格的 75 个数字和正文里的 157%、76%、200%、238%、1%、447%，数字体例（twenty-five 写 25，sixteen thousand–plus 写 1.6 万多），术语（项目类型、基础比率、平均成本超支、按实际价值计算、尾部、项目负责人），以及两条注释的标记位置、引导语、说明句和出处。审校者没有改文件，意见由编辑逐条核实后处理。
+- 发现：1 条；编辑对照英文核实后采纳 1 条，不采纳 0 条。
+  - 第 3 块 “with a 76 percent risk of ending up in the tail with an expected overrun of 200 percent and substantial further risk of overrun above this”：原译“而且还有相当大的风险超支得比这更多”把 risk of overrun above this 逐词排开，“风险”和“超支得”挤在一起，不好读。照审校者的写法改为“而且超支突破这个数字的风险也相当大”：“也”对应 further，“这个数字”紧跟在前面的 200% 后面，指代清楚。
+- 不采纳：没有。这一条核实后成立。
+- 审校者的总体判断：数字、术语和注释都和英文一致，两条注释的出处保留英文原样；没有发现意义错误、漏译、增译或否定用反的地方，原文疑点没有需要补记的；`site.py status` 显示 6/6、注释 2/2。只有上面这一处表达读起来不顺。
+
+## 3. 中文通读
+
+- 执行者：编辑 agent（Opus 5.5）。
+- 范围：采纳审校意见后，只看中文，从标题读到注释 2，检查连贯、重复、指代和术语写法是否一致。改动回查了对应的英文。
+- 发现并修改：
+  - 第 4 块 “Differences in base rates must be taken into account when planning and managing projects but often are not. Frequently, empirical base rates are not considered at all.”：原译“必须考虑基础比率的这些差异，但人们往往没有考虑。很多时候，人们根本不考虑……”两句里连用三个“考虑”。第一处“没有考虑”改为“没有这样做”，意思不变，和下一句的“根本不考虑”也分得开。
+- 读过、没有改的地方：第 3 块“你有 76% 的风险落在尾部，落在尾部的预期超支是 200%”重复了“落在尾部”。英文 in the tail with an expected overrun of 200 percent 说的是落进尾部以后的预期超支，重复一次能让读者看清 200% 指尾部项目，保留。“尾部”“上尾”“平均成本超支”“按实际价值计算”“最终商业论证”全节写法一致，表头和正文的说法对得上。
+- 检查：`python3 scripts/site.py status how-big-things-get-done` 显示 appendix-a 为 6/6、2/2；改动后的中文仍然没有破折号，也没有体例禁用的对比句式。
+
+## 状态
+
+- 没有未解决的意义问题，原文疑点没有新增。
+- 译者自检列出的两项仍留给主会话决定：表格里的项目类型和第 9 章译者注 [^t1] 的写法是否统一；sponsor 译“项目发起人”是否和全书别处一致。
+- 还没做的：第 4 项阅读器校样。
