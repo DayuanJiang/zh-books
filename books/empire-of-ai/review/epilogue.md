@@ -72,3 +72,19 @@
 ## 状态
 
 双语审校的 20 条意见都已处理，中文通读的修改也已回查英文，没有未解决的意义问题。“US representatives” 译“美国众议员”是最常见的读法，审校者和编辑都同意保留，如果以后有材料说明来访者其实是美国政府派来的官员，再相应改动。原文疑点 3 条（注释 22 的逗号、注释 19 的 posted、正文第 2 段的城市化时间）都照原文翻译，记录在上面的表里。下一步是阅读器校样。
+
+## 第三轮：GPT-6 Astra 独立审校
+
+- 审校者：GPT-6 Astra，通过 Codex 运行，只读，和译者属于不同的模型家族。
+- 发现：6 条。逐条找到中英文对应的句子，读过上下文后核实：成立并修改 5 条，不成立 1 条。其中 3 条按建议的方向修改，但措辞另行调整。
+- 成立并修改：
+  - Te Hiku 发起社群竞赛的一段，“three hundred ten hours of high-quality transcribed audio”：原译“310 小时高质量的转写音频”，“转写音频”可以读成动宾结构“把音频转写”，看不出这些音频已经配好文字。改为“310 小时配有文字转写的高质量音频”。审校者建议的“附有转写文本”意思相同，换成更口语的说法。
+  - 亚历克斯·汉纳加入 DAIR 的一段，“one of the Google coauthors on the ‘Stochastic Parrots’ paper”：原译“‘随机鹦鹉’论文”。术语表写明这篇论文的中文标题是《论随机鹦鹉的危险》，第 10 章和第 12 章第一次提到它时都写作《论随机鹦鹉的危险》（“On the Dangers of Stochastic Parrots”），本章只提到这一次，也按每章第一次出现括注原题的规则处理。改为“论文《论随机鹦鹉的危险》（“On the Dangers of Stochastic Parrots”）的谷歌合著者之一”。
+  - 奥金伊为“数据工作者调查”写的文章，“As the dust settles on this chapter”：原译“这一页尘埃落定之际”。chapter 在这里指 Remotasks 突然封号这段经历，中文说“翻过这一页”，却不说“这一页尘埃落定”，两个说法混在一起不通。改为“这场风波尘埃落定之际”，注释 16 开头的粗体同步改为“‘这场风波尘埃落定之际’”。
+  - 瓦解帝国的公式那一段讲独立知识生产，“help us understand, rather than merely speculate about, the textured realities of the impact of these technologies”：原译“帮助我们真正了解这些技术带来的影响在现实中有哪些具体而复杂的面貌，不再只是凭空推测”，“影响……有哪些……面貌”层层套叠。改为“帮助我们切实了解这些技术在现实中造成了哪些具体而复杂的影响，不再只是凭空推测”。
+  - 最后一段讲面向大众的教育，“about the worldviews and fallibility of the people and companies developing these technologies”：原译“了解开发这些技术的人和公司持有怎样的世界观，又会犯哪些错误”。fallibility 说的是这些人和公司也会犯错，原译读起来像要列出他们会犯的具体错误。审校者建议“也认识到他们同样可能犯错”，打断了这一句连用“了解”的排比。改为“了解开发这些技术的人和公司持有怎样的世界观，了解他们同样会犯错”。
+- 不成立，保留原译：
+  - 全书正文最后一句，“May it be a new ground upon which many more after will rise up and build.”：原译“愿它成为一块新的基石，让后来的更多人站在上面奋起，继续建造”。审校者认为“站在上面奋起，继续建造”搭配别扭，建议改为“愿这本书奠定新的基础，让更多后来者行动起来，继续推进这项事业”。原文本身就是“在地基上站起来、接着建造”的比喻，build 也没有宾语；rise up 在这本讲抵抗的书里同时有“起来反抗”的意思，“奋起”保留了这一层。建议的改法丢掉了比喻，又加进原文没有的“这项事业”。第二轮双语审校已经斟酌过这一句，保留原译。
+- 对英文原文的疑问：审校者指出，注释 21 对应的萨莎·卢乔尼引语说汽车和家电都有 Energy Star 评级，但能源之星只用于家电、建筑等，不用于汽车；美国新车贴的是 EPA 的燃油经济性标签。我查了 energystar.gov 的标识使用规则（energystar.gov/partner-resources/brand-guidelines/recognition-marks），里面明确写着认证标识 “Do not use on cars, vans, or other vehicles”，审校者的说法成立。这是采访中的口头引语，可能是说话人随口把两种标签说成一种，译文照引语原样译出，不加译者注。上面原文疑点表里的三条记录不变。
+- 按全书统一的写法修改：1 处。Doomerism 按统一写法改为“末日论”：拉吉谈现实危害的一段，“末日派所说的失控 AI 那种理论上的危害”改为“末日论所说的失控 AI 那种理论上的危害”。其余各项逐条核对过，不用改：数字都符合规则（“二十多年来”“十天之内”“五个数据标注平台”“两块 GPU”用汉字，“15 种”“15 名工人”“2500 人”“400 多人”“30 天”用阿拉伯数字，“1 到 5 美分”“每小时 25 欧元”是金额）；《原住民学校法》（*Native Schools Act*）第一次出现已括注斜体原题，和其他章节里法案的写法一致，《华尔街日报》《时代》不括注；注释里的人名都写英文；每人在本章第一次出现时都括注了英文，译名和 `review/terms/people-zh.tsv` 一致；本章没有出现 Twitter、inference、cochairman、communications team、corporate vice president、fellow 等其他几项。
+- 核实与修改：agent（Opus 5.5）。改完后运行 `python3 scripts/site.py status empire-of-ai`，本章显示 40/40 个块、22/22 条注释，脚注标记与英文同号同序；正文仍然没有破折号，也没有“不是……而是……”句式，唯一的破折号在注释 22 照原文保留的论文标题里。

@@ -67,7 +67,7 @@ def people():
         if row["basis"] not in ("established", "transliterated") or "·" not in chinese:
             continue
         surname = re.sub(r"[“\"][^”\"]*[”\"]", "", name).split()[-1]
-        out.append((name, rf"\b{re.escape(surname)}\b", chinese.split("·")[-1]))
+        out.append((name, rf"\b{re.escape(surname)}\b", re.split(r"[·.]", chinese)[-1]))
     return out
 
 

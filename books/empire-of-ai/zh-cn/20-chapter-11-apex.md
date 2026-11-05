@@ -40,9 +40,9 @@ ChatGPT 让 OpenAI 一夜之间从一家在科技行业内颇有名气的热门�
 
 GPU 的严重短缺[^7]还打乱了另一项工作。为了利用公司自己的技术[^8]，信任与安全团队做出了一个方案的原型，内部叫作 Fact Factory（事实工厂），OpenAI 还对外大力宣传过它：用 GPT-4 来审核它自己的输出，以及 OpenAI 其他模型的输出。这套做法其实很难规模化：要捕捉到足够多的细微差别，就得给 GPT-4 输入极长的提示词。即使服务器运转正常，这样做也太耗计算资源。何况服务器并不总是在线。
 
-在安全派的许多人看来，OpenAI 的预见能力有限，而 ChatGPT 是迄今最令人警觉的例证。一位安全派的人在全员大会上提出了这个问题：公司怎么会把用户行为和 ChatGPT 的受欢迎程度预测得错得这么离谱？从这件事看，公司校准和预测自身技术未来影响的能力又如何？
+在安全派的许多人看来，OpenAI 的预见能力有限，而 ChatGPT 是迄今最令人警觉的例证。一位安全派的人在全员大会上提出了这个问题：公司对用户行为和 ChatGPT 受欢迎程度的预测，怎么会错得这么离谱？从这件事看，公司校准和预测自身技术未来影响的能力又如何？
 
-在公司其他大部分人看来，服务器崩溃固然带来了巨大的压力，但更是一场巨大胜利的标志。OpenAI 造出了一项如此深刻、需求如此火爆的技术，一夜之间点亮了世界，也改变了世界。他们把目标对准了全人类，而且真的做到了。所有人，全世界 80 亿人，如今都活在 OpenAI 的世界里。
+在公司其他大部分人看来，服务器崩溃固然带来了巨大的压力，但更是一场巨大胜利的标志。OpenAI 造出了一项影响如此深远、需求如此火爆的技术，一夜之间点亮了世界，也改变了世界。他们把目标对准了全人类，而且真的做到了。所有人，全世界 80 亿人，如今都活在 OpenAI 的世界里。
 
 奥特曼没有沉浸在这一刻。他提醒员工，公司归根结底肩负着一项使命，要实现的东西远比打造“硅谷史上最大的产品”宏大得多。他敦促每个团队坚持方向，继续向前。正如他所料[^9]，OpenAI 惊醒了所有竞争对手：Anthropic 正准备发布自己的聊天机器人 Claude；谷歌在内部拉响了“红色警报”，很快还会把旗下的几个 AI 部门合并成 Google DeepMind，全力推出一款类似的产品。虽然 OpenAI 凭借好上 10 倍的产品率先抢占了市场，但它必须继续往前跑，才能保住第一的位置。
 
@@ -58,7 +58,7 @@ GPU 的严重短缺[^7]还打乱了另一项工作。为了利用公司自己的
 
 新员工们完全认定自己加入的是一家节奏飞快、能赚钱的初创公司。在他们看来，这番动荡只是寻常企业病的一种格外混乱、有时还格外残酷的表现：管理糟糕，优先事项让人摸不着头脑，资本主义公司冷酷无情，随时准备把员工当成用完即弃的耗材。“心理安全感严重缺乏，”一位在这个时期入职的前员工说，“它就像‘公司就是家’的反面。这也说得过去，你知道的，它毕竟是一家公司。”许多新来的人只是咬紧牙关硬撑，熬到满一年，好拿到第一批股权。也有一个很大的好处：他们仍然觉得，同事们是科技行业里水平最高的一批人。再加上看似无穷无尽的资源和无可比拟的全球影响力，一旦各方面真的配合到位，就能激发出一种在业内其他地方很难找到的奇妙感觉。“我会说，OpenAI 是我待过的最好的地方之一，但可能也是最糟的地方之一，”这位前员工说。
 
-有些员工还记得，早年草创时期的 OpenAI 是一个紧密团结、以使命为驱动的非营利组织。对他们来说，看着它剧变成一家庞大而面目模糊的公司，要震惊得多，也伤感得多。他们熟悉的那个组织已经不在了，取而代之的是一个让人认不出来的东西。“OpenAI 就是火人节，”前招聘人员罗布·马勒里（Rob Mallery）说。他指的是，这个沙漠艺术节规模越做越大，最后丢掉了最初的精神。“我知道，它对那些从一开始就在的人意义要大得多，对现在的大家就没那么大了。”
+有些员工还记得，早年草创时期的 OpenAI 是一个紧密团结、以使命为驱动的非营利组织。对他们来说，看着它剧变成一家庞大而没有人情味的公司，要震惊得多，也伤感得多。他们熟悉的那个组织已经不在了，取而代之的是一个让人认不出来的东西。“OpenAI 就是火人节，”前招聘人员罗布·马勒里（Rob Mallery）说。他指的是，这个沙漠艺术节规模越做越大，最后丢掉了最初的精神。“我知道，它对那些从一开始就在的人意义要大得多，对现在的大家就没那么大了。”
 
 早年，团队开过一个叫 #explainlikeimfive（“像给五岁小孩讲那样解释”）的 Slack 频道，员工可以在里面匿名提技术方面的问题。公司人数逼近 600 人时，这个频道也成了匿名发牢骚的地方。2023 年年中，一名员工发帖说，公司招了太多不认同使命、对打造 AGI 也没什么热情的人。
 
@@ -84,7 +84,7 @@ ChatGPT 也让微软吃了一惊。OpenAI 的领导层对这个合作伙伴说�
 
 那年夏天，微软首席技术官凯文·斯科特（Kevin Scott）在 OpenAI 的一次全员大会上不吝溢美之词。“我们已经停掉了[^15]，呃，在好多地方停掉了我们在 AI 和机器学习上的投入，停到什么程度呢，就是，大家都在说，‘嘿，你知道吗，去你妈的，微软’，”斯科特说。他指的是把 GPU 从微软自己的一些内部研究项目调走。“我们下了这个赌注，因为我们相信，你们做的是整个行业里最好的工作。”
 
-ChatGPT 彻底坐实了 OpenAI 告别非营利、转向商业化的路线。奥特曼和其他高管力主趁着这个聊天机器人成功的势头，推出一连串付费产品。2023 年 2 月，OpenAI 发布了付费版 ChatGPT；3 月，又接连发布了 API 版本、Whisper API，最后是 GPT-4。“有了 ChatGPT，通往营收和利润的路就清清楚楚了，”一位前员工说，“你再也没法说自己是一个理想主义的研究实验室了。客户就在那儿，等着你此时此地为他们服务。”
+ChatGPT 彻底坐实了 OpenAI 告别非营利、转向商业化的路线。奥特曼和其他高管力主趁着这个聊天机器人成功的势头，推出一连串付费产品。2023 年 2 月，OpenAI 发布了付费版 ChatGPT；3 月，又接连发布了 API 版本、Whisper API，最后是 GPT-4。“有了 ChatGPT，通往营收和利润的路就清清楚楚了，”一位前员工说，“你再也没有理由坚持做一个理想主义的研究实验室了。客户就在那儿，等着你此时此地为他们服务。”
 
 新产品井喷，又一次让信任与安全团队招架不住。有一段时间，OpenAI 为了吸引用户使用它的 API，给新用户送价值 20 美元的免费使用额度。ChatGPT 大受欢迎，也让 API 的使用量急剧上升，这项注册奖励就成了问题：许多用户批量注册新账号，一次又一次地套取这笔奖励。有些用户还注册新账号，来规避旧账号受到的封禁和停用。这种大规模欺诈让 OpenAI 损失了巨额收入，而公司需要的服务器越来越多，成本也在节节攀升。信任与安全团队仍然不到 20 人[^16]，事后处置工作又严重受阻，只好再次抽调人手，像打地鼠一样对付这种新的滥用途径。
 
@@ -104,7 +104,7 @@ ChatGPT 彻底坐实了 OpenAI 告别非营利、转向商业化的路线。奥�
 
 微软担心 OpenAI 会不会说走就走，OpenAI 也有自己的软肋，担心要是这家初创公司不卖力讨好合作伙伴，微软会不会不再合作。在这方面，Arrakis 让人觉得是一次格外严重的挫折[^20]。为了给这家巨头留下好印象，OpenAI 调整了路线图，优先交付这个模型，把自己那些更契合战略的项目往后放，其中包括一项把 GPT-4 用到搜索引擎产品上的工作。结果事与愿违，这次失败让微软的一些高层很失望。
 
-还有一个新出现的尴尬现实[^21]：OpenAI 和微软开始争抢合同了。Codex 和 DALL-E 2 让 OpenAI 下定决心，要把直接向用户提供技术的主导权握在自己手里。ChatGPT 和 GPT-4 则表明，OpenAI 自己也能赚钱。这就意味着，OpenAI 要直接向客户推销的技术，和它交给微软的技术一模一样，而微软又拿着这些技术，去向一模一样的客户推销。
+还有一个新出现的尴尬现实[^21]：OpenAI 和微软开始争抢合同了。Codex 和 DALL-E 2 让 OpenAI 下定决心，要把直接向用户提供技术的主导权握在自己手里。ChatGPT 和 GPT-4 则表明，OpenAI 自己也能赚钱。这就意味着，OpenAI 要直接向客户推销的技术，和它交给微软的技术一模一样，而微软又拿着这些技术，去向同一批客户推销。
 
 把技术交接给微软，本身也有难处。OpenAI 的发布节奏加快了，微软的也跟着加快。可微软的体量让 OpenAI 相形见绌，于是出现了这样的局面：每推出一款新产品，一名 OpenAI 员工就可能被微软各个部门的几十个对口人员轮番找上门，问各种技术细节或执行安排上的问题。OpenAI 的员工既要专注于自己的路线图，又要支持微软的发布，越来越感到沮丧，也越来越应付不过来。
 
@@ -112,11 +112,11 @@ ChatGPT 彻底坐实了 OpenAI 告别非营利、转向商业化的路线。奥�
 
 随着两家融合得越来越深，奥特曼和纳德拉都比以往任何时候参与得更多，尤其是在算力资源的管理上：怎样把芯片重新分配给 OpenAI 那些永远吃不饱算力的业务，又怎样拿出钱来再买更多芯片，都要他们做出艰难的决定。纳德拉后来告诉《纽约时报》[^22]，OpenAI 的需求涨得又快又高，奥特曼开始每天给他打电话，说：“我还要，我还要，我还要。”
 
-OpenAI 需要的，除了更多用来支撑 ChatGPT 的数据中心，还有强大得多的超级计算机，用来训练未来几代模型。为了满足这种激进且不断升级的需求[^23]，两家公司正在规划一个前所未有的新项目，OpenAI 叫它 Stargate（星际之门），微软叫它 Mercury（水星）：一台超级计算机，光是建造估计就要花 1000 亿美元。AI 帝国正在回到和旧日帝国一模一样的扩张方式：为了给自己的增长提供养料，它需要更多的物质资源，而最关键的，是更多的土地。
+OpenAI 需要的，除了更多用来支撑 ChatGPT 的数据中心，还有强大得多的超级计算机，用来训练未来几代模型。为了满足这种来势汹汹、还在不断加码的需求[^23]，两家公司正在规划一个前所未有的新项目，OpenAI 叫它 Stargate（星际之门），微软叫它 Mercury（水星）：一台超级计算机，光是建造估计就要花 1000 亿美元。AI 帝国正在回到和旧日帝国一模一样的扩张方式：为了给自己的增长提供养料，它需要更多的物质资源，而最关键的，是更多的土地。
 
 [^1]: **合影：** 文中提到的那张照片，2022 年 10 月。
 
-[^2]: **审判期间公开的财务文件：** United States v. Samuel Bankman-Fried, No. 1:22-cr-00673, CourtListener (S.D.N.Y. March 15, 2024) ECF No. 410, at \*12–13. 相关段落写道：“从 2021 年底到 2022 年第一季度，班克曼-弗里德主导了数十亿美元的开支，这些开支用的是 FTX 客户的钱。其中包括……Anthropic PBC（一家人工智能公司）。”
+[^2]: **审判期间公开的财务文件：** United States v. Samuel Bankman-Fried, No. 1:22-cr-00673, CourtListener (S.D.N.Y. March 15, 2024) ECF No. 410, at \*12–13. 相关段落写道：“从 2021 年底到 2022 年第一季度，Bankman-Fried 主导了数十亿美元的开支，这些开支用的是 FTX 客户的钱。其中包括……Anthropic PBC（一家人工智能公司）。”
 
 [^3]: **一位法官后来裁定：** Zack Abrams, “FTX Offloads Remaining Anthropic Shares as Bankruptcy Cost Surpasses $500 Million,” The Block, June 1, 2024, [theblock.co/post/298010/ftx-offloads-remaining-anthropic-shares-as-bankruptcy-cost-surpasses-700-million](http://theblock.co/post/298010/ftx-offloads-remaining-anthropic-shares-as-bankruptcy-cost-surpasses-700-million).
 
@@ -134,7 +134,7 @@ OpenAI 需要的，除了更多用来支撑 ChatGPT 的数据中心，还有强�
 
 [^10]: **“我们现在”：** 备忘录副本。
 
-[^11]: **微软高管在内部谈论与 OpenAI 合作关系的方式：** 关于微软内部氛围的叙述，依据的是作者对 10 位微软现任和前任员工及高管的采访，以及高管发给员工的几封邮件的副本。
+[^11]: **微软高管在内部谈论与 OpenAI 合作关系的方式：** 关于微软内部氛围的叙述，依据的是作者对十位微软现任和前任员工及高管的采访，以及高管发给员工的几封邮件的副本。
 
 [^12]: **纳德拉推行了一套分配微软计算资源的新策略：** 提到这项新策略的邮件副本。
 
@@ -158,4 +158,4 @@ OpenAI 需要的，除了更多用来支撑 ChatGPT 的数据中心，还有强�
 
 [^22]: **纳德拉后来告诉《纽约时报》：** Karen Weise and Cade Metz, “How Microsoft’s Satya Nadella Became Tech’s Steely Eyed A.I. Gambler,” *New York Times*, July 14, 2026, [nytimes.com/2024/07/14/technology/microsoft-ai-satya-nadella.html](http://nytimes.com/2024/07/14/technology/microsoft-ai-satya-nadella.html).
 
-[^23]: **为了满足这种激进且不断升级的需求：** Anissa Gardizy and Amir Efrati, “Microsoft and OpenAI Plot $100 Billion Stargate AI Supercomputer,” *The Information*, March 29, 2024, [theinformation.com/articles/microsoft-and-openai-plot-100-billion-stargate-ai-supercomputer](http://theinformation.com/articles/microsoft-and-openai-plot-100-billion-stargate-ai-supercomputer); Anissa Gardizy, Aaron Holmes, and Amir Efrati, “OpenAI Leaders Say Microsoft Isn’t Moving Fast Enough to Supply Servers,” *The Information*, October 8, 2024, [theinformation.com/articles/openai-eases-away-from-microsoft-data-centers](http://theinformation.com/articles/openai-eases-away-from-microsoft-data-centers).
+[^23]: **为了满足这种来势汹汹、还在不断加码的需求：** Anissa Gardizy and Amir Efrati, “Microsoft and OpenAI Plot $100 Billion Stargate AI Supercomputer,” *The Information*, March 29, 2024, [theinformation.com/articles/microsoft-and-openai-plot-100-billion-stargate-ai-supercomputer](http://theinformation.com/articles/microsoft-and-openai-plot-100-billion-stargate-ai-supercomputer); Anissa Gardizy, Aaron Holmes, and Amir Efrati, “OpenAI Leaders Say Microsoft Isn’t Moving Fast Enough to Supply Servers,” *The Information*, October 8, 2024, [theinformation.com/articles/openai-eases-away-from-microsoft-data-centers](http://theinformation.com/articles/openai-eases-away-from-microsoft-data-centers).

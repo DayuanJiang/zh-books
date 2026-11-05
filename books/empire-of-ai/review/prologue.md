@@ -70,3 +70,20 @@
 - 没有未解决的意义问题。
 - 留给主会话决定：数字写法。本章已按体例把多位数字改成阿拉伯数字；其他章节还有“一万块 GPU”“两百多起”“一百多倍”这类写法，建议在术语表里写清楚英文用单词拼出的整数怎么处理，再统一全书。
 - 发布前要运行 `python3 scripts/site.py fonts empire-of-ai`：`check` 提示字体子集缺字，本章这次也用到了新字（例如“掀”“跻”“腹”）。
+
+## 第三轮：GPT-6 Astra 独立审校
+
+- 审校者：GPT-6 Astra，通过 Codex 运行，只读，和译者属于不同的模型家族。
+- 发现：7 条。逐条找到中英文对应的句子，读过上下文后核实：成立并修改 6 条，不成立 1 条。
+- 成立并修改：
+  - 第 35、36 块，员工的提问 “Are we worried about the hostile takeover via coercive influence of the existing board members?” 和苏茨克维的回答 “Hostile takeover? … It is not a hostile takeover.”：原译“恶意收购”，共三处。员工指的是董事会用强硬手段夺取公司控制权，“收购”会让读者以为有人在买下公司。三处都改为“恶意接管”。
+  - 第 30 块 “How do you reconcile the desire to grow together through crisis with a frustrating lack of transparency?”：原译“你一方面希望大家在危机中共同成长，一方面又让人沮丧地缺乏透明度，这两者怎么调和？”，“让人沮丧地缺乏透明度”照搬了英文的修饰关系，读着生硬。改为“你一方面希望大家在危机中共同成长，一方面又这样不透明，让人很沮丧，这两者怎么调和？”。“调和”和下一句的“和解”照旧，对应原文 reconcile 和 reconciliation 的呼应。
+  - 第 81 块 “The loss of its primary backer pushed OpenAI into financial uncertainty.”：原译“失去主要金主之后，OpenAI 陷入了财务上的不确定。”，“陷入……不确定”套用了英文的抽象名词，读着像话没说完。改为“失去主要金主之后，OpenAI 的财务前景变得不明朗。”
+  - 第 90 块 “Companies themselves, which once invested in sprawling exploratory research, can no longer afford to do so under the weight of the generative AI development bill.”：原译“那些曾经投资于大量探索性研究的公司，在生成式 AI 开发账单的重压下，自己也再负担不起了。”，“负担不起”没有宾语，又紧挨着“开发账单”，容易读成负担不起这笔账单。改为“就连公司自己，过去曾大量投资范围很广的探索性研究，如今在生成式 AI 开发账单的重压下，也再负担不起这类研究了。”定稿保留了原文“账单的重压”的说法，用“就连”译出 themselves 的语气。
+  - 第 93 块，奥特曼博客文章里的 “the discovery of all of physics”：原译“发现全部的物理学”，“发现”和学科名“物理学”搭配不当。这是奥特曼的原话，定为改动较小的“发现物理学的全部规律”。
+  - 第 93 块 “anyone … who wants a piece of that vision will have to rely on the empires to provide it”：原译“任何想分享这个愿景的人，无论是公司还是政府，都只能依赖这些帝国来提供。”“分享愿景”容易读成认同或传播这个设想，a piece of 说的是想从中分到好处；句末的“提供”也没有宾语。改为“任何想从这个愿景里分一杯羹的人，无论是公司还是政府，都只能靠这些帝国分给他们。”
+- 不成立，保留原译：
+  - 第 90 块 “employees working to advance AI technologies for drug discovery had to suspend their research and cede their computer chips to develop the chatbot instead”：审校者认为原文只说员工把芯片让给聊天机器人用，译文“交出他们的计算机芯片，转而去开发这个聊天机器人”多说了员工转去开发聊天机器人。英文里 to develop the chatbot instead 修饰前面两个动作，逻辑主语就是这些员工，instead 对照的是他们原来的药物研究，原译的读法符合原文语法。注释 18 引的《华尔街日报》报道也写到，百度要其他团队把人员和芯片一起借给这个聊天机器人项目（“lend their staff and their powerful computer chips”）。原译保留。
+- 对英文原文的疑问：审校者指出注释 16 把布罗克曼 “we are so back” 推文的日期写作 November 21, 2024，正文写的是 2023 年 11 月 21 日奥特曼复职当晚，疑为笔误。这一条已记在上面的“原文疑点”表里，译者注 [^t1] 也已说明，这一轮不再改动。
+- 按全书统一的写法修改：0 处。逐项对照了术语表“全书统一的写法”，本章已经符合：数字方面，一到十和约数用汉字（“十几名高管”“两天后”“十天后”“几十名员工”），11 以上的确数和万、亿前面的数字用阿拉伯数字（“将近 800 人”“36 个多小时”“1 万名员工”“1.5 万多倍”），倍数写“市值增长到原来的三倍”；本章出现的名人在第一次出现时都括注了英文，脚注出处里的人名都是英文；平台名写“X（原来的 Twitter）”“在 Twitter 上发了一张照片”；cochairmen 写“联席董事长”。Twitter 和联席董事长此前已由脚本统一。本章正文没有需要括注原题的书名或报刊，彭博社和其他各章一样按机构名写；inference、传播团队、Open Philanthropy 等其他条目本章都没有出现。钟点“下午 5 点”“晚上 9 点”术语表没有写到，其他章节里“凌晨 2 点”和“凌晨三点”两种写法都有，本章暂时保留阿拉伯数字，留给主会话统一决定。
+- 核实与修改：agent（Opus 5.5）。改完后运行 `python3 scripts/site.py status empire-of-ai`，序章显示 95/95 块、23/23 条注释，全书 1681/1681 块已译。改过的块重新检查过，全章中文仍然没有破折号，也没有“不是……而是……”句式。

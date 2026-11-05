@@ -30,3 +30,13 @@
 
 - 没有未解决的意义问题。“AI 聚焦系列”“美国人文主义者媒体奖”是暂译，括注了原文，留给主会话确认。
 - `site.py status` 显示 2/2。
+
+## 第三轮：GPT-6 Astra 独立审校
+
+- 审校者：GPT-6 Astra，通过 Codex 运行，只读，和译者属于不同的模型家族。
+- 发现：0 条。审校者逐块核对了全节 2 块，认为没有需要修改的实质问题；本节没有脚注。核实者另外对照英文重读了正文一段：award-winning 译“屡获殊荣”，numerous accolades 译“多次获奖”；“leads the Pulitzer Center's AI Spotlight Series”译“主持普利策中心（Pulitzer Center）的‘AI 聚焦系列’（AI Spotlight Series）”，普利策中心的写法和致谢一节一致；“formerly a reporter for the Wall Street Journal ... and a senior editor for AI at MIT Technology Review”译“曾任《华尔街日报》记者……也曾任《麻省理工科技评论》的 AI 高级编辑”；两个奖项和“机械工程理学学士学位”都和原文相符。同意审校者的判断。成立并修改 0 条，不成立 0 条。
+- 成立并修改：无。
+- 不成立，保留原译：无。
+- 对英文原文的疑问：无。
+- 按全书统一的写法修改：0 处。逐条对照术语表“全书统一的写法”：“30 岁以下”是 11 以上的确数，用阿拉伯数字，“数以千计”是约数，用汉字；《大西洋月刊》《华尔街日报》《麻省理工科技评论》属于常见报刊，按约定不括注，现在的译文也没有括注；作者名“郝珂灵（Karen Hao）”第一次出现括注英文；没有平台名、需要统一的头衔和机构名。全节中文里也没有破折号和“不是……而是……”句式。
+- 核实与修改：agent（Opus 5.5）。本节没有改动。之后运行 `python3 scripts/site.py status empire-of-ai`，关于作者一节显示 2/2 块已译、没有注释，全书 1681/1681 块已译（100%）。

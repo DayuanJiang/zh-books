@@ -68,3 +68,18 @@
 - 没有未解决的意义问题。
 - 留给主会话决定的事项（不涉及意义）：表外人名的音译要补进 `people-zh.tsv`，其中 Janet Guyon、Josh Chin 的中文名没有核实；Quartz 暂作《石英》。
 - `site.py status` 显示 15/15。
+
+## 第三轮：GPT-6 Astra 独立审校
+
+- 审校者：GPT-6 Astra，通过 Codex 运行，只读，和译者属于不同的模型家族。
+- 发现：5 条（意义 1 条，表达 4 条）。逐条找到中英文对应的句子，读过上下文后核实：成立并修改 5 条，不成立 0 条。
+- 成立并修改：
+  - 第 5 块（米娅·康塞尔一段），英文“Her masterful coordination behind the scenes made the entire editing and production process feel so seamless”。原译“她在幕后的协调高超老练”，新译“她在幕后协调得极为高明”。“老练”通常形容人或手法，拿来做“协调”的谓语搭配不上，“协调高超”也别扭。审校者建议“她在幕后协调有方”，意思对，但 masterful 的分量弱了，编辑改用“极为高明”。
+  - 第 8 块（斯蒂芬·图奥·基古鲁一段），英文“whose humor and relentless optimism remained unflappable even when someone called the cops on him”。原译“即便在那时，他的幽默和永不消退的乐观也丝毫没有动摇”，新译“即便在那时，他也处变不惊，照样幽默，乐观劲儿一点没减”。“幽默没有动摇”搭配不自然；unflappable 说的是人遇事镇定。审校者建议“他仍然幽默风趣，一如既往地乐观”，没有译出 unflappable 的镇定，编辑加了“处变不惊”，用“一点没减”对应 relentless。
+  - 第 9 块（朋友和导师一段），英文“who generously read early drafts of the book or various excerpts”。原译“他们慷慨地读了这本书的早期书稿”，新译“他们慷慨地抽出时间，读了这本书的早期书稿”。中文的“慷慨”说的是舍得拿出钱财、时间这类东西，“慷慨地读”是直译；照审校者的建议补出“抽出时间”。
+  - 第 9 块（同一段奥伦·埃齐奥尼一句），英文“to ensure they were correct and appropriately nuanced”。原译“确保它们准确无误、分寸得当”，新译“确保它们准确无误，该有的细微差别也都照顾到了”。nuanced 指对 AI 历史的叙述和技术解释保留了必要的细微区别和限定，“分寸得当”多指说话做事的态度和尺度，读者容易理解成语气适度。审校者建议“确保内容准确，并恰当呈现其中的细微区别与必要限定”，意思对，但偏长偏书面，编辑改得短一些、口语一些。
+  - 第 13 块（《华尔街日报》和《大西洋月刊》一段），英文“my editor Damon Beres needed no convincing when I pitched him a wonky story”。原译“他完全不需要我说服”，新译“他二话没说就同意了”。原译照搬英文的否定说法，“需要我说服”又缺宾语，读着生硬；原意是他爽快地接受了这个选题。审校者建议“无须我多费口舌，他就认可了这个选题”，放在分号前偏长，编辑改用口语的“二话没说就同意了”；后半句“保罗……也一样”仍然接得上。
+- 不成立，保留原译：无。
+- 对英文原文的疑问：审校者没有提出。译者自检时记下的一处仍然成立：第 5 块末句“the many others with whom I didn't interface directly but were critical to the process”，but 后面缺了关系代词 who，属于语法小疏漏，意思清楚，译文照原意，没有改。
+- 按全书统一的写法修改：0 处。逐项核对过：“十多个小时”“两周”“六个月”“分四篇”“他们四人”是十以内的数或约数，用汉字，“2021 年底”“第 4 章”用阿拉伯数字，都符合规定；《石英》不在常见报刊之列，已括注斜体原题（*Quartz*），《麻省理工科技评论》《科技评论》《华尔街日报》《大西洋月刊》按常见报刊不括注，书名号之间也没有顿号；人名第一次出现都括注了英文，Yuki Hirose 和 Boyoung Lim 照写原名；本节没有脚注，唯一的译者注 t1 里没有人名；平台名、inference、头衔、术语表列出的机构和其他说法本节都没有出现。
+- 核实与修改：agent（Opus 5.5）。改动都在 zh-cn/30-acknowledgments.md 里，块的对应保持原样，本节没有注释。改完后运行 `python3 scripts/site.py status empire-of-ai`，本节显示 `| acknowledgments | review | 15/15 |  |`，全部 15 个块都已翻译，本节没有注释；全书 1681/1681 块（100%）。中文文件里没有破折号，也没有体例禁用的对比句式。
