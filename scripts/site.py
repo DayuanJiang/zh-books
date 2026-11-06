@@ -196,7 +196,7 @@ def serve(port, drafts):
         """Serve _site/ under the same path prefix as the public site."""
 
         def do_GET(self):
-            if self.path in ("/", ""):
+            if self.path in ("/", "") and PREFIX != "/":
                 body = f'<meta http-equiv="refresh" content="0; url={PREFIX}"><a href="{PREFIX}">{PREFIX}</a>'.encode()
                 self.send_response(200)
                 self.send_header("Content-Type", "text/html; charset=utf-8")

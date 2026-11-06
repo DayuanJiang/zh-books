@@ -8,14 +8,14 @@
 
 在浏览器里逐段对照原文和译文，配有 144 张章节图解、就地展开的脚注和译者注。
 
-[![在线阅读](https://img.shields.io/badge/在线阅读-dayuanjiang.github.io-b4423a?style=flat-square)](https://dayuanjiang.github.io/zh-books/swe-at-google/)
+[![在线阅读](https://img.shields.io/badge/在线阅读-books.jiang.jp-b4423a?style=flat-square)](https://books.jiang.jp/swe-at-google/)
 [![全书完成](https://img.shields.io/badge/25%20章-全部完成并润色-2e7d32?style=flat-square)](#章节导览)
 [![CC BY-SA 3.0](https://img.shields.io/badge/内容-CC%20BY--SA%203.0-555?style=flat-square)](#来源与许可)
 [![CI](https://github.com/DayuanJiang/zh-books/actions/workflows/ci.yml/badge.svg)](https://github.com/DayuanJiang/zh-books/actions/workflows/ci.yml)
 
 <br>
 
-<a href="https://dayuanjiang.github.io/zh-books/swe-at-google/">
+<a href="https://books.jiang.jp/swe-at-google/">
   <img src="assets/images/reader-light.png" alt="阅读器：第十四章，中英对照，章首的本章概览已展开" width="900">
 </a>
 
@@ -49,7 +49,7 @@ Google 用二十多年时间，把几万名工程师和几十亿行代码组织�
 
 ## 开始阅读
 
-在线版本：<https://dayuanjiang.github.io/zh-books/swe-at-google/>
+在线版本：<https://books.jiang.jp/swe-at-google/>
 
 本地运行（在仓库根目录）：
 

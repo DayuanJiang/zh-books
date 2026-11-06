@@ -2,14 +2,14 @@
 
 对照原文修订的中文译本合集。所有书共用一套阅读器和工具，每本书配有章节图解、术语表和审校记录，发布在同一个网站上。
 
-在线阅读：<https://dayuanjiang.github.io/zh-books/>
+在线阅读：<https://books.jiang.jp/>
 
 ## 书目
 
 | 书 | 目录 | 阅读器 | 在线阅读 |
 | --- | --- | --- | --- |
-| 软件设计的哲学（第二版）<br><sub>A Philosophy of Software Design, 2nd Edition</sub> | [`books/aposd2e`](books/aposd2e) | 自带的 VuePress 阅读器，简体与繁体，代码可切换为 Python | [打开](https://dayuanjiang.github.io/zh-books/aposd2e/) |
-| 谷歌的软件工程<br><sub>Software Engineering at Google</sub> | [`books/swe-at-google`](books/swe-at-google) | 共用的中英对照阅读器，代码可切换为 Python | [打开](https://dayuanjiang.github.io/zh-books/swe-at-google/) |
+| 软件设计的哲学（第二版）<br><sub>A Philosophy of Software Design, 2nd Edition</sub> | [`books/aposd2e`](books/aposd2e) | 自带的 VuePress 阅读器，简体与繁体，代码可切换为 Python | [打开](https://books.jiang.jp/aposd2e/) |
+| 谷歌的软件工程<br><sub>Software Engineering at Google</sub> | [`books/swe-at-google`](books/swe-at-google) | 共用的中英对照阅读器，代码可切换为 Python | [打开](https://books.jiang.jp/swe-at-google/) |
 
 每本书目录里的 README 介绍这本书的特色、审校方法、怎样参与修改，以及译文来源和许可。
 

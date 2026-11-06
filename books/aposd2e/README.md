@@ -8,14 +8,14 @@
 
 对照原文修订的译文，每章配有译者图解、章首概览与章末回顾，代码示例一键切换为 Python，简体与繁体双版。
 
-[![在线阅读](https://img.shields.io/badge/在线阅读-dayuanjiang.github.io-a33e36?style=flat-square)](https://dayuanjiang.github.io/zh-books/aposd2e/)
+[![在线阅读](https://img.shields.io/badge/在线阅读-books.jiang.jp-a33e36?style=flat-square)](https://books.jiang.jp/aposd2e/)
 [![全书修订](https://img.shields.io/badge/22%20章-全部对照原文修订-0b6f5d?style=flat-square)](#目录)
 [![CC BY 4.0](https://img.shields.io/badge/译文-CC%20BY%204.0-555?style=flat-square)](#来源与许可)
 [![CI](https://github.com/DayuanJiang/zh-books/actions/workflows/ci.yml/badge.svg)](https://github.com/DayuanJiang/zh-books/actions/workflows/ci.yml)
 
 <br>
 
-<a href="https://dayuanjiang.github.io/zh-books/aposd2e/ch04.html">
+<a href="https://books.jiang.jp/aposd2e/ch04.html">
   <img src=".github/readme/reader-light.png" alt="阅读器：第 4 章开头的本章概览，浅色主题" width="900">
 </a>
 
@@ -52,7 +52,7 @@
 
 ## 开始阅读
 
-在线版本：<https://dayuanjiang.github.io/zh-books/aposd2e/>（繁体：<https://dayuanjiang.github.io/zh-books/aposd2e/zh-tw/>）
+在线版本：<https://books.jiang.jp/aposd2e/>（繁体：<https://books.jiang.jp/aposd2e/zh-tw/>）
 
 本地运行：
 
