@@ -36,6 +36,8 @@
             lastRoute = JSON.parse(localStorage.getItem(READER_BOOK.storageKey) || '{}').lastRoute || '';
         } catch (_) {}
         if (!/^\/zh-cn\/[A-Za-z0-9_\/.-]+$/.test(lastRoute)) lastRoute = '';
+        // reader.js then scrolls back to the paragraph the reader was on.
+        window.READER_RESUME = Boolean(lastRoute);
         location.replace('#' + (lastRoute || READER_BOOK.start));
     }
     window.$docsify = {

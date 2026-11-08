@@ -41,7 +41,12 @@
     if (["light", "dark"].includes(saved.theme)) preferences.theme = saved.theme;
     if (typeof saved.lastRoute === "string") preferences.lastRoute = saved.lastRoute;
     if (["original", "python"].includes(saved.code)) preferences.code = saved.code;
+    if (saved.position && typeof saved.position.route === "string") preferences.position = saved.position;
   } catch (_) { /* Reading remains available when local storage is restricted. */ }
+  // Opening the book from its home page (index.html sets READER_RESUME) returns to the saved paragraph once.
+  let resumeTarget = window.READER_RESUME && preferences.position ? { ...preferences.position } : null;
+  let saveTimer = 0;
+  let restoredScroll = null;
   document.documentElement.dataset.theme = preferences.theme;
   document.documentElement.style.setProperty("--reading-size", preferences.size + "px");
   const svgCache = new Map();
@@ -122,6 +127,65 @@
     change();
     if (target) window.scrollBy(0, target.getBoundingClientRect().top - top);
     updateScroll();
+  }
+  // Reading position: the topmost paragraph on screen, by unit id, so it survives a change of reading mode,
+  // font size or window width.
+  const headerHeight = () => parseInt(getComputedStyle(document.documentElement).getPropertyValue("--header-height"), 10);
+  function chapterPercent() {
+    const total = document.documentElement.scrollHeight - innerHeight;
+    return total > 0 ? Math.min(100, Math.max(0, scrollY / total * 100)) : 0;
+  }
+  function savePosition() {
+    clearTimeout(saveTimer);
+    const main = document.getElementById("main");
+    if (!currentPage || main?.dataset.readerReady !== "true") return;
+    // Right after a restore the end of the previous paragraph shows above the restored one; saving then would
+    // move the position back one paragraph on every reopen. Save again once the reader scrolls.
+    if (restoredScroll !== null && Math.abs(scrollY - restoredScroll) < 2) return;
+    const limit = headerHeight() + 8;
+    const block = [...main.querySelectorAll(":scope > [data-unit]")]
+      .find((node) => node.getClientRects().length && node.getBoundingClientRect().bottom > limit);
+    preferences.position = { route: currentPage.route, unit: block?.dataset.unit || "", percent: Math.round(chapterPercent()) };
+    persist();
+  }
+  function restorePosition(main, saved) {
+    const toast = saved.percent >= 2 ? showResumeToast(saved) : null;
+    // The paragraph starts below the toast, so its first line is not covered.
+    const offset = toast ? toast.getBoundingClientRect().bottom + 16 : headerHeight() + 20;
+    const align = () => {
+      const block = saved.unit && [...main.querySelectorAll('[data-unit="' + CSS.escape(saved.unit) + '"]')]
+        .find((node) => node.getClientRects().length);
+      const top = block ? scrollY + block.getBoundingClientRect().top - offset
+        : saved.percent / 100 * (document.documentElement.scrollHeight - innerHeight);
+      window.scrollTo({ top: Math.max(0, top), behavior: "instant" });
+      restoredScroll = scrollY;
+    };
+    align();
+    // Figures and fonts that finish loading later push the text down: keep the paragraph in place for a few
+    // seconds, until the reader scrolls or clicks.
+    const observer = new ResizeObserver(align);
+    observer.observe(main);
+    const events = ["wheel", "touchstart", "keydown", "pointerdown"];
+    const stop = () => { observer.disconnect(); events.forEach((name) => removeEventListener(name, stop)); };
+    events.forEach((name) => addEventListener(name, stop, { passive: true }));
+    setTimeout(stop, 4000);
+  }
+  function showResumeToast(saved) {
+    const toast = document.createElement("div");
+    toast.className = "reader-resume-toast"; toast.setAttribute("role", "status");
+    const label = document.createElement("span");
+    const where = document.createElement("span");
+    where.className = "reader-resume-where";
+    where.textContent = "（" + (currentPage.number ? "第 " + currentPage.number + " 章" : currentPage.title) + "，约 " + saved.percent + "%）";
+    label.append("已回到上次读到的位置", where);
+    const back = document.createElement("button");
+    back.type = "button"; back.textContent = "回到本章开头";
+    back.addEventListener("click", () => { window.scrollTo({ top: 0, behavior: "instant" }); toast.remove(); });
+    toast.append(label, back);
+    document.body.append(toast);
+    setTimeout(() => toast.classList.add("is-leaving"), 6000);
+    setTimeout(() => toast.remove(), 6400);
+    return toast;
   }
   function menuState() {
     const narrow = matchMedia("(max-width: 900px)").matches;
@@ -325,6 +389,9 @@
     mountNotePopover();
     applyPreferences(); menuState();
     window.addEventListener("scroll", updateScroll, { passive: true });
+    window.addEventListener("scroll", () => { clearTimeout(saveTimer); saveTimer = setTimeout(savePosition, 400); }, { passive: true });
+    window.addEventListener("pagehide", savePosition);
+    document.addEventListener("visibilitychange", () => { if (document.hidden) savePosition(); });
     window.addEventListener("resize", () => {
       menuState(); updateScroll(); closeSettings(); if (viewerSvg) fitViewer();
     }, { passive: true });
@@ -358,30 +425,32 @@
   function renderChapter(chapter) {
     const html = [];
     for (const unit of chapter.units) {
+      // Every top-level block carries its unit id; the saved reading position points at one.
+      const push = (block) => html.push(block.replace(/^<([a-z0-9]+)/, '<$1 data-unit="' + unit.id + '"'));
       if (unit.pending) {
         // Draft chapters: a block not translated yet shows its English text in both reading modes.
-        html.push(unit.kind === "heading"
+        push(unit.kind === "heading"
           ? "<h" + unit.level + ' id="' + unit.anchor + '" class="pending-translation" lang="en">' + unit.sourceHtml + "</h" + unit.level + ">"
           : withAttributes(unit.sourceHtml, "english-prose pending-translation", "en"));
         continue;
       }
       if (unit.kind === "heading") {
         if (unit.level === 1) {
-          html.push('<p class="reader-original-title" lang="en">' + unit.sourceHtml + "</p>");
-          html.push('<h1 id="' + unit.anchor + '">' + unit.targetHtml + "</h1>");
+          push('<p class="reader-original-title" lang="en">' + unit.sourceHtml + "</p>");
+          push('<h1 id="' + unit.anchor + '">' + unit.targetHtml + "</h1>");
         } else {
-          html.push("<h" + unit.level + ' id="' + unit.anchor + '"><span class="heading-original" lang="en">' + unit.sourceHtml +
+          push("<h" + unit.level + ' id="' + unit.anchor + '"><span class="heading-original" lang="en">' + unit.sourceHtml +
             ' </span><span lang="zh-CN">' + unit.targetHtml + "</span></h" + unit.level + ">");
         }
         continue;
       }
       if (unit.targetHtml == null) {
-        html.push(unit.role === "code-label" ? withAttributes(unit.sourceHtml, ROLE_CLASSES[unit.role], "en") : unit.sourceHtml);
+        push(unit.role === "code-label" ? withAttributes(unit.sourceHtml, ROLE_CLASSES[unit.role], "en") : unit.sourceHtml);
         continue;
       }
       const role = ROLE_CLASSES[unit.role] || "";
-      html.push(withAttributes(unit.sourceHtml, "english-prose translated-source " + role, "en"));
-      html.push(withAttributes(unit.targetHtml, role, "zh-CN"));
+      push(withAttributes(unit.sourceHtml, "english-prose translated-source " + role, "en"));
+      push(withAttributes(unit.targetHtml, role, "zh-CN"));
     }
     if (chapter.recap) {
       // Translator-written summary and takeaways, after the chapter text.
@@ -954,6 +1023,8 @@
       resizeObservers.forEach((observer) => observer.disconnect()); resizeObservers = [];
       headings = [];
       document.getElementById("diagram-modal")?.close();
+      document.querySelector(".reader-resume-toast")?.remove();
+      restoredScroll = null;
       // The Markdown file only serves as the route target; the chapter is rendered from its units in afterEach.
       next("");
     });
@@ -1004,6 +1075,10 @@
       main.dataset.readerReady = "true";
       if (matchMedia("(max-width: 900px)").matches) document.body.classList.remove("close");
       menuState(); updateScroll();
+      const resume = resumeTarget;
+      resumeTarget = null;
+      if (resume && resume.route === currentPage?.route) restorePosition(main, resume);
+      else savePosition();
     });
   });
 })();

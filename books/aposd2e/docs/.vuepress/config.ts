@@ -8,6 +8,22 @@ import { readerPlugin } from './reader/plugin'
 const base = (process.env.BOOK_BASE || '/aposd2e/') as `/${string}/`
 const favicon = { rel: 'icon', type: 'image/png', href: `${base}favicon.png` }
 const site = process.env.BOOK_URL || 'https://books.jiang.jp/aposd2e/'
+// Opening the book's home page (from the bookshelf) reopens the chapter last read in the same language;
+// reader/position.ts then scrolls back to the saved block.
+const resumeRedirect = `(function () {
+  var base = ${JSON.stringify(base)}, path = location.pathname;
+  if (path.slice(-10) === 'index.html') path = path.slice(0, -10);
+  var locale = path === base ? '' : path === base + 'zh-tw/' ? 'zh-tw' : path === base + 'en/' ? 'en' : null;
+  if (locale === null || location.hash) return;
+  try {
+    var last = JSON.parse(localStorage.getItem('aposd-reader-preferences-v1') || '{}').lastRoute;
+    if (typeof last !== 'string' || last.charAt(0) !== '/' || last.slice(-5) !== '.html') return;
+    var lastLocale = last.indexOf('/zh-tw/') === 0 ? 'zh-tw' : last.indexOf('/en/') === 0 ? 'en' : '';
+    if (lastLocale !== locale) return;
+    sessionStorage.setItem('aposd-reader-resume', '1');
+    location.replace(base + last.slice(1));
+  } catch (e) {}
+})()`
 const description = '《软件设计的哲学（第二版）》中文版：对照原文修订的译文，每章配有译者图解、章首概览与章末回顾，代码示例可切换为 Python，支持简体与繁体。'
 
 export default defineUserConfig({
@@ -24,6 +40,7 @@ export default defineUserConfig({
   base,
   head: [
     ['link', favicon],
+    ['script', {}, resumeRedirect],
     ['meta', { property: 'og:type', content: 'website' }],
     ['meta', { property: 'og:site_name', content: '软件设计的哲学' }],
     ['meta', { property: 'og:title', content: '软件设计的哲学（第二版）中文版' }],

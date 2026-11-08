@@ -8,6 +8,7 @@ import { Menu, X, Type, Minus, Plus, Sun, Moon, List, Search, Languages, GitBran
 import book from '@temp/reader/book'
 import { useReader } from './state'
 import { useReadingAnchor } from './anchor'
+import { useReadingPosition } from './position'
 
 const route = useRoute()
 useReadingAnchor()
@@ -30,6 +31,14 @@ watch(() => route.path, (path) => {
   const current = everyChapter.find((chapter) => chapter.path === path)
   if (current && current.id !== 'README') preferences.lastRoute = path
 }, { immediate: true })
+const { resumed, backToStart } = useReadingPosition()
+const resumeWhere = computed(() => {
+  const current = everyChapter.find((chapter) => chapter.path === route.path)
+  const number = /^ch(\d+)$/.exec(current?.id || '')?.[1]
+  const percent = resumed.value?.percent
+  if (english.value) return ` (${number ? `Chapter ${+number}` : current?.title}, about ${percent}%)`
+  return `（${number ? `第 ${+number} 章` : current?.title}，${text('约', '', '約')} ${percent}%）`
+})
 const sidebarOpen = ref(false)
 const narrow = ref(false)
 const sidebarHidden = ref(false)
@@ -230,6 +239,12 @@ onBeforeUnmount(() => {
       <button type="button" class="reader-icon-button reader-toc-close" :aria-label="text('关闭本章目录', 'Close contents', '關閉本章目錄')" @click="closeToc()"><X /></button>
       <a v-for="header in headers" :key="header.slug" :href="`#${header.slug}`" :data-depth="header.depth" :aria-current="activeHeading === header.slug ? 'location' : undefined" @click="tocOpen = false">{{ header.title }}</a>
     </nav>
+    <Transition name="reader-toast">
+      <div v-if="resumed" class="reader-resume-toast" role="status">
+        <span>{{ text('已回到上次读到的位置', 'Back where you left off', '已回到上次讀到的位置') }}<span class="reader-resume-where">{{ resumeWhere }}</span></span>
+        <button type="button" @click="backToStart">{{ text('回到本章开头', 'Back to chapter start', '回到本章開頭') }}</button>
+      </div>
+    </Transition>
     <section v-if="settingsOpen" id="reader-settings" ref="settings" class="reader-settings" :aria-label="text('阅读设置', 'Reading settings', '閱讀設定')">
       <h2>{{ text('阅读设置', 'Reading settings', '閱讀設定') }}</h2>
       <div class="reader-settings-row"><span>{{ text('字号', 'Text size', '字級') }}</span><div class="reader-size-control"><button type="button" class="reader-icon-button" :aria-label="text('减小字号', 'Decrease text size', '減小字級')" :disabled="preferences.size <= 16" @click="resize(preferences.size - 1)"><Minus /></button><output>{{ preferences.size }}</output><button type="button" class="reader-icon-button" :aria-label="text('增大字号', 'Increase text size', '增大字級')" :disabled="preferences.size >= 22" @click="resize(preferences.size + 1)"><Plus /></button></div></div>

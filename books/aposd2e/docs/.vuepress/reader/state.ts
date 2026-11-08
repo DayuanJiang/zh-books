@@ -4,7 +4,8 @@ const key = Symbol('aposd-reader')
 const storageKey = 'aposd-reader-preferences-v1'
 
 export function createReaderState() {
-  const preferences = reactive({ size: 19, theme: 'light', code: 'original', figures: 'svg', lastRoute: '' })
+  const preferences = reactive({ size: 19, theme: 'light', code: 'original', figures: 'svg', lastRoute: '',
+    position: null as null | { route: string, index: number, percent: number } })
   let started = false
   const apply = () => {
     document.documentElement.dataset.readerTheme = preferences.theme
@@ -21,7 +22,10 @@ export function createReaderState() {
       if (['original', 'python'].includes(saved.code)) preferences.code = saved.code
       if (['original', 'svg'].includes(saved.figures)) preferences.figures = saved.figures
       if (Number.isFinite(saved.size)) preferences.size = Math.max(16, Math.min(22, Math.round(saved.size)))
-      if (typeof saved.lastRoute === 'string' && saved.lastRoute.startsWith('/')) preferences.lastRoute = saved.lastRoute
+      // The layout has already set lastRoute when the page opened is a chapter; the saved one is older.
+      if (!preferences.lastRoute && typeof saved.lastRoute === 'string' && saved.lastRoute.startsWith('/')) preferences.lastRoute = saved.lastRoute
+      if (typeof saved.position?.route === 'string' && Number.isInteger(saved.position.index) && Number.isFinite(saved.position.percent))
+        preferences.position = saved.position
     } catch {}
     apply()
     watch(preferences, apply, { flush: 'post' })
