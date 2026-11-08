@@ -2,7 +2,7 @@
 
 ## 引言
 
-收集太少的观测数据：我们读过一本书，它批评心理学家使用小样本，却没有解释心理学家为什么会这样选择：Jacob Cohen, Statistical Power Analysis for the Behavioral Sciences (Hillsdale, NJ: Erlbaum, 1969).
+收集的观测数据又往往太少：我们读过一本书，书中批评心理学家使用小样本，却没有解释他们为什么这样选择：Jacob Cohen, Statistical Power Analysis for the Behavioral Sciences (Hillsdale, NJ: Erlbaum, 1969).
 
 关于单词的问题：我稍稍改动了原来的措辞，原来的问题问的是字母在单词中处于第一位和第三位的情况。
 
@@ -36,7 +36,7 @@
 
 精神病态者的魅力：黑尔教授在 2011 年 3 月 16 日写信对我说：“你的老师是对的。”Robert D. Hare, Without Conscience: The Disturbing World of the Psychopaths Among Us (New York: Guilford Press, 1999). Paul Babiak and Robert D. Hare, Snakes in Suits: When Psychopaths Go to Work (New York: Harper, 2007).
 
-小人：心智内部的这些主体被称为“小矮人”（homunculi），它们是专业人士嘲笑的对象，这也理所应当。
+小人：心智内部的这类主体叫作“小矮人”（homunculi），是专业人士嘲笑的对象，这也理所应当。
 
 工作记忆里占的空间：Alan D. Baddeley, “Working Memory: Looking Back and Looking Forward,” Nature Reviews: Neuroscience 4 (2003): 829–38. Alan D. Baddeley, Your Memory: A User’s Guide (New York: Firefly Books, 2004).
 
@@ -50,7 +50,7 @@
 
 心率加快：Daniel Kahneman et al., “Pupillary, Heart Rate, and Skin Resistance Changes During a Mental Task,” Journal of Experimental Psychology 79 (1969): 164–67.
 
-快速闪现的字母：Daniel Kahneman, Jackson Beatty, and Irwin Pollack, “Perceptual Deficit During a Mental Task,” Science 15 (1967): 218–19. 我们用了一面半透明的镜子，这样，观察者面对摄像机时，字母就出现在他们的正前方。在一个对照条件下，参与者透过一个窄孔看字母，以免瞳孔大小的变化影响他们的视敏度。他们的检测结果呈现出在其他受试者身上观察到的倒 V 形模式。
+快速闪现的字母：Daniel Kahneman, Jackson Beatty, and Irwin Pollack, “Perceptual Deficit During a Mental Task,” Science 15 (1967): 218–19. 我们用了一面半透明的镜子，这样，观察者面对摄像机时，字母就出现在他们的正前方。在一个对照条件下，参与者透过一个窄孔看字母，以免瞳孔大小的变化影响他们的视敏度。他们的检测结果也呈现出倒 V 形模式，和在其他受试者身上观察到的一样。
 
 就像电表一样：同时执行几项任务，可能会遇到好几种困难。例如，在同一时刻说出两句不同的话，在生理上是不可能的；把一项听觉任务和一项视觉任务结合起来，可能比把两项视觉任务或两项听觉任务结合起来容易。一些著名的心理学理论试图把任务之间的所有相互干扰，都归因于对各个独立机制的争夺。参见 Alan D. Baddeley, Working Memory (New York: Oxford University Press, 1986). 经过练习，人们以特定方式同时处理多项任务的能力可能会提高。不过，大量截然不同的任务会相互干扰，这支持了这样一种看法：存在一种许多任务都需要的、通用的注意资源或努力资源。
 
@@ -60,7 +60,7 @@
 
 “最省力法则”：Wouter Kool et al., “Decision Making and the Avoidance of Cognitive Demand,” Journal of Experimental Psychology—General 139 (2010): 665–82. Joseph T. McGuire and Matthew M. Botvinick, “The Impact of Anticipated Demand on Attention and Behavioral Choice,” in Effortless Attention, ed. Brian Bruya (Cambridge, MA: Bradford Books, 2010), 103–20.
 
-收益与成本的权衡：神经科学家已经找到了大脑中的一个区域，它会在一个行动完成时评估这个行动的总体价值。在这种神经计算中，投入的努力算作一项成本。Joseph T. McGuire and Matthew M. Botvinick, “Prefrontal Cortex, Cognitive Control, and the Registration of Decision Costs,” PNAS 107 (2010): 7922–26.
+收益与成本的权衡：神经科学家已经发现，大脑中有一个区域会在行动完成时评估该行动的总体价值。在这种神经计算中，投入的努力算作一项成本。Joseph T. McGuire and Matthew M. Botvinick, “Prefrontal Cortex, Cognitive Control, and the Registration of Decision Costs,” PNAS 107 (2010): 7922–26.
 
 读干扰词：Bruno Laeng et al., “Pupillary Stroop Effects,” Cognitive Processing 12 (2011): 13–21.
 
@@ -142,7 +142,7 @@ The Far Side 漫画：Fritz Strack, Leonard L. Martin, and Sabine Stepper, “In
 
 在一所英国大学：Melissa Bateson, Daniel Nettle, and Gilbert Roberts, “Cues of Being Watched Enhance Cooperation in a Real-World Setting,” Biology Letters 2 (2006): 412–14.
 
-认识了这个陌生人：蒂莫西·威尔逊的 Strangers to Ourselves (Cambridge, MA: Belknap Press, 2002) 提出了“适应性潜意识”的概念，它与系统 1 相似。
+认识了这个陌生人：蒂莫西·威尔逊的 Strangers to Ourselves (Cambridge, MA: Belknap Press, 2002) 提出了一个与系统 1 相似的概念：“适应性潜意识”。
 
 ## 第 5 章 认知放松
 
@@ -154,7 +154,7 @@ The Far Side 漫画：Fritz Strack, Leonard L. Martin, and Sabine Stepper, “In
 
 很好地阐述了这个问题：Bruce W. A. Whittlesea, Larry L. Jacoby, and Krista Girard, “Illusions of Immediate Memory: Evidence of an Attributional Basis for Feelings of Familiarity and Perceptual Quality,” Journal of Memory and Language 29 (1990): 716–32.
 
-熟悉的印象：通常，你遇见一位朋友时，能立刻认出他是谁，叫出他的名字；你常常还知道上次是在哪里见到他的，他当时穿着什么，你们彼此说了些什么。只有在这些具体的记忆调不出来时，熟悉感才派上用场。它是一种后备手段。它虽然不完全可靠，却比什么都没有好得多。一个看上去只是隐约有点眼熟的人像老朋友一样跟你打招呼时，正是熟悉感让你免于尴尬，不至于大吃一惊（并且露出吃惊的样子）。
+熟悉的印象：通常，你遇见一位朋友时，能立刻认出他是谁，叫出他的名字；你常常还知道上次是在哪里见到他的，他当时穿着什么，你们彼此说了些什么。只有在这些具体的记忆调不出来时，熟悉感才派上用场。它是一种后备手段，虽然不完全可靠，却比什么都没有好得多。有人像老朋友一样跟你打招呼，你却只觉得他看着隐约有点眼熟，这时正是熟悉感让你免于尴尬，不至于大吃一惊（并且露出吃惊的样子）。
 
 “鸡的体温”：Ian Begg, Victoria Armour, and Thérèse Kerr, “On Believing What We Remember,” Canadian Journal of Behavioural Science 17 (1985): 199–214.
 
@@ -184,7 +184,7 @@ The Far Side 漫画：Fritz Strack, Leonard L. Martin, and Sabine Stepper, “In
 
 三个一组的词：Annette Bolte, Thomas Goschke, and Julius Kuhl, “Emotion and Intuition: Effects of Positive and Negative Mood on Implicit Judgments of Semantic Coherence,” Psychological Science 14 (2003): 416–21.
 
-提取出那个联想：这项分析排除了受试者实际找到正确答案的所有情况。分析表明，即使是最终没能找到共同联想的受试者，对有没有这样一个联想可找，也有一定的感觉。
+提取出那个联想：这项分析把受试者真正找到正确答案的情况全部排除在外。分析表明，即使是最终没能找到共同联想的受试者，对有没有这样一个联想可找，也有一定的感觉。
 
 增加认知放松：Sascha Topolinski and Fritz Strack, “The Architecture of Intuition: Fluency and Affect Determine Intuitive Judgments of Semantic and Visual Coherence and Judgments of Grammaticality in Artificial Grammar Learning,” Journal of Experimental Psychology—General 138 (2009): 39–63.
 
@@ -216,7 +216,7 @@ The Far Side 漫画：Fritz Strack, Leonard L. Martin, and Sabine Stepper, “In
 
 一个巧妙的实验：Daniel T. Gilbert, Douglas S. Krull, and Patrick S. Malone, “Unbelieving the Unbelievable: Some Problems in the Rejection of False Information,” Journal of Personality and Social Psychology 59 (1990): 601–13.
 
-对两个人的描述：Solomon E. Asch, “Forming Impressions of Personality,” Journal of Abnormal and Social Psychology 41 (1946): 258–90.
+描述了两个人：Solomon E. Asch, “Forming Impressions of Personality,” Journal of Abnormal and Social Psychology 41 (1946): 258–90.
 
 全部六个形容词：同上。
 
@@ -248,7 +248,7 @@ The Far Side 漫画：Fritz Strack, Leonard L. Martin, and Sabine Stepper, “In
 
 ## 第 9 章 回答一个更容易的问题
 
-一个直觉答案很容易就浮现在脑中：格尔德·吉仁泽（Gerd Gigerenzer）、彼得·M. 托德（Peter M. Todd）和 ABC 研究小组在 Simple Heuristics That Make Us Smart (New York: Oxford University Press, 1999) 一书中，提出了研究判断启发式的另一种思路。他们描述了一些“快速节俭”的形式化程序，例如“取最佳（线索）”，这些程序在某些情况下能根据很少的信息作出相当准确的判断。正如吉仁泽所强调的，他的启发式与阿莫斯和我研究的启发式不同；他强调它们的准确性，而不强调它们必然会导致的偏差。支持快速节俭启发式的研究，大多用统计模拟来说明这些启发式在某些现实情境中可能管用，但证明人们心里真有这些启发式的证据仍然单薄，也有争议。与这种思路相关的最令人难忘的发现是再认启发式。有一个例子已经广为人知：一位受试者被问到两座城市哪座更大，如果她认得其中一座，就应该猜她认得的那座更大。如果受试者知道她认得的那座城市很大，再认启发式就相当管用；但如果她知道那座城市很小，她就会很合理地猜那座不认识的城市更大。与这个理论相反，受试者利用的不只是再认线索：Daniel M. Oppenheimer, “Not So Fast! (and Not So Frugal!): Rethinking the Recognition Heuristic,” Cognition 90 (2003): B1–B9. 这个理论的一个弱点是：就我们对心智的了解来看，启发式并不需要节俭。大脑并行处理海量的信息，心智可以又快又准，用不着忽略信息。此外，早在研究国际象棋大师的初期，人们就已经知道，技能未必在于学会使用更少的信息。恰恰相反，技能更常表现为快速、高效地处理大量信息的能力。
+一个直觉答案很容易就浮现在脑中：格尔德·吉仁泽（Gerd Gigerenzer）、彼得·M. 托德（Peter M. Todd）和 ABC 研究小组在 Simple Heuristics That Make Us Smart (New York: Oxford University Press, 1999) 一书中，提出了研究判断启发式的另一种思路。他们描述了一些“快速节俭”的形式化程序，例如“取最佳（线索）”，这些程序在某些情况下只凭很少的信息，就能得出相当准确的判断。正如吉仁泽所强调的，他的启发式与阿莫斯和我研究的启发式不同；他强调它们的准确性，而不强调它们必然会导致的偏差。支持快速节俭启发式的研究，大多用统计模拟来说明这些启发式在某些现实情境中可能管用，但证明人们心里真有这些启发式的证据仍然单薄，也有争议。与这种思路相关的最令人难忘的发现是再认启发式。有一个例子已经广为人知：问一位受试者两座城市哪座更大，如果她认得其中一座，就应该猜她认得的那座更大。如果受试者知道她认得的那座城市很大，再认启发式就相当管用；但如果她知道那座城市很小，就会猜那座不认识的城市更大，这也十分合理。与这个理论相反，受试者利用的不只是再认线索：Daniel M. Oppenheimer, “Not So Fast! (and Not So Frugal!): Rethinking the Recognition Heuristic,” Cognition 90 (2003): B1–B9. 这个理论的一个弱点是：就我们对心智的了解来看，启发式并不需要节俭。大脑并行处理海量的信息，心智可以又快又准，用不着忽略信息。此外，早在研究国际象棋大师的初期，人们就已经知道，技能未必在于学会使用更少的信息。恰恰相反，技能更常表现为快速、高效地处理大量信息的能力。
 
 替代的最好例子之一：Fritz Strack, Leonard L. Martin, and Norbert Schwarz, “Priming and Communication: Social Determinants of Information Use in Judgments of Life Satisfaction,” European Journal of Social Psychology 18 (1988): 429–42.
 
@@ -256,7 +256,7 @@ The Far Side 漫画：Fritz Strack, Leonard L. Martin, and Sabine Stepper, “In
 
 主导了幸福感报告：其他替代的话题还包括婚姻满意度、工作满意度和闲暇时间满意度：Norbert Schwarz, Fritz Strack, and Hans-Peter Mai, “Assimilation and Contrast Effects in Part-Whole Question Sequences: A Conversational Logic Analysis,” Public Opinion Quarterly 55 (1991): 3–23.
 
-评估自己的幸福感：德国做过一项电话调查，其中有一个关于总体幸福感的问题。把人们自我报告的幸福感与访谈当时的当地天气作相关分析，结果发现两者明显相关。我们知道心情会随天气变化，替代就能解释天气对报告的幸福感的影响。不过，这项电话调查的另一个版本得出的结果有些不同。这个版本的受访者在被问到幸福感问题之前，先被问到了当时的天气。对他们来说，天气对报告的幸福感完全没有影响！明确地用天气来启动，给他们的心情提供了一个解释，从而削弱了当前心情与总体幸福感之间通常会建立起来的联系。
+评估自己的幸福感：德国做过一项电话调查，其中有一个关于总体幸福感的问题。把人们自我报告的幸福感与访谈当时的当地天气作相关分析，结果发现两者明显相关。我们知道心情会随天气变化，而替代可以解释天气为什么会影响人们报告的幸福感。不过，这项电话调查的另一个版本得出的结果有些不同。这个版本先问受访者当时的天气，再问幸福感问题。这些受访者报告的幸福感，完全不受天气影响！明确问到天气，起到了启动作用，让他们对自己的心情有了一个解释；人们通常会把当前的心情和总体幸福感联系起来，这层联系因此削弱了。
 
 对好处的看法：Melissa L. Finucane et al., “The Affect Heuristic in Judgments of Risks and Benefits,” Journal of Behavioral Decision Making 13 (2000): 1–17.
 
@@ -328,7 +328,7 @@ The Far Side 漫画：Fritz Strack, Leonard L. Martin, and Sabine Stepper, “In
 
 ## 第 13 章 可得性、情绪与风险
 
-因为脑损伤：达马西奥的观点称为“躯体标记假说”，它已经得到大量支持：Antonio R. Damasio, Descartes’ Error: Emotion, Reason, and the Human Brain (New York: Putnam, 1994). Antonio R. Damasio, “The Somatic Marker Hypothesis and the Possible Functions of the Prefrontal Cortex,” Philosophical Transactions: Biological Sciences 351 (1996): 141–20.
+因为脑损伤：达马西奥的观点叫作“躯体标记假说”，已经得到大量支持：Antonio R. Damasio, Descartes’ Error: Emotion, Reason, and the Human Brain (New York: Putnam, 1994). Antonio R. Damasio, “The Somatic Marker Hypothesis and the Possible Functions of the Prefrontal Cortex,” Philosophical Transactions: Biological Sciences 351 (1996): 141–20.
 
 每种技术的风险：Finucane et al., “The Affect Heuristic in Judgments of Risks and Benefits.” Paul Slovic, Melissa Finucane, Ellen Peters, and Donald G. MacGregor, “The Affect Heuristic,” in Thomas Gilovich, Dale Griffin, and Daniel Kahneman, eds., Heuristics and Biases (New York: Cambridge University Press, 2002), 397–420. Paul Slovic, Melissa Finucane, Ellen Peters, and Donald G. MacGregor, “Risk as Analysis and Risk as Feelings: Some Thoughts About Affect, Reason, Risk, and Rationality,” Risk Analysis 24 (2004): 1–12. Paul Slovic, “Trust, Emotion, Sex, Politics, and Science: Surveying the Risk-Assessment Battlefield,” Risk Analysis 19 (1999): 689–701.
 
@@ -340,7 +340,7 @@ The Far Side 漫画：Fritz Strack, Leonard L. Martin, and Sabine Stepper, “In
 
 可得性级联：Timur Kuran and Cass R. Sunstein, “Availability Cascades and Risk Regulation,” Stanford Law Review 51 (1999): 683–768. CERCLA，即《综合环境反应、赔偿和责任法》（Comprehensive Environmental Response, Compensation, and Liability Act），于 1980 年通过。
 
-没有中间地带：保罗·斯洛维奇在阿拉尔（Alar）一案中曾为苹果种植者作证，他的看法颇为不同：“这场恐慌是由哥伦比亚广播公司（CBS）的《60 分钟》节目引发的。节目说将有 4,000 名儿童死于癌症（这里可没有给出概率），同时播出了癌症病房里秃头儿童的吓人画面，此外还有许多不正确的说法。这个报道还暴露出美国环境保护署（EPA）在关注和评估阿拉尔的安全性方面能力不足，摧毁了人们对监管的信任。考虑到这些，我认为公众的反应是理性的。”（私人通信，2011 年 5 月 11 日。）
+没有中间地带：保罗·斯洛维奇在阿拉尔（Alar）一案中曾为苹果种植者作证，他的看法颇为不同：“这场恐慌是由哥伦比亚广播公司（CBS）的《60 分钟》节目引发的。节目说将有 4,000 名儿童死于癌症（这里可没有给出概率），同时播出了癌症病房里秃头儿童的吓人画面，此外还有许多不正确的说法。这个报道还暴露出，美国环境保护署（EPA）关注和评估阿拉尔安全性的能力不足，这摧毁了人们对监管的信任。考虑到这些，我认为公众的反应是理性的。”（私人通信，2011 年 5 月 11 日。）
 
 ## 第 14 章 汤姆·W 的专业
 
@@ -352,7 +352,7 @@ The Far Side 漫画：Fritz Strack, Leonard L. Martin, and Sabine Stepper, “In
 
 被要求皱眉：Alter, Oppenheimer, Epley, and Eyre, “Overcoming Intuition.”
 
-贝叶斯法则：贝叶斯法则最简单的形式是几率形式，即后验几率 = 先验几率 × 似然比，其中后验几率是两个相互竞争的假设的几率（也就是两者的概率之比）。来看一个诊断问题。你的朋友在一种严重疾病的检测中呈阳性。这种病很罕见：每 600 个送检的病例中，只有 1 个真正患病。这种检测相当准确，它的似然比是 25:1，意思是患病的人检测呈阳性的概率，是出现假阳性的概率的 25 倍。检测呈阳性是个吓人的消息，但你朋友患病的几率只是从 1/600 升到了 25/600，概率是 4%。
+贝叶斯法则：贝叶斯法则最简单的形式是几率形式，即后验几率 = 先验几率 × 似然比，其中后验几率是两个相互竞争的假设的几率（也就是两者的概率之比）。来看一个诊断问题。你的朋友在一种严重疾病的检测中呈阳性。这种病很罕见：每 600 个送检的病例中，只有 1 个真正患病。这种检测相当准确，似然比是 25:1，意思是患病的人检测呈阳性的概率，是出现假阳性的概率的 25 倍。检测呈阳性是个吓人的消息，但你朋友患病的几率只是从 1/600 升到了 25/600，概率是 4%。
 
 对于“汤姆·W 是学计算机科学的”这个假设，3% 的基础比率对应的先验几率是 0.03/0.97 = 0.031。假设似然比是 4（如果汤姆·W 是学计算机科学的，出现这段描述的可能性是他不学计算机科学时的 4 倍），后验几率就是 4 × 0.031 = 12.4[^t4]。由这个几率可以算出，汤姆·W 是学计算机科学的后验概率现在是 11%（因为 12.4/112.4 = 0.11）。
 
@@ -362,7 +362,7 @@ The Far Side 漫画：Fritz Strack, Leonard L. Martin, and Sabine Stepper, “In
 
 “一个小矮人”：Stephen Jay Gould, Bully for Brontosaurus (New York: Norton, 1991).
 
-被削弱或被解释掉：这方面的文献有很多，例如 Ralph Hertwig and Gerd Gigerenzer, “The ‘Conjunction Fallacy’ Revisited: How Intelligent Inferences Look Like Reasoning Errors,” Journal of Behavioral Decision Making 12 (1999): 275–305; Ralph Hertwig, Bjoern Benz, and Stefan Krauss, “The Conjunction Fallacy and the Many Meanings of And,” Cognition 108 (2008): 740–53.
+被削弱，或者能被解释成并非真正的错觉：这方面的文献有很多，例如 Ralph Hertwig and Gerd Gigerenzer, “The ‘Conjunction Fallacy’ Revisited: How Intelligent Inferences Look Like Reasoning Errors,” Journal of Behavioral Decision Making 12 (1999): 275–305; Ralph Hertwig, Bjoern Benz, and Stefan Krauss, “The Conjunction Fallacy and the Many Meanings of And,” Cognition 108 (2008): 740–53.
 
 解决我们的分歧：Barbara Mellers, Ralph Hertwig, and Daniel Kahneman, “Do Frequency Representations Eliminate Conjunction Effects? An Exercise in Adversarial Collaboration,” Psychological Science 12 (2001): 269–75.
 
@@ -374,19 +374,19 @@ The Far Side 漫画：Fritz Strack, Leonard L. Martin, and Sabine Stepper, “In
 
 密歇根大学：Richard E. Nisbett and Eugene Borgida, “Attribution and the Psychology of Prediction,” Journal of Personality and Social Psychology 32 (1975): 932–43.
 
-卸下了责任：John M. Darley and Bibb Latane, “Bystander Intervention in Emergencies: Diffusion of Responsibility,” Journal of Personality and Social Psychology 8 (1968): 377–83.
+责任不再落在自己身上：John M. Darley and Bibb Latane, “Bystander Intervention in Emergencies: Diffusion of Responsibility,” Journal of Personality and Social Psychology 8 (1968): 377–83.
 
 ## 第 17 章 均值回归
 
-最杰出的统计学家的帮助：Michael Bulmer, Francis Galton: Pioneer of Heredity and Biometry (Baltimore: Johns Hopkins University Press, 2003).
+最杰出的几位统计学家帮忙：Michael Bulmer, Francis Galton: Pioneer of Heredity and Biometry (Baltimore: Johns Hopkins University Press, 2003).
 
 标准分数：研究者把每个原始分数减去平均数，再把结果除以标准差，就把它转换成了标准分数。标准分数的平均数是 0，标准差是 1，可以在不同变量之间比较（尤其是在原始分数的统计分布相似时），还有许多理想的数学性质；为了理解相关和回归的本质，高尔顿不得不把这些性质推导出来。
 
-父母与子女之间的相关：在一些儿童营养不良的环境中，情况就不是这样了。营养上的差异会变得重要，共同因素所占的比例会下降，父母身高与子女身高之间的相关也会随之下降（除非营养不良儿童的父母小时候也因挨饿而发育不良）。
+父母与子女之间的相关：如果环境里有一些儿童营养不良，情况就不是这样了。营养上的差异会变得重要，共同因素所占的比例会下降，父母身高与子女身高之间的相关也会随之下降（除非营养不良儿童的父母小时候也因挨饿而发育不良）。
 
 身高和体重：这个相关系数是用美国人口中一个非常大的样本计算出来的，样本来自盖洛普-健康之路幸福指数（Gallup-Healthways Well-Being Index）。
 
-收入和教育：这个相关看起来很可观，但许多年前，社会学家克里斯托弗·詹克斯告诉我的一件事让我很吃惊：即使每个人受的教育都一样，收入的不平等（用标准差衡量）也只会减少约 9%。相关的公式是 √(1 − r²)，其中 r 是相关系数。
+收入和教育：这个相关看起来很可观，但许多年前，社会学家克里斯托弗·詹克斯告诉我的一件事让我很吃惊：即使每个人受的教育都一样，收入的不平等（用标准差衡量）也只会减少约 9%。这里用到的公式是 √(1 − r²)，其中 r 是相关系数。
 
 相关和回归：两个变量都用标准分数衡量时，这一点成立。也就是说，每个分数都要减去平均数，再把结果除以标准差。
 
@@ -400,11 +400,11 @@ The Far Side 漫画：Fritz Strack, Leonard L. Martin, and Sabine Stepper, “In
 
 叙事谬误：Nassim Nicholas Taleb, The Black Swan: The Impact of the Highly Improbable (New York: Random House, 2007).
 
-一个特别重要的属性：[^t5]
+某个特别重要的属性：[^t5]
 
 投球：Michael Lewis, Moneyball: The Art of Winning an Unfair Game (New York: Norton, 2003).
 
-卖掉他们的公司：Seth Weintraub, “Excite Passed Up Buying Google for $750,000 in 1999,” Fortune, September 29, 2011.
+卖掉公司：Seth Weintraub, “Excite Passed Up Buying Google for $750,000 in 1999,” Fortune, September 29, 2011.
 
 曾经有过不同的看法：Richard E. Nisbett and Timothy D. Wilson, “Telling More Than We Can Know: Verbal Reports on Mental Processes,” Psychological Review 84 (1977): 231–59.
 
@@ -422,7 +422,7 @@ The Far Side 漫画：Fritz Strack, Leonard L. Martin, and Sabine Stepper, “In
 
 “你会有多少次发现……”：我要感谢范德堡大学的詹姆斯·H. 斯泰格尔教授，他开发了一种算法，能在合理的假设下回答这个问题。斯泰格尔的分析表明，相关系数为 0.20 和 0.40 时，顺序颠倒的比例分别是 43% 和 37%。
 
-他那本见解深刻的书：《光环效应》（The Halo Effect）被《金融时报》和《华尔街日报》都评为年度最佳商业图书之一：Phil Rosenzweig, The Halo Effect:…and the Eight Other Business Delusions That Deceive Managers (New York: Simon & Schuster, 2007). 另见 Paul Olk and Phil Rosenzweig, “The Halo Effect and the Challenge of Management Inquiry: A Dialog Between Phil Rosenzweig and Paul Olk,” Journal of Management Inquiry 19 (2010): 48–54.
+他那本见解深刻的书：《金融时报》和《华尔街日报》都称赞《光环效应》（The Halo Effect）是年度最佳商业图书之一：Phil Rosenzweig, The Halo Effect:…and the Eight Other Business Delusions That Deceive Managers (New York: Simon & Schuster, 2007). 另见 Paul Olk and Phil Rosenzweig, “The Halo Effect and the Challenge of Management Inquiry: A Dialog Between Phil Rosenzweig and Paul Olk,” Journal of Management Inquiry 19 (2010): 48–54.
 
 “一家高瞻远瞩的公司”：James C. Collins and Jerry I. Porras, Built to Last: Successful Habits of Visionary Companies (New York: Harper, 2002).
 
@@ -432,7 +432,7 @@ The Far Side 漫画：Fritz Strack, Leonard L. Martin, and Sabine Stepper, “In
 
 “最受赞赏的公司”：Deniz Anginer, Kenneth L. Fisher, and Meir Statman, “Stocks of Admired Companies and Despised Ones,” working paper, 2007.
 
-均值回归：贾森·茨威格指出，人们不理解回归，会给 CEO 的招聘带来有害的影响。陷入困境的公司往往求助于外人，从近期回报率高的公司招聘 CEO。随后，新任 CEO 会因为新公司后来的好转而得到赞誉，至少暂时如此。（与此同时，他在原公司的继任者现在陷入了困境，这让新老板们相信，他们确实雇到了“对的人”。）每当一位 CEO 跳槽，新公司都必须买断他在原公司的股份（股票和期权），这就为他今后的薪酬定下了一个基准，而这个基准与他在新公司的表现毫无关系。数千万美元的薪酬，奖励的是一些“个人”成就，而这些成就主要来自回归和光环效应（私人通信，2009 年 12 月 29 日）。
+均值回归：贾森·茨威格指出，人们不理解回归，会给 CEO 的招聘带来有害的影响。陷入困境的公司往往求助于外人，从近期回报率高的公司招聘 CEO。随后新公司有了起色，功劳就算在新任 CEO 头上，至少一时如此。（与此同时，他在原公司的继任者现在陷入了困境，这让新老板们相信，他们确实雇到了“对的人”。）每当一位 CEO 跳槽，新公司都必须买断他在原公司的股份（股票和期权），这就为他今后的薪酬定下了一个基准，而这个基准与他在新公司的表现毫无关系。数千万美元的薪酬，奖励的是一些“个人”成就，而这些成就主要来自回归和光环效应（私人通信，2009 年 12 月 29 日）。
 
 ## 第 20 章 有效性错觉
 
@@ -444,7 +444,7 @@ The Far Side 漫画：Fritz Strack, Leonard L. Martin, and Sabine Stepper, “In
 
 对新闻作出反应：Brad M. Barber and Terrance Odean, “All That Glitters: The Effect of Attention and News on the Buying Behavior of Individual and Institutional Investors,” Review of Financial Studies 21 (2008): 785–818.
 
-从业余投资者那里获取财富：一项对台湾股票交易的研究得出结论，从个人投资者转移到金融机构的财富相当于 GDP 的 2.2%，数额惊人：Brad M. Barber, Yi-Tsung Lee, Yu-Jane Liu, and Terrance Odean, “Just How Much Do Individual Investors Lose by Trading?” Review of Financial Studies 22 (2009): 609–32.
+从业余投资者那里获取财富：一项研究分析了台湾的股票交易，结论是，从个人投资者转移到金融机构的财富相当于 GDP 的 2.2%，数额惊人：Brad M. Barber, Yi-Tsung Lee, Yu-Jane Liu, and Terrance Odean, “Just How Much Do Individual Investors Lose by Trading?” Review of Financial Studies 22 (2009): 609–32.
 
 跑输大盘：John C. Bogle, Common Sense on Mutual Funds: New Imperatives for the Intelligent Investor (New York: Wiley, 2000), 213.
 
@@ -464,7 +464,7 @@ The Far Side 漫画：Fritz Strack, Leonard L. Martin, and Sabine Stepper, “In
 
 41 项独立研究：James Shanteau, “Psychological Characteristics and Strategies of Expert Decision Makers,” Acta Psychologica 68 (1988): 203–15.
 
-两次用餐休息之间：Danziger, Levav, and Avnaim-Pesso, “Extraneous Factors in Judicial Decisions.”
+一次用餐休息到下一次用餐休息：Danziger, Levav, and Avnaim-Pesso, “Extraneous Factors in Judicial Decisions.”
 
 降低了有效性：Richard A. DeVaul et al., “Medical-School Performance of Initially Rejected Students,” JAMA 257 (1987): 47–51. Jason Dana and Robyn M. Dawes, “Belief in the Unstructured Interview: The Persistence of an Illusion,” working paper, Department of Psychology, University of Pennsylvania, 2011. William M. Grove et al., “Clinical Versus Mechanical Prediction: A Meta-Analysis,” Psychological Assessment 12 (2000): 19–30.
 
@@ -484,9 +484,9 @@ The Far Side 漫画：Fritz Strack, Leonard L. Martin, and Sabine Stepper, “In
 
 阐述了这一立场：Klein, Sources of Power.
 
-青年雕像（kouros）：洛杉矶的盖蒂博物馆请来世界顶尖的希腊雕塑专家，察看一尊它即将买下的青年雕像，也就是一尊大步行走的少年大理石像。专家们一个接一个，都产生了其中一位所说的“直觉上的排斥”，也就是一种强烈的预感：这尊雕像没有 2,500 年的历史，是现代的赝品。没有一位专家能马上说出自己为什么认为这尊雕塑是伪造的。最接近于给出理由的，是一位意大利艺术史学家的抱怨：雕像的指甲有什么地方“看起来不对劲”，至于究竟是什么地方，他也说不清。一位著名的美国专家说，他脑中冒出的第一个念头是“崭新”（fresh）这个词；一位希腊专家则直截了当地说：“任何见过刚出土的雕塑的人都看得出来，这东西从没在土里待过。”大家得出了同一个结论，理由却各不相同，这一点引人注目，也相当可疑。
+青年雕像（kouros）：洛杉矶的盖蒂博物馆准备买下一尊青年雕像，也就是一尊少年迈步行走的大理石像，买之前请来世界顶尖的希腊雕塑专家察看。专家们一个接一个，都产生了其中一位所说的“直觉上的排斥”，也就是一种强烈的预感：这尊雕像没有 2,500 年的历史，是现代的赝品。没有一位专家能马上说出自己为什么认为这尊雕塑是伪造的。勉强算得上理由的，是一位意大利艺术史学家的抱怨：雕像的指甲有什么地方“看起来不对劲”，至于究竟是什么地方，他也说不清。一位著名的美国专家说，他脑中冒出的第一个念头是“崭新”（fresh）这个词；一位希腊专家则直截了当地说：“只要见过刚出土的雕塑，谁都看得出来，这东西从没在土里待过。”大家得出了同一个结论，理由却各不相同，这一点引人注目，也相当可疑。
 
-被尊为英雄：西蒙是 20 世纪最杰出的知识界人物之一。他二十多岁时就写出了一部关于组织决策的经典著作；在众多其他成就之外，他后来还成为人工智能领域的创始人之一、认知科学的领军人物、科学发现过程的一位有影响力的研究者、行为经济学的先驱，而且几乎是顺带地，还获得了诺贝尔经济学奖。
+被尊为英雄：西蒙是 20 世纪最杰出的知识界人物之一。他二十多岁时就写出了一部关于组织决策的经典著作。他的成就还有很多：后来成为人工智能领域的创始人之一、认知科学的领军人物、研究科学发现过程的一位有影响力的学者、行为经济学的先驱，而且几乎是顺带着，还获得了诺贝尔经济学奖。
 
 “不多不少，就是识别”：Simon, “What Is an Explanation of Behavior?” David G. Myers, Intuition: Its Powers and Perils (New Haven: Yale University Press, 2002), 56.
 
@@ -496,7 +496,7 @@ The Far Side 漫画：Fritz Strack, Leonard L. Martin, and Sabine Stepper, “In
 
 ## 第 23 章 外部视角
 
-内部视角和外部视角：这两个名称常常被误解。许多作者以为正确的说法是“局内人视角”（insider view）和“局外人视角”（outsider view），这和我们的本意相差甚远。
+内部视角和外部视角：常有人误解这两个名称。许多作者以为正确的说法是“局内人视角”（insider view）和“局外人视角”（outsider view），这和我们的本意相差甚远。
 
 截然不同的答案：Dan Lovallo and Daniel Kahneman, “Timid Choices and Bold Forecasts: A Cognitive Perspective on Risk Taking,” Management Science 39 (1993): 17–31. Daniel Kahneman and Dan Lovallo, “Delusions of Success: How Optimism Undermines Executives’ Decisions,” Harvard Business Review 81 (2003): 56–63.
 
@@ -546,7 +546,7 @@ The Far Side 漫画：Fritz Strack, Leonard L. Martin, and Sabine Stepper, “In
 
 从自我夸大到认知偏差：Paul D. Windschitl, Jason P. Rose, Michael T. Stalkfleet, and Andrew R. Smith, “Are People Excessive or Judicious in Their Egocentrism? A Modeling Approach to Understanding Bias and Accuracy in People’s Optimism,” Journal of Personality and Social Psychology 95 (2008): 252–73.
 
-平均结果是亏损：在 eBay 卖家选择在一天中的什么时候结束拍卖这件事上，也可以看到一种忽视竞争的现象。容易的问题是：一天中什么时候竞拍者的总数最多？答案是：美国东部时间晚上 7 点左右。卖家应该回答的问题更难：考虑到有多少其他卖家在高峰时段结束拍卖，什么时候会有最多的竞拍者来看我的拍卖？答案是：中午前后，这时竞拍者的人数相对于卖家的人数比较多。记得有竞争、避开黄金时段的卖家，能卖出更高的价格。Uri Simonsohn, “eBay’s Crowded Evenings: Competition Neglect in Market Entry Decisions,” Management Science 56 (2010): 1060–73.
+平均结果是亏损：eBay 卖家在选择一天中的哪个时段结束拍卖时，也表现出一种忽视竞争的现象。容易的问题是：一天中什么时候竞拍者的总数最多？答案是：美国东部时间晚上 7 点左右。卖家应该回答的问题更难：考虑到有多少其他卖家在高峰时段结束拍卖，什么时候会有最多的竞拍者来看我的拍卖？答案是：中午前后，这时竞拍者的人数相对于卖家的人数比较多。记得有竞争、避开黄金时段的卖家，能卖出更高的价格。Uri Simonsohn, “eBay’s Crowded Evenings: Competition Neglect in Market Entry Decisions,” Management Science 56 (2010): 1060–73.
 
 “生前的诊断”：Eta S. Berner and Mark L. Graber, “Overconfidence as a Cause of Diagnostic Error in Medicine,” American Journal of Medicine 121 (2008): S2–S23.
 
@@ -560,13 +560,13 @@ The Far Side 漫画：Fritz Strack, Leonard L. Martin, and Sabine Stepper, “In
 
 《数学心理学》：Clyde H. Coombs, Robyn M. Dawes, and Amos Tversky, Mathematical Psychology: An Elementary Introduction (Englewood Cliffs, NJ: Prentice-Hall, 1970).
 
-对富人和穷人：这条规则大致适用于感觉和知觉的许多维度。它被称为韦伯定律，得名于发现它的德国生理学家恩斯特·海因里希·韦伯。费希纳借助韦伯定律推导出了对数形式的心理物理函数。
+对富人和穷人：这条规则大致适用于感觉和知觉的许多维度。它叫作韦伯定律，得名于发现它的德国生理学家恩斯特·海因里希·韦伯。费希纳借助韦伯定律推导出了对数形式的心理物理函数。
 
 1,000 万美元与 1 亿美元：伯努利的直觉是对的，经济学家至今仍在许多场合使用收入或财富的对数。例如，安格斯·迪顿把许多国家居民的平均生活满意度与这些国家的 GDP 画在一起时，就用 GDP 的对数来衡量收入。结果发现，两者的关系极其紧密：高 GDP 国家的居民对自己生活质量的满意度，比穷国的居民高得多；而且无论在富国还是穷国，收入翻一番带来的满意度增量都大致相同。
 
-“圣彼得堡悖论”：丹尼尔·伯努利的堂兄尼古拉·伯努利提出过一个问题，大意如下：“请你来玩一个游戏，你要一次又一次地抛硬币。如果硬币正面朝上，你就得到 2 美元；此后每多抛出一次正面，奖金就翻一番。硬币第一次反面朝上时，游戏结束。你愿意花多少钱来换取玩这个游戏的机会？”人们觉得这个赌局最多值几美元，尽管它的期望值是无穷大：因为奖金不断增长，每抛一次的期望值都是 1 美元，一直加到无穷。不过，奖金的效用增长得慢得多，这就解释了为什么这个赌局没有吸引力。
+“圣彼得堡悖论”：丹尼尔·伯努利的堂兄尼古拉·伯努利提出过一个问题，大意如下：“请你来玩一个游戏，你要一次又一次地抛硬币。如果硬币正面朝上，你就得到 2 美元；此后每多抛出一次正面，奖金就翻一番。硬币第一次反面朝上时，游戏结束。你愿意出多少钱来玩这个游戏？”人们觉得这个赌局最多值几美元，可它的期望值是无穷大：因为奖金不断增长，每抛一次的期望值都是 1 美元，一直加到无穷。不过，奖金的效用增长得慢得多，这就解释了为什么这个赌局没有吸引力。
 
-“一个人的财富史”：伯努利的理论之所以经久不衰，还有其他原因。一是人们很自然地会用收益来表述赌局之间的选择，或者用收益与损失的混合来表述。很少有人思考过所有选项都很糟糕的选择，尽管我们绝不是最早观察到风险寻求的人。另一个对伯努利理论有利的事实是，从最终财富状态的角度来思考、不去管过去，往往是非常合理的做法。经济学家历来关心的是理性选择，伯努利的模型正合他们的需要。
+“一个人的财富史”：伯努利的理论之所以经久不衰，还有其他原因。一是人们很自然地会用收益来表述赌局之间的选择，或者用收益与损失的混合来表述。很少有人思考过所有选项都很糟糕的选择，不过，最早观察到风险寻求的人也绝不是我们。还有一个事实对伯努利的理论有利：着眼于最终的财富状态、不去管过去，往往是非常合理的做法。经济学家历来关心的是理性选择，伯努利的模型正合他们的需要。
 
 ## 第 26 章 前景理论
 
@@ -578,13 +578,13 @@ The Far Side 漫画：Fritz Strack, Leonard L. Martin, and Sabine Stepper, “In
 
 对损失的情绪反应：Peter Sokol-Hessner et al., “Thinking Like a Trader Selectively Reduces Individuals’ Loss Aversion,” PNAS 106 (2009): 5035–40.
 
-拉宾定理：连续好几年，我都在同事伯顿·马尔基尔的金融学入门课上做客座讲座，每年都会讨论伯努利理论有多么站不住脚。我第一次提到拉宾的证明时，注意到这位同事的态度有了明显的变化。他现在愿意比过去认真得多地对待这个结论。数学论证有一种确定无疑的性质，比诉诸常识更有说服力。经济学家对这种优势尤其敏感。
+拉宾定理：连续好几年，我都在同事伯顿·马尔基尔的金融学入门课上做客座讲座，每年都会讨论伯努利理论有多么站不住脚。我第一次提到拉宾的证明时，注意到这位同事的态度有了明显的变化。这一次，他对待这个结论比过去认真得多。数学论证有一种不容置疑的确定性，比诉诸常识更有说服力。经济学家对这种优势尤其敏感。
 
-拒绝了那个赌局：这个证明的直觉可以用一个例子来说明。假设一个人的财富是 W，她拒绝了一个以相同概率赢 11 美元或输 10 美元的赌局。如果财富的效用函数是凹的（向下弯曲），这个偏好就意味着，在 21 美元的区间内，1 美元的价值下降了 9% 以上！这是一种极其陡峭的下降，而且赌局越极端，这种效应就越强。
+拒绝了那个赌局：这个证明的直觉可以用一个例子来说明。假设一个人的财富是 W，她拒绝了这样一个赌局：赢 11 美元和输 10 美元的概率相同。如果财富的效用函数是凹的（向下弯曲），这个偏好就意味着，在 21 美元的区间内，1 美元的价值下降了 9% 以上！这是极其陡峭的下降，而且赌局越极端，这种效应就越强。
 
 “哪怕是一个蹩脚的律师”：Matthew Rabin, “Risk Aversion and Expected-Utility Theory: A Calibration Theorem,” Econometrica 68 (2000): 1281–92. Matthew Rabin and Richard H. Thaler, “Anomalies: Risk Aversion,” Journal of Economic Perspectives 15 (2001): 219–32.
 
-经济学家和心理学家：几位理论家提出了不同版本的后悔理论，这些理论的基础是这样一种观点：人们能够预料到，那些没有实现的选项，以及（或者）他们没有作出的选择，会怎样影响他们未来的体验：David E. Bell, “Regret in Decision Making Under Uncertainty,” Operations Research 30 (1982): 961–81. Graham Loomes and Robert Sugden, “Regret Theory: An Alternative to Rational Choice Under Uncertainty,” Economic Journal 92 (1982): 805–25. Barbara A. Mellers, “Choice and the Relative Pleasure of Consequences,” Psychological Bulletin 126 (2000): 910–24. Barbara A. Mellers, Alan Schwartz, and Ilana Ritov, “Emotion-Based Choice,” Journal of Experimental Psychology—General 128 (1999): 332–45. 决策者在赌局之间的选择，取决于他们是否预期能知道自己没选的那个赌局的结果。Ilana Ritov, “Probability of Regret: Anticipation of Uncertainty Resolution in Choice,” Organizational Behavior and Human Decision Processes 66 (1966): 228–36.
+经济学家和心理学家：几位理论家提出了不同版本的后悔理论，这些理论的基础是这样一种观点：人们能够预料到，那些没有实现的选项，以及（或者）他们没有作出的选择，会怎样影响他们未来的体验：David E. Bell, “Regret in Decision Making Under Uncertainty,” Operations Research 30 (1982): 961–81. Graham Loomes and Robert Sugden, “Regret Theory: An Alternative to Rational Choice Under Uncertainty,” Economic Journal 92 (1982): 805–25. Barbara A. Mellers, “Choice and the Relative Pleasure of Consequences,” Psychological Bulletin 126 (2000): 910–24. Barbara A. Mellers, Alan Schwartz, and Ilana Ritov, “Emotion-Based Choice,” Journal of Experimental Psychology—General 128 (1999): 332–45. 决策者在几个赌局之间怎么选，取决于他们预期自己能不能知道没选的那个赌局的结果。Ilana Ritov, “Probability of Regret: Anticipation of Uncertainty Resolution in Choice,” Organizational Behavior and Human Decision Processes 66 (1966): 228–36.
 
 ## 第 27 章 禀赋效应
 
@@ -600,11 +600,11 @@ The Far Side 漫画：Fritz Strack, Leonard L. Martin, and Sabine Stepper, “In
 
 市场交易：Novemsky and Kahneman, “The Boundaries of Loss Aversion.”
 
-一半代币会易手：设想所有参与者按分配给他们的兑换价值排成一队。现在把代币随机分给队伍中一半的人。排在队伍前半段的人里，有一半没有代币；排在队伍后半段的人里，有一半持有代币。预计这些人（占总人数的一半）会通过相互交换位置来移动，最终，队伍前半段的每个人都有一枚代币，他们后面的人都没有。
+一半代币易手：设想所有参与者按分配给他们的兑换价值排成一队。现在把代币随机分给队伍中一半的人。排在队伍前半段的人里，有一半没有代币；排在队伍后半段的人里，有一半持有代币。可以预料，这些人（占总人数的一半）会彼此交换位置，最终，队伍前半段的每个人都有一枚代币，排在他们后面的人都没有。
 
 大脑记录：Brian Knutson et al., “Neural Antecedents of the Endowment Effect,” Neuron 58 (2008): 814–22. Brian Knutson and Stephanie M. Greer, “Anticipatory Affect: Neural Correlates and Consequences for Choice,” Philosophical Transactions of the Royal Society B 363 (2008): 3771–86.
 
-无风险的决策和有风险的决策：一篇关于风险价格的综述，依据“16 个不同国家 100 多年来的国际数据”，得出的估计值是 2.3，“与采用截然不同的方法、在个人决策的实验室实验中得到的估计值惊人地一致”：Moshe Levy, “Loss Aversion and the Price of Risk,” Quantitative Finance 10 (2010): 1009–22.
+无论决策有没有风险：一篇关于风险价格的综述，依据“16 个不同国家 100 多年来的国际数据”，得出的估计值是 2.3，“与采用截然不同的方法、在个人决策的实验室实验中得到的估计值惊人地一致”：Moshe Levy, “Loss Aversion and the Price of Risk,” Quantitative Finance 10 (2010): 1009–22.
 
 涨价的影响：Miles O. Bidwel, Bruce X. Wang, and J. Douglas Zona, “An Analysis of Asymmetric Demand Response to Price Changes: The Case of Local Telephone Calls,” Journal of Regulatory Economics 8 (1995): 285–98. Bruce G. S. Hardie, Eric J. Johnson, and Peter S. Fader, “Modeling Loss Aversion and Reference Dependence Effects on Brand Choice,” Marketing Science 12 (1993): 378–94.
 
@@ -616,11 +616,11 @@ The Far Side 漫画：Fritz Strack, Leonard L. Martin, and Sabine Stepper, “In
 
 杰克·克内奇也：Jack L. Knetsch, “The Endowment Effect and Evidence of Nonreversible Indifference Curves,” American Economic Review 79 (1989): 1277–84.
 
-关于禀赋效应的持续争论：Charles R. Plott and Kathryn Zeiler, “The Willingness to Pay–Willingness to Accept Gap, the ‘Endowment Effect,’ Subject Misconceptions, and Experimental Procedures for Eliciting Valuations,” American Economic Review 95 (2005): 530–45. 查尔斯·普洛特是一位顶尖的实验经济学家，他一直非常怀疑禀赋效应，并试图证明它只是技术欠佳的产物，算不上“人类偏好的一个基本方面”。普洛特和蔡勒认为，表现出禀赋效应的参与者在自己对物品的真实估值上抱有某种误解，于是他们修改了原始实验的程序，以消除这些误解。他们设计了一套精心的训练程序，让参与者既体验买方的角色，也体验卖方的角色，并明确地教他们如何判断自己的真实估值。不出所料，禀赋效应消失了。普洛特和蔡勒认为他们的方法是技术上的一项重要改进。心理学家则会认为这种方法有严重缺陷，因为它向参与者传达了一个信息：实验者认为什么样的行为是恰当的，而这恰好与实验者的理论一致。普洛特和蔡勒偏爱的那个版本的克内奇交换实验，也同样有偏差：它不让物品的主人实际拿着物品，而这一点对这种效应至关重要。参见 Charles R. Plott and Kathryn Zeiler, “Exchange Asymmetries Incorrectly Interpreted as Evidence of Endowment Effect Theory and Prospect Theory?” American Economic Review 97 (2007): 1449–66. 这里也许陷入了僵局，双方都拒绝接受对方所要求的方法。
+关于禀赋效应的持续争论：Charles R. Plott and Kathryn Zeiler, “The Willingness to Pay–Willingness to Accept Gap, the ‘Endowment Effect,’ Subject Misconceptions, and Experimental Procedures for Eliciting Valuations,” American Economic Review 95 (2005): 530–45. 查尔斯·普洛特是一位顶尖的实验经济学家，他一直非常怀疑禀赋效应，并试图证明它只是技术欠佳的产物，算不上“人类偏好的一个基本方面”。普洛特和蔡勒认为，表现出禀赋效应的参与者对自己的真实估值有某种误解，于是修改了原始实验的程序，以消除这些误解。他们设计了一套精心的训练程序，让参与者既体验买方的角色，也体验卖方的角色，并明确地教他们如何判断自己的真实估值。不出所料，禀赋效应消失了。普洛特和蔡勒认为他们的方法是技术上的一项重要改进。心理学家则会认为这种方法有严重缺陷，因为它向参与者传达了一个信息：实验者认为什么样的行为是恰当的，而这恰好与实验者的理论一致。普洛特和蔡勒偏爱的那个版本的克内奇交换实验，也同样有偏差：它不让物品的主人实际拿着物品，而这一点对这种效应至关重要。参见 Charles R. Plott and Kathryn Zeiler, “Exchange Asymmetries Incorrectly Interpreted as Evidence of Endowment Effect Theory and Prospect Theory?” American Economic Review 97 (2007): 1449–66. 这里也许陷入了僵局，双方都拒绝接受对方所要求的方法。
 
 穷人：埃尔达·沙菲尔、塞德希尔·穆来纳森和他们的同事在研究贫困状态下的决策时，还观察到另外一些例子：贫困促使人们做出的经济行为，在某些方面比境况较好的人的行为更现实、更理性。比起结果的描述，穷人更可能对真实的结果作出反应。Marianne Bertrand, Sendhil Mullainathan, and Eldar Shafir, “Behavioral Economics and Marketing in Aid of Decision Making Among the Poor,” Journal of Public Policy & Marketing 25 (2006): 8–23.
 
-在美国和在英国：花钱购物不被体验为损失，这个结论更可能适用于比较富裕的人。关键也许在于：你买一样东西时，是否意识到自己仍然买得起另一样东西。Novemsky and Kahneman, “The Boundaries of Loss Aversion.” Ian Bateman et al., “Testing Competing Models of Loss Aversion: An Adversarial Collaboration,” Journal of Public Economics 89 (2005): 1561–80.
+在美国和在英国：人们不会觉得购物花出去的钱是一种损失，这个结论更可能适用于比较富裕的人。关键也许在于：你买一样东西时，是否意识到自己仍然买得起另一样东西。Novemsky and Kahneman, “The Boundaries of Loss Aversion.” Ian Bateman et al., “Testing Competing Models of Loss Aversion: An Adversarial Collaboration,” Journal of Public Economics 89 (2005): 1561–80.
 
 ## 第 28 章 坏事
 
@@ -628,7 +628,7 @@ The Far Side 漫画：Fritz Strack, Leonard L. Martin, and Sabine Stepper, “In
 
 绕过视觉皮层：Joseph LeDoux, The Emotional Brain: The Mysterious Underpinnings of Emotional Life (New York: Touchstone, 1996).
 
-处理得更快：Elaine Fox et al., “Facial Expressions of Emotion: Are Angry Faces Detected More Efficiently?” Cognition & Emotion 14 (2000): 61–92.
+更快、更有效率：Elaine Fox et al., “Facial Expressions of Emotion: Are Angry Faces Detected More Efficiently?” Cognition & Emotion 14 (2000): 61–92.
 
 “跳出来”：Christine Hansen and Ranald Hansen, “Finding the Face in the Crowd: An Anger Superiority Effect,” Journal of Personality and Social Psychology 54 (1988): 917–24.
 
@@ -652,17 +652,17 @@ The Far Side 漫画：Fritz Strack, Leonard L. Martin, and Sabine Stepper, “In
 
 对公平的关注在经济上很重要：Ernst Fehr, Lorenz Goette, and Christian Zehnder, “A Behavioral Account of the Labor Market: The Role of Fairness Concerns,” Annual Review of Economics 1 (2009): 355–84. Eric T. Anderson and Duncan I. Simester, “Price Stickiness and Customer Antagonism,” Quarterly Journal of Economics 125 (2010): 729–65.
 
-利他惩罚伴随着：Dominique de Quervain et al., “The Neural Basis of Altruistic Punishment,” Science 305 (2004): 1254–58.
+人们实施利他惩罚时：Dominique de Quervain et al., “The Neural Basis of Altruistic Punishment,” Science 305 (2004): 1254–58.
 
 实际的损失和放弃的收益：David Cohen and Jack L. Knetsch, “Judicial Choice and Disparities Between Measures of Economic Value,” Osgoode Hall Law Review 30 (1992): 737–70. Russell Korobkin, “The Endowment Effect and Legal Analysis,” Northwestern University Law Review 97 (2003): 1227–93.
 
-对个人幸福的不对称影响：Zamir, “Law and Psychology.”
+对个人幸福的影响并不对称：Zamir, “Law and Psychology.”
 
 ## 第 29 章 四重模式
 
-以及其他灾难：包括面临“荷兰赌”（Dutch book）的风险。荷兰赌是一组赌局，你错误的偏好让你必须接受它们，而它们最终注定让你亏损。
+以及其他灾难：包括面临“荷兰赌”（Dutch book）的风险。荷兰赌是这样一组赌局：你错误的偏好让你不得不接受它们，结果注定是亏损。
 
-阿莱构造的难题：熟悉阿莱悖论的读者会认出，这个版本是新的。它比原来的悖论简单得多，实际上也是对理性规则更强烈的违背。在第一个问题中，人们偏好左边的选项。第二个问题是在第一个问题的基础上，给左右两边各加上一个前景得到的，加在左边的前景比加在右边的更有价值，但现在人们偏好的却是右边的选项。
+阿莱构造的难题：熟悉阿莱悖论的读者会认出，这个版本是新的。它比原来的悖论简单得多，实际上也更严重地违背了理性规则。在第一个问题中，人们偏好左边的选项。第二个问题是在第一个问题的基础上，给左右两边各加上一个前景得到的，加在左边的前景比加在右边的更有价值，但现在人们偏好的却是右边的选项。
 
 大失所望：据杰出的经济学家肯尼斯·阿罗最近的描述，与会者没怎么注意他所说的“阿莱的小实验”。私下交谈，2011 年 3 月 16 日。
 
@@ -672,7 +672,7 @@ The Far Side 漫画：Fritz Strack, Leonard L. Martin, and Sabine Stepper, “In
 
 年幼孩子的父母：W. Kip Viscusi, Wesley A. Magat, and Joel Huber, “An Investigation of the Rationality of Consumer Valuations of Multiple Health Risks,” RAND Journal of Economics 18 (1987): 465–79.
 
-担忧心理：在一个边际效用递减的理性模型中，人们为把事故频率从 15 个单位降到 5 个单位愿意支付的钱，至少应该是他们为完全消除这种风险愿意支付的钱的三分之二。观察到的偏好违背了这个预测。
+担忧心理：在边际效用递减的理性模型中，人们愿意花钱把事故频率从 15 个单位降到 5 个单位，这笔钱至少应该是他们愿意为完全消除这种风险所付金额的三分之二。观察到的偏好违背了这个预测。
 
 没有太当回事：C. Arthur Williams, “Attitudes Toward Speculative Risks as an Indicator of Attitudes Toward Pure Risks,” Journal of Risk and Insurance 33 (1966): 577–86. Howard Raiffa, Decision Analysis: Introductory Lectures on Choices under Uncertainty (Reading, MA: Addison-Wesley, 1968).
 
@@ -688,7 +688,7 @@ The Far Side 漫画：Fritz Strack, Leonard L. Martin, and Sabine Stepper, “In
 
 阿莫斯的学生：Craig R. Fox, “Strength of Evidence, Judged Probability, and Choice Under Uncertainty,” Cognitive Psychology 38 (1999): 167–89.
 
-焦点事件和它的对立面：在人们的判断中，一个事件的概率与它的对立面的概率加起来并不总是 100%。当人们被问到一个自己所知甚少的话题时（“你认为明天中午曼谷的气温超过 100 华氏度的概率是多少？”），他们判断的这个事件的概率和它的对立面的概率，加起来不到 100%。
+焦点事件和它的对立面：在人们的判断中，一个事件的概率与它的对立面的概率加起来并不总是 100%。问到人们所知甚少的话题时（“你认为明天中午曼谷的气温超过 100 华氏度的概率是多少？”），他们对这个事件和它的对立面分别判断的概率，加起来不到 100%。
 
 收到一打玫瑰：在累积前景理论中，并不假定收益和损失的决策权重相等；在我所描述的前景理论最初版本中，则是这样假定的。
 
@@ -714,7 +714,7 @@ The Far Side 漫画：Fritz Strack, Leonard L. Martin, and Sabine Stepper, “In
 
 ## 第 32 章 记分
 
-冒着暴风雪开车：一项实地实验证实了这种直觉。在这项实验中，购买大学剧院季票的学生里，有一部分是随机选出的，他们以低得多的价格拿到了票。后续对观剧情况的跟踪发现，买全价票的学生更可能去看演出，尤其是在演出季的前半段。错过一场已经付了钱的演出，就要体验在亏损状态下关闭一个账户的不愉快。Arkes and Blumer, “The Psychology of Sunk Costs.”
+冒着暴风雪开车：一项实地实验证实了这种直觉。在这项实验中，购买大学剧院季票的学生里，有一部分是随机选出的，他们以低得多的价格拿到了票。后来跟踪学生的观剧情况，发现买全价票的学生更可能去看演出，尤其是在演出季的前半段。错过一场已经付了钱的演出，就意味着要在亏损的状态下关闭一个账户，这种体验令人不快。Arkes and Blumer, “The Psychology of Sunk Costs.”
 
 处置效应：Hersh Shefrin and Meir Statman, “The Disposition to Sell Winners Too Early and Ride Losers Too Long: Theory and Evidence,” Journal of Finance 40 (1985): 777–90. Terrance Odean, “Are Investors Reluctant to Realize Their Losses?” Journal of Finance 53 (1998): 1775–98.
 
@@ -754,7 +754,7 @@ The Far Side 漫画：Fritz Strack, Leonard L. Martin, and Sabine Stepper, “In
 
 在这个人常去的那家商店：Dale T. Miller and Cathy McFarland, “Counterfactual Thinking and Victim Compensation: A Test of Norm Theory,” Personality and Social Psychology Bulletin 12 (1986): 513–19.
 
-判断与选择的逆转：朝目前这种解释迈出第一步的，是 Max H. Bazerman, George F. Loewenstein, and Sally B. White, “Reversals of Preference in Allocation Decisions: Judging Alternatives Versus Judging Among Alternatives,” Administrative Science Quarterly 37 (1992): 220–40. 奚恺元（Christopher Hsee）提出了联合评估和单独评估这两个术语，并提出了重要的可评估性假说。这个假说用这样一个观点来解释逆转：有些属性只有在联合评估中才变得可以评估：“Attribute Evaluability: Its Implications for Joint-Separate Evaluation Reversals and Beyond,” in Kahneman and Tversky, Choices, Values, and Frames.
+判断与选择的逆转：朝目前这种解释迈出第一步的，是 Max H. Bazerman, George F. Loewenstein, and Sally B. White, “Reversals of Preference in Allocation Decisions: Judging Alternatives Versus Judging Among Alternatives,” Administrative Science Quarterly 37 (1992): 220–40. 奚恺元（Christopher Hsee）提出了联合评估和单独评估这两个术语，并提出了重要的可评估性假说。这个假说认为，有些属性只有在联合评估中才变得可以评估，并以此解释逆转：“Attribute Evaluability: Its Implications for Joint-Separate Evaluation Reversals and Beyond,” in Kahneman and Tversky, Choices, Values, and Frames.
 
 心理学家与经济学家之间的对话：Sarah Lichtenstein and Paul Slovic, “Reversals of Preference Between Bids and Choices in Gambling Decisions,” Journal of Experimental Psychology 89 (1971): 46–55. 哈罗德·R. 林德曼（Harold R. Lindman）也独立得到了类似的结果：“Inconsistent Preferences Among Gambles,” Journal of Experimental Psychology 89 (1971): 390–97.
 
@@ -780,7 +780,7 @@ The Far Side 漫画：Fritz Strack, Leonard L. Martin, and Sabine Stepper, “In
 
 10% 的死亡率令人恐惧：Barbara McNeil, Stephen G. Pauker, Harold C. Sox Jr., and Amos Tversky, “On the Elicitation of Preferences for Alternative Therapies,” New England Journal of Medicine 306 (1982): 1259–62.
 
-“亚洲疾病问题”：有人评论说，“亚洲”这个标签没有必要，而且带有贬义。放在今天，我们大概不会用它，但这个例子是在 20 世纪 70 年代写的，那时人们对群体标签的敏感程度不如现在。加上这个词，是为了让受访者想起 1957 年的亚洲流感疫情，使例子更加具体。
+“亚洲疾病问题”：有人评论说，“亚洲”这个标签没有必要，而且带有贬义。放在今天，我们大概不会用它，但这个例子是在 20 世纪 70 年代写的，那时人们对群体的称呼还不像现在这样敏感。加上这个词，是为了让受访者想起 1957 年的亚洲流感疫情，使例子更加具体。
 
 《选择与后果》：Thomas Schelling, Choice and Consequence (Cambridge, MA: Harvard University Press, 1985).
 
@@ -794,7 +794,7 @@ The Far Side 漫画：Fritz Strack, Leonard L. Martin, and Sabine Stepper, “In
 
 在任何时刻：Francis Edgeworth, Mathematical Psychics (New York: Kelley, 1881).
 
-他的理论成立的条件：Daniel Kahneman, Peter P. Wakker, and Rakesh Sarin, “Back to Bentham? Explorations of Experienced Utility,” Quarterly Journal of Economics 112 (1997): 375–405. Daniel Kahneman, “Experienced Utility and Objective Happiness: A Moment-Based Approach” and “Evaluation by Moments: Past and Future,” in Kahneman and Tversky, Choices, Values, and Frames, 673–92, 693–708.
+这个理论在什么条件下成立：Daniel Kahneman, Peter P. Wakker, and Rakesh Sarin, “Back to Bentham? Explorations of Experienced Utility,” Quarterly Journal of Economics 112 (1997): 375–405. Daniel Kahneman, “Experienced Utility and Objective Happiness: A Moment-Based Approach” and “Evaluation by Moments: Past and Future,” in Kahneman and Tversky, Choices, Values, and Frames, 673–92, 693–708.
 
 一位医生和研究者：Donald A. Redelmeier and Daniel Kahneman, “Patients’ Memories of Painful Medical Treatments: Real-time and Retrospective Evaluations of Two Minimally Invasive Procedures,” Pain 66 (1996): 3–8.
 
@@ -808,13 +808,13 @@ The Far Side 漫画：Fritz Strack, Leonard L. Martin, and Sabine Stepper, “In
 
 有一个情人：Paul Rozin and Jennifer Stellar, “Posthumous Events Affect Rated Quality and Happiness of Lives,” Judgment and Decision Making 4 (2009): 273–79.
 
-整个人生和短暂的片段：Ed Diener, Derrick Wirtz, and Shigehiro Oishi, “End Effects of Rated Life Quality: The James Dean Effect,” Psychological Science 12 (2001): 124–28. 同一系列实验还检验了峰终定律在不幸人生中的情况，发现了类似的结果：如果珍痛苦地活了 60 年，而不是 30 年，人们并不会因此认为她的不幸翻了一倍；但如果在她临死前加上 5 年轻度痛苦的日子，人们就会认为她幸福得多。
+整个人生和短暂的片段：Ed Diener, Derrick Wirtz, and Shigehiro Oishi, “End Effects of Rated Life Quality: The James Dean Effect,” Psychological Science 12 (2001): 124–28. 同一系列实验还检验了峰终定律在不幸人生中的情况，发现了类似的结果：把珍痛苦的一生从 30 年延长到 60 年，人们并不认为她的不幸翻了一倍；但如果在她临死前加上 5 年稍有些痛苦的日子，人们就会认为她幸福得多。
 
 ## 第 37 章 体验幸福感
 
-对自己近来的整体生活有多满意：另一个常用的问题是：“综合来看，你觉得这些天过得怎么样？你会说你很幸福、相当幸福，还是不太幸福？”美国的综合社会调查就包含这个问题，从它与其他变量的相关来看，它测到的似乎是满意度和体验到的幸福的混合。盖洛普调查使用的一种纯粹的生活评价测量，是坎特里尔自我锚定奋斗量表：受访者在一个阶梯式的量表上给自己当前的生活打分，0 代表“你可能过上的最差的生活”，10 代表“你可能过上的最好的生活”。这种措辞暗示，人们应该以自己认为对自己来说可能的生活为锚，但证据表明，全世界的人对什么是好生活有一个共同的标准，正因如此，各国的 GDP 与其国民的平均阶梯得分之间才有极高的相关（r = 0.84）。Angus Deaton, “Income, Health, and Well-Being Around the World: Evidence from the Gallup World Poll,” Journal of Economic Perspectives 22 (2008): 53–72.
+对自己近来的整体生活有多满意：另一个常用的问题是：“综合来看，你觉得这些天过得怎么样？你会说你很幸福、相当幸福，还是不太幸福？”美国的综合社会调查就包含这个问题，从它与其他变量的相关来看，它测到的似乎是满意度和体验到的幸福的混合。盖洛普调查里有一个单纯测量生活评价的工具，就是坎特里尔自我锚定奋斗量表：受访者在一个阶梯式的量表上给自己当前的生活打分，0 代表“你可能过上的最差的生活”，10 代表“你可能过上的最好的生活”。这种措辞暗示，人们应该以自己觉得可能过上的生活为锚，但证据表明，全世界的人对什么是好生活有一个共同的标准，正因如此，各国的 GDP 与其国民的平均阶梯得分之间才有极高的相关（r = 0.84）。Angus Deaton, “Income, Health, and Well-Being Around the World: Evidence from the Gallup World Poll,” Journal of Economic Perspectives 22 (2008): 53–72.
 
-“梦之队”：那位经济学家是普林斯顿大学的艾伦·克鲁格，他以对不寻常的数据作出创新性分析而闻名。几位心理学家是：戴维·施卡德，他有方法论方面的专长；阿瑟·斯通，健康心理学、经验取样和生态瞬时评估方面的专家；诺伯特·施瓦茨，一位社会心理学家，他也是调查方法方面的专家，曾对幸福感研究作过一些实验性的批评，其中包括那个复印机上留下一枚 10 美分硬币就影响了随后生活满意度报告的实验。
+“梦之队”：那位经济学家是普林斯顿大学的艾伦·克鲁格，他以对不寻常数据的创新分析而闻名。几位心理学家是：戴维·施卡德，他有方法论方面的专长；阿瑟·斯通，健康心理学、经验取样和生态瞬时评估方面的专家；诺伯特·施瓦茨，一位社会心理学家，他也是调查方法方面的专家，曾用实验对幸福感研究提出过一些批评，其中包括这样一个实验：复印机上留下的一枚 10 美分硬币，就影响了人们随后报告的生活满意度。
 
 各种感受的强度：在一些应用中，参与者还要提供生理信息，比如连续的心率记录、不定时的血压记录，或者供化学分析用的唾液样本。这种方法称为生态瞬时评估：Arthur A. Stone, Saul S. Shiffman, and Marten W. DeVries, “Ecological Momentary Assessment Well-Being: The Foundations of Hedonic Psychology,” in Kahneman, Diener, and Schwarz, Well-Being, 26–39.
 
@@ -826,7 +826,7 @@ U 指数：Alan B. Krueger, ed., Measuring the Subjective Well-Being of Nations:
 
 情绪痛苦的分布：Ed Diener, “Most People Are Happy,” Psychological Science 7 (1996): 181–85.
 
-盖洛普世界民意调查：多年来，我一直是盖洛普公司在幸福感领域研究工作的几位资深科学家之一。
+盖洛普世界民意调查：多年来，我一直是参与盖洛普公司幸福感研究的几位资深科学家之一。
 
 超过 450,000 份回答：Daniel Kahneman and Angus Deaton, “High Income Improves Evaluation of Life but Not Emotional Well-Being,” Proceedings of the National Academy of Sciences 107 (2010): 16489–93.
 
@@ -860,7 +860,7 @@ U 指数：Alan B. Krueger, ed., Measuring the Subjective Well-Being of Nations:
 
 加州和中西部的学生：亚裔学生报告的生活满意度普遍较低，而在加州的样本中，亚裔学生所占的比例比中西部高得多。把这个差异考虑进去之后，两个地区的生活满意度完全相同。
 
-你从自己的车上得到了多少乐趣？：Jing Xu 和诺伯特·施瓦茨发现，汽车的品质（按二手车《蓝皮书》的估价衡量）能预测车主被笼统地问到有多享受这辆车时给出的回答，也能预测人们开车兜风时的愉快程度。但汽车的品质对人们平时上下班通勤时的心情没有影响。Norbert Schwarz, Daniel Kahneman, and Jing Xu, “Global and Episodic Reports of Hedonic Experience,” in R. Belli, D. Alwin, and F. Stafford (eds.), Using Calendar and Diary Methods in Life Events Research (Newbury Park, CA: Sage), pp. 157–74.
+你从自己的车上得到了多少乐趣？：Jing Xu 和诺伯特·施瓦茨发现，汽车的品质（按二手车《蓝皮书》的估价衡量）既能预测车主怎样回答“你有多享受这辆车”这个笼统的问题，也能预测人们开车兜风时的愉快程度。但汽车的品质对人们平时上下班通勤时的心情没有影响。Norbert Schwarz, Daniel Kahneman, and Jing Xu, “Global and Episodic Reports of Hedonic Experience,” in R. Belli, D. Alwin, and F. Stafford (eds.), Using Calendar and Diary Methods in Life Events Research (Newbury Park, CA: Sage), pp. 157–74.
 
 截瘫患者有多少时间心情不好？：这项研究的更详细介绍，见 Kahneman, “Evaluation by Moments.”
 
@@ -874,7 +874,7 @@ U 指数：Alan B. Krueger, ed., Measuring the Subjective Well-Being of Nations:
 
 太重要了，不能忽视：Paul Dolan and Daniel Kahneman, “Interpretations of Utility and Their Implications for the Valuation of Health,” Economic Journal 118 (2008): 215–234. Loewenstein and Ubel, “Hedonic Adaptation and the Role of Decision and Experience Utility in Public Policy.”
 
-指导政府政策：英国的进展尤其迅速，在那里，使用幸福感测量如今已是政府的正式政策。这些进展在很大程度上要归功于理查德·莱亚德勋爵的著作 Happiness: Lessons from a New Science 的影响，这本书于 2005 年首次出版。许多著名的经济学家和社会科学家被吸引来研究幸福感及其意义，莱亚德是其中之一。其他重要的资料有：Derek Bok, The Politics of Happiness: What Government Can Learn from the New Research on Well-Being (Princeton: Princeton University Press, 2010). Ed Diener, Richard Lucus, Ulrich Schmimmack, and John F. Helliwell, Well-Being for Public Policy (New York: Oxford University Press, 2009). Alan B. Krueger, ed., Measuring the Subjective Well-Being of Nations: National Account of Time Use and Well-Being (Chicago: University of Chicago Press, 2009). Joseph E. Stiglitz, Amartya Sen, and Jean-Paul Fitoussi, Report of the Commission on the Measurement of Economic Performance and Social Progress. Paul Dolan, Richard Layard, and Robert Metcalfe, Measuring Subjective Well-being for Public Policy: Recommendations on Measures (London: Office for National Statistics, 2011).
+指导政府政策：英国的进展尤其迅速，如今，采用幸福感指标已经成了英国政府的正式政策。这些进展在很大程度上要归功于理查德·莱亚德勋爵的著作 Happiness: Lessons from a New Science 的影响，这本书于 2005 年首次出版。一些著名的经济学家和社会科学家被吸引来研究幸福感及其影响，莱亚德是其中之一。其他重要的资料有：Derek Bok, The Politics of Happiness: What Government Can Learn from the New Research on Well-Being (Princeton: Princeton University Press, 2010). Ed Diener, Richard Lucus, Ulrich Schmimmack, and John F. Helliwell, Well-Being for Public Policy (New York: Oxford University Press, 2009). Alan B. Krueger, ed., Measuring the Subjective Well-Being of Nations: National Account of Time Use and Well-Being (Chicago: University of Chicago Press, 2009). Joseph E. Stiglitz, Amartya Sen, and Jean-Paul Fitoussi, Report of the Commission on the Measurement of Economic Performance and Social Progress. Paul Dolan, Richard Layard, and Robert Metcalfe, Measuring Subjective Well-being for Public Policy: Recommendations on Measures (London: Office for National Statistics, 2011).
 
 “非理性”是个分量很重的词：丹·艾瑞里在 Predictably Irrational: The Hidden Forces That Shape Our Decisions (New York: Harper, 2008) 一书中提出的心智观，和我的没有多大不同，只是我们对这个词的用法不一样。
 
