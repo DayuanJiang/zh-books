@@ -45,6 +45,8 @@ description: Translate or polish a whole book in the zh-books repository, chapte
 
 ## 审校记录
 
+审校按 `framework/translation-review.md`（译文审校规范）来做：问题按类别和轻重记录，改写前后都对照原文核对意思。
+
 每章一份 `books/<id>/review/<章节 id>.md`，分四节，每节写明谁做的、覆盖了哪些范围、发现了什么、怎么处理、还剩什么：
 
 1. **译者自检**：对照原文，检查漏译、增译、否定、条件、数量、比较对象、术语义项和图文关系。
