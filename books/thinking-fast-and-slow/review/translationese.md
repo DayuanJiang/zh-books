@@ -2894,7 +2894,7 @@
 
 - 英文：However, our decision was not guided by a wish to influence economics; Econometrica just happened to be where the best papers on decision making had been published in the past, and we were aspiring to be in that company.
   - 原译：不过，我们作这个决定，并没有想着要影响经济学；过去关于决策的最好的论文，恰好就发表在《计量经济学》上，我们希望自己的论文也能跻身其中。
-  - 现译：只是此前最好的决策研究论文恰好发表在《计量经济学》上，
+  - 现译：只是此前最好的决策研究论文恰好发表在《计量经济学》上，我们希望自己的论文也能跻身其中。
   - 处理：按复核意见修改。“关于决策的最好的论文”的字连用 复核：“研究决策最好的那些论文”修饰关系不清，容易把“最好”读成对“研究决策”的修饰。
 
 - 英文：In this choice as in many others, we were lucky.
@@ -2919,7 +2919,7 @@
 
 - 英文：Table 3 shows a version of the utility function that Bernoulli calculated; it presents the utility of different levels of wealth, from 1 million to 10 million.
   - 原译：表 3 列出了伯努利计算出的效用函数的一个版本[^t1]，它给出了从 100 万到 1,000 万不同财富水平的效用。
-  - 现译：表 3 展示了伯努利算出的效用函数的一个版本[^t1]，
+  - 现译：表 3 展示了伯努利算出的效用函数的一个版本[^t1]，列出了从 100 万到 1,000 万各个财富水平的效用。
   - 处理：按复核意见修改。多余的代词“它”，照搬分号后的第二个主语 复核：原文说表格展示效用函数的一个版本，不是说表格本身就是函数的一个版本。
 
 - 英文：As you can see in the table, the loss of 1 million causes a loss of 4 points of utility (from 100 to 96) to someone who has 10 million and a much larger loss of 18 points (from 48 to 30) to someone who starts off with 3 million.
@@ -2976,7 +2976,7 @@
 
 - 英文：As might be expected in a situation of theory-induced blindness, possible differences between gains and losses were neither expected nor studied.
   - 原译：正如在理论导致的盲目中可以预料的那样，收益和损失之间可能存在的差别，既没有人预料到，也没有人研究。
-  - 现译：在理论导致的盲目之下，情况可想而知：
+  - 现译：在理论导致的盲目之下，情况可想而知：收益和损失之间可能存在的差别，既没有人预料到，也没有人研究。
   - 处理：复核后重写。“正如……可以预料的那样”照搬 as might be expected 复核：“结果不出所料”暗示事先已有预料；as might be expected 表示这种情况可以理解、不足为奇，并未声称有人事先作出预测。
 
 - 英文：The risk-averse choice in this problem would not have surprised Bernoulli.
@@ -3026,7 +3026,7 @@
 
 - 英文：Evaluation is relative to a neutral reference point, which is sometimes referred to as an “adaptation level.”
   - 原译：评估是相对于一个中性的参照点进行的，这个参照点有时也叫作“适应水平”。
-  - 现译：- 评估以一个中性的参照点为基准，
+  - 现译：- 评估以一个中性的参照点为基准，这个参照点有时也叫作“适应水平”。
   - 处理：按复核意见修改。虚化动词“进行”，“相对于……进行的” 复核：“评估是相对的”含糊且与后面的“以……为基准”重复；原文只需说明评估所依据的参照点。
 
 - 英文：For financial outcomes, the usual reference point is the status quo, but it can also be the outcome that you expect, or perhaps the outcome to which you feel entitled, for example, the raise or bonus that your colleagues receive.
@@ -3076,7 +3076,7 @@
 
 - 英文：In some contexts, however, the difference becomes significant: the Humans described by prospect theory are guided by the immediate emotional impact of gains and losses, not by long-term prospects of wealth and global utility.
   - 原译：然而在某些情境中，这种差别就变得很重要了：指引前景理论所描述的普通人的，是收益和损失带来的即时情绪冲击，并非财富的长远前景和总体效用。
-  - 现译：前景理论描述的普通人，作选择的依据是收益和损失
+  - 现译：前景理论描述的普通人，作选择的依据是收益和损失带来的即时情绪冲击，而非财富的长远前景和总体效用。
   - 处理：按复核意见修改。“指引……的，是……”的字结构绕口 复核：“前景理论描述的普通人，引导他们的是……”先提出话题再用代词重述，句式仍然绕口。
 
 - 英文：Prospect theory has flaws of its own, and theory-induced blindness to these flaws has contributed to its acceptance as the main alternative to utility theory.
@@ -3091,7 +3091,7 @@
 
 - 英文：Like a salary increase that has been promised informally, the high probability of winning the large sum sets up a tentative new reference point.
   - 原译：就像一次非正式许诺过的加薪一样，赢得一大笔钱的高概率，确立了一个暂定的新参照点。
-  - 现译：这就像一次非正式许诺过的加薪，
+  - 现译：这就像一次非正式许诺过的加薪，确立了一个暂定的新参照点。
   - 处理：复核后重写。抽象名词“……的高概率”作主语 复核：informally 是“非正式地”，不等于“口头”；非正式许诺也可能通过书面方式作出，改写擅自限定了承诺方式。
 
 - 英文：Relative to your expectations, winning nothing will be experienced as a large loss.
@@ -4273,7 +4273,7 @@
 
 - 英文：An analysis of more than 450,000 responses to the Gallup-Healthways Well-Being Index, a daily survey of 1,000 Americans, provides a surprisingly definite answer to the most frequently asked question in well-being research: Can money buy happiness?
   - 原译：对这项调查的 450,000 多份回答所做的分析，为幸福感研究中最常被问到的那个问题给出了一个明确得令人意外的答案。
-  - 现译：盖洛普-健康之路幸福指数（Gallup-Healthways Well-Being Index）每天调查 1,000 名美国人。对这项调查的 450,000 多份回答进行分析，结果为幸福感研究中最常被问到的那个问题给出了一个明确得令人意外的答案。
+  - 现译：盖洛普-健康之路幸福指数（Gallup-Healthways Well-Being Index）每天调查 1,000 名美国人。研究者分析了这项调查的 450,000 多份回答，对幸福感研究中最常被问到的那个问题，得出了一个明确得令人意外的答案。
   - 处理：复核后重写。抽象主语“对……所做的分析” 复核：原文明确分析了 450,000 多份回答，改写只明确调查收到了这么多回答，没有清楚保留分析样本的数量。原译以“分析”作主语自然且准确。
 
 - 英文：A headache increases the proportion reporting sadness and worry from 19% to 38% for individuals in the top two-thirds of the income distribution.
