@@ -162,4 +162,4 @@
 | wheel of fortune | 幸运轮盘 | 第 11 章的锚定实验 |  | ch11 | 5 | 初定 |
 | Stumbling to Happiness（原文如此） | 《撞上幸福》 | 丹尼尔·吉尔伯特的书，实际书名是 Stumbling on Happiness；原文的笔误保留，译文用中译本书名，可加译者注说明 |  | ch07 | 1 | 初定 |
 | cash equivalent | 现金等值 | 和一个赌局同样有吸引力的确定金额 |  | ch30 | 5 | 初定 |
-| salience / salient | 显著性 / 显著 | 某个念头或事件在脑中有多突出 |  | introduction | 21 | 初定 |
+| salience / salient | 显著性 / 显著 | 作心理学概念时用：某个念头或事件在脑中有多突出，影响注意、记忆提取和决策权重（第 12、30、38 章和附录 A）；只是日常的“引人注目”时，可以写突出、醒目、显眼 |  | introduction | 21 | 初定 |
