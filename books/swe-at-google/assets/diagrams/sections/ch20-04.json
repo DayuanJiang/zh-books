@@ -7,7 +7,7 @@
   "sourceSections": [
     "Compiler Integration"
   ],
-  "afterParagraph": "构建失败会在提交后由持续集成（CI）系统发现，或在提交前由预提交检查发现，参见前文。",
+  "afterParagraph": "构建失败在提交后由持续集成（CI）系统发现，在提交前则由提交前检查发现，参见前文。",
   "desktop": "assets/diagrams/sections/ch20-04.svg",
   "mobile": "assets/diagrams/sections/ch20-04-mobile.svg",
   "pedagogy": {

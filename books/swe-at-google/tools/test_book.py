@@ -43,8 +43,9 @@ class BookTests(unittest.TestCase):
         for folder in ("en", "zh-cn"):
             for path in (BOOK / folder).rglob("*.md"):
                 relative = path.relative_to(BOOK).as_posix()
-                # The swe-at-google/translation-polish tag marks the latest approved book text; move it when the text changes deliberately.
-                before = subprocess.check_output(["git", "-C", str(BOOK), "show", "swe-at-google/translation-polish:./" + relative])
+                # The tag marks the latest approved book text; when the text changes deliberately, tag the new text and name the tag here.
+                # swe-at-google/translation-polish was the first approved text; translation-review-2026-11 adds the whole-book review.
+                before = subprocess.check_output(["git", "-C", str(BOOK), "show", "swe-at-google/translation-review-2026-11:./" + relative])
                 self.assertEqual(path.read_bytes(), before, relative)
 
     def test_every_java_cpp_and_go_example_has_a_python_rewrite_or_a_reason(self):

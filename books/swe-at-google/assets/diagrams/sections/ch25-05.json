@@ -7,7 +7,7 @@
   "sourceSections": [
     "Choosing a Compute Service"
   ],
-  "afterParagraph": "迫使团队回滚变更，也引起了一些不满。",
+  "afterParagraph": "当 Borg 团队改用 ash 时，由于 ash 没有被这段代码替换，这些团队原来的自定义代码开销变成了 ash 的开销，内存用量反而增加，触发了告警，导致这项变更被回滚，也引起了一些不满。",
   "desktop": "assets/diagrams/sections/ch25-05.svg",
   "mobile": "assets/diagrams/sections/ch25-05-mobile.svg",
   "pedagogy": {

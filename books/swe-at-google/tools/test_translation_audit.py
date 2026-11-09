@@ -50,8 +50,9 @@ class MarkdownTests(unittest.TestCase):
     def test_literal_emphasis_markers_are_reported(self):
         self.assertEqual(audit.literal_emphasis_markers("**标题。**正文\n\n**标题**。正文\n\n`a * b`\n"), [1])
 
-    # "Point *p" quotes C pointer syntax, as the English does.
-    LITERAL_ASTERISKS = {"zh-cn/Chapter-17_Code_Search/Chapter-17_Code_Search.md": [157]}
+    # "Point *p" quotes C pointer syntax, as the English does; M*A*S*H is the title of the television series.
+    LITERAL_ASTERISKS = {"zh-cn/Chapter-17_Code_Search/Chapter-17_Code_Search.md": [157],
+                         "zh-cn/Chapter-6_Leading_at_Scale/Chapter-6_Leading_at_Scale.md": [24]}
 
     def test_book_chinese_emphasis_markers_all_pair(self):
         for path in audit.book_files(audit.ROOT):
