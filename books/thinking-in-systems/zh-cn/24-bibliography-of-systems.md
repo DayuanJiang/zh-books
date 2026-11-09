@@ -20,7 +20,8 @@ Sweeney, Linda B. and Dennis Meadows. *The Systems Thinking Playbook.* (2001). �
 
 ### 机构、网站、期刊与软件
 
-Creative Learning Exchange：这个组织致力于在幼儿园到 12 年级的基础教育中培养“系统公民”，出版 *The CLE Newsletter* 以及面向教师和学生的书籍。[www.clexchange.org](http://www.clexchange.org) isee systems, inc.：动态系统建模软件 *STELLA* 和 *iThink* 的开发商。[www.iseesystems.com](http://www.iseesystems.com)
+Creative Learning Exchange：这个组织致力于在幼儿园到 12 年级的基础教育中培养“系统公民”，出版 *The CLE Newsletter* 以及面向教师和学生的书籍。[www.clexchange.org](http://www.clexchange.org)  
+isee systems, inc.：动态系统建模软件 *STELLA* 和 *iThink* 的开发商。[www.iseesystems.com](http://www.iseesystems.com)
 
 Pegasus Communications：出版两份通讯 *The Systems Thinker* 和 *Leverage Points*，还出版许多关于系统思考的书籍和其他资料。[www.pegasuscom.com](http://www.pegasuscom.com)
 
